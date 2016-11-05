@@ -3,8 +3,9 @@ Debian sid image for Google Compute Engine
 
 ## Prerequisites
 
- * Google Cloud SDK
- * jq
+ * [Packer](https://www.packer.io/)
+ * [Google Cloud SDK](https://cloud.google.com/sdk/)
+ * [jq](https://stedolan.github.io/jq/)
 
 ## Build image
 
