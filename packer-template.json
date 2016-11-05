@@ -17,6 +17,11 @@
   }],
   "provisioners":[
     {
+      "type": "file",
+      "source": "scripts",
+      "destination": "/tmp"
+    },
+    {
       "type": "shell",
       "inline": [
         "sudo cp -a /etc/ntp.conf /var/tmp/ntp.conf.jessie",
@@ -41,6 +46,24 @@
         "sudo cp -a /var/tmp/ntp.conf.jessie /etc/ntp.conf",
         "sudo etckeeper commit 'ntp: copied original ntp.conf from debian-8 image family'"
       ]
+    },
+    {
+      "type": "shell",
+      "inline": [
+        "python /tmp/scripts/mk-manifest.py"
+      ]
+    },
+    {
+      "type": "file",
+      "source": "/tmp/packages.jsonl",
+      "destination": "manifest/packages.jsonl",
+      "direction": "download"
+    },
+    {
+      "type": "file",
+      "source": "/tmp/packages.txt",
+      "destination": "manifest/packages.txt",
+      "direction": "download"
     }
   ]
 }
