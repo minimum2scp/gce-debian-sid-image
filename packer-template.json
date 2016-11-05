@@ -1,0 +1,47 @@
+{
+  "variables": {
+    "project_id": "",
+    "source_image": "debian-8-jessie-v20161027"
+  },
+  "builders": [{
+    "type": "googlecompute",
+    "project_id": "{{user `project_id`}}",
+    "zone": "asia-east1-a",
+    "machine_type": "g1-small",
+    "preemptible": true,
+    "source_image": "{{user `source_image`}}",
+    "image_name": "debian-sid-v{{isotime \"20060102-150405\"}}",
+    "image_family": "debian-sid",
+    "image_description": "Debian sid (source image: {{user `source_image`}})",
+    "ssh_username": "packer"
+  }],
+  "provisioners":[
+    {
+      "type": "shell",
+      "inline": [
+        "sudo cp -a /etc/ntp.conf /var/tmp/ntp.conf.jessie",
+        "sudo apt-get update",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge ntp unattended-upgrades"
+      ]
+    },
+    {
+      "type": "file",
+      "source": "sources.list",
+      "destination": "/tmp/sources.list"
+    },
+    {
+      "type": "shell",
+      "inline": [
+        "sudo install -m 644 -o root -g root /tmp/sources.list /etc/apt/sources.list",
+        "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
+        "sudo apt-get update",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y ntp",
+        "sudo cp -a /var/tmp/ntp.conf.jessie /etc/ntp.conf",
+        "sudo etckeeper commit 'ntp: copied original ntp.conf from debian-8 image family'"
+      ]
+    }
+  ]
+}
+
