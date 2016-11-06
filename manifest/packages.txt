@@ -29,7 +29,7 @@ ii   diffutils                              1:3.5-1                      amd64  
 ii   distro-info-data                       0.32                         all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.133-1                 amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.18.10                      amd64  Debian package management system
+ii   dpkg                                   1.18.12                      amd64  Debian package management system
 ii   e2fslibs                               1.43.3-1                     amd64  ext2/ext3/ext4 file system libraries
 ii   e2fsprogs                              1.43.3-1                     amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
@@ -210,13 +210,13 @@ ii   libssl1.0.0                            1.0.1t-1+deb8u5              amd64  
 ii   libssl1.0.2                            1.0.2j-3                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0b-2                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             6.2.0-11                     amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            232-1                        amd64  systemd utility library
+ii   libsystemd0                            232-2                        amd64  systemd utility library
 ii   libtasn1-6                             4.9-4                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                    amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b4                     amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                     all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.0+20160917-1               amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               232-1                        amd64  libudev shared library
+ii   libudev1                               232-2                        amd64  libudev shared library
 ii   libusb-0.1-4                           2:0.1.12-30                  amd64  userspace USB programming library
 ii   libustr-1.0-1                          1.0.4-5                      amd64  Micro string library: shared library
 ii   libuuid1                               2.28.2-1                     amd64  Universally Unique ID library
@@ -255,7 +255,7 @@ ii   passwd                                 1:4.2-3.2                    amd64  
 ii   perl                                   5.24.1~rc3-3                 amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.24.1~rc3-3                 amd64  minimal Perl system
 ii   perl-modules-5.24                      5.24.1~rc3-3                 all    Core Perl modules
-ii   pinentry-curses                        0.9.7-7                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
+ii   pinentry-curses                        0.9.7-8                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.12-2                   amd64  /proc file system utilities
 ii   python                                 2.7.11-2                     amd64  interactive high-level object-oriented language (default version)
 ii   python-boto                            2.40.0-1                     all    Python interface to Amazon's Web Services - Python 2.x
@@ -281,17 +281,17 @@ ii   sed                                    4.2.2-8                      amd64  
 ii   sensible-utils                         0.0.9                        all    Utilities for sensible alternative selection
 ii   startpar                               0.59-3.1                     amd64  run processes in parallel and multiplex their output
 ii   sudo                                   1.8.17p1-2                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                232-1                        amd64  system and service manager
-ii   systemd-sysv                           232-1                        amd64  system and service manager - SysV links
+ii   systemd                                232-2                        amd64  system and service manager
+ii   systemd-sysv                           232-2                        amd64  system and service manager - SysV links
 ii   sysv-rc                                2.88dsf-59.8                 all    System-V-like runlevel change mechanism
 ii   sysvinit-utils                         2.88dsf-59.8                 amd64  System-V-like utilities
 ii   tar                                    1.29b-1.1                    amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.37                         all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.37                         all    official tasks used for installation of Debian systems
 ii   traceroute                             1:2.1.0-2                    amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2016h-1                      all    time zone and daylight-saving time data
+ii   tzdata                                 2016i-1                      all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                       all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   232-1                        amd64  /dev/ and hotplug management daemon
+ii   udev                                   232-2                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.28.2-1                     amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.28.2-1                     amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.0022-1                 amd64  Vi IMproved - enhanced vi editor
