@@ -15,7 +15,7 @@ ii   cloud-guest-utils                      0.29-1                       all    
 ii   cloud-image-utils                      0.29-1                       all    cloud image management utilities
 ii   cloud-initramfs-growroot               0.18.debian5                 all    automatically resize the root partition on first boot
 ii   cloud-utils                            0.29-1~bpo8+1                all    metapackage for installation of upstream cloud-utils source
-ii   coreutils                              8.25-2                       amd64  GNU core utilities
+ii   coreutils                              8.25-2+b1                    amd64  GNU core utilities
 ii   cpio                                   2.11+dfsg-5                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-128                   amd64  process scheduling daemon
 ii   curl                                   7.51.0-1                     amd64  command line tool for transferring data with URL syntax
@@ -29,7 +29,7 @@ ii   diffutils                              1:3.5-1                      amd64  
 ii   distro-info-data                       0.32                         all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.136-1                 amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.18.13                      amd64  Debian package management system
+ii   dpkg                                   1.18.14                      amd64  Debian package management system
 ii   e2fslibs                               1.43.3-1                     amd64  ext2/ext3/ext4 file system libraries
 ii   e2fsprogs                              1.43.3-1                     amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
@@ -44,14 +44,14 @@ ii   genisoimage                            9:1.1.11-3                   amd64  
 ii   gettext-base                           0.19.8.1-1                   amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.10.2-2                   amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.10.2-2                   all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.1.15-8                     amd64  GNU privacy guard - a free PGP replacement
-ii   gnupg-agent                            2.1.15-8                     amd64  GNU privacy guard - cryptographic agent
+ii   gnupg                                  2.1.15-9                     amd64  GNU privacy guard - a free PGP replacement
+ii   gnupg-agent                            2.1.15-9                     amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                        all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       134.0.0-0                    all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1475271826           amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.2.4-0.1475271803           all    Google Compute Engine
 ii   google-config-jessie                   2.1.0-0.1475271817           amd64  Google Compute Engine Linux guest configuration
-ii   gpgv                                   2.1.15-8                     amd64  GNU privacy guard - signature verification tool
+ii   gpgv                                   2.1.15-9                     amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.26-1                       amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-8                     amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02~beta3-3                 amd64  GRand Unified Bootloader (common files)
@@ -122,9 +122,9 @@ ii   libgdbm3                               1.8.3-14                     amd64  
 ii   libglib2.0-0                           2.50.2-1                     amd64  GLib library of C routines
 ii   libgmp10                               2:6.1.1+dfsg-1               amd64  Multiprecision arithmetic library
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u3               amd64  GNU TLS library - main runtime library
-ii   libgnutls-openssl27                    3.5.5-6                      amd64  GNU TLS library - OpenSSL wrapper
-ii   libgnutls30                            3.5.5-6                      amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.24-1                       amd64  library for common error values and messages in GnuPG components
+ii   libgnutls-openssl27                    3.5.6-2                      amd64  GNU TLS library - OpenSSL wrapper
+ii   libgnutls30                            3.5.6-2                      amd64  GNU TLS library - main runtime library
+ii   libgpg-error0                          1.24-2                       amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2                   amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15~beta1-1                 amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed2                            2.7.1-5+deb8u1               amd64  low level cryptographic library (public-key cryptos)
@@ -210,7 +210,7 @@ ii   libss2                                 1.43.3-1                     amd64  
 ii   libssh2-1                              1.7.0-1                      amd64  SSH2 client-side library
 ii   libssl1.0.0                            1.0.1t-1+deb8u5              amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.0.2                            1.0.2j-4                     amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libssl1.1                              1.1.0b-2                     amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl1.1                              1.1.0c-1                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             6.2.0-13                     amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            232-3                        amd64  systemd utility library
 ii   libtasn1-6                             4.9-4                        amd64  Manage ASN.1 structures (runtime)
@@ -252,7 +252,7 @@ ii   ntp                                    1:4.2.8p8+dfsg-1.1           amd64  
 ii   openssh-client                         1:7.3p1-3+b1                 amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:7.3p1-3+b1                 amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:7.3p1-3+b1                 amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                1.1.0b-2                     amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                1.1.0c-1                     amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-16+b1                    amd64  disk partition manipulator
 ii   passwd                                 1:4.2-3.2                    amd64  change and administer password and group data
 ii   perl                                   5.24.1~rc3-3                 amd64  Larry Wall's Practical Extraction and Report Language
