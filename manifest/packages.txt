@@ -35,7 +35,7 @@ ii   e2fsprogs                              1.43.3-1                     amd64  
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.8-1                      amd64  display or change Ethernet device settings
 ii   file                                   1:5.29-1                     amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20160703-2         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20161106-1         amd64  utilities for finding files--find, xargs
 ii   gcc-4.8-base                           4.8.4-1                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-4.9-base                           4.9.2-10                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-6-base                             6.2.0-13                     amd64  GCC, the GNU Compiler Collection (base package)
@@ -298,12 +298,12 @@ ii   udev                                   232-3                        amd64  
 ii   usrmerge                               12                           all    Convert the system to the merged /usr directories scheme
 ii   util-linux                             2.29-1                       amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29-1                       amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.0.0022-1                 amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.0.0022-1                 all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.0.0022-1                 all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.0.0022-1                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.0.0049-1                 amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.0.0049-1                 all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.0.0049-1                 all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.0.0049-1                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.18-4                       amd64  retrieves files from the web
 ii   whiptail                               0.52.19-1                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.0.0022-1                 amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.0.0049-1                 amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.2                    amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.8.dfsg-2+b3            amd64  compression library - runtime
