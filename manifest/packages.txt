@@ -6,7 +6,7 @@ ii   apt                                    1.3.1                        amd64  
 ii   apt-utils                              1.3.1                        amd64  package management related utility programs
 ii   base-files                             9.6                          amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.41                       amd64  Debian base system master password and group files
-ii   bash                                   4.4-1                        amd64  GNU Bourne Again SHell
+ii   bash                                   4.4-2                        amd64  GNU Bourne Again SHell
 ii   bsdmainutils                           9.0.12                       amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.29-1                     amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.22.0-19                  amd64  Tiny utilities for small and embedded systems
@@ -29,7 +29,7 @@ ii   diffutils                              1:3.5-1                      amd64  
 ii   distro-info-data                       0.32                         all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.136-1                 amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.18.14                      amd64  Debian package management system
+ii   dpkg                                   1.18.15                      amd64  Debian package management system
 ii   e2fslibs                               1.43.3-1                     amd64  ext2/ext3/ext4 file system libraries
 ii   e2fsprogs                              1.43.3-1                     amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
@@ -124,7 +124,7 @@ ii   libgmp10                               2:6.1.1+dfsg-1               amd64  
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u3               amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.6-4                      amd64  GNU TLS library - OpenSSL wrapper
 ii   libgnutls30                            3.5.6-4                      amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.24-2                       amd64  library for common error values and messages in GnuPG components
+ii   libgpg-error0                          1.25-1                       amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2                   amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15~beta1-1                 amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed2                            2.7.1-5+deb8u1               amd64  low level cryptographic library (public-key cryptos)
@@ -180,12 +180,12 @@ ii   libparted2                             3.2-16+b1                    amd64  
 ii   libpcre3                               2:8.39-2                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.24                            5.24.1~rc3-3                 amd64  shared Perl library
 ii   libpipeline1                           1.4.1-2                      amd64  pipeline manipulation library
-ii   libpng16-16                            1.6.26-1                     amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16                            1.6.26-2                     amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10                      amd64  lib for parsing cmdline parameters
 ii   libprocps3                             2:3.3.9-9                    amd64  library for accessing process information from /proc
 ii   libprocps6                             2:3.3.12-2                   amd64  library for accessing process information from /proc
 ii   libpsl0                                0.5.1-1                      amd64  Library for Public Suffix List (shared libraries)
-ii   libpsl5                                0.14.0-1+b1                  amd64  Library for Public Suffix List (shared libraries)
+ii   libpsl5                                0.15.0-1                     amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.11-2                     amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.12-5                     amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.12-5                     amd64  Interactive high-level object-oriented language (standard library, version 2.7)
