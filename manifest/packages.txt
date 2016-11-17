@@ -42,12 +42,12 @@ ii   gcc-6-base                             6.2.0-13                     amd64  
 ii   gdisk                                  1.0.1-1                      amd64  GPT fdisk text-mode partitioning tool
 ii   genisoimage                            9:1.1.11-3                   amd64  Creates ISO-9660 CD-ROM filesystem images
 ii   gettext-base                           0.19.8.1-1                   amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.10.2-2                   amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.10.2-2                   all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.10.2-3                   amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.10.2-3                   all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.1.15-9                     amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.15-9                     amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                        all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       134.0.0-0                    all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       135.0.0-0                    all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1475271826           amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.2.4-0.1475271803           all    Google Compute Engine
 ii   google-config-jessie                   2.1.0-0.1475271817           amd64  Google Compute Engine Linux guest configuration
@@ -83,7 +83,7 @@ ii   libapt-inst1.5                         1.0.9.8.3                    amd64  
 ii   libapt-inst2.0                         1.3.1                        amd64  deb package format runtime library
 ii   libapt-pkg4.12                         1.0.9.8.3                    amd64  package management runtime library
 ii   libapt-pkg5.0                          1.3.1                        amd64  package management runtime library
-ii   libassuan0                             2.4.3-1                      amd64  IPC library for the GnuPG components
+ii   libassuan0                             2.4.3-2                      amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2                   amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.6.7-1                    all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.6.7-1                    amd64  Dynamic library for security auditing
@@ -228,7 +228,7 @@ ii   libxtables10                           1.4.21-2+b1                  amd64  
 ii   libxtables11                           1.6.0-4                      amd64  netfilter xtables library
 ii   linux-base                             4.5                          all    Linux image base package
 ii   linux-image-3.16.0-4-amd64             3.16.36-1+deb8u2             amd64  Linux 3.16 for 64-bit PCs
-ii   linux-image-4.8.0-1-amd64              4.8.5-1                      amd64  Linux 4.8 for 64-bit PCs (signed)
+ii   linux-image-4.8.0-1-amd64              4.8.7-1                      amd64  Linux 4.8 for 64-bit PCs (signed)
 ii   linux-image-amd64                      4.8+76                       amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-5                       all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.2-3.2                    amd64  system login tools
