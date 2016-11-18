@@ -23,7 +23,7 @@ ii   dash                                   0.5.8-2.3                    amd64  
 ii   debconf                                1.5.59                       all    Debian configuration management system
 ii   debconf-i18n                           1.5.59                       all    full internationalization support for debconf
 ii   debian-archive-keyring                 2014.3                       all    GnuPG archive keys of the Debian archive
-ii   debianutils                            4.8                          amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            4.8.1                        amd64  Miscellaneous utilities specific to Debian
 ii   dh-python                              2.20160818                   all    Debian helper tools for packaging Python libraries and applications
 ii   diffutils                              1:3.5-1                      amd64  File comparison utilities
 ii   distro-info-data                       0.32                         all    information about the distributions' releases (data files)
@@ -68,7 +68,7 @@ ii   initramfs-tools-core                   0.125                        all    
 ii   initscripts                            2.88dsf-59.8                 amd64  scripts for initializing and shutting down the system
 ii   insserv                                1.14.0-5.4                   amd64  boot sequence organizer using LSB init.d script dependency information
 ii   iproute2                               4.8.0-1                      amd64  networking and traffic control tools
-ii   iptables                               1.6.0-4                      amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.6.0+snapshot20161117-1     amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                 amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5~b1-1                   amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5~b1-1                   amd64  common files used by all of the isc-dhcp packages
@@ -132,9 +132,9 @@ ii   libhogweed4                            3.3-1                        amd64  
 ii   libicu52                               52.1-10                      amd64  International Components for Unicode
 ii   libicu57                               57.1-4                       amd64  International Components for Unicode
 ii   libidn11                               1.33-1                       amd64  GNU Libidn library, implementation of IETF IDN specifications
-ii   libip4tc0                              1.6.0-4                      amd64  netfilter libip4tc library
-ii   libip6tc0                              1.6.0-4                      amd64  netfilter libip6tc library
-ii   libiptc0                               1.6.0-4                      amd64  netfilter libiptc library
+ii   libip4tc0                              1.6.0+snapshot20161117-1     amd64  netfilter libip4tc library
+ii   libip6tc0                              1.6.0+snapshot20161117-1     amd64  netfilter libip6tc library
+ii   libiptc0                               1.6.0+snapshot20161117-1     amd64  netfilter libiptc library
 ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u8        amd64  Exported IRS Shared Library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-10.1        amd64  Exported ISC Shared Library
 ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u8        amd64  Exported ISC Shared Library
@@ -197,7 +197,7 @@ ii   libreadline7                           7.0-1                        amd64  
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~72-g88d82a3+dfsg-1    amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules-db                    2.1.27~72-g88d82a3+dfsg-1    amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.3.1-2                      amd64  high level interface to Linux seccomp filter
+ii   libseccomp2                            2.3.1-2.1                    amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.6-3                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.6-1                        all    Common files for SELinux policy management libraries
 ii   libsemanage1                           2.6-1                        amd64  SELinux policy management library
@@ -225,7 +225,7 @@ ii   libustr-1.0-1                          1.0.4-5                      amd64  
 ii   libuuid1                               2.29-1                       amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-25                     amd64  Wietse Venema's TCP wrappers library
 ii   libxtables10                           1.4.21-2+b1                  amd64  netfilter xtables library
-ii   libxtables11                           1.6.0-4                      amd64  netfilter xtables library
+ii   libxtables11                           1.6.0+snapshot20161117-1     amd64  netfilter xtables library
 ii   linux-base                             4.5                          all    Linux image base package
 ii   linux-image-3.16.0-4-amd64             3.16.36-1+deb8u2             amd64  Linux 3.16 for 64-bit PCs
 ii   linux-image-4.8.0-1-amd64              4.8.7-1                      amd64  Linux 4.8 for 64-bit PCs (signed)
@@ -278,7 +278,7 @@ ii   python3.5                              3.5.2-7                      amd64  
 ii   python3.5-minimal                      3.5.2-7                      amd64  Minimal subset of the Python language (version 3.5)
 ii   qemu-utils                             1:2.7+dfsg-3+b1              amd64  QEMU utilities
 ii   readline-common                        7.0-1                        all    GNU readline and history libraries, common files
-ii   rsyslog                                8.22.0-2+b1                  amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.23.0-1                     amd64  reliable system and kernel logging daemon
 ii   screen                                 4.4.0-6                      amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.2.2-8                      amd64  The GNU sed stream editor
 ii   sensible-utils                         0.0.9                        all    Utilities for sensible alternative selection
