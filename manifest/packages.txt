@@ -68,7 +68,7 @@ ii   initramfs-tools-core                   0.125                        all    
 ii   initscripts                            2.88dsf-59.8                 amd64  scripts for initializing and shutting down the system
 ii   insserv                                1.14.0-5.4                   amd64  boot sequence organizer using LSB init.d script dependency information
 ii   iproute2                               4.8.0-1                      amd64  networking and traffic control tools
-ii   iptables                               1.6.0+snapshot20161117-2     amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.6.0+snapshot20161117-4     amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                 amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5~b1-1                   amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5~b1-1                   amd64  common files used by all of the isc-dhcp packages
@@ -131,9 +131,9 @@ ii   libhogweed4                            3.3-1                        amd64  
 ii   libicu52                               52.1-10                      amd64  International Components for Unicode
 ii   libicu57                               57.1-4                       amd64  International Components for Unicode
 ii   libidn11                               1.33-1                       amd64  GNU Libidn library, implementation of IETF IDN specifications
-ii   libip4tc0                              1.6.0+snapshot20161117-2     amd64  netfilter libip4tc library
-ii   libip6tc0                              1.6.0+snapshot20161117-2     amd64  netfilter libip6tc library
-ii   libiptc0                               1.6.0+snapshot20161117-2     amd64  netfilter libiptc library
+ii   libip4tc0                              1.6.0+snapshot20161117-4     amd64  netfilter libip4tc library
+ii   libip6tc0                              1.6.0+snapshot20161117-4     amd64  netfilter libip6tc library
+ii   libiptc0                               1.6.0+snapshot20161117-4     amd64  netfilter libiptc library
 ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u8        amd64  Exported IRS Shared Library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-10.1        amd64  Exported ISC Shared Library
 ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u8        amd64  Exported ISC Shared Library
@@ -146,7 +146,8 @@ ii   libkmod2                               23-1                         amd64  
 ii   libkrb5-3                              1.15~beta1-1                 amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.15~beta1-1                 amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.3.5-2                      amd64  X.509 and CMS support library
-ii   libldap-2.4-2                          2.4.42+dfsg-2+b3             amd64  OpenLDAP libraries
+ii   libldap-2.4-2                          2.4.44+dfsg-1                amd64  OpenLDAP libraries
+ii   libldap-common                         2.4.44+dfsg-1                all    OpenLDAP common files for libraries
 ii   liblocale-gettext-perl                 1.07-3+b1                    amd64  module using libc functions for internationalization in Perl
 ii   liblogging-stdlog0                     1.0.5-2                      amd64  easy to use and lightweight logging library
 ii   liblognorm1                            1.0.1-3                      amd64  Log normalizing library
@@ -181,7 +182,7 @@ ii   libpipeline1                           1.4.1-2                      amd64  
 ii   libpng16-16                            1.6.26-2                     amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10                      amd64  lib for parsing cmdline parameters
 ii   libprocps3                             2:3.3.9-9                    amd64  library for accessing process information from /proc
-ii   libprocps6                             2:3.3.12-2                   amd64  library for accessing process information from /proc
+ii   libprocps6                             2:3.3.12-3                   amd64  library for accessing process information from /proc
 ii   libpsl0                                0.5.1-1                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpsl5                                0.15.0-1                     amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.11-2                     amd64  interactive high-level object-oriented language (default python version)
@@ -222,7 +223,7 @@ ii   libustr-1.0-1                          1.0.4-5                      amd64  
 ii   libuuid1                               2.29-1                       amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-25                     amd64  Wietse Venema's TCP wrappers library
 ii   libxtables10                           1.4.21-2+b1                  amd64  netfilter xtables library
-ii   libxtables12                           1.6.0+snapshot20161117-2     amd64  netfilter xtables library
+ii   libxtables12                           1.6.0+snapshot20161117-4     amd64  netfilter xtables library
 ii   linux-base                             4.5                          all    Linux image base package
 ii   linux-image-3.16.0-4-amd64             3.16.36-1+deb8u2             amd64  Linux 3.16 for 64-bit PCs
 ii   linux-image-4.8.0-1-amd64              4.8.7-1                      amd64  Linux 4.8 for 64-bit PCs (signed)
@@ -256,7 +257,7 @@ ii   perl                                   5.24.1~rc3-3                 amd64  
 ii   perl-base                              5.24.1~rc3-3                 amd64  minimal Perl system
 ii   perl-modules-5.24                      5.24.1~rc3-3                 all    Core Perl modules
 ii   pinentry-curses                        0.9.7-9                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
-ii   procps                                 2:3.3.12-2                   amd64  /proc file system utilities
+ii   procps                                 2:3.3.12-3                   amd64  /proc file system utilities
 ii   python                                 2.7.11-2                     amd64  interactive high-level object-oriented language (default version)
 ii   python-boto                            2.43.0-1                     all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-chardet                         2.3.0-2                      all    universal character encoding detector for Python2
@@ -294,12 +295,12 @@ ii   ucf                                    3.0036                       all    
 ii   udev                                   232-6                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.29-1                       amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29-1                       amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.0.0049-1                 amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.0.0049-1                 all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.0.0049-1                 all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.0.0049-1                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.0.0095-1                 amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.0.0095-1                 all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.0.0095-1                 all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.0.0095-1                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.18-4                       amd64  retrieves files from the web
 ii   whiptail                               0.52.19-1                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.0.0049-1                 amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.0.0095-1                 amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.2                    amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.8.dfsg-2+b3            amd64  compression library - runtime
