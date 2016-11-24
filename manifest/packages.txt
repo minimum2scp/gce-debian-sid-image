@@ -118,7 +118,7 @@ ii   libfuse2                               2.9.7-1                      amd64  
 ii   libgcc1                                1:6.2.1-4                    amd64  GCC support library
 ii   libgcrypt20                            1.7.3-2                      amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                     amd64  GNU dbm database routines (runtime version)
-ii   libglib2.0-0                           2.50.2-1                     amd64  GLib library of C routines
+ii   libglib2.0-0                           2.50.2-2                     amd64  GLib library of C routines
 ii   libgmp10                               2:6.1.1+dfsg-1               amd64  Multiprecision arithmetic library
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u3               amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.6-7                      amd64  GNU TLS library - OpenSSL wrapper
@@ -219,7 +219,7 @@ ii   libtext-wrapi18n-perl                  0.06-7.1                     all    
 ii   libtinfo5                              6.0+20160917-1               amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               232-6                        amd64  libudev shared library
 ii   libusb-0.1-4                           2:0.1.12-30                  amd64  userspace USB programming library
-ii   libustr-1.0-1                          1.0.4-5                      amd64  Micro string library: shared library
+ii   libustr-1.0-1                          1.0.4-6                      amd64  Micro string library: shared library
 ii   libuuid1                               2.29-1                       amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-25                     amd64  Wietse Venema's TCP wrappers library
 ii   libxtables10                           1.4.21-2+b1                  amd64  netfilter xtables library
