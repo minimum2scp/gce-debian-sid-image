@@ -168,7 +168,7 @@ ii   libnettle6                             3.3-1                        amd64  
 ii   libnewt0.52                            0.52.19-1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3                      amd64  Netfilter netlink library
 ii   libnghttp2-14                          1.16.0-1                     amd64  library implementing HTTP/2 protocol (shared library)
-ii   libnpth0                               1.2-3                        amd64  replacement for GNU Pth using system threads
+ii   libnpth0                               1.3-1                        amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-3                  amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.2-5                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.1.8-3.3                    amd64  Pluggable Authentication Modules for PAM
@@ -177,7 +177,7 @@ ii   libpam-runtime                         1.1.8-3.3                    all    
 ii   libpam0g                               1.1.8-3.3                    amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-16+b1                    amd64  disk partition manipulator - shared library
 ii   libpcre3                               2:8.39-2                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.24                            5.24.1~rc3-3                 amd64  shared Perl library
+ii   libperl5.24                            5.24.1~rc4-1                 amd64  shared Perl library
 ii   libpipeline1                           1.4.1-2                      amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.26-2                     amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10                      amd64  lib for parsing cmdline parameters
@@ -253,9 +253,9 @@ ii   openssh-sftp-server                    1:7.3p1-3+b1                 amd64  
 ii   openssl                                1.1.0c-2                     amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-16+b1                    amd64  disk partition manipulator
 ii   passwd                                 1:4.2-3.2                    amd64  change and administer password and group data
-ii   perl                                   5.24.1~rc3-3                 amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.24.1~rc3-3                 amd64  minimal Perl system
-ii   perl-modules-5.24                      5.24.1~rc3-3                 all    Core Perl modules
+ii   perl                                   5.24.1~rc4-1                 amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.24.1~rc4-1                 amd64  minimal Perl system
+ii   perl-modules-5.24                      5.24.1~rc4-1                 all    Core Perl modules
 ii   pinentry-curses                        0.9.7-9                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.12-3                   amd64  /proc file system utilities
 ii   python                                 2.7.11-2                     amd64  interactive high-level object-oriented language (default version)
