@@ -16,7 +16,7 @@ ii   cloud-image-utils                      0.29-1                       all    
 ii   cloud-initramfs-growroot               0.18.debian5                 all    automatically resize the root partition on first boot
 ii   cloud-utils                            0.29-1~bpo8+1                all    metapackage for installation of upstream cloud-utils source
 ii   coreutils                              8.25-2+b1                    amd64  GNU core utilities
-ii   cpio                                   2.11+dfsg-5                  amd64  GNU cpio -- a program to manage archives of files
+ii   cpio                                   2.11+dfsg-6                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-128                   amd64  process scheduling daemon
 ii   curl                                   7.51.0-1                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.8-2.3                    amd64  POSIX-compliant shell
@@ -48,9 +48,9 @@ ii   gnupg                                  2.1.16-2                     amd64  
 ii   gnupg-agent                            2.1.16-2                     amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                        all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       135.0.0-0                    all    Utilities for the Google Cloud Platform
-ii   google-compute-engine-init-jessie      2.1.1-0.1475271826           amd64  Google Compute Engine Linux initialization scripts
-ii   google-compute-engine-jessie           2.2.4-0.1475271803           all    Google Compute Engine
-ii   google-config-jessie                   2.1.0-0.1475271817           amd64  Google Compute Engine Linux guest configuration
+ii   google-compute-engine-init-jessie      2.1.1-0.1480447426           amd64  Google Compute Engine Linux initialization scripts
+ii   google-compute-engine-jessie           2.3.1-0.1480447396           all    Google Compute Engine
+ii   google-config-jessie                   2.1.1-0.1480447418           amd64  Google Compute Engine Linux guest configuration
 ii   gpgv                                   2.1.16-2                     amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.26-1                       amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-8                     amd64  GNU troff text-formatting system (base system components)
@@ -159,8 +159,8 @@ ii   libmagic1                              1:5.29-1                     amd64  
 ii   libmnl0                                1.0.4-2                      amd64  minimalistic Netlink communication library
 ii   libmount1                              2.29-1                       amd64  device mounting library
 ii   libmpdec2                              2.4.2-1                      amd64  library for decimal floating point arithmetic (runtime library)
-ii   libncurses5                            6.0+20160917-1               amd64  shared libraries for terminal handling
-ii   libncursesw5                           6.0+20160917-1               amd64  shared libraries for terminal handling (wide character support)
+ii   libncurses5                            6.0+20161126-1               amd64  shared libraries for terminal handling
+ii   libncursesw5                           6.0+20161126-1               amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-acct1                     1.0.2-1.1                    amd64  Netfilter acct library
 ii   libnetfilter-conntrack3                1.0.6-2                      amd64  Netfilter netlink-conntrack library
 ii   libnettle4                             2.7.1-5+deb8u1               amd64  low level cryptographic library (symmetric and one-way cryptos)
@@ -204,7 +204,7 @@ ii   libsepol1                              2.6-1                        amd64  
 ii   libsigc++-2.0-0c2a                     2.4.0-1                      amd64  type-safe Signal Framework for C++ - runtime
 ii   libslang2                              2.3.1-5                      amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.29-1                       amd64  smart column output alignment library
-ii   libsqlite3-0                           3.15.1-1                     amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.15.2-1                     amd64  SQLite 3 shared library
 ii   libss2                                 1.43.3-1                     amd64  command-line interface parsing library
 ii   libssh2-1                              1.7.0-1                      amd64  SSH2 client-side library
 ii   libssl1.0.0                            1.0.1t-1+deb8u5              amd64  Secure Sockets Layer toolkit - shared libraries
@@ -216,7 +216,7 @@ ii   libtasn1-6                             4.9-4                        amd64  
 ii   libtext-charwidth-perl                 0.04-7+b5                    amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b4                     amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                     all    internationalized substitute of Text::Wrap
-ii   libtinfo5                              6.0+20160917-1               amd64  shared low-level terminfo library for terminal handling
+ii   libtinfo5                              6.0+20161126-1               amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               232-6                        amd64  libudev shared library
 ii   libusb-0.1-4                           2:0.1.12-30                  amd64  userspace USB programming library
 ii   libustr-1.0-1                          1.0.4-6                      amd64  Micro string library: shared library
@@ -240,8 +240,8 @@ ii   mime-support                           3.60                         all    
 ii   mount                                  2.29-1                       amd64  tools for mounting and manipulating filesystems
 ii   multiarch-support                      2.24-7                       amd64  Transitional package to ensure multiarch compatibility
 ii   nano                                   2.7.1-1                      amd64  small, friendly text editor inspired by Pico
-ii   ncurses-base                           6.0+20160917-1               all    basic terminal type definitions
-ii   ncurses-bin                            6.0+20160917-1               amd64  terminal-related programs and man pages
+ii   ncurses-base                           6.0+20161126-1               all    basic terminal type definitions
+ii   ncurses-bin                            6.0+20161126-1               amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20150829.73cef8a-2   amd64  NET-3 networking toolkit
 ii   netbase                                5.3                          all    Basic TCP/IP networking system
 ii   netcat-traditional                     1.10-41                      amd64  TCP/IP swiss army knife
