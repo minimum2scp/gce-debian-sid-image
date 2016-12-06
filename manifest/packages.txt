@@ -10,7 +10,7 @@ ii   bash                                   4.4-2                         amd64 
 ii   bsdmainutils                           9.0.12                        amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.29-1                      amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.22.0-19                   amd64  Tiny utilities for small and embedded systems
-ii   ca-certificates                        20161102                      all    Common CA certificates
+ii   ca-certificates                        20161130                      all    Common CA certificates
 ii   cloud-guest-utils                      0.29-1                        all    cloud guest utilities
 ii   cloud-image-utils                      0.29-1                        all    cloud image management utilities
 ii   cloud-initramfs-growroot               0.18.debian5                  all    automatically resize the root partition on first boot
@@ -44,14 +44,14 @@ ii   genisoimage                            9:1.1.11-3                    amd64 
 ii   gettext-base                           0.19.8.1-1                    amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.11.0-1                    amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.11.0-1                    all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.1.16-2                      amd64  GNU privacy guard - a free PGP replacement
-ii   gnupg-agent                            2.1.16-2                      amd64  GNU privacy guard - cryptographic agent
+ii   gnupg                                  2.1.16-3                      amd64  GNU privacy guard - a free PGP replacement
+ii   gnupg-agent                            2.1.16-3                      amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                         all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       136.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1480447426            amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.3.1-0.1480447396            all    Google Compute Engine
 ii   google-config-jessie                   2.1.1-0.1480447418            amd64  Google Compute Engine Linux guest configuration
-ii   gpgv                                   2.1.16-2                      amd64  GNU privacy guard - signature verification tool
+ii   gpgv                                   2.1.16-3                      amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.26-1                        amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-8                      amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02~beta3-3                  amd64  GRand Unified Bootloader (common files)
@@ -91,9 +91,9 @@ ii   libblkid1                              2.29-1                        amd64 
 ii   libboost-iostreams1.55.0               1.55.0+dfsg-3                 amd64  Boost.Iostreams Library
 ii   libbsd0                                0.8.3-1                       amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-8                       amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.24-7                        amd64  GNU C Library: Binaries
-ii   libc-l10n                              2.24-7                        all    GNU C Library: localization files
-ii   libc6                                  2.24-7                        amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.24-8                        amd64  GNU C Library: Binaries
+ii   libc-l10n                              2.24-8                        all    GNU C Library: localization files
+ii   libc6                                  2.24-8                        amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.7-3                       amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-1                      amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-1                      amd64  POSIX 1003.1e capabilities (utilities)
@@ -123,12 +123,12 @@ ii   libgmp10                               2:6.1.1+dfsg-1                amd64 
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u3                amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.6-7                       amd64  GNU TLS library - OpenSSL wrapper
 ii   libgnutls30                            3.5.6-7                       amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.25-1                        amd64  library for common error values and messages in GnuPG components
+ii   libgpg-error0                          1.25-2                        amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed2                            2.7.1-5+deb8u1                amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed4                            3.3-1                         amd64  low level cryptographic library (public-key cryptos)
-ii   libicu52                               52.1-10                       amd64  International Components for Unicode
+ii   libicu52                               52.1-8+deb8u4                 amd64  International Components for Unicode
 ii   libicu57                               57.1-5                        amd64  International Components for Unicode
 ii   libidn11                               1.33-1                        amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libip4tc0                              1.6.0+snapshot20161117-4      amd64  netfilter libip4tc library
@@ -226,9 +226,9 @@ ii   libxtables10                           1.4.21-2+b1                   amd64 
 ii   libxtables12                           1.6.0+snapshot20161117-4      amd64  netfilter xtables library
 ii   linux-base                             4.5                           all    Linux image base package
 ii   linux-image-3.16.0-4-amd64             3.16.36-1+deb8u2              amd64  Linux 3.16 for 64-bit PCs
-ii   linux-image-4.8.0-1-amd64              4.8.7-1                       amd64  Linux 4.8 for 64-bit PCs (signed)
-ii   linux-image-amd64                      4.8+76                        amd64  Linux for 64-bit PCs (meta-package)
-ii   locales                                2.24-7                        all    GNU C Library: National Language (locale) data [support]
+ii   linux-image-4.8.0-2-amd64              4.8.11-1                      amd64  Linux 4.8 for 64-bit PCs (signed)
+ii   linux-image-amd64                      4.8+77                        amd64  Linux for 64-bit PCs (meta-package)
+ii   locales                                2.24-8                        all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.2-3.3                     amd64  system login tools
 ii   logrotate                              3.8.7-2                       amd64  Log rotation utility
 ii   lsb-base                               9.20161125                    all    Linux Standard Base init script functionality
@@ -238,7 +238,7 @@ ii   manpages                               4.08-1                        all   
 ii   mawk                                   1.3.3-17                      amd64  a pattern scanning and text processing language
 ii   mime-support                           3.60                          all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.29-1                        amd64  tools for mounting and manipulating filesystems
-ii   multiarch-support                      2.24-7                        amd64  Transitional package to ensure multiarch compatibility
+ii   multiarch-support                      2.24-8                        amd64  Transitional package to ensure multiarch compatibility
 ii   nano                                   2.7.1-1                       amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.0+20161126-1                all    basic terminal type definitions
 ii   ncurses-bin                            6.0+20161126-1                amd64  terminal-related programs and man pages
