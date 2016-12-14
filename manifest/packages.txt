@@ -2,8 +2,8 @@ ii   acl                                    2.2.52-3                      amd64 
 ii   acpi-support-base                      0.142-8                       all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.28-1                    amd64  Advanced Configuration and Power Interface event daemon
 ii   adduser                                3.115                         all    add and remove users and groups
-ii   apt                                    1.4~beta1                     amd64  commandline package manager
-ii   apt-utils                              1.4~beta1                     amd64  package management related utility programs
+ii   apt                                    1.4~beta2                     amd64  commandline package manager
+ii   apt-utils                              1.4~beta2                     amd64  package management related utility programs
 ii   base-files                             9.7                           amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.42                        amd64  Debian base system master password and group files
 ii   bash                                   4.4-2                         amd64  GNU Bourne Again SHell
@@ -34,11 +34,11 @@ ii   e2fslibs                               1.43.3-1                      amd64 
 ii   e2fsprogs                              1.43.3-1                      amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.5-1                      all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.8-1                       amd64  display or change Ethernet device settings
-ii   file                                   1:5.29-1                      amd64  Recognize the type of data in a file using "magic" numbers
+ii   file                                   1:5.29-2                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20161106-1          amd64  utilities for finding files--find, xargs
 ii   gcc-4.8-base                           4.8.4-1                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-4.9-base                           4.9.2-10                      amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-6-base                             6.2.1-5                       amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-6-base                             6.2.1-6                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                       amd64  GPT fdisk text-mode partitioning tool
 ii   genisoimage                            9:1.1.11-3                    amd64  Creates ISO-9660 CD-ROM filesystem images
 ii   gettext-base                           0.19.8.1-1                    amd64  GNU Internationalization utilities for the base system
@@ -53,7 +53,7 @@ ii   google-compute-engine-jessie           2.3.1-0.1480447396            all   
 ii   google-config-jessie                   2.1.1-0.1480447418            amd64  Google Compute Engine Linux guest configuration
 ii   gpgv                                   2.1.16-3                      amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.27-1                        amd64  GNU grep, egrep and fgrep
-ii   groff-base                             1.22.3-8                      amd64  GNU troff text-formatting system (base system components)
+ii   groff-base                             1.22.3-9                      amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02~beta3-3                  amd64  GRand Unified Bootloader (common files)
 ii   grub-pc                                2.02~beta3-3                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS version)
 ii   grub-pc-bin                            2.02~beta3-3                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS binaries)
@@ -67,7 +67,7 @@ ii   initramfs-tools                        0.125                         all   
 ii   initramfs-tools-core                   0.125                         all    generic modular initramfs generator (core tools)
 ii   initscripts                            2.88dsf-59.8                  amd64  scripts for initializing and shutting down the system
 ii   insserv                                1.14.0-5.4                    amd64  boot sequence organizer using LSB init.d script dependency information
-ii   iproute2                               4.8.0-1                       amd64  networking and traffic control tools
+ii   iproute2                               4.9.0-1                       amd64  networking and traffic control tools
 ii   iptables                               1.6.0+snapshot20161117-4      amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5~b1-1                    amd64  DHCP client for automatically obtaining an IP address
@@ -79,10 +79,10 @@ ii   less                                   481-2.1                       amd64 
 ii   libacl1                                2.2.52-3                      amd64  Access control list shared library
 ii   libaio1                                0.3.110-3                     amd64  Linux kernel AIO access library - shared library
 ii   libapparmor1                           2.10.95-7                     amd64  changehat AppArmor library
-ii   libapt-inst1.5                         1.0.9.8.3                     amd64  deb package format runtime library
-ii   libapt-inst2.0                         1.4~beta1                     amd64  deb package format runtime library
-ii   libapt-pkg4.12                         1.0.9.8.3                     amd64  package management runtime library
-ii   libapt-pkg5.0                          1.4~beta1                     amd64  package management runtime library
+ii   libapt-inst1.5                         1.0.9.8.4                     amd64  deb package format runtime library
+ii   libapt-inst2.0                         1.4~beta2                     amd64  deb package format runtime library
+ii   libapt-pkg4.12                         1.0.9.8.4                     amd64  package management runtime library
+ii   libapt-pkg5.0                          1.4~beta2                     amd64  package management runtime library
 ii   libassuan0                             2.4.3-2                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2                    amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.6.7-1                     all    Dynamic library for security auditing - common files
@@ -115,7 +115,7 @@ ii   libfdisk1                              2.29-1                        amd64 
 ii   libffi6                                3.2.1-6                       amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.6.3-3+b1                    amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                       amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:6.2.1-5                     amd64  GCC support library
+ii   libgcc1                                1:6.2.1-6                     amd64  GCC support library
 ii   libgcrypt20                            1.7.3-2                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
 ii   libglib2.0-0                           2.50.2-2                      amd64  GLib library of C routines
@@ -154,8 +154,8 @@ ii   liblognorm1                            1.0.1-3                       amd64 
 ii   liblognorm5                            2.0.1-1.1                     amd64  log normalizing library
 ii   liblz4-1                               0.0~r131-2                    amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.2-1.2                     amd64  XZ-format compression library
-ii   libmagic-mgc                           1:5.29-1                      amd64  File type determination library using "magic" numbers (compiled magic file)
-ii   libmagic1                              1:5.29-1                      amd64  Recognize the type of data in a file using "magic" numbers - library
+ii   libmagic-mgc                           1:5.29-2                      amd64  File type determination library using "magic" numbers (compiled magic file)
+ii   libmagic1                              1:5.29-2                      amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmnl0                                1.0.4-2                       amd64  minimalistic Netlink communication library
 ii   libmount1                              2.29-1                        amd64  device mounting library
 ii   libmpdec2                              2.4.2-1                       amd64  library for decimal floating point arithmetic (runtime library)
@@ -189,8 +189,8 @@ ii   libpython-stdlib                       2.7.11-2                      amd64 
 ii   libpython2.7-minimal                   2.7.13~rc1-1                  amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.13~rc1-1                  amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.5.1-4                       amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.5-minimal                   3.5.2-8                       amd64  Minimal subset of the Python language (version 3.5)
-ii   libpython3.5-stdlib                    3.5.2-8                       amd64  Interactive high-level object-oriented language (standard library, version 3.5)
+ii   libpython3.5-minimal                   3.5.2-9                       amd64  Minimal subset of the Python language (version 3.5)
+ii   libpython3.5-stdlib                    3.5.2-9                       amd64  Interactive high-level object-oriented language (standard library, version 3.5)
 ii   libreadline6                           6.3-9                         amd64  GNU readline and history libraries, run-time libraries
 ii   libreadline7                           7.0-1                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1   amd64  toolkit for RTMP streams (shared library)
@@ -210,7 +210,7 @@ ii   libssh2-1                              1.7.0-1                       amd64 
 ii   libssl1.0.0                            1.0.1t-1+deb8u5               amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.0.2                            1.0.2j-4                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0c-2                      amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             6.2.1-5                       amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             6.2.1-6                       amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            232-7                         amd64  systemd utility library
 ii   libtasn1-6                             4.9-4                         amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                     amd64  get display widths of characters on the terminal
@@ -233,8 +233,8 @@ ii   login                                  1:4.2-3.3                     amd64 
 ii   logrotate                              3.8.7-2                       amd64  Log rotation utility
 ii   lsb-base                               9.20161125                    all    Linux Standard Base init script functionality
 ii   lsb-release                            9.20161125                    all    Linux Standard Base version reporting utility
-ii   man-db                                 2.7.6.1-1                     amd64  on-line manual pager
-ii   manpages                               4.08-1                        all    Manual pages about using a GNU/Linux system
+ii   man-db                                 2.7.6.1-2                     amd64  on-line manual pager
+ii   manpages                               4.09-2                        all    Manual pages about using a GNU/Linux system
 ii   mawk                                   1.3.3-17                      amd64  a pattern scanning and text processing language
 ii   mime-support                           3.60                          all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.29-1                        amd64  tools for mounting and manipulating filesystems
@@ -264,16 +264,16 @@ ii   python-chardet                         2.3.0-2                       all   
 ii   python-crcmod                          1.7-2~bpo8+1                  amd64  CRC Generator - python 2.x
 ii   python-minimal                         2.7.11-2                      amd64  minimal subset of the Python language (default version)
 ii   python-pkg-resources                   28.7.1-1                      all    Package Discovery and Resource Access using pkg_resources
-ii   python-requests                        2.11.1-1                      all    elegant and simple HTTP library for Python2, built for human beings
+ii   python-requests                        2.12.3-1                      all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-setuptools                      28.7.1-1                      all    Python Distutils Enhancements
 ii   python-six                             1.10.0-3                      all    Python 2 and 3 compatibility library (Python 2 interface)
-ii   python-urllib3                         1.16-1                        all    HTTP library with thread-safe connection pooling for Python
+ii   python-urllib3                         1.19.1-1                      all    HTTP library with thread-safe connection pooling for Python
 ii   python2.7                              2.7.13~rc1-1                  amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.13~rc1-1                  amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.5.1-4                       amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.5.1-4                       amd64  minimal subset of the Python language (default python3 version)
-ii   python3.5                              3.5.2-8                       amd64  Interactive high-level object-oriented language (version 3.5)
-ii   python3.5-minimal                      3.5.2-8                       amd64  Minimal subset of the Python language (version 3.5)
+ii   python3.5                              3.5.2-9                       amd64  Interactive high-level object-oriented language (version 3.5)
+ii   python3.5-minimal                      3.5.2-9                       amd64  Minimal subset of the Python language (version 3.5)
 ii   qemu-utils                             1:2.7+dfsg-3+b1               amd64  QEMU utilities
 ii   readline-common                        7.0-1                         all    GNU readline and history libraries, common files
 ii   rsyslog                                8.23.0-2                      amd64  reliable system and kernel logging daemon
