@@ -184,7 +184,7 @@ ii   libpopt0                               1.16-10                       amd64 
 ii   libprocps3                             2:3.3.9-9                     amd64  library for accessing process information from /proc
 ii   libprocps6                             2:3.3.12-3                    amd64  library for accessing process information from /proc
 ii   libpsl0                                0.5.1-1                       amd64  Library for Public Suffix List (shared libraries)
-ii   libpsl5                                0.15.0-1                      amd64  Library for Public Suffix List (shared libraries)
+ii   libpsl5                                0.16.1-1                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.11-2                      amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.13~rc1-1                  amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.13~rc1-1                  amd64  Interactive high-level object-oriented language (standard library, version 2.7)
