@@ -29,7 +29,7 @@ ii   diffutils                              1:3.5-1                       amd64 
 ii   distro-info-data                       0.32                          all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                         amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.137-1                  amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.18.16                       amd64  Debian package management system
+ii   dpkg                                   1.18.17                       amd64  Debian package management system
 ii   e2fslibs                               1.43.3-1                      amd64  ext2/ext3/ext4 file system libraries
 ii   e2fsprogs                              1.43.3-1                      amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.5-1                      all    store /etc in git, mercurial, bzr or darcs
@@ -70,8 +70,8 @@ ii   insserv                                1.14.0-5.4                    amd64 
 ii   iproute2                               4.9.0-1                       amd64  networking and traffic control tools
 ii   iptables                               1.6.0+snapshot20161117-4      amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                  amd64  Tools to test the reachability of network hosts
-ii   isc-dhcp-client                        4.3.5~b1-1                    amd64  DHCP client for automatically obtaining an IP address
-ii   isc-dhcp-common                        4.3.5~b1-1                    amd64  common files used by all of the isc-dhcp packages
+ii   isc-dhcp-client                        4.3.5-1                       amd64  DHCP client for automatically obtaining an IP address
+ii   isc-dhcp-common                        4.3.5-1                       amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.4-9                       amd64  small utilities built with klibc for early boot
 ii   kmod                                   23-1                          amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.6.4-1                       amd64  create device mappings for partitions
@@ -186,8 +186,8 @@ ii   libprocps6                             2:3.3.12-3                    amd64 
 ii   libpsl0                                0.5.1-1                       amd64  Library for Public Suffix List (shared libraries)
 ii   libpsl5                                0.16.1-1                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.11-2                      amd64  interactive high-level object-oriented language (default python version)
-ii   libpython2.7-minimal                   2.7.13~rc1-1                  amd64  Minimal subset of the Python language (version 2.7)
-ii   libpython2.7-stdlib                    2.7.13~rc1-1                  amd64  Interactive high-level object-oriented language (standard library, version 2.7)
+ii   libpython2.7-minimal                   2.7.13-1                      amd64  Minimal subset of the Python language (version 2.7)
+ii   libpython2.7-stdlib                    2.7.13-1                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.5.1-4                       amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.5-minimal                   3.5.2-9                       amd64  Minimal subset of the Python language (version 3.5)
 ii   libpython3.5-stdlib                    3.5.2-9                       amd64  Interactive high-level object-oriented language (standard library, version 3.5)
@@ -268,8 +268,8 @@ ii   python-requests                        2.12.3-1                      all   
 ii   python-setuptools                      32.0.0-1                      all    Python Distutils Enhancements
 ii   python-six                             1.10.0-3                      all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.19.1-1                      all    HTTP library with thread-safe connection pooling for Python
-ii   python2.7                              2.7.13~rc1-1                  amd64  Interactive high-level object-oriented language (version 2.7)
-ii   python2.7-minimal                      2.7.13~rc1-1                  amd64  Minimal subset of the Python language (version 2.7)
+ii   python2.7                              2.7.13-1                      amd64  Interactive high-level object-oriented language (version 2.7)
+ii   python2.7-minimal                      2.7.13-1                      amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.5.1-4                       amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.5.1-4                       amd64  minimal subset of the Python language (default python3 version)
 ii   python3.5                              3.5.2-9                       amd64  Interactive high-level object-oriented language (version 3.5)
