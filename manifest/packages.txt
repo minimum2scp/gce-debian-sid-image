@@ -44,14 +44,14 @@ ii   genisoimage                            9:1.1.11-3                    amd64 
 ii   gettext-base                           0.19.8.1-1                    amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.11.0-1                    amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.11.0-1                    all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.1.16-3                      amd64  GNU privacy guard - a free PGP replacement
-ii   gnupg-agent                            2.1.16-3                      amd64  GNU privacy guard - cryptographic agent
+ii   gnupg                                  2.1.17-2                      amd64  GNU privacy guard - a free PGP replacement
+ii   gnupg-agent                            2.1.17-2                      amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                         all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       138.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1480447426            amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.3.2-0.1481587793            all    Google Compute Engine
 ii   google-config-jessie                   2.1.1-0.1480447418            amd64  Google Compute Engine Linux guest configuration
-ii   gpgv                                   2.1.16-3                      amd64  GNU privacy guard - signature verification tool
+ii   gpgv                                   2.1.17-2                      amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.27-1                        amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-9                      amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02~beta3-3                  amd64  GRand Unified Bootloader (common files)
@@ -123,7 +123,7 @@ ii   libgmp10                               2:6.1.2+dfsg-1                amd64 
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u3                amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.7-3                       amd64  GNU TLS library - OpenSSL wrapper
 ii   libgnutls30                            3.5.7-3                       amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.25-2                        amd64  library for common error values and messages in GnuPG components
+ii   libgpg-error0                          1.26-1                        amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed2                            2.7.1-5+deb8u1                amd64  low level cryptographic library (public-key cryptos)
@@ -287,8 +287,8 @@ ii   systemd-sysv                           232-8                         amd64 
 ii   sysv-rc                                2.88dsf-59.8                  all    System-V-like runlevel change mechanism
 ii   sysvinit-utils                         2.88dsf-59.8                  amd64  System-V-like utilities
 ii   tar                                    1.29b-1.1                     amd64  GNU version of the tar archiving utility
-ii   tasksel                                3.38                          all    tool for selecting tasks for installation on Debian systems
-ii   tasksel-data                           3.38                          all    official tasks used for installation of Debian systems
+ii   tasksel                                3.39                          all    tool for selecting tasks for installation on Debian systems
+ii   tasksel-data                           3.39                          all    official tasks used for installation of Debian systems
 ii   traceroute                             1:2.1.0-2                     amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2016j-2                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                        all    Update Configuration File(s): preserve user changes to config files
