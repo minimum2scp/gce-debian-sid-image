@@ -28,7 +28,8 @@
         "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge ntp unattended-upgrades"
-      ]
+      ],
+      "expect_disconnect": false
     },
     {
       "type": "file",
@@ -45,13 +46,15 @@
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y ntp",
         "sudo cp -a /var/tmp/ntp.conf.jessie /etc/ntp.conf",
         "sudo etckeeper commit 'ntp: copied original ntp.conf from debian-8 image family'"
-      ]
+      ],
+      "expect_disconnect": false
     },
     {
       "type": "shell",
       "inline": [
         "python /tmp/scripts/mk-manifest.py"
-      ]
+      ],
+      "expect_disconnect": false
     },
     {
       "type": "file",
