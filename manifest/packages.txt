@@ -198,8 +198,8 @@ ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-1   amd64  
 ii   libsasl2-modules-db                    2.1.27~101-g0780600+dfsg-1   amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.3.1-2.1                    amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.6-3                        amd64  SELinux runtime shared libraries
-ii   libsemanage-common                     2.6-1                        all    Common files for SELinux policy management libraries
-ii   libsemanage1                           2.6-1                        amd64  SELinux policy management library
+ii   libsemanage-common                     2.6-2                        all    Common files for SELinux policy management libraries
+ii   libsemanage1                           2.6-2                        amd64  SELinux policy management library
 ii   libsepol1                              2.6-2                        amd64  SELinux library for manipulating binary security policies
 ii   libsigc++-2.0-0c2a                     2.4.0-1                      amd64  type-safe Signal Framework for C++ - runtime
 ii   libslang2                              2.3.1-5                      amd64  S-Lang programming library - runtime version
@@ -239,7 +239,7 @@ ii   mawk                                   1.3.3-17                     amd64  
 ii   mime-support                           3.60                         all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.29-1                       amd64  tools for mounting and manipulating filesystems
 ii   multiarch-support                      2.24-8                       amd64  Transitional package to ensure multiarch compatibility
-ii   nano                                   2.7.2-1                      amd64  small, friendly text editor inspired by Pico
+ii   nano                                   2.7.3-1                      amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.0+20161126-1               all    basic terminal type definitions
 ii   ncurses-bin                            6.0+20161126-1               amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20161116.90da8a0-1   amd64  NET-3 networking toolkit
@@ -247,9 +247,9 @@ ii   netbase                                5.4                          all    
 ii   netcat-traditional                     1.10-41                      amd64  TCP/IP swiss army knife
 ii   nfacct                                 1.0.1-1.1                    amd64  netfilter accounting object tool
 ii   ntp                                    1:4.2.8p9+dfsg-2             amd64  Network Time Protocol daemon and utility programs
-ii   openssh-client                         1:7.4p1-2                    amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:7.4p1-2                    amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:7.4p1-2                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:7.4p1-3                    amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:7.4p1-3                    amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:7.4p1-3                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.0c-2                     amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-17                       amd64  disk partition manipulator
 ii   passwd                                 1:4.2-3.3                    amd64  change and administer password and group data
