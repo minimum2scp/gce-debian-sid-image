@@ -25,7 +25,7 @@ ii   debconf-i18n                           1.5.59                       all    
 ii   debian-archive-keyring                 2014.3                       all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.8.1                        amd64  Miscellaneous utilities specific to Debian
 ii   dh-python                              2.20160818                   all    Debian helper tools for packaging Python libraries and applications
-ii   diffutils                              1:3.5-2                      amd64  File comparison utilities
+ii   diffutils                              1:3.5-3                      amd64  File comparison utilities
 ii   distro-info-data                       0.32                         all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.137-1                 amd64  Linux Kernel Device Mapper userspace library
@@ -44,14 +44,14 @@ ii   genisoimage                            9:1.1.11-3                   amd64  
 ii   gettext-base                           0.19.8.1-1                   amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.11.0-2                   amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.11.0-2                   all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.1.17-3                     amd64  GNU privacy guard - a free PGP replacement
-ii   gnupg-agent                            2.1.17-3                     amd64  GNU privacy guard - cryptographic agent
+ii   gnupg                                  2.1.17-4                     amd64  GNU privacy guard - a free PGP replacement
+ii   gnupg-agent                            2.1.17-4                     amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                        all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       138.0.0-0                    all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1480447426           amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.3.2-0.1481587793           all    Google Compute Engine
 ii   google-config-jessie                   2.1.1-0.1480447418           amd64  Google Compute Engine Linux guest configuration
-ii   gpgv                                   2.1.17-3                     amd64  GNU privacy guard - signature verification tool
+ii   gpgv                                   2.1.17-4                     amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.27-1                       amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-9                     amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02~beta3-3                 amd64  GRand Unified Bootloader (common files)
@@ -60,7 +60,7 @@ ii   grub-pc-bin                            2.02~beta3-3                 amd64  
 ii   grub2-common                           2.02~beta3-3                 amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.6-5                        amd64  GNU compression utilities
 ii   hostname                               3.18                         amd64  utility to set/show the host name or domain name
-ii   ifupdown                               0.8.16                       amd64  high level tools to configure network interfaces
+ii   ifupdown                               0.8.17                       amd64  high level tools to configure network interfaces
 ii   init                                   1.46                         amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.46                         all    helper tools for all init systems
 ii   initramfs-tools                        0.126                        all    generic modular initramfs generator (automation)
@@ -78,7 +78,7 @@ ii   kpartx                                 0.6.4-1                      amd64  
 ii   less                                   481-2.1                      amd64  pager program similar to more
 ii   libacl1                                2.2.52-3                     amd64  Access control list shared library
 ii   libaio1                                0.3.110-3                    amd64  Linux kernel AIO access library - shared library
-ii   libapparmor1                           2.10.95-8                    amd64  changehat AppArmor library
+ii   libapparmor1                           2.11.0-1                     amd64  changehat AppArmor library
 ii   libapt-inst1.5                         1.0.9.8.4                    amd64  deb package format runtime library
 ii   libapt-inst2.0                         1.4~beta3                    amd64  deb package format runtime library
 ii   libapt-pkg4.12                         1.0.9.8.4                    amd64  package management runtime library
@@ -121,8 +121,8 @@ ii   libgdbm3                               1.8.3-14                     amd64  
 ii   libglib2.0-0                           2.50.2-2                     amd64  GLib library of C routines
 ii   libgmp10                               2:6.1.2+dfsg-1               amd64  Multiprecision arithmetic library
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u3               amd64  GNU TLS library - main runtime library
-ii   libgnutls-openssl27                    3.5.7-3                      amd64  GNU TLS library - OpenSSL wrapper
-ii   libgnutls30                            3.5.7-3                      amd64  GNU TLS library - main runtime library
+ii   libgnutls-openssl27                    3.5.8-1                      amd64  GNU TLS library - OpenSSL wrapper
+ii   libgnutls30                            3.5.8-1                      amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.26-1                       amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2                   amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15-1                       amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -179,7 +179,7 @@ ii   libparted2                             3.2-17                       amd64  
 ii   libpcre3                               2:8.39-2                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.24                            5.24.1~rc4-1                 amd64  shared Perl library
 ii   libpipeline1                           1.4.1-2                      amd64  pipeline manipulation library
-ii   libpng16-16                            1.6.27-1                     amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16                            1.6.28-1                     amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10                      amd64  lib for parsing cmdline parameters
 ii   libprocps3                             2:3.3.9-9                    amd64  library for accessing process information from /proc
 ii   libprocps6                             2:3.3.12-3                   amd64  library for accessing process information from /proc
@@ -230,7 +230,7 @@ ii   linux-image-4.8.0-2-amd64              4.8.15-2                     amd64  
 ii   linux-image-amd64                      4.8+77                       amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-8                       all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.4-1                      amd64  system login tools
-ii   logrotate                              3.8.7-2.1                    amd64  Log rotation utility
+ii   logrotate                              3.11.0-0.1                   amd64  Log rotation utility
 ii   lsb-base                               9.20161125                   all    Linux Standard Base init script functionality
 ii   lsb-release                            9.20161125                   all    Linux Standard Base version reporting utility
 ii   man-db                                 2.7.6.1-2                    amd64  on-line manual pager
@@ -239,7 +239,7 @@ ii   mawk                                   1.3.3-17                     amd64  
 ii   mime-support                           3.60                         all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.29-1                       amd64  tools for mounting and manipulating filesystems
 ii   multiarch-support                      2.24-8                       amd64  Transitional package to ensure multiarch compatibility
-ii   nano                                   2.7.3-1                      amd64  small, friendly text editor inspired by Pico
+ii   nano                                   2.7.4-1                      amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.0+20161126-1               all    basic terminal type definitions
 ii   ncurses-bin                            6.0+20161126-1               amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20161116.90da8a0-1   amd64  NET-3 networking toolkit
