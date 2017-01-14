@@ -117,17 +117,17 @@ ii   libffi6                                3.2.1-6                      amd64  
 ii   libfreetype6                           2.6.3-3+b1                   amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                      amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:6.3.0-2                    amd64  GCC support library
-ii   libgcrypt20                            1.7.5-2                      amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.7.5-3                      amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                     amd64  GNU dbm database routines (runtime version)
 ii   libglib2.0-0                           2.50.2-2                     amd64  GLib library of C routines
 ii   libgmp10                               2:6.1.2+dfsg-1               amd64  Multiprecision arithmetic library
-ii   libgnutls-deb0-28                      3.3.8-6+deb8u3               amd64  GNU TLS library - main runtime library
+ii   libgnutls-deb0-28                      3.3.8-6+deb8u4               amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.8-1                      amd64  GNU TLS library - OpenSSL wrapper
 ii   libgnutls30                            3.5.8-1                      amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.26-1                       amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2                   amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15-1                       amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhogweed2                            2.7.1-5+deb8u1               amd64  low level cryptographic library (public-key cryptos)
+ii   libhogweed2                            2.7.1-5+deb8u2               amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed4                            3.3-1                        amd64  low level cryptographic library (public-key cryptos)
 ii   libicu52                               52.1-8+deb8u4                amd64  International Components for Unicode
 ii   libicu57                               57.1-5                       amd64  International Components for Unicode
@@ -165,7 +165,7 @@ ii   libncurses5                            6.0+20161126-1               amd64  
 ii   libncursesw5                           6.0+20161126-1               amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-acct1                     1.0.2-1.1                    amd64  Netfilter acct library
 ii   libnetfilter-conntrack3                1.0.6-2                      amd64  Netfilter netlink-conntrack library
-ii   libnettle4                             2.7.1-5+deb8u1               amd64  low level cryptographic library (symmetric and one-way cryptos)
+ii   libnettle4                             2.7.1-5+deb8u2               amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnettle6                             3.3-1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.19-1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3                      amd64  Netfilter netlink library
@@ -214,7 +214,7 @@ ii   libssl1.0.2                            1.0.2j-5                     amd64  
 ii   libssl1.1                              1.1.0c-2                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             6.3.0-2                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            232-10                       amd64  systemd utility library
-ii   libtasn1-6                             4.9-4                        amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.9-5                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                    amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b4                     amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                     all    internationalized substitute of Text::Wrap
@@ -228,9 +228,9 @@ ii   libwrap0                               7.6.q-26                     amd64  
 ii   libxtables10                           1.4.21-2+b1                  amd64  netfilter xtables library
 ii   libxtables12                           1.6.0+snapshot20161117-4     amd64  netfilter xtables library
 ii   linux-base                             4.5                          all    Linux image base package
-ii   linux-image-3.16.0-4-amd64             3.16.36-1+deb8u2             amd64  Linux 3.16 for 64-bit PCs
-ii   linux-image-4.8.0-2-amd64              4.8.15-2                     amd64  Linux 4.8 for 64-bit PCs (signed)
-ii   linux-image-amd64                      4.8+77                       amd64  Linux for 64-bit PCs (meta-package)
+ii   linux-image-3.16.0-4-amd64             3.16.39-1                    amd64  Linux 3.16 for 64-bit PCs
+ii   linux-image-4.9.0-1-amd64              4.9.2-2                      amd64  Linux 4.9 for 64-bit PCs (signed)
+ii   linux-image-amd64                      4.9+78                       amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-8                       all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.4-1                      amd64  system login tools
 ii   logrotate                              3.11.0-0.1                   amd64  Log rotation utility
@@ -284,7 +284,7 @@ ii   screen                                 4.4.0-6                      amd64  
 ii   sed                                    4.3-3                        amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.9                        all    Utilities for sensible alternative selection
 ii   startpar                               0.59-3.1                     amd64  run processes in parallel and multiplex their output
-ii   sudo                                   1.8.19-1                     amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.8.19p1-1                   amd64  Provide limited super user privileges to specific users
 ii   systemd                                232-10                       amd64  system and service manager
 ii   systemd-sysv                           232-10                       amd64  system and service manager - SysV links
 ii   sysv-rc                                2.88dsf-59.8                 all    System-V-like runlevel change mechanism
