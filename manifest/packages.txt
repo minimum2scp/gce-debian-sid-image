@@ -90,7 +90,7 @@ ii   libaudit1                              1:2.6.7-1                    amd64  
 ii   libblkid1                              2.29-1                       amd64  block device ID library
 ii   libboost-iostreams1.55.0               1.55.0+dfsg-3                amd64  Boost.Iostreams Library
 ii   libbsd0                                0.8.3-1                      amd64  utility functions from BSD systems - shared library
-ii   libbz2-1.0                             1.0.6-8                      amd64  high-quality block-sorting file compressor library - runtime
+ii   libbz2-1.0                             1.0.6-8+b1                   amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.24-9                       amd64  GNU C Library: Binaries
 ii   libc-l10n                              2.24-9                       all    GNU C Library: localization files
 ii   libc6                                  2.24-9                       amd64  GNU C Library: Shared libraries
@@ -188,11 +188,11 @@ ii   libprocps6                             2:3.3.12-3                   amd64  
 ii   libpsl0                                0.5.1-1                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpsl5                                0.16.1-1                     amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.13-1                     amd64  interactive high-level object-oriented language (default python version)
-ii   libpython2.7-minimal                   2.7.13-1                     amd64  Minimal subset of the Python language (version 2.7)
-ii   libpython2.7-stdlib                    2.7.13-1                     amd64  Interactive high-level object-oriented language (standard library, version 2.7)
+ii   libpython2.7-minimal                   2.7.13-2                     amd64  Minimal subset of the Python language (version 2.7)
+ii   libpython2.7-stdlib                    2.7.13-2                     amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.5.1-4                      amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.5-minimal                   3.5.3~rc1-1                  amd64  Minimal subset of the Python language (version 3.5)
-ii   libpython3.5-stdlib                    3.5.3~rc1-1                  amd64  Interactive high-level object-oriented language (standard library, version 3.5)
+ii   libpython3.5-minimal                   3.5.3-1                      amd64  Minimal subset of the Python language (version 3.5)
+ii   libpython3.5-stdlib                    3.5.3-1                      amd64  Interactive high-level object-oriented language (standard library, version 3.5)
 ii   libreadline6                           6.3-9                        amd64  GNU readline and history libraries, run-time libraries
 ii   libreadline7                           7.0-1                        amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1  amd64  toolkit for RTMP streams (shared library)
@@ -232,7 +232,7 @@ ii   linux-image-3.16.0-4-amd64             3.16.39-1                    amd64  
 ii   linux-image-4.9.0-1-amd64              4.9.2-2                      amd64  Linux 4.9 for 64-bit PCs (signed)
 ii   linux-image-amd64                      4.9+78                       amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-9                       all    GNU C Library: National Language (locale) data [support]
-ii   login                                  1:4.4-1                      amd64  system login tools
+ii   login                                  1:4.4-2                      amd64  system login tools
 ii   logrotate                              3.11.0-0.1                   amd64  Log rotation utility
 ii   lsb-base                               9.20161125                   all    Linux Standard Base init script functionality
 ii   lsb-release                            9.20161125                   all    Linux Standard Base version reporting utility
@@ -255,7 +255,7 @@ ii   openssh-server                         1:7.4p1-6                    amd64  
 ii   openssh-sftp-server                    1:7.4p1-6                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.0c-2                     amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-17                       amd64  disk partition manipulator
-ii   passwd                                 1:4.4-1                      amd64  change and administer password and group data
+ii   passwd                                 1:4.4-2                      amd64  change and administer password and group data
 ii   perl                                   5.24.1-1                     amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.24.1-1                     amd64  minimal Perl system
 ii   perl-modules-5.24                      5.24.1-1                     all    Core Perl modules
@@ -266,17 +266,17 @@ ii   python-boto                            2.44.0-1                     all    
 ii   python-chardet                         2.3.0-2                      all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7-2~bpo8+1                 amd64  CRC Generator - python 2.x
 ii   python-minimal                         2.7.13-1                     amd64  minimal subset of the Python language (default version)
-ii   python-pkg-resources                   32.3.1-1                     all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   33.1.1-1                     all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.12.4-1                     all    elegant and simple HTTP library for Python2, built for human beings
-ii   python-setuptools                      32.3.1-1                     all    Python Distutils Enhancements
+ii   python-setuptools                      33.1.1-1                     all    Python Distutils Enhancements
 ii   python-six                             1.10.0-3                     all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.19.1-1                     all    HTTP library with thread-safe connection pooling for Python
-ii   python2.7                              2.7.13-1                     amd64  Interactive high-level object-oriented language (version 2.7)
-ii   python2.7-minimal                      2.7.13-1                     amd64  Minimal subset of the Python language (version 2.7)
+ii   python2.7                              2.7.13-2                     amd64  Interactive high-level object-oriented language (version 2.7)
+ii   python2.7-minimal                      2.7.13-2                     amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.5.1-4                      amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.5.1-4                      amd64  minimal subset of the Python language (default python3 version)
-ii   python3.5                              3.5.3~rc1-1                  amd64  Interactive high-level object-oriented language (version 3.5)
-ii   python3.5-minimal                      3.5.3~rc1-1                  amd64  Minimal subset of the Python language (version 3.5)
+ii   python3.5                              3.5.3-1                      amd64  Interactive high-level object-oriented language (version 3.5)
+ii   python3.5-minimal                      3.5.3-1                      amd64  Minimal subset of the Python language (version 3.5)
 ii   qemu-utils                             1:2.8+dfsg-1                 amd64  QEMU utilities
 ii   readline-common                        7.0-1                        all    GNU readline and history libraries, common files
 ii   rsyslog                                8.24.0-1                     amd64  reliable system and kernel logging daemon
