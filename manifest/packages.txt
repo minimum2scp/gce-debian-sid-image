@@ -63,8 +63,8 @@ ii   hostname                               3.18                         amd64  
 ii   ifupdown                               0.8.18                       amd64  high level tools to configure network interfaces
 ii   init                                   1.47                         amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.47                         all    helper tools for all init systems
-ii   initramfs-tools                        0.126                        all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.126                        all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.127                        all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.127                        all    generic modular initramfs generator (core tools)
 ii   initscripts                            2.88dsf-59.8                 amd64  scripts for initializing and shutting down the system
 ii   insserv                                1.14.0-5.4                   amd64  boot sequence organizer using LSB init.d script dependency information
 ii   iproute2                               4.9.0-1                      amd64  networking and traffic control tools
@@ -105,7 +105,7 @@ ii   libdb5.3                               5.3.28-12                    amd64  
 ii   libdebconfclient0                      0.220                        amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-1                 amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u9        amd64  Exported DNS Shared Library
-ii   libdns-export162                       1:9.10.3.dfsg.P4-10.1        amd64  Exported DNS Shared Library
+ii   libdns-export162                       1:9.10.3.dfsg.P4-11          amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20160903-3               amd64  BSD editline and history libraries
 ii   libelf1                                0.168-0.2                    amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                    all    Perl module for error/exception handling in an OO-ish way
@@ -137,7 +137,7 @@ ii   libip4tc0                              1.6.0+snapshot20161117-4     amd64  
 ii   libip6tc0                              1.6.0+snapshot20161117-4     amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.0+snapshot20161117-4     amd64  netfilter libiptc library
 ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u9        amd64  Exported IRS Shared Library
-ii   libisc-export160                       1:9.10.3.dfsg.P4-10.1        amd64  Exported ISC Shared Library
+ii   libisc-export160                       1:9.10.3.dfsg.P4-11          amd64  Exported ISC Shared Library
 ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u9        amd64  Exported ISC Shared Library
 ii   libisccfg-export90                     1:9.9.5.dfsg-9+deb8u9        amd64  Exported ISC CFG Shared Library
 ii   libjson-c2                             0.11-4                       amd64  JSON manipulation library - shared library
@@ -213,13 +213,13 @@ ii   libssl1.0.0                            1.0.1t-1+deb8u5              amd64  
 ii   libssl1.0.2                            1.0.2j-5                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0c-4                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             6.3.0-4                      amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            232-12                       amd64  systemd utility library
+ii   libsystemd0                            232-13                       amd64  systemd utility library
 ii   libtasn1-6                             4.10-1                       amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                    amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b4                     amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                     all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.0+20161126-1               amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               232-12                       amd64  libudev shared library
+ii   libudev1                               232-13                       amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1        amd64  Unicode string library for C
 ii   libusb-0.1-4                           2:0.1.12-30                  amd64  userspace USB programming library
 ii   libustr-1.0-1                          1.0.4-6                      amd64  Micro string library: shared library
@@ -285,8 +285,8 @@ ii   sed                                    4.3-3                        amd64  
 ii   sensible-utils                         0.0.9                        all    Utilities for sensible alternative selection
 ii   startpar                               0.59-3.1                     amd64  run processes in parallel and multiplex their output
 ii   sudo                                   1.8.19p1-1                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                232-12                       amd64  system and service manager
-ii   systemd-sysv                           232-12                       amd64  system and service manager - SysV links
+ii   systemd                                232-13                       amd64  system and service manager
+ii   systemd-sysv                           232-13                       amd64  system and service manager - SysV links
 ii   sysv-rc                                2.88dsf-59.8                 all    System-V-like runlevel change mechanism
 ii   sysvinit-utils                         2.88dsf-59.8                 amd64  System-V-like utilities
 ii   tar                                    1.29b-1.1                    amd64  GNU version of the tar archiving utility
@@ -295,7 +295,7 @@ ii   tasksel-data                           3.39                         all    
 ii   traceroute                             1:2.1.0-2                    amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2016j-2                      all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                       all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   232-12                       amd64  /dev/ and hotplug management daemon
+ii   udev                                   232-13                       amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.29.1-1                     amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29.1-1                     amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.0197-1                 amd64  Vi IMproved - enhanced vi editor
