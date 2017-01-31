@@ -30,8 +30,8 @@ ii   distro-info-data                       0.33                         all    
 ii   dmidecode                              3.0-4                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.137-1                 amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.18.21                      amd64  Debian package management system
-ii   e2fslibs                               1.43.3-1                     amd64  ext2/ext3/ext4 file system libraries
-ii   e2fsprogs                              1.43.3-1                     amd64  ext2/ext3/ext4 file system utilities
+ii   e2fslibs                               1.43.4~WIP.2017.01.30-1      amd64  ext2/ext3/ext4 file system libraries
+ii   e2fsprogs                              1.43.4~WIP.2017.01.30-1      amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.8-1                      amd64  display or change Ethernet device settings
 ii   file                                   1:5.29-3                     amd64  Recognize the type of data in a file using "magic" numbers
@@ -97,7 +97,7 @@ ii   libc6                                  2.24-9                       amd64  
 ii   libcap-ng0                             0.7.7-3                      amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-1                     amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-1                     amd64  POSIX 1003.1e capabilities (utilities)
-ii   libcomerr2                             1.43.3-1                     amd64  common error description library
+ii   libcomerr2                             1.43.4~WIP.2017.01.30-1      amd64  common error description library
 ii   libcryptsetup4                         2:1.7.3-3                    amd64  disk encryption support - shared library
 ii   libcurl3                               7.52.1-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.52.1-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
@@ -168,7 +168,7 @@ ii   libnettle4                             2.7.1-5+deb8u2               amd64  
 ii   libnettle6                             3.3-1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.19-1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3                      amd64  Netfilter netlink library
-ii   libnghttp2-14                          1.18.1-1                     amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.19.0-1                     amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.3-1                        amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-3                  amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.3-5                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -206,11 +206,11 @@ ii   libsigc++-2.0-0c2a                     2.4.0-1                      amd64  
 ii   libslang2                              2.3.1-5                      amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.29.1-1                     amd64  smart column output alignment library
 ii   libsqlite3-0                           3.16.2-2                     amd64  SQLite 3 shared library
-ii   libss2                                 1.43.3-1                     amd64  command-line interface parsing library
+ii   libss2                                 1.43.4~WIP.2017.01.30-1      amd64  command-line interface parsing library
 ii   libssh2-1                              1.7.0-1                      amd64  SSH2 client-side library
 ii   libssl1.0.0                            1.0.1t-1+deb8u6              amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.0.2                            1.0.2k-1                     amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libssl1.1                              1.1.0d-1                     amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl1.1                              1.1.0d-2                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             6.3.0-5                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            232-14                       amd64  systemd utility library
 ii   libtasn1-6                             4.10-1                       amd64  Manage ASN.1 structures (runtime)
@@ -252,7 +252,7 @@ ii   ntp                                    1:4.2.8p9+dfsg-2.1           amd64  
 ii   openssh-client                         1:7.4p1-6                    amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:7.4p1-6                    amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:7.4p1-6                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                1.1.0d-1                     amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                1.1.0d-2                     amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-17                       amd64  disk partition manipulator
 ii   passwd                                 1:4.4-3                      amd64  change and administer password and group data
 ii   perl                                   5.24.1-1                     amd64  Larry Wall's Practical Extraction and Report Language
