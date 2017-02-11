@@ -47,7 +47,7 @@ ii   git-man                                1:2.11.0-2                   all    
 ii   gnupg                                  2.1.18-4                     amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-4                     amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                        all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       142.0.0-0                    all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       143.0.1-0                    all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1480447426           amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.3.2-0.1481587793           all    Google Compute Engine
 ii   google-config-jessie                   2.1.2-0.1484936429           amd64  Google Compute Engine Linux guest configuration
