@@ -47,7 +47,7 @@ ii   git-man                                1:2.11.0-2                   all    
 ii   gnupg                                  2.1.18-6                     amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-6                     amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                        all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       143.0.1-0                    all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       144.0.0-0                    all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-jessie      2.1.1-0.1480447426           amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-jessie           2.3.2-0.1481587793           all    Google Compute Engine
 ii   google-config-jessie                   2.1.2-0.1484936429           amd64  Google Compute Engine Linux guest configuration
@@ -119,7 +119,7 @@ ii   libfuse2                               2.9.7-1                      amd64  
 ii   libgcc1                                1:6.3.0-6                    amd64  GCC support library
 ii   libgcrypt20                            1.7.6-1                      amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                     amd64  GNU dbm database routines (runtime version)
-ii   libglib2.0-0                           2.50.2-2                     amd64  GLib library of C routines
+ii   libglib2.0-0                           2.50.3-1                     amd64  GLib library of C routines
 ii   libgmp10                               2:6.1.2+dfsg-1               amd64  Multiprecision arithmetic library
 ii   libgnutls-deb0-28                      3.3.8-6+deb8u4               amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.8-3                      amd64  GNU TLS library - OpenSSL wrapper
