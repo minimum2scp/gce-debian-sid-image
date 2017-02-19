@@ -35,7 +35,7 @@ ii   e2fsprogs                              1.43.4-2                     amd64  
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.8-1                      amd64  display or change Ethernet device settings
 ii   file                                   1:5.29-3                     amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20161106-1         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20161106-2         amd64  utilities for finding files--find, xargs
 ii   gcc-4.8-base                           4.8.4-1                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-4.9-base                           4.9.2-10                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-6-base                             6.3.0-7                      amd64  GCC, the GNU Compiler Collection (base package)
