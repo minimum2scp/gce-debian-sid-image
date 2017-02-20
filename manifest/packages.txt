@@ -102,10 +102,10 @@ ii   libcryptsetup4                         2:1.7.3-3                    amd64  
 ii   libcurl3                               7.52.1-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.52.1-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-12+b1                 amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.223                        amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.224                        amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-1                 amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u9        amd64  Exported DNS Shared Library
-ii   libdns-export162                       1:9.10.3.dfsg.P4-11.1        amd64  Exported DNS Shared Library
+ii   libdns-export162                       1:9.10.3.dfsg.P4-12          amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20160903-3               amd64  BSD editline and history libraries
 ii   libelf1                                0.168-0.2                    amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                    all    Perl module for error/exception handling in an OO-ish way
@@ -136,7 +136,7 @@ ii   libip4tc0                              1.6.0+snapshot20161117-5     amd64  
 ii   libip6tc0                              1.6.0+snapshot20161117-5     amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.0+snapshot20161117-5     amd64  netfilter libiptc library
 ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u9        amd64  Exported IRS Shared Library
-ii   libisc-export160                       1:9.10.3.dfsg.P4-11.1        amd64  Exported ISC Shared Library
+ii   libisc-export160                       1:9.10.3.dfsg.P4-12          amd64  Exported ISC Shared Library
 ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u9        amd64  Exported ISC Shared Library
 ii   libisccfg-export90                     1:9.9.5.dfsg-9+deb8u9        amd64  Exported ISC CFG Shared Library
 ii   libjson-c2                             0.11-4                       amd64  JSON manipulation library - shared library
@@ -228,8 +228,8 @@ ii   libxtables10                           1.4.21-2+b1                  amd64  
 ii   libxtables12                           1.6.0+snapshot20161117-5     amd64  netfilter xtables library
 ii   linux-base                             4.5                          all    Linux image base package
 ii   linux-image-3.16.0-4-amd64             3.16.39-1                    amd64  Linux 3.16 for 64-bit PCs
-ii   linux-image-4.9.0-1-amd64              4.9.6-3                      amd64  Linux 4.9 for 64-bit PCs (signed)
-ii   linux-image-amd64                      4.9+78                       amd64  Linux for 64-bit PCs (meta-package)
+ii   linux-image-4.9.0-2-amd64              4.9.10-1                     amd64  Linux 4.9 for 64-bit PCs (signed)
+ii   linux-image-amd64                      4.9+79                       amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-9                       all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.4-3                      amd64  system login tools
 ii   logrotate                              3.11.0-0.1                   amd64  Log rotation utility
@@ -268,7 +268,7 @@ ii   python-minimal                         2.7.13-2                     amd64  
 ii   python-pkg-resources                   33.1.1-1                     all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.12.4-1                     all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-setuptools                      33.1.1-1                     all    Python Distutils Enhancements
-ii   python-six                             1.10.0-3                     all    Python 2 and 3 compatibility library (Python 2 interface)
+ii   python-six                             1.10.0-4                     all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.19.1-1                     all    HTTP library with thread-safe connection pooling for Python
 ii   python2.7                              2.7.13-2                     amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.13-2                     amd64  Minimal subset of the Python language (version 2.7)
