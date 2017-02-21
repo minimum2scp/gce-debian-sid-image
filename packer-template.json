@@ -50,6 +50,22 @@
       "expect_disconnect": false
     },
     {
+      "type": "file",
+      "source": "google-cloud.list",
+      "destination": "/tmp/google-cloud.list"
+    },
+    {
+      "type": "shell",
+      "inline": [
+        "sudo install -m 644 -o root -g root /tmp/google-cloud.list /etc/apt/sources.list.d/google-cloud.list",
+        "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: s/jessie/stretch/g in google-cloud.list'",
+        "sudo apt-get update",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends google-compute-engine-init-jessie- google-compute-engine-init-stretch google-compute-engine-jessie- google-compute-engine-stretch google-config-jessie- google-config-stretch"
+      ],
+      "expect_disconnect": false
+    },
+    {
       "type": "shell",
       "inline": [
         "python /tmp/scripts/mk-manifest.py"
