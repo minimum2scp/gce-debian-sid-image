@@ -61,7 +61,7 @@
         "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: s/jessie/stretch/g in google-cloud.list'",
         "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
-        "sudo DEBIAN_FRONTEND=noninteractive apt-get install google-compute-engine-init-jessie- google-compute-engine-init-stretch google-compute-engine-jessie- google-compute-engine-stretch google-config-jessie- google-config-stretch"
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends google-compute-engine-init-jessie- google-compute-engine-init-stretch google-compute-engine-jessie- google-compute-engine-stretch google-config-jessie- google-config-stretch"
       ],
       "expect_disconnect": false
     },
