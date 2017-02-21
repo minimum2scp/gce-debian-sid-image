@@ -35,10 +35,10 @@ ii   e2fsprogs                              1.43.4-2                     amd64  
 ii   etckeeper                              1.18.5-1                     all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.8-1                      amd64  display or change Ethernet device settings
 ii   file                                   1:5.29-3                     amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20161106-1         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20161106-2         amd64  utilities for finding files--find, xargs
 ii   gcc-4.8-base                           4.8.4-1                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-4.9-base                           4.9.2-10                     amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-6-base                             6.3.0-6                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-6-base                             6.3.0-7                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                      amd64  GPT fdisk text-mode partitioning tool
 ii   genisoimage                            9:1.1.11-3                   amd64  Creates ISO-9660 CD-ROM filesystem images
 ii   gettext-base                           0.19.8.1-2                   amd64  GNU Internationalization utilities for the base system
@@ -102,10 +102,10 @@ ii   libcryptsetup4                         2:1.7.3-3                    amd64  
 ii   libcurl3                               7.52.1-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.52.1-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-12+b1                 amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.223                        amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.224                        amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-1                 amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u9        amd64  Exported DNS Shared Library
-ii   libdns-export162                       1:9.10.3.dfsg.P4-11.1        amd64  Exported DNS Shared Library
+ii   libdns-export162                       1:9.10.3.dfsg.P4-12          amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20160903-3               amd64  BSD editline and history libraries
 ii   libelf1                                0.168-0.2                    amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                    all    Perl module for error/exception handling in an OO-ish way
@@ -116,7 +116,7 @@ ii   libfdisk1                              2.29.1-1                     amd64  
 ii   libffi6                                3.2.1-6                      amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.6.3-3+b1                   amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                      amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:6.3.0-6                    amd64  GCC support library
+ii   libgcc1                                1:6.3.0-7                    amd64  GCC support library
 ii   libgcrypt20                            1.7.6-1                      amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                     amd64  GNU dbm database routines (runtime version)
 ii   libglib2.0-0                           2.50.3-1                     amd64  GLib library of C routines
@@ -136,7 +136,7 @@ ii   libip4tc0                              1.6.0+snapshot20161117-5     amd64  
 ii   libip6tc0                              1.6.0+snapshot20161117-5     amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.0+snapshot20161117-5     amd64  netfilter libiptc library
 ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u9        amd64  Exported IRS Shared Library
-ii   libisc-export160                       1:9.10.3.dfsg.P4-11.1        amd64  Exported ISC Shared Library
+ii   libisc-export160                       1:9.10.3.dfsg.P4-12          amd64  Exported ISC Shared Library
 ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u9        amd64  Exported ISC Shared Library
 ii   libisccfg-export90                     1:9.9.5.dfsg-9+deb8u9        amd64  Exported ISC CFG Shared Library
 ii   libjson-c2                             0.11-4                       amd64  JSON manipulation library - shared library
@@ -177,7 +177,7 @@ ii   libpam-modules-bin                     1.1.8-3.5                    amd64  
 ii   libpam-runtime                         1.1.8-3.5                    all    Runtime support for the PAM library
 ii   libpam0g                               1.1.8-3.5                    amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-17                       amd64  disk partition manipulator - shared library
-ii   libpcre3                               2:8.39-2                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
+ii   libpcre3                               2:8.39-2.1                   amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.24                            5.24.1-1                     amd64  shared Perl library
 ii   libpipeline1                           1.4.1-2                      amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.28-1                     amd64  PNG library - runtime (version 1.6)
@@ -211,7 +211,7 @@ ii   libssh2-1                              1.7.0-1                      amd64  
 ii   libssl1.0.0                            1.0.1t-1+deb8u6              amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.0.2                            1.0.2k-1                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0e-1                     amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             6.3.0-6                      amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             6.3.0-7                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            232-18                       amd64  systemd utility library
 ii   libtasn1-6                             4.10-1                       amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                    amd64  get display widths of characters on the terminal
@@ -228,8 +228,8 @@ ii   libxtables10                           1.4.21-2+b1                  amd64  
 ii   libxtables12                           1.6.0+snapshot20161117-5     amd64  netfilter xtables library
 ii   linux-base                             4.5                          all    Linux image base package
 ii   linux-image-3.16.0-4-amd64             3.16.39-1                    amd64  Linux 3.16 for 64-bit PCs
-ii   linux-image-4.9.0-1-amd64              4.9.6-3                      amd64  Linux 4.9 for 64-bit PCs (signed)
-ii   linux-image-amd64                      4.9+78                       amd64  Linux for 64-bit PCs (meta-package)
+ii   linux-image-4.9.0-2-amd64              4.9.10-1                     amd64  Linux 4.9 for 64-bit PCs (signed)
+ii   linux-image-amd64                      4.9+79                       amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-9                       all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.4-3                      amd64  system login tools
 ii   logrotate                              3.11.0-0.1                   amd64  Log rotation utility
@@ -268,7 +268,7 @@ ii   python-minimal                         2.7.13-2                     amd64  
 ii   python-pkg-resources                   33.1.1-1                     all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.12.4-1                     all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-setuptools                      33.1.1-1                     all    Python Distutils Enhancements
-ii   python-six                             1.10.0-3                     all    Python 2 and 3 compatibility library (Python 2 interface)
+ii   python-six                             1.10.0-4                     all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.19.1-1                     all    HTTP library with thread-safe connection pooling for Python
 ii   python2.7                              2.7.13-2                     amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.13-2                     amd64  Minimal subset of the Python language (version 2.7)
