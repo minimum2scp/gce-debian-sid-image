@@ -18,7 +18,7 @@ ii   cloud-utils                            0.29-1                       all    
 ii   coreutils                              8.26-2                       amd64  GNU core utilities
 ii   cpio                                   2.11+dfsg-6                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-128                   amd64  process scheduling daemon
-ii   curl                                   7.52.1-2                     amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.52.1-3                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.8-2.4                    amd64  POSIX-compliant shell
 ii   debconf                                1.5.60                       all    Debian configuration management system
 ii   debconf-i18n                           1.5.60                       all    full internationalization support for debconf
@@ -38,7 +38,7 @@ ii   file                                   1:5.29-3                     amd64  
 ii   findutils                              4.6.0+git+20161106-2         amd64  utilities for finding files--find, xargs
 ii   gcc-4.8-base                           4.8.4-1                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-4.9-base                           4.9.2-10                     amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-6-base                             6.3.0-7                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-6-base                             6.3.0-8                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                      amd64  GPT fdisk text-mode partitioning tool
 ii   genisoimage                            9:1.1.11-3                   amd64  Creates ISO-9660 CD-ROM filesystem images
 ii   gettext-base                           0.19.8.1-2                   amd64  GNU Internationalization utilities for the base system
@@ -75,7 +75,7 @@ ii   isc-dhcp-client                        4.3.5-3                      amd64  
 ii   isc-dhcp-common                        4.3.5-3                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.4-9                      amd64  small utilities built with klibc for early boot
 ii   kmod                                   23-2                         amd64  tools for managing Linux kernel modules
-ii   kpartx                                 0.6.4-3                      amd64  create device mappings for partitions
+ii   kpartx                                 0.6.4-4                      amd64  create device mappings for partitions
 ii   less                                   481-2.1                      amd64  pager program similar to more
 ii   libacl1                                2.2.52-3                     amd64  Access control list shared library
 ii   libaio1                                0.3.110-3                    amd64  Linux kernel AIO access library - shared library
@@ -100,8 +100,8 @@ ii   libcap2                                1:2.25-1                     amd64  
 ii   libcap2-bin                            1:2.25-1                     amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcomerr2                             1.43.4-2                     amd64  common error description library
 ii   libcryptsetup4                         2:1.7.3-3                    amd64  disk encryption support - shared library
-ii   libcurl3                               7.52.1-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii   libcurl3-gnutls                        7.52.1-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3                               7.52.1-3                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.52.1-3                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-12+b1                 amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.224                        amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-1                 amd64  Linux Kernel Device Mapper userspace library
@@ -117,7 +117,7 @@ ii   libfdisk1                              2.29.1-1                     amd64  
 ii   libffi6                                3.2.1-6                      amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.6.3-3+b1                   amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                      amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:6.3.0-7                    amd64  GCC support library
+ii   libgcc1                                1:6.3.0-8                    amd64  GCC support library
 ii   libgcrypt20                            1.7.6-1                      amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                     amd64  GNU dbm database routines (runtime version)
 ii   libglib2.0-0                           2.50.3-1                     amd64  GLib library of C routines
@@ -186,7 +186,7 @@ ii   libpopt0                               1.16-10                      amd64  
 ii   libprocps3                             2:3.3.9-9                    amd64  library for accessing process information from /proc
 ii   libprocps6                             2:3.3.12-3                   amd64  library for accessing process information from /proc
 ii   libpsl0                                0.5.1-1                      amd64  Library for Public Suffix List (shared libraries)
-ii   libpsl5                                0.17.0-3                     amd64  Library for Public Suffix List (shared libraries)
+ii   libpsl5                                0.17.0-4                     amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.13-2                     amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.13-2                     amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.13-2                     amd64  Interactive high-level object-oriented language (standard library, version 2.7)
@@ -212,7 +212,7 @@ ii   libssh2-1                              1.7.0-1                      amd64  
 ii   libssl1.0.0                            1.0.1t-1+deb8u6              amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.0.2                            1.0.2k-1                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0e-1                     amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             6.3.0-7                      amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             6.3.0-8                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            232-18                       amd64  systemd utility library
 ii   libtasn1-6                             4.10-1                       amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                    amd64  get display widths of characters on the terminal
