@@ -42,9 +42,9 @@ ii   git-man                                1:2.11.0-2                      all 
 ii   gnupg                                  2.1.18-6                        amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-6                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       145.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   google-compute-engine-init-stretch     2.1.1-0.1484075556              amd64  Google Compute Engine Linux initialization scripts
-ii   google-compute-engine-stretch          2.3.3-0.1488223892              all    Google Compute Engine
+ii   google-cloud-sdk                       146.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
+ii   google-compute-engine-stretch          2.3.4-0.1488484901              all    Google Compute Engine
 rc   google-config-jessie                   2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
 ii   gpgv                                   2.1.18-6                        amd64  GNU privacy guard - signature verification tool
@@ -97,7 +97,7 @@ ii   libcryptsetup4                         2:1.7.3-3                       amd6
 ii   libcurl3                               7.52.1-3                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.52.1-3                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-12+b1                    amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.224                           amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.225                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-1                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u10          amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12             amd64  Exported DNS Shared Library
