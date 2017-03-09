@@ -219,7 +219,7 @@ ii   libwrap0                               7.6.q-26                        amd6
 ii   libxtables10                           1.4.21-2+b1                     amd64  netfilter xtables library
 ii   libxtables12                           1.6.0+snapshot20161117-5        amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-3.16.0-4-amd64             3.16.39-1+deb8u1                amd64  Linux 3.16 for 64-bit PCs
+ii   linux-image-3.16.0-4-amd64             3.16.39-1+deb8u2                amd64  Linux 3.16 for 64-bit PCs
 ii   linux-image-4.9.0-2-amd64              4.9.13-1                        amd64  Linux 4.9 for 64-bit PCs (signed)
 ii   linux-image-amd64                      4.9+79                          amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-9                          all    GNU C Library: National Language (locale) data [support]
