@@ -1,7 +1,7 @@
 {
   "variables": {
     "project_id": "",
-    "source_image": "debian-8-jessie-v20170227"
+    "source_image": "debian-8-jessie-v20170308"
   },
   "builders": [{
     "type": "googlecompute",
