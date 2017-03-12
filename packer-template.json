@@ -6,9 +6,9 @@
   "builders": [{
     "type": "googlecompute",
     "project_id": "{{user `project_id`}}",
-    "zone": "asia-east1-a",
-    "machine_type": "g1-small",
-    "preemptible": true,
+    "zone": "us-west1-a",
+    "machine_type": "f1-micro",
+    "preemptible": false,
     "source_image": "{{user `source_image`}}",
     "image_name": "debian-sid-v{{isotime \"20060102-150405\"}}",
     "image_family": "debian-sid",
