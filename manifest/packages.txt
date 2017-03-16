@@ -43,7 +43,7 @@ ii   git-man                                1:2.11.0-2                      all 
 ii   gnupg                                  2.1.18-6                        amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-6                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       146.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       147.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-stretch          2.3.4-0.1488484901              all    Google Compute Engine
 rc   google-config-jessie                   2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
@@ -145,7 +145,7 @@ ii   libksba8                               1.3.5-2                         amd6
 ii   libldap-2.4-2                          2.4.44+dfsg-3                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.44+dfsg-3                   all    OpenLDAP common files for libraries
 ii   liblocale-gettext-perl                 1.07-3+b1                       amd64  module using libc functions for internationalization in Perl
-ii   liblogging-stdlog0                     1.0.5-2                         amd64  easy to use and lightweight logging library
+ii   liblogging-stdlog0                     1.0.6-1                         amd64  easy to use and lightweight logging library
 ii   liblognorm1                            1.0.1-3                         amd64  Log normalizing library
 ii   liblognorm5                            2.0.1-1.1+b1                    amd64  log normalizing library
 ii   liblz4-1                               0.0~r131-2+b1                   amd64  Fast LZ compression algorithm library - runtime
@@ -176,7 +176,7 @@ ii   libpcre3                               2:8.39-2.1                      amd6
 ii   libperl5.24                            5.24.1-1                        amd64  shared Perl library
 ii   libpipeline1                           1.4.1-2                         amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.28-1                        amd64  PNG library - runtime (version 1.6)
-ii   libpopt0                               1.16-10                         amd64  lib for parsing cmdline parameters
+ii   libpopt0                               1.16-10+b2                      amd64  lib for parsing cmdline parameters
 ii   libprocps3                             2:3.3.9-9                       amd64  library for accessing process information from /proc
 ii   libprocps6                             2:3.3.12-3                      amd64  library for accessing process information from /proc
 ii   libpsl0                                0.5.1-1                         amd64  Library for Public Suffix List (shared libraries)
@@ -202,7 +202,7 @@ ii   libslang2                              2.3.1-5                         amd6
 ii   libsmartcols1                          2.29.1-1                        amd64  smart column output alignment library
 ii   libsqlite3-0                           3.16.2-3                        amd64  SQLite 3 shared library
 ii   libss2                                 1.43.4-2                        amd64  command-line interface parsing library
-ii   libssh2-1                              1.7.0-1                         amd64  SSH2 client-side library
+ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.0                            1.0.1t-1+deb8u6                 amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.0.2                            1.0.2k-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0e-1                        amd64  Secure Sockets Layer toolkit - shared libraries
