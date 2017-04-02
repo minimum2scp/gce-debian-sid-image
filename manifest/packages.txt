@@ -2,8 +2,8 @@ ii   acl                                    2.2.52-3+b1                     amd6
 ii   acpi-support-base                      0.142-8                         all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.28-1+b1                   amd64  Advanced Configuration and Power Interface event daemon
 ii   adduser                                3.115                           all    add and remove users and groups
-ii   apt                                    1.4~rc2                         amd64  commandline package manager
-ii   apt-utils                              1.4~rc2                         amd64  package management related utility programs
+ii   apt                                    1.4                             amd64  commandline package manager
+ii   apt-utils                              1.4                             amd64  package management related utility programs
 ii   base-files                             9.8                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.43                          amd64  Debian base system master password and group files
 ii   bash                                   4.4-4+b1                        amd64  GNU Bourne Again SHell
@@ -76,9 +76,9 @@ ii   less                                   481-2.1                         amd6
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
 ii   libapparmor1                           2.11.0-3                        amd64  changehat AppArmor library
 ii   libapt-inst1.5                         1.0.9.8.4                       amd64  deb package format runtime library
-ii   libapt-inst2.0                         1.4~rc2                         amd64  deb package format runtime library
+ii   libapt-inst2.0                         1.4                             amd64  deb package format runtime library
 ii   libapt-pkg4.12                         1.0.9.8.4                       amd64  package management runtime library
-ii   libapt-pkg5.0                          1.4~rc2                         amd64  package management runtime library
+ii   libapt-pkg5.0                          1.4                             amd64  package management runtime library
 ii   libassuan0                             2.4.3-2                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                   amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.6.7-1                       all    Dynamic library for security auditing - common files
@@ -163,7 +163,7 @@ ii   libnettle4                             2.7.1-5+deb8u2                  amd6
 ii   libnettle6                             3.3-1+b1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.19-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3                         amd64  Netfilter netlink library
-ii   libnghttp2-14                          1.20.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.21.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.3-1                           amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-3                     amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.3-5                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
