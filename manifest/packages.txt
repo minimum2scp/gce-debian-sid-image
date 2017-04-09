@@ -15,7 +15,7 @@ ii   cloud-guest-utils                      0.29-1                          all 
 ii   coreutils                              8.26-3                          amd64  GNU core utilities
 ii   cpio                                   2.11+dfsg-6                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-128+b1                   amd64  process scheduling daemon
-ii   curl                                   7.52.1-3                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.52.1-4                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.8-2.4                       amd64  POSIX-compliant shell
 ii   debconf                                1.5.60                          all    Debian configuration management system
 ii   debconf-i18n                           1.5.60                          all    full internationalization support for debconf
@@ -60,8 +60,8 @@ ii   hostname                               3.18+b1                         amd6
 ii   ifupdown                               0.8.19                          amd64  high level tools to configure network interfaces
 ii   init                                   1.47                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.47                            all    helper tools for all init systems
-ii   initramfs-tools                        0.127                           all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.127                           all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.128                           all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.128                           all    generic modular initramfs generator (core tools)
 ii   initscripts                            2.88dsf-59.9                    amd64  scripts for initializing and shutting down the system
 ii   insserv                                1.14.0-5.4+b1                   amd64  boot sequence organizer using LSB init.d script dependency information
 ii   iproute2                               4.9.0-1                         amd64  networking and traffic control tools
@@ -95,8 +95,8 @@ ii   libcap2                                1:2.25-1                        amd6
 ii   libcap2-bin                            1:2.25-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcomerr2                             1.43.4-2                        amd64  common error description library
 ii   libcryptsetup4                         2:1.7.3-3                       amd64  disk encryption support - shared library
-ii   libcurl3                               7.52.1-3                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii   libcurl3-gnutls                        7.52.1-3                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3                               7.52.1-4                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.52.1-4                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-12+b1                    amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.227                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-2                    amd64  Linux Kernel Device Mapper userspace library
