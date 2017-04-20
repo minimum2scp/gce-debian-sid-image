@@ -215,7 +215,7 @@ ii   libtext-wrapi18n-perl                  0.06-7.1                        all 
 ii   libtinfo5                              6.0+20161126-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               232-22                          amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
-ii   libusb-0.1-4                           2:0.1.12-30                     amd64  userspace USB programming library
+ii   libusb-0.1-4                           2:0.1.12-31                     amd64  userspace USB programming library
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
 ii   libuuid1                               2.29.2-1                        amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-26                        amd64  Wietse Venema's TCP wrappers library
