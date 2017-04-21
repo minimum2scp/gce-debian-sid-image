@@ -23,7 +23,7 @@ ii   debian-archive-keyring                 2014.3                          all 
 ii   debianutils                            4.8.1.1                         amd64  Miscellaneous utilities specific to Debian
 ii   dh-python                              2.20170125                      all    Debian helper tools for packaging Python libraries and applications
 ii   diffutils                              1:3.5-3                         amd64  File comparison utilities
-ii   distro-info-data                       0.33                            all    information about the distributions' releases (data files)
+ii   distro-info-data                       0.35                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.137-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.18.23                         amd64  Debian package management system
@@ -101,7 +101,7 @@ ii   libdb5.3                               5.3.28-12+b1                    amd6
 ii   libdebconfclient0                      0.227                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u10          amd64  Exported DNS Shared Library
-ii   libdns-export162                       1:9.10.3.dfsg.P4-12.1           amd64  Exported DNS Shared Library
+ii   libdns-export162                       1:9.10.3.dfsg.P4-12.2           amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20160903-3                  amd64  BSD editline and history libraries
 ii   libelf1                                0.168-0.2                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                       all    Perl module for error/exception handling in an OO-ish way
@@ -131,7 +131,7 @@ ii   libip4tc0                              1.6.0+snapshot20161117-6        amd6
 ii   libip6tc0                              1.6.0+snapshot20161117-6        amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.0+snapshot20161117-6        amd64  netfilter libiptc library
 ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u10          amd64  Exported IRS Shared Library
-ii   libisc-export160                       1:9.10.3.dfsg.P4-12.1           amd64  Exported ISC Shared Library
+ii   libisc-export160                       1:9.10.3.dfsg.P4-12.2           amd64  Exported ISC Shared Library
 ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u10          amd64  Exported ISC Shared Library
 ii   libisccfg-export90                     1:9.9.5.dfsg-9+deb8u10          amd64  Exported ISC CFG Shared Library
 ii   libjson-c2                             0.11-4                          amd64  JSON manipulation library - shared library
