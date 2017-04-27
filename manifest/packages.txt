@@ -6,10 +6,10 @@ ii   apt                                    1.4.1                           amd6
 ii   apt-utils                              1.4.1                           amd64  package management related utility programs
 ii   base-files                             9.9                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.43                          amd64  Debian base system master password and group files
-ii   bash                                   4.4-4+b1                        amd64  GNU Bourne Again SHell
+ii   bash                                   4.4-4+b2                        amd64  GNU Bourne Again SHell
 ii   bsdmainutils                           9.0.12+nmu1                     amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.29.2-1                      amd64  basic utilities from 4.4BSD-Lite
-ii   busybox                                1:1.22.0-19+b2                  amd64  Tiny utilities for small and embedded systems
+ii   busybox                                1:1.22.0-19+b3                  amd64  Tiny utilities for small and embedded systems
 ii   ca-certificates                        20161130                        all    Common CA certificates
 ii   cloud-guest-utils                      0.29-1                          all    cloud guest utilities
 ii   coreutils                              8.26-3                          amd64  GNU core utilities
@@ -43,7 +43,7 @@ ii   git-man                                1:2.11.0-2                      all 
 ii   gnupg                                  2.1.18-6                        amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-6                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       152.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       153.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-stretch          2.3.5-0.1490638061              all    Google Compute Engine
 rc   google-config-jessie                   2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
