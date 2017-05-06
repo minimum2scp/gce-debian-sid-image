@@ -40,15 +40,15 @@ ii   gdisk                                  1.0.1-1                         amd6
 ii   gettext-base                           0.19.8.1-2                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.11.0-2                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.11.0-2                      all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.1.18-6                        amd64  GNU privacy guard - a free PGP replacement
-ii   gnupg-agent                            2.1.18-6                        amd64  GNU privacy guard - cryptographic agent
+ii   gnupg                                  2.1.18-7                        amd64  GNU privacy guard - a free PGP replacement
+ii   gnupg-agent                            2.1.18-7                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       154.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-stretch          2.3.6-0.1493230884              all    Google Compute Engine
 rc   google-config-jessie                   2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
-ii   gpgv                                   2.1.18-6                        amd64  GNU privacy guard - signature verification tool
+ii   gpgv                                   2.1.18-7                        amd64  GNU privacy guard - signature verification tool
 ii   grep                                   2.27-2                          amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-9                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02~beta3-5                    amd64  GRand Unified Bootloader (common files)
