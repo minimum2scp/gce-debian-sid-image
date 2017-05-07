@@ -116,7 +116,7 @@ ii   libgcc1                                1:6.3.0-16                      amd6
 ii   libgcrypt20                            1.7.6-1                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-1                  amd64  Multiprecision arithmetic library
-ii   libgnutls-deb0-28                      3.3.8-6+deb8u4                  amd64  GNU TLS library - main runtime library
+ii   libgnutls-deb0-28                      3.3.8-6+deb8u5                  amd64  GNU TLS library - main runtime library
 ii   libgnutls-openssl27                    3.5.8-5                         amd64  GNU TLS library - OpenSSL wrapper
 ii   libgnutls30                            3.5.8-5                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.26-2                          amd64  library for common error values and messages in GnuPG components
@@ -206,13 +206,13 @@ ii   libssl1.0.0                            1.0.1t-1+deb8u6                 amd6
 ii   libssl1.0.2                            1.0.2k-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0e-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             6.3.0-16                        amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            232-22                          amd64  systemd utility library
+ii   libsystemd0                            232-23                          amd64  systemd utility library
 ii   libtasn1-6                             4.10-1                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                       amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b4                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.0+20161126-1                  amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               232-22                          amd64  libudev shared library
+ii   libudev1                               232-23                          amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libusb-0.1-4                           2:0.1.12-31                     amd64  userspace USB programming library
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
@@ -221,7 +221,7 @@ ii   libwrap0                               7.6.q-26                        amd6
 ii   libxtables10                           1.4.21-2+b1                     amd64  netfilter xtables library
 ii   libxtables12                           1.6.0+snapshot20161117-6        amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-3.16.0-4-amd64             3.16.39-1+deb8u2                amd64  Linux 3.16 for 64-bit PCs
+ii   linux-image-3.16.0-4-amd64             3.16.43-2                       amd64  Linux 3.16 for 64-bit PCs
 ii   linux-image-4.9.0-3-amd64              4.9.25-1                        amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.9+80                          amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-10                         all    GNU C Library: National Language (locale) data [support]
@@ -277,8 +277,8 @@ ii   sed                                    4.4-1                           amd6
 ii   sensible-utils                         0.0.9                           all    Utilities for sensible alternative selection
 ii   startpar                               0.59-3.1                        amd64  run processes in parallel and multiplex their output
 ii   sudo                                   1.8.19p1-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                232-22                          amd64  system and service manager
-ii   systemd-sysv                           232-22                          amd64  system and service manager - SysV links
+ii   systemd                                232-23                          amd64  system and service manager
+ii   systemd-sysv                           232-23                          amd64  system and service manager - SysV links
 ii   sysv-rc                                2.88dsf-59.9                    all    System-V-like runlevel change mechanism
 ii   sysvinit-utils                         2.88dsf-59.9                    amd64  System-V-like utilities
 ii   tar                                    1.29b-1.1                       amd64  GNU version of the tar archiving utility
@@ -287,7 +287,7 @@ ii   tasksel-data                           3.39                            all 
 ii   traceroute                             1:2.1.0-2                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2017b-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   232-22                          amd64  /dev/ and hotplug management daemon
+ii   udev                                   232-23                          amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.29.2-1                        amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29.2-1                        amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.0197-4                    amd64  Vi IMproved - enhanced vi editor
