@@ -100,7 +100,7 @@ ii   libcurl3-gnutls                        7.52.1-5                        amd6
 ii   libdb5.3                               5.3.28-12+b1                    amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.227                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-2                    amd64  Linux Kernel Device Mapper userspace library
-ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u10          amd64  Exported DNS Shared Library
+ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u11          amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3           amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20160903-3                  amd64  BSD editline and history libraries
 ii   libelf1                                0.168-0.2                       amd64  library to read and write ELF files
@@ -130,10 +130,10 @@ ii   libidn2-0                              0.16-1                          amd6
 ii   libip4tc0                              1.6.0+snapshot20161117-6        amd64  netfilter libip4tc library
 ii   libip6tc0                              1.6.0+snapshot20161117-6        amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.0+snapshot20161117-6        amd64  netfilter libiptc library
-ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u10          amd64  Exported IRS Shared Library
+ii   libirs-export91                        1:9.9.5.dfsg-9+deb8u11          amd64  Exported IRS Shared Library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3           amd64  Exported ISC Shared Library
-ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u10          amd64  Exported ISC Shared Library
-ii   libisccfg-export90                     1:9.9.5.dfsg-9+deb8u10          amd64  Exported ISC CFG Shared Library
+ii   libisc-export95                        1:9.9.5.dfsg-9+deb8u11          amd64  Exported ISC Shared Library
+ii   libisccfg-export90                     1:9.9.5.dfsg-9+deb8u11          amd64  Exported ISC CFG Shared Library
 ii   libjson-c2                             0.11-4                          amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.15-1                          amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9                         amd64  Linux Key Management Utilities (library)
