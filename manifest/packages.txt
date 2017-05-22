@@ -17,8 +17,8 @@ ii   cpio                                   2.11+dfsg-6                     amd6
 ii   cron                                   3.0pl1-128+b1                   amd64  process scheduling daemon
 ii   curl                                   7.52.1-5                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.8-2.4                       amd64  POSIX-compliant shell
-ii   debconf                                1.5.60                          all    Debian configuration management system
-ii   debconf-i18n                           1.5.60                          all    full internationalization support for debconf
+ii   debconf                                1.5.61                          all    Debian configuration management system
+ii   debconf-i18n                           1.5.61                          all    full internationalization support for debconf
 ii   debian-archive-keyring                 2014.3                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.8.1.1                         amd64  Miscellaneous utilities specific to Debian
 ii   dh-python                              2.20170125                      all    Debian helper tools for packaging Python libraries and applications
