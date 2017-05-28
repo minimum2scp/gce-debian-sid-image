@@ -103,7 +103,7 @@ ii   libdevmapper1.02.1                     2:1.02.137-2                    amd6
 ii   libdns-export100                       1:9.9.5.dfsg-9+deb8u11          amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3           amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20160903-3                  amd64  BSD editline and history libraries
-ii   libelf1                                0.168-0.2                       amd64  library to read and write ELF files
+ii   libelf1                                0.168-1                         amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2                        amd64  Helper functions for handling strings (lib)
 ii   libexpat1                              2.2.0-2                         amd64  XML parsing C library - runtime library
@@ -167,10 +167,10 @@ ii   libnghttp2-14                          1.22.0-1                        amd6
 ii   libnpth0                               1.3-1                           amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-3                     amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.3-5                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
-ii   libpam-modules                         1.1.8-3.5                       amd64  Pluggable Authentication Modules for PAM
-ii   libpam-modules-bin                     1.1.8-3.5                       amd64  Pluggable Authentication Modules for PAM - helper binaries
-ii   libpam-runtime                         1.1.8-3.5                       all    Runtime support for the PAM library
-ii   libpam0g                               1.1.8-3.5                       amd64  Pluggable Authentication Modules library
+ii   libpam-modules                         1.1.8-3.6                       amd64  Pluggable Authentication Modules for PAM
+ii   libpam-modules-bin                     1.1.8-3.6                       amd64  Pluggable Authentication Modules for PAM - helper binaries
+ii   libpam-runtime                         1.1.8-3.6                       all    Runtime support for the PAM library
+ii   libpam0g                               1.1.8-3.6                       amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-17                          amd64  disk partition manipulator - shared library
 ii   libpcre3                               2:8.39-3                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.24                            5.24.1-2                        amd64  shared Perl library
