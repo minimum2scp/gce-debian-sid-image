@@ -199,7 +199,7 @@ ii   libsemanage1                           2.6-2                           amd6
 ii   libsepol1                              2.6-2                           amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.1-5                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.29.2-1                        amd64  smart column output alignment library
-ii   libsqlite3-0                           3.16.2-4                        amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.16.2-5                        amd64  SQLite 3 shared library
 ii   libss2                                 1.43.4-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.0                            1.0.1t-1+deb8u6                 amd64  Secure Sockets Layer toolkit - shared libraries
@@ -276,7 +276,7 @@ ii   screen                                 4.5.0-6                         amd6
 ii   sed                                    4.4-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.9                           all    Utilities for sensible alternative selection
 ii   startpar                               0.59-3.1                        amd64  run processes in parallel and multiplex their output
-ii   sudo                                   1.8.20p1-1.1                    amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.8.20p2-1                      amd64  Provide limited super user privileges to specific users
 ii   systemd                                232-25                          amd64  system and service manager
 ii   systemd-sysv                           232-25                          amd64  system and service manager - SysV links
 ii   sysv-rc                                2.88dsf-59.9                    all    System-V-like runlevel change mechanism
