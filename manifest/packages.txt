@@ -36,12 +36,12 @@ ii   gcc-6-base                             6.3.0-19                        amd6
 ii   gcc-7-base                             7.1.0-7                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-2                      amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.11.0-4                      amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.11.0-4                      all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.13.1-1                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.13.1-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.1.18-8                        amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-8                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       159.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       160.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-stretch          2.4.0-0.1497053016              all    Google Compute Engine
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
@@ -73,8 +73,8 @@ ii   libapt-inst2.0                         1.4.6                           amd6
 ii   libapt-pkg5.0                          1.4.6                           amd64  package management runtime library
 ii   libassuan0                             2.4.3-2                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                   amd64  Extended attribute shared library
-ii   libaudit-common                        1:2.6.7-2                       all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:2.6.7-2                       amd64  Dynamic library for security auditing
+ii   libaudit-common                        1:2.7.7-1                       all    Dynamic library for security auditing - common files
+ii   libaudit1                              1:2.7.7-1                       amd64  Dynamic library for security auditing
 ii   libblkid1                              2.29.2-1                        amd64  block device ID library
 ii   libbsd0                                0.8.4-1                         amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-8.1                       amd64  high-quality block-sorting file compressor library - runtime
