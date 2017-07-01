@@ -24,7 +24,7 @@ ii   dh-python                              2.20170125                      all 
 ii   diffutils                              1:3.5-3                         amd64  File comparison utilities
 ii   distro-info-data                       0.36                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.0-4                           amd64  SMBIOS/DMI table decoder
-ii   dmsetup                                2:1.02.137-2                    amd64  Linux Kernel Device Mapper userspace library
+ii   dmsetup                                2:1.02.137-2+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.18.24                         amd64  Debian package management system
 ii   e2fslibs                               1.43.4-2                        amd64  ext2/ext3/ext4 file system libraries
 ii   e2fsprogs                              1.43.4-2                        amd64  ext2/ext3/ext4 file system utilities
@@ -36,8 +36,8 @@ ii   gcc-6-base                             6.3.0-21                        amd6
 ii   gcc-7-base                             7.1.0-8                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-2                      amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.13.2-2                      amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.13.2-2                      all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.13.2-3                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.13.2-3                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.1.18-8                        amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-8                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
@@ -68,7 +68,7 @@ ii   klibc-utils                            2.0.4-9                         amd6
 ii   kmod                                   24-1                            amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.6.4-5                         amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
-ii   libapparmor1                           2.11.0-5                        amd64  changehat AppArmor library
+ii   libapparmor1                           2.11.0-6                        amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.4.6                           amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.4.6                           amd64  package management runtime library
 ii   libassuan0                             2.4.3-2                         amd64  IPC library for the GnuPG components
@@ -89,7 +89,7 @@ ii   libcurl3                               7.52.1-5                        amd6
 ii   libcurl3-gnutls                        7.52.1-5                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-12+b1                    amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.228                           amd64  Debian Configuration Management System (C-implementation library)
-ii   libdevmapper1.02.1                     2:1.02.137-2                    amd64  Linux Kernel Device Mapper userspace library
+ii   libdevmapper1.02.1                     2:1.02.137-2+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3           amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
 ii   libelf1                                0.168-1                         amd64  library to read and write ELF files
@@ -99,7 +99,7 @@ ii   libexpat1                              2.2.1-2                         amd6
 ii   libfastjson4                           0.99.6-1                        amd64  fast json library for C
 ii   libfdisk1                              2.29.2-1                        amd64  fdisk partitioning library
 ii   libffi6                                3.2.1-6                         amd64  Foreign Function Interface library runtime
-ii   libfreetype6                           2.6.3-3.2                       amd64  FreeType 2 font engine, shared library files
+ii   libfreetype6                           2.8-0.2                         amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:7.1.0-8                       amd64  GCC support library
 ii   libgcrypt20                            1.7.8-1                         amd64  LGPL Crypto library - runtime library
@@ -170,7 +170,7 @@ ii   libsasl2-modules-db                    2.1.27~101-g0780600+dfsg-3      amd6
 ii   libseccomp2                            2.3.1-2.1                       amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.6-3+b2                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.6-2                           all    Common files for SELinux policy management libraries
-ii   libsemanage1                           2.6-2                           amd64  SELinux policy management library
+ii   libsemanage1                           2.6-2+b1                        amd64  SELinux policy management library
 ii   libsepol1                              2.6-2                           amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.1-5                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.29.2-1                        amd64  smart column output alignment library
@@ -227,7 +227,7 @@ ii   procps                                 2:3.3.12-3                      amd6
 ii   python                                 2.7.13-2                        amd64  interactive high-level object-oriented language (default version)
 ii   python-boto                            2.44.0-1                        all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-chardet                         3.0.4-1                         all    universal character encoding detector for Python2
-ii   python-crcmod                          1.7-2+b2                        amd64  CRC Generator - python 2.x
+ii   python-crcmod                          1.7-2+b3                        amd64  CRC Generator - python 2.x
 ii   python-minimal                         2.7.13-2                        amd64  minimal subset of the Python language (default version)
 ii   python-pkg-resources                   36.0.1-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.12.4-1                        all    elegant and simple HTTP library for Python2, built for human beings
