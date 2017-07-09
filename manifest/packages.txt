@@ -105,7 +105,7 @@ ii   libgcc1                                1:7.1.0-9                       amd6
 ii   libgcrypt20                            1.7.8-2                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-1                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.5.13-2                        amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.5.14-2                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-3                          amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2+b1                   amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15-1                          amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -153,7 +153,7 @@ ii   libparted2                             3.2-17                          amd6
 ii   libpcre3                               2:8.39-3                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.24                            5.24.1-6                        amd64  shared Perl library
 ii   libpipeline1                           1.4.1-2                         amd64  pipeline manipulation library
-ii   libpng16-16                            1.6.29-3                        amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16                            1.6.30-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10+b2                      amd64  lib for parsing cmdline parameters
 ii   libprocps6                             2:3.3.12-3                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.17.0-4+b1                     amd64  Library for Public Suffix List (shared libraries)
