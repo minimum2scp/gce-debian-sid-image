@@ -46,7 +46,7 @@ ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd6
 ii   google-compute-engine-stretch          2.4.0-0.1497053016              all    Google Compute Engine
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
 ii   gpgv                                   2.1.18-8                        amd64  GNU privacy guard - signature verification tool
-ii   grep                                   2.27-2                          amd64  GNU grep, egrep and fgrep
+ii   grep                                   3.1-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-9                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02-2                          amd64  GRand Unified Bootloader (common files)
 ii   grub-pc                                2.02-2                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS version)
@@ -260,12 +260,12 @@ ii   ucf                                    3.0036                          all 
 ii   udev                                   233-10                          amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.29.2-2                        amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29.2-2                        amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.0.0197-4                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.0.0197-4                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.0.0197-4                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.0.0197-4                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.0.0197-5                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.0.0197-5                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.0.0197-5                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.0.0197-5                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.19.1-4                        amd64  retrieves files from the web
 ii   whiptail                               0.52.20-1+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.0.0197-4                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.0.0197-5                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.2+b1                    amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.8.dfsg-5                  amd64  compression library - runtime
