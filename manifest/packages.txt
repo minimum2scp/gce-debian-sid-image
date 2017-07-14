@@ -41,7 +41,7 @@ ii   git-man                                1:2.13.2-3                      all 
 ii   gnupg                                  2.1.18-8                        amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.1.18-8                        amd64  GNU privacy guard - cryptographic agent
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       162.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       162.0.1-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-stretch          2.4.0-0.1497053016              all    Google Compute Engine
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
@@ -95,7 +95,7 @@ ii   libedit2                               3.1-20170329-1                  amd6
 ii   libelf1                                0.168-1                         amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2                        amd64  Helper functions for handling strings (lib)
-ii   libexpat1                              2.2.1-3                         amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.2.2-1                         amd64  XML parsing C library - runtime library
 ii   libfastjson4                           0.99.6-1                        amd64  fast json library for C
 ii   libfdisk1                              2.29.2-2                        amd64  fdisk partitioning library
 ii   libffi6                                3.2.1-6                         amd64  Foreign Function Interface library runtime
@@ -180,13 +180,13 @@ ii   libssh2-1                              1.8.0-1                         amd6
 ii   libssl1.0.2                            1.0.2l-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0f-3                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             7.1.0-9                         amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            233-10                          amd64  systemd utility library
+ii   libsystemd0                            234-1                           amd64  systemd utility library
 ii   libtasn1-6                             4.12-2                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7+b5                       amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b4                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.0+20170708-1                  amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               233-10                          amd64  libudev shared library
+ii   libudev1                               234-1                           amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libunistring2                          0.9.7-2                         amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
@@ -249,15 +249,15 @@ ii   sed                                    4.4-1                           amd6
 ii   sensible-utils                         0.0.9+nmu1                      all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p10+dfsg-5               amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.20p2-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                233-10                          amd64  system and service manager
-ii   systemd-sysv                           233-10                          amd64  system and service manager - SysV links
+ii   systemd                                234-1                           amd64  system and service manager
+ii   systemd-sysv                           234-1                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.9                    amd64  System-V-like utilities
 ii   tar                                    1.29b-1.1                       amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.39                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.39                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2017b-2                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   233-10                          amd64  /dev/ and hotplug management daemon
+ii   udev                                   234-1                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.29.2-2                        amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29.2-2                        amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.0197-5                    amd64  Vi IMproved - enhanced vi editor
