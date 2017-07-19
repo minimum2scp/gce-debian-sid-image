@@ -43,7 +43,7 @@ ii   gnupg-agent                            2.1.18-8                        amd6
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       162.0.1-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
-ii   google-compute-engine-stretch          2.4.0-0.1497053016              all    Google Compute Engine
+ii   google-compute-engine-stretch          2.4.1-0.1500324632              all    Google Compute Engine
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
 ii   gpgv                                   2.1.18-8                        amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.1-2                           amd64  GNU grep, egrep and fgrep
@@ -74,7 +74,7 @@ ii   libapt-pkg5.0                          1.5~beta1                       amd6
 ii   libassuan0                             2.4.3-2                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                   amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.7.7-1                       all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:2.7.7-1+b1                    amd64  Dynamic library for security auditing
+ii   libaudit1                              1:2.7.7-1+b2                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.29.2-2                        amd64  block device ID library
 ii   libbsd0                                0.8.6-1                         amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-8.1                       amd64  high-quality block-sorting file compressor library - runtime
@@ -90,7 +90,7 @@ ii   libcurl3-gnutls                        7.52.1-5                        amd6
 ii   libdb5.3                               5.3.28-13                       amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.229                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-2+b1                 amd64  Linux Kernel Device Mapper userspace library
-ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u1    amd64  Exported DNS Shared Library
+ii   libdns-export162                       1:9.10.3.dfsg.P4-12.4           amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
 ii   libelf1                                0.168-1                         amd64  library to read and write ELF files
 ii   liberror-perl                          0.17024-1                       all    Perl module for error/exception handling in an OO-ish way
@@ -115,7 +115,7 @@ ii   libidn2-0                              2.0.2-1                         amd6
 ii   libip4tc0                              1.6.1-2                         amd64  netfilter libip4tc library
 ii   libip6tc0                              1.6.1-2                         amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.1-2                         amd64  netfilter libiptc library
-ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u1    amd64  Exported ISC Shared Library
+ii   libisc-export160                       1:9.10.3.dfsg.P4-12.4           amd64  Exported ISC Shared Library
 ii   libk5crypto3                           1.15.1-1                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.4-9                         amd64  minimal libc subset for use with initramfs
