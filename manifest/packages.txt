@@ -1,6 +1,6 @@
 ii   acpi-support-base                      0.142-8                         all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.28-1+b1                   amd64  Advanced Configuration and Power Interface event daemon
-ii   adduser                                3.115                           all    add and remove users and groups
+ii   adduser                                3.116                           all    add and remove users and groups
 ii   apt                                    1.5~beta1                       amd64  commandline package manager
 ii   apt-utils                              1.5~beta1                       amd64  package management related utility programs
 ii   base-files                             10                              amd64  Debian base system miscellaneous files
@@ -14,7 +14,7 @@ ii   cloud-guest-utils                      0.29-1                          all 
 ii   coreutils                              8.26-3                          amd64  GNU core utilities
 ii   cpio                                   2.11+dfsg-6                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-128+b1                   amd64  process scheduling daemon
-ii   curl                                   7.52.1-5                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.55.0-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.8-2.5                       amd64  POSIX-compliant shell
 ii   debconf                                1.5.63                          all    Debian configuration management system
 ii   debconf-i18n                           1.5.63                          all    full internationalization support for debconf
@@ -85,8 +85,8 @@ ii   libcap-ng0                             0.7.7-3+b1                      amd6
 ii   libcap2                                1:2.25-1                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcomerr2                             1.43.5-1                        amd64  common error description library
 ii   libcryptsetup4                         2:1.7.3-4                       amd64  disk encryption support - shared library
-ii   libcurl3                               7.52.1-5                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii   libcurl3-gnutls                        7.52.1-5                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3                               7.55.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.55.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-13                       amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.229                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.137-2+b1                 amd64  Linux Kernel Device Mapper userspace library
@@ -162,8 +162,8 @@ ii   libpython-stdlib                       2.7.13-2                        amd6
 ii   libpython2.7-minimal                   2.7.13-4                        amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.13-4                        amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.5.3-3                         amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.5-minimal                   3.5.4-1                         amd64  Minimal subset of the Python language (version 3.5)
-ii   libpython3.5-stdlib                    3.5.4-1                         amd64  Interactive high-level object-oriented language (standard library, version 3.5)
+ii   libpython3.5-minimal                   3.5.4-2                         amd64  Minimal subset of the Python language (version 3.5)
+ii   libpython3.5-stdlib                    3.5.4-2                         amd64  Interactive high-level object-oriented language (standard library, version 3.5)
 ii   libreadline7                           7.0-3                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1+b1  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3      amd64  Cyrus SASL - authentication abstraction library
@@ -243,8 +243,8 @@ ii   python2.7                              2.7.13-4                        amd6
 ii   python2.7-minimal                      2.7.13-4                        amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.5.3-3                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.5.3-3                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3.5                              3.5.4-1                         amd64  Interactive high-level object-oriented language (version 3.5)
-ii   python3.5-minimal                      3.5.4-1                         amd64  Minimal subset of the Python language (version 3.5)
+ii   python3.5                              3.5.4-2                         amd64  Interactive high-level object-oriented language (version 3.5)
+ii   python3.5-minimal                      3.5.4-2                         amd64  Minimal subset of the Python language (version 3.5)
 ii   readline-common                        7.0-3                           all    GNU readline and history libraries, common files
 ii   rsyslog                                8.29.0-1                        amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.1-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
