@@ -45,7 +45,7 @@ ii   gnupg-agent                            2.1.23-2                        all 
 ii   gnupg-l10n                             2.1.23-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.1.23-2                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       167.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       168.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine-init-stretch     2.1.2-0.1488484921              amd64  Google Compute Engine Linux initialization scripts
 ii   google-compute-engine-stretch          2.5.2-0.1502923259              all    Google Compute Engine
 ii   google-config-stretch                  2.1.2-0.1484936429              amd64  Google Compute Engine Linux guest configuration
@@ -115,7 +115,7 @@ ii   libgcc1                                1:7.2.0-1                       amd6
 ii   libgcrypt20                            1.7.8-2                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-1                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.5.14-3                        amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.5.15-2                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-3                          amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2+b1                   amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.15.1-2                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -151,7 +151,7 @@ ii   libnetfilter-conntrack3                1.0.6-2                         amd6
 ii   libnettle6                             3.3-1+b1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnghttp2-14                          1.24.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.25.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.5-2                           amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-3                     amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.7-3                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -191,13 +191,13 @@ ii   libssh2-1                              1.8.0-1                         amd6
 ii   libssl1.0.2                            1.0.2l-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0f-4                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             7.2.0-1                         amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            234-2                           amd64  systemd utility library
+ii   libsystemd0                            234-2.3                         amd64  systemd utility library
 ii   libtasn1-6                             4.12-2.1                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.0+20170715-2                  amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               234-2                           amd64  libudev shared library
+ii   libudev1                               234-2.3                         amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libunistring2                          0.9.7-2                         amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
@@ -226,9 +226,9 @@ ii   ncurses-bin                            6.0+20170715-2                  amd6
 ii   net-tools                              1.60+git20161116.90da8a0-1      amd64  NET-3 networking toolkit
 ii   netbase                                5.4                             all    Basic TCP/IP networking system
 ii   ntp                                    1:4.2.8p10+dfsg-5               amd64  Network Time Protocol daemon and utility programs
-ii   openssh-client                         1:7.5p1-5                       amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:7.5p1-5                       amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:7.5p1-5                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:7.5p1-7                       amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:7.5p1-7                       amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:7.5p1-7                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.0f-4                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-17                          amd64  disk partition manipulator
 ii   passwd                                 1:4.4-4.1                       amd64  change and administer password and group data
@@ -262,15 +262,15 @@ ii   sed                                    4.4-1                           amd6
 ii   sensible-utils                         0.0.10                          all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p10+dfsg-5               amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.20p2-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                234-2                           amd64  system and service manager
-ii   systemd-sysv                           234-2                           amd64  system and service manager - SysV links
+ii   systemd                                234-2.3                         amd64  system and service manager
+ii   systemd-sysv                           234-2.3                         amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.9                    amd64  System-V-like utilities
 ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.39                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.39                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2017b-2                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   234-2                           amd64  /dev/ and hotplug management daemon
+ii   udev                                   234-2.3                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.29.2-4                        amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.29.2-4                        amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.0946-1                    amd64  Vi IMproved - enhanced vi editor
