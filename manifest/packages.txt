@@ -97,7 +97,7 @@ ii   libcomerr2                             1.43.5-1                        amd6
 ii   libcryptsetup4                         2:1.7.3-4                       amd64  disk encryption support - shared library
 ii   libcurl3                               7.55.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.55.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libdb5.3                               5.3.28-13                       amd64  Berkeley v5.3 Database Libraries [runtime]
+ii   libdb5.3                               5.3.28-13.1                     amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.229                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.142-1                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.6           amd64  Exported DNS Shared Library
@@ -112,7 +112,7 @@ ii   libffi6                                3.2.1-6                         amd6
 ii   libfreetype6                           2.8-0.2                         amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:7.2.0-1                       amd64  GCC support library
-ii   libgcrypt20                            1.7.8-2                         amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.7.9-1                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-1                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.15-2                        amd64  GNU TLS library - main runtime library
