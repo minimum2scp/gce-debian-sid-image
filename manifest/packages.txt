@@ -22,7 +22,7 @@ ii   debian-archive-keyring                 2017.6                          all 
 ii   debianutils                            4.8.2                           amd64  Miscellaneous utilities specific to Debian
 ii   dh-python                              2.20170125                      all    Debian helper tools for packaging Python libraries and applications
 ii   diffutils                              1:3.6-1                         amd64  File comparison utilities
-ii   dirmngr                                2.2.0-1                         amd64  GNU privacy guard - network certificate management service
+ii   dirmngr                                2.2.0-3                         amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.36                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.1-1                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.142-1                    amd64  Linux Kernel Device Mapper userspace library
@@ -40,19 +40,19 @@ ii   gdisk                                  1.0.1-1                         amd6
 ii   gettext-base                           0.19.8.1-4                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.14.1-3                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.14.1-3                      all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.2.0-1                         amd64  GNU privacy guard - a free PGP replacement
-ii   gnupg-agent                            2.2.0-1                         all    GNU privacy guard - cryptographic agent (dummy transitional package)
-ii   gnupg-l10n                             2.2.0-1                         all    GNU privacy guard - localization files
-ii   gnupg-utils                            2.2.0-1                         amd64  GNU privacy guard - utility programs
+ii   gnupg                                  2.2.0-3                         amd64  GNU privacy guard - a free PGP replacement
+ii   gnupg-agent                            2.2.0-3                         all    GNU privacy guard - cryptographic agent (dummy transitional package)
+ii   gnupg-l10n                             2.2.0-3                         all    GNU privacy guard - localization files
+ii   gnupg-utils                            2.2.0-3                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       170.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   gpg                                    2.2.0-1                         amd64  GNU Privacy Guard -- minimalist public key operations
-ii   gpg-agent                              2.2.0-1                         amd64  GNU privacy guard - cryptographic agent
-ii   gpg-wks-client                         2.2.0-1                         amd64  GNU privacy guard - Web Key Service client
-ii   gpg-wks-server                         2.2.0-1                         amd64  GNU privacy guard - Web Key Service server
-ii   gpgconf                                2.2.0-1                         amd64  GNU privacy guard - core configuration utilities
-ii   gpgsm                                  2.2.0-1                         amd64  GNU privacy guard - S/MIME version
-ii   gpgv                                   2.2.0-1                         amd64  GNU privacy guard - signature verification tool
+ii   gpg                                    2.2.0-3                         amd64  GNU Privacy Guard -- minimalist public key operations
+ii   gpg-agent                              2.2.0-3                         amd64  GNU privacy guard - cryptographic agent
+ii   gpg-wks-client                         2.2.0-3                         amd64  GNU privacy guard - Web Key Service client
+ii   gpg-wks-server                         2.2.0-3                         amd64  GNU privacy guard - Web Key Service server
+ii   gpgconf                                2.2.0-3                         amd64  GNU privacy guard - core configuration utilities
+ii   gpgsm                                  2.2.0-3                         amd64  GNU privacy guard - S/MIME version
+ii   gpgv                                   2.2.0-3                         amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.1-2                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-9                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-common                            2.02-2                          amd64  GRand Unified Bootloader (common files)
@@ -267,7 +267,7 @@ ii   screen                                 4.6.1-1                         amd6
 ii   sed                                    4.4-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.10                          all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p10+dfsg-5               amd64  Network Time Protocol - sntp client
-ii   sudo                                   1.8.21-1                        amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.8.21p2-1                      amd64  Provide limited super user privileges to specific users
 ii   systemd                                234-3                           amd64  system and service manager
 ii   systemd-sysv                           234-3                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.9                    amd64  System-V-like utilities
