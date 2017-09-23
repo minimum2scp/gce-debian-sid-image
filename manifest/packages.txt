@@ -270,10 +270,10 @@ ii   sntp                                   1:4.2.8p10+dfsg-5               amd6
 ii   sudo                                   1.8.21p2-1                      amd64  Provide limited super user privileges to specific users
 ii   systemd                                234-3                           amd64  system and service manager
 ii   systemd-sysv                           234-3                           amd64  system and service manager - SysV links
-ii   sysvinit-utils                         2.88dsf-59.9                    amd64  System-V-like utilities
+ii   sysvinit-utils                         2.88dsf-59.10                   amd64  System-V-like utilities
 ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
-ii   tasksel                                3.40                            all    tool for selecting tasks for installation on Debian systems
-ii   tasksel-data                           3.40                            all    official tasks used for installation of Debian systems
+ii   tasksel                                3.41                            all    tool for selecting tasks for installation on Debian systems
+ii   tasksel-data                           3.41                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2017b-2                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   234-3                           amd64  /dev/ and hotplug management daemon
