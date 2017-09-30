@@ -162,7 +162,7 @@ ii   libpcre2-8-0                           10.22-3                         amd6
 ii   libpcre3                               2:8.39-5                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.0-8                        amd64  shared Perl library
 ii   libpipeline1                           1.4.2-1                         amd64  pipeline manipulation library
-ii   libpng16-16                            1.6.33-1                        amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16                            1.6.34-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10+b2                      amd64  lib for parsing cmdline parameters
 ii   libprocps6                             2:3.3.12-3                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.18.0-4                        amd64  Library for Public Suffix List (shared libraries)
