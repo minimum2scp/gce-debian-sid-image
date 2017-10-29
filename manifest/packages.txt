@@ -1,8 +1,8 @@
 ii   acpi-support-base                      0.142-8                         all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.28-1+b1                   amd64  Advanced Configuration and Power Interface event daemon
 ii   adduser                                3.116                           all    add and remove users and groups
-ii   apt                                    1.6~alpha2                      amd64  commandline package manager
-ii   apt-utils                              1.6~alpha2                      amd64  package management related utility programs
+ii   apt                                    1.6~alpha3                      amd64  commandline package manager
+ii   apt-utils                              1.6~alpha3                      amd64  package management related utility programs
 ii   base-files                             10                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.44                          amd64  Debian base system master password and group files
 ii   bash                                   4.4-5                           amd64  GNU Bourne Again SHell
@@ -79,8 +79,8 @@ ii   kmod                                   24-1                            amd6
 ii   kpartx                                 0.6.4-5+b1                      amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
 ii   libapparmor1                           2.11.1-2                        amd64  changehat AppArmor library
-ii   libapt-inst2.0                         1.6~alpha2                      amd64  deb package format runtime library
-ii   libapt-pkg5.0                          1.6~alpha2                      amd64  package management runtime library
+ii   libapt-inst2.0                         1.6~alpha3                      amd64  deb package format runtime library
+ii   libapt-pkg5.0                          1.6~alpha3                      amd64  package management runtime library
 ii   libassuan0                             2.4.3-3                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                   amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.8.1-1                       all    Dynamic library for security auditing - common files
@@ -119,7 +119,7 @@ ii   libgmp10                               2:6.1.2+dfsg-1.1                amd6
 ii   libgnutls30                            3.5.16-1                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-4                          amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.4-6.2+b1                   amd64  General Purpose Mouse - shared library
-ii   libgssapi-krb5-2                       1.15.2-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii   libgssapi-krb5-2                       1.15.2-2                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed4                            3.3-2                           amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2                          amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.2-5                         amd64  Internationalized domain names (IDNA2008/TR46) library
@@ -129,12 +129,12 @@ ii   libiptc0                               1.6.1-2+b1                      amd6
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.6           amd64  Exported ISC Shared Library
 ii   libisc-export189                       1:9.10.6+dfsg-4                 amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1-1.2                      amd64  JSON manipulation library - shared library
-ii   libk5crypto3                           1.15.2-1                        amd64  MIT Kerberos runtime libraries - Crypto Library
+ii   libk5crypto3                           1.15.2-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.1                       amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.4-9                         amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               24-1                            amd64  libkmod shared library
-ii   libkrb5-3                              1.15.2-1                        amd64  MIT Kerberos runtime libraries
-ii   libkrb5support0                        1.15.2-1                        amd64  MIT Kerberos runtime libraries - Support library
+ii   libkrb5-3                              1.15.2-2                        amd64  MIT Kerberos runtime libraries
+ii   libkrb5support0                        1.15.2-2                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.3.5-2                         amd64  X.509 and CMS support library
 ii   libldap-2.4-2                          2.4.45+dfsg-1                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.45+dfsg-1                   all    OpenLDAP common files for libraries
@@ -291,7 +291,7 @@ ii   vim                                    2:8.0.1226-1                    amd6
 ii   vim-common                             2:8.0.1226-1                    all    Vi IMproved - Common files
 ii   vim-runtime                            2:8.0.1226-1                    all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:8.0.1226-1                    amd64  Vi IMproved - enhanced vi editor - compact version
-ii   wget                                   1.19.1-5                        amd64  retrieves files from the web
+ii   wget                                   1.19.2-1                        amd64  retrieves files from the web
 ii   whiptail                               0.52.20-1+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.0.1226-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.3                       amd64  XZ-format compression utilities
