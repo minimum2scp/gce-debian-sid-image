@@ -208,7 +208,7 @@ ii   libunistring2                          0.9.7-2                         amd6
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
 ii   libutempter0                           1.1.6-3                         amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.30.2-0.1                      amd64  Universally Unique ID library
-ii   libwrap0                               7.6.q-26                        amd64  Wietse Venema's TCP wrappers library
+ii   libwrap0                               7.6.q-27                        amd64  Wietse Venema's TCP wrappers library
 ii   libxapian30                            1.4.4-3                         amd64  Search engine library
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
