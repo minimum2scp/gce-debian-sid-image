@@ -39,8 +39,8 @@ ii   gcc-6-base                             6.4.0-9                         amd6
 ii   gcc-7-base                             7.2.0-12                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-4                      amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.15.0~rc2-1                  amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.15.0~rc2-1                  all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.15.0-1                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.15.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.1-5                         amd64  GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.2.1-5                         all    GNU privacy guard - cryptographic agent (dummy transitional package)
 ii   gnupg-l10n                             2.2.1-5                         all    GNU privacy guard - localization files
@@ -212,7 +212,7 @@ ii   libwrap0                               7.6.q-27                        amd6
 ii   libxapian30                            1.4.4-3                         amd64  Search engine library
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-4.13.0-1-amd64             4.13.4-2                        amd64  Linux 4.13 for 64-bit PCs
+ii   linux-image-4.13.0-1-amd64             4.13.10-1                       amd64  Linux 4.13 for 64-bit PCs
 ii   linux-image-4.9.0-4-amd64              4.9.51-1                        amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.13+86                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-17                         all    GNU C Library: National Language (locale) data [support]
