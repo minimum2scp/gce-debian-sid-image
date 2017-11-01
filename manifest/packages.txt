@@ -98,7 +98,7 @@ ii   libcryptsetup4                         2:1.7.5-1                       amd6
 ii   libcurl3                               7.56.1-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.56.1-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-13.1                     amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.232                           amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.233                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.142-1                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.6           amd64  Exported DNS Shared Library
 ii   libdns-export190                       1:9.10.6+dfsg-4                 amd64  Exported DNS Shared Library
@@ -209,7 +209,7 @@ ii   libustr-1.0-1                          1.0.4-6                         amd6
 ii   libutempter0                           1.1.6-3                         amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.30.2-0.1                      amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                        amd64  Wietse Venema's TCP wrappers library
-ii   libxapian30                            1.4.4-3                         amd64  Search engine library
+ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
 ii   linux-image-4.13.0-1-amd64             4.13.10-1                       amd64  Linux 4.13 for 64-bit PCs
@@ -250,7 +250,7 @@ ii   python-crcmod                          1.7-2+b3                        amd6
 ii   python-google-compute-engine           2.7.1-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.5-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.14-1                        amd64  minimal subset of the Python language (default version)
-ii   python-pkg-resources                   36.2.7-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   36.6.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.1-1                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-1                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.21.1-1                        all    HTTP library with thread-safe connection pooling for Python
@@ -263,7 +263,7 @@ ii   python3-chardet                        3.0.4-1                         all 
 ii   python3-google-compute-engine          2.7.1-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.5-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.6.3-2                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  36.2.7-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  36.6.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.1-1                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-1                        all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.21.1-1                        all    HTTP library with thread-safe connection pooling for Python3
