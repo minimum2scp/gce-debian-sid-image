@@ -26,7 +26,7 @@ ii   diffutils                              1:3.6-1                         amd6
 ii   dirmngr                                2.2.1-5                         amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.37                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.1-1                           amd64  SMBIOS/DMI table decoder
-ii   dmsetup                                2:1.02.144-1                    amd64  Linux Kernel Device Mapper userspace library
+ii   dmsetup                                2:1.02.145-1                    amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.19.0.4                        amd64  Debian package management system
 ii   e2fslibs                               1.43.7-1                        amd64  ext2/ext3/ext4 file system libraries
 ii   e2fsprogs                              1.43.7-1                        amd64  ext2/ext3/ext4 file system utilities
@@ -99,7 +99,7 @@ ii   libcurl3                               7.56.1-1                        amd6
 ii   libcurl3-gnutls                        7.56.1-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-13.1                     amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.233                           amd64  Debian Configuration Management System (C-implementation library)
-ii   libdevmapper1.02.1                     2:1.02.144-1                    amd64  Linux Kernel Device Mapper userspace library
+ii   libdevmapper1.02.1                     2:1.02.145-1                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.6           amd64  Exported DNS Shared Library
 ii   libdns-export190                       1:9.10.6+dfsg-5                 amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
@@ -113,7 +113,7 @@ ii   libffi6                                3.2.1-6                         amd6
 ii   libfreetype6                           2.8.1-0.1                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:7.2.0-12                      amd64  GCC support library
-ii   libgcrypt20                            1.7.9-1                         amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.7.9-2                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-1.1                amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.16-1                        amd64  GNU TLS library - main runtime library
@@ -188,11 +188,11 @@ ii   libsemanage1                           2.7-2                           amd6
 ii   libsepol1                              2.7-1                           amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.1a-1                        amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.30.2-0.1                      amd64  smart column output alignment library
-ii   libsqlite3-0                           3.20.1-2                        amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.21.0-1                        amd64  SQLite 3 shared library
 ii   libss2                                 1.43.7-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2m-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libssl1.1                              1.1.0g-1                        amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             7.2.0-12                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            235-2                           amd64  systemd utility library
 ii   libtasn1-6                             4.12-2.1                        amd64  Manage ASN.1 structures (runtime)
@@ -234,7 +234,7 @@ ii   ntp                                    1:4.2.8p10+dfsg-5               amd6
 ii   openssh-client                         1:7.6p1-2                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:7.6p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:7.6p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                1.1.0g-1                        amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                1.1.0g-2                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-18                          amd64  disk partition manipulator
 ii   passwd                                 1:4.5-1                         amd64  change and administer password and group data
 ii   perl                                   5.26.1-2                        amd64  Larry Wall's Practical Extraction and Report Language
