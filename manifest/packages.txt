@@ -36,7 +36,7 @@ ii   fdisk                                  2.30.2-0.1                      amd6
 ii   file                                   1:5.32-1                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20170828-2            amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-10                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-7-base                             7.2.0-14                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-7-base                             7.2.0-16                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.1-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-4                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.15.0-1                      amd64  fast, scalable, distributed revision control system
@@ -112,8 +112,8 @@ ii   libfdisk1                              2.30.2-0.1                      amd6
 ii   libffi6                                3.2.1-6                         amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.8.1-0.1                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:7.2.0-14                      amd64  GCC support library
-ii   libgcrypt20                            1.7.9-2                         amd64  LGPL Crypto library - runtime library
+ii   libgcc1                                1:7.2.0-16                      amd64  GCC support library
+ii   libgcrypt20                            1.8.1-4                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-1.1                amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.16-1                        amd64  GNU TLS library - main runtime library
@@ -193,8 +193,8 @@ ii   libss2                                 1.43.7-1                        amd6
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2m-3                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             7.2.0-14                        amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            235-2                           amd64  systemd utility library
+ii   libstdc++6                             7.2.0-16                        amd64  GNU Standard C++ Library v3
+ii   libsystemd0                            235-3                           amd64  systemd utility library
 ii   libtasn1-6                             4.12-2.1                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                        amd64  converts between character sets in Perl
@@ -202,7 +202,7 @@ ii   libtext-wrapi18n-perl                  0.06-7.1                        all 
 ii   libtinfo5                              6.0+20170902-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libtomcrypt1                           1.18.0-1                        amd64  public domain open source cryptographic toolkit
 ii   libtommath1                            1.0.1-1                         amd64  multiple-precision integer library [runtime]
-ii   libudev1                               235-2                           amd64  libudev shared library
+ii   libudev1                               235-3                           amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libunistring2                          0.9.7-2                         amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
@@ -273,18 +273,18 @@ ii   readline-common                        7.0-3                           all 
 ii   rsyslog                                8.30.0-2                        amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.4-1                           amd64  GNU stream editor for filtering/transforming text
-ii   sensible-utils                         0.0.10                          all    Utilities for sensible alternative selection
+ii   sensible-utils                         0.0.11                          all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p10+dfsg-5               amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.21p2-2                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                235-2                           amd64  system and service manager
-ii   systemd-sysv                           235-2                           amd64  system and service manager - SysV links
+ii   systemd                                235-3                           amd64  system and service manager
+ii   systemd-sysv                           235-3                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.10                   amd64  System-V-like utilities
 ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.42                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.42                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2017c-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   235-2                           amd64  /dev/ and hotplug management daemon
+ii   udev                                   235-3                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.30.2-0.1                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.30.2-0.1                      amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.1257-2                    amd64  Vi IMproved - enhanced vi editor
