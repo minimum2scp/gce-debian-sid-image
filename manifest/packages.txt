@@ -122,7 +122,7 @@ ii   libgpm2                                1.20.4-6.2+b1                   amd6
 ii   libgssapi-krb5-2                       1.15.2-2                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed4                            3.3-2                           amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2                          amd64  GNU Libidn library, implementation of IETF IDN specifications
-ii   libidn2-0                              2.0.2-5                         amd64  Internationalized domain names (IDNA2008/TR46) library
+ii   libidn2-0                              2.0.4-1                         amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc0                              1.6.1-2+b1                      amd64  netfilter libip4tc library
 ii   libip6tc0                              1.6.1-2+b1                      amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.1-2+b1                      amd64  netfilter libiptc library
@@ -212,7 +212,7 @@ ii   libwrap0                               7.6.q-27                        amd6
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-4.13.0-1-amd64             4.13.10-1                       amd64  Linux 4.13 for 64-bit PCs
+ii   linux-image-4.13.0-1-amd64             4.13.13-1                       amd64  Linux 4.13 for 64-bit PCs
 ii   linux-image-4.9.0-4-amd64              4.9.51-1                        amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.13+86                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.24-17                         all    GNU C Library: National Language (locale) data [support]
