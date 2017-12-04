@@ -80,7 +80,7 @@ ii   libacl1                                2.2.52-3+b1                     amd6
 ii   libapparmor1                           2.11.1-3                        amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.6~alpha5                      amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.6~alpha5                      amd64  package management runtime library
-ii   libassuan0                             2.4.4-1                         amd64  IPC library for the GnuPG components
+ii   libassuan0                             2.4.5-1                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                   amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.8.1-2                       all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.1-2                       amd64  Dynamic library for security auditing
@@ -153,7 +153,7 @@ ii   libnetfilter-conntrack3                1.0.6-2                         amd6
 ii   libnettle6                             3.3-2                           amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnghttp2-14                          1.27.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.28.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.5-3                           amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-3                     amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.9-2                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -163,7 +163,7 @@ ii   libpam-runtime                         1.1.8-3.6                       all 
 ii   libpam0g                               1.1.8-3.6                       amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-18                          amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.22-5                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
-ii   libpcre3                               2:8.39-6                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
+ii   libpcre3                               2:8.39-7                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.1-3                        amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                         amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-1                        amd64  PNG library - runtime (version 1.6)
@@ -201,7 +201,7 @@ ii   libtext-wrapi18n-perl                  0.06-7.1                        all 
 ii   libtinfo5                              6.0+20171125-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               235-3                           amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
-ii   libunistring2                          0.9.7-2                         amd64  Unicode string library for C
+ii   libunistring2                          0.9.8-1                         amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
 ii   libutempter0                           1.1.6-3                         amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.30.2-0.1                      amd64  Universally Unique ID library
