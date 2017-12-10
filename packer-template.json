@@ -41,7 +41,6 @@
       "inline": [
         "sudo install -m 644 -o root -g root /tmp/sources.list /etc/apt/sources.list",
         "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
-        "sudo apt-mark hold google-cloud-sdk",
         "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y ntp google-compute-engine",
