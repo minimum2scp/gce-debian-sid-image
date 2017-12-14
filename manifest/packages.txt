@@ -45,7 +45,7 @@ ii   gnupg-agent                            2.2.3-1                         all 
 ii   gnupg-l10n                             2.2.3-1                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.3-1                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       182.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       183.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.7.2-1                         all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.1.2-1+deb9                    amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.3-1                         amd64  GNU Privacy Guard -- minimalist public key operations
@@ -170,12 +170,12 @@ ii   libpng16-16                            1.6.34-1                        amd6
 ii   libpopt0                               1.16-10+b2                      amd64  lib for parsing cmdline parameters
 ii   libprocps6                             2:3.3.12-3                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.19.1-4                        amd64  Library for Public Suffix List (shared libraries)
-ii   libpython-stdlib                       2.7.14-3                        amd64  interactive high-level object-oriented language (default python version)
+ii   libpython-stdlib                       2.7.14-4                        amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.14-4                        amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.14-4                        amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-ii   libpython3-stdlib                      3.6.3-2                         amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.6-minimal                   3.6.4~rc1-1                     amd64  Minimal subset of the Python language (version 3.6)
-ii   libpython3.6-stdlib                    3.6.4~rc1-1                     amd64  Interactive high-level object-oriented language (standard library, version 3.6)
+ii   libpython3-stdlib                      3.6.4~rc1-1                     amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3.6-minimal                   3.6.4~rc1-2                     amd64  Minimal subset of the Python language (version 3.6)
+ii   libpython3.6-stdlib                    3.6.4~rc1-2                     amd64  Interactive high-level object-oriented language (standard library, version 3.6)
 ii   libreadline7                           7.0-3                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1+b1  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3      amd64  Cyrus SASL - authentication abstraction library
@@ -190,7 +190,7 @@ ii   libsmartcols1                          2.30.2-0.1                      amd6
 ii   libsqlite3-0                           3.21.0-1                        amd64  SQLite 3 shared library
 ii   libss2                                 1.43.7-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
-ii   libssl1.0.2                            1.0.2m-3                        amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl1.0.2                            1.0.2n-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             7.2.0-17                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            235-3                           amd64  systemd utility library
@@ -239,35 +239,36 @@ ii   perl-base                              5.26.1-3                        amd6
 ii   perl-modules-5.26                      5.26.1-3                        all    Core Perl modules
 ii   pinentry-curses                        1.0.0-3                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.12-3                      amd64  /proc file system utilities
-ii   python                                 2.7.14-3                        amd64  interactive high-level object-oriented language (default version)
+ii   python                                 2.7.14-4                        amd64  interactive high-level object-oriented language (default version)
 ii   python-boto                            2.44.0-1                        all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2017.7.27.1-2                   all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-1                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7-2+b3                        amd64  CRC Generator - python 2.x
 ii   python-google-compute-engine           2.7.2-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.5-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
-ii   python-minimal                         2.7.14-3                        amd64  minimal subset of the Python language (default version)
-ii   python-pkg-resources                   38.2.4-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python-minimal                         2.7.14-4                        amd64  minimal subset of the Python language (default version)
+ii   python-pkg-resources                   38.2.4-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.1-1                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-1                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.21.1-1                        all    HTTP library with thread-safe connection pooling for Python
 ii   python2.7                              2.7.14-4                        amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.14-4                        amd64  Minimal subset of the Python language (version 2.7)
-ii   python3                                3.6.3-2                         amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3                                3.6.4~rc1-1                     amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-boto                           2.44.0-1                        all    Python interface to Amazon's Web Services - Python 3.x
 ii   python3-certifi                        2017.7.27.1-2                   all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
+ii   python3-distutils                      3.6.4~rc1-4                     all    distutils package for Python 3.x
 ii   python3-google-compute-engine          2.7.2-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.5-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-minimal                        3.6.3-2                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  38.2.4-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-minimal                        3.6.4~rc1-1                     amd64  minimal subset of the Python language (default python3 version)
+ii   python3-pkg-resources                  38.2.4-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.1-1                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-1                        all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.21.1-1                        all    HTTP library with thread-safe connection pooling for Python3
-ii   python3.6                              3.6.4~rc1-1                     amd64  Interactive high-level object-oriented language (version 3.6)
-ii   python3.6-minimal                      3.6.4~rc1-1                     amd64  Minimal subset of the Python language (version 3.6)
+ii   python3.6                              3.6.4~rc1-2                     amd64  Interactive high-level object-oriented language (version 3.6)
+ii   python3.6-minimal                      3.6.4~rc1-2                     amd64  Minimal subset of the Python language (version 3.6)
 ii   readline-common                        7.0-3                           all    GNU readline and history libraries, common files
-ii   rsyslog                                8.31.0-1                        amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.31.0-2                        amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.4-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.11                          all    Utilities for sensible alternative selection
