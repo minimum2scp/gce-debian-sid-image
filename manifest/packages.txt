@@ -209,9 +209,9 @@ ii   libwrap0                               7.6.q-27                        amd6
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-4.14.0-1-amd64             4.14.2-1                        amd64  Linux 4.14 for 64-bit PCs
+ii   linux-image-4.14.0-2-amd64             4.14.7-1                        amd64  Linux 4.14 for 64-bit PCs
 ii   linux-image-4.9.0-4-amd64              4.9.65-3+deb9u1                 amd64  Linux 4.9 for 64-bit PCs
-ii   linux-image-amd64                      4.14+87                         amd64  Linux for 64-bit PCs (meta-package)
+ii   linux-image-amd64                      4.14+88                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.25-5                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1                         amd64  system login tools
 ii   logrotate                              3.11.0-0.1                      amd64  Log rotation utility
@@ -286,12 +286,12 @@ ii   ucf                                    3.0036                          all 
 ii   udev                                   236-1                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.30.2-0.1                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.30.2-0.1                      amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.0.1401-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.0.1401-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.0.1401-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.0.1401-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.0.1401-2                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.0.1401-2                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.0.1401-2                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.0.1401-2                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.19.2-1                        amd64  retrieves files from the web
 ii   whiptail                               0.52.20-1+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.0.1401-1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.0.1401-2                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.3                       amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.8.dfsg-5                  amd64  compression library - runtime
