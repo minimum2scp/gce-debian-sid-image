@@ -6,7 +6,7 @@ ii   apt-utils                              1.6~alpha5                      amd6
 ii   base-files                             10                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.44                          amd64  Debian base system master password and group files
 ii   bash                                   4.4-5                           amd64  GNU Bourne Again SHell
-ii   bsdmainutils                           11.1.1                          amd64  collection of more utilities from FreeBSD
+ii   bsdmainutils                           11.1.2                          amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.30.2-0.1                    amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.27.2-2                      amd64  Tiny utilities for small and embedded systems
 ii   ca-certificates                        20170717                        all    Common CA certificates
@@ -173,7 +173,7 @@ ii   libpsl5                                0.19.1-4                        amd6
 ii   libpython-stdlib                       2.7.14-4                        amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.14-4                        amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.14-4                        amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-ii   libpython3-stdlib                      3.6.4~rc1-2                     amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3-stdlib                      3.6.4-1                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.6-minimal                   3.6.4-2                         amd64  Minimal subset of the Python language (version 3.6)
 ii   libpython3.6-stdlib                    3.6.4-2                         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
 ii   libreadline7                           7.0-3                           amd64  GNU readline and history libraries, run-time libraries
@@ -253,7 +253,7 @@ ii   python-six                             1.11.0-1                        all 
 ii   python-urllib3                         1.21.1-1                        all    HTTP library with thread-safe connection pooling for Python
 ii   python2.7                              2.7.14-4                        amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.14-4                        amd64  Minimal subset of the Python language (version 2.7)
-ii   python3                                3.6.4~rc1-2                     amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3                                3.6.4-1                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-boto                           2.44.0-1                        all    Python interface to Amazon's Web Services - Python 3.x
 ii   python3-certifi                        2017.7.27.1-2                   all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
@@ -261,7 +261,7 @@ ii   python3-distutils                      3.6.4-2                         all 
 ii   python3-google-compute-engine          2.7.2-2                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.5-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-lib2to3                        3.6.4-2                         all    Interactive high-level object-oriented language (2to3, version 3.6)
-ii   python3-minimal                        3.6.4~rc1-2                     amd64  minimal subset of the Python language (default python3 version)
+ii   python3-minimal                        3.6.4-1                         amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  38.2.4-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.1-1                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-1                        all    Python 2 and 3 compatibility library (Python 3 interface)
