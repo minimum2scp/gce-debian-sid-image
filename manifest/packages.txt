@@ -19,7 +19,7 @@ ii   dash                                   0.5.8-2.5                       amd6
 ii   debconf                                1.5.65                          all    Debian configuration management system
 ii   debconf-i18n                           1.5.65                          all    full internationalization support for debconf
 ii   debian-archive-keyring                 2017.7                          all    GnuPG archive keys of the Debian archive
-ii   debianutils                            4.8.3                           amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            4.8.4                           amd64  Miscellaneous utilities specific to Debian
 ii   dh-python                              2.20170125                      all    Debian helper tools for packaging Python libraries and applications
 ii   diffutils                              1:3.6-1                         amd64  File comparison utilities
 ii   dirmngr                                2.2.3-1                         amd64  GNU privacy guard - network certificate management service
@@ -73,7 +73,7 @@ ii   iptables                               1.6.1-2+b1                      amd6
 ii   iputils-ping                           3:20161105-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-3+b2                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5-3+b2                      amd64  common manpages relevant to all of the isc-dhcp packages
-ii   klibc-utils                            2.0.4-10                        amd64  small utilities built with klibc for early boot
+ii   klibc-utils                            2.0.4-11                        amd64  small utilities built with klibc for early boot
 ii   kmod                                   24-1                            amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.4-2                         amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
@@ -102,7 +102,7 @@ ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd6
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u3    amd64  Exported DNS Shared Library
 ii   libdns-export169                       1:9.11.2+dfsg-5                 amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
-ii   libelf1                                0.170-0.1                       amd64  library to read and write ELF files
+ii   libelf1                                0.170-0.2                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17025-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                      amd64  Helper functions for handling strings (lib)
 ii   libexpat1                              2.2.5-3                         amd64  XML parsing C library - runtime library
@@ -130,7 +130,7 @@ ii   libisc-export166                       1:9.11.2+dfsg-5                 amd6
 ii   libjson-c3                             0.12.1-1.2                      amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.15.2-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.2                       amd64  Linux Key Management Utilities (library)
-ii   libklibc                               2.0.4-10                        amd64  minimal libc subset for use with initramfs
+ii   libklibc                               2.0.4-11                        amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               24-1                            amd64  libkmod shared library
 ii   libkrb5-3                              1.15.2-2                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.15.2-2                        amd64  MIT Kerberos runtime libraries - Support library
