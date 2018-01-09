@@ -210,7 +210,7 @@ ii   libxapian30                            1.4.5-1                         amd6
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
 ii   linux-image-4.14.0-3-amd64             4.14.12-2                       amd64  Linux 4.14 for 64-bit PCs
-ii   linux-image-4.9.0-4-amd64              4.9.65-3+deb9u1                 amd64  Linux 4.9 for 64-bit PCs
+ii   linux-image-4.9.0-5-amd64              4.9.65-3+deb9u2                 amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.14+89                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.26-2                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1                         amd64  system login tools
