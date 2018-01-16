@@ -100,7 +100,7 @@ ii   libdb5.3                               5.3.28-13.1+b1                  amd6
 ii   libdebconfclient0                      0.238                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u3    amd64  Exported DNS Shared Library
-ii   libdns-export169                       1:9.11.2+dfsg-5                 amd64  Exported DNS Shared Library
+ii   libdns-export169                       1:9.11.2+dfsg-10                amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
 ii   libelf1                                0.170-0.2                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17025-1                       all    Perl module for error/exception handling in an OO-ish way
@@ -114,7 +114,7 @@ ii   libfuse2                               2.9.7-1                         amd6
 ii   libgcc1                                1:7.2.0-19                      amd64  GCC support library
 ii   libgcrypt20                            1.8.1-4                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
-ii   libgmp10                               2:6.1.2+dfsg-1.1                amd64  Multiprecision arithmetic library
+ii   libgmp10                               2:6.1.2+dfsg-1.2                amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.16-1                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-5                          amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.7-4                        amd64  General Purpose Mouse - shared library
@@ -126,7 +126,7 @@ ii   libip4tc0                              1.6.1-2+b1                      amd6
 ii   libip6tc0                              1.6.1-2+b1                      amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.1-2+b1                      amd64  netfilter libiptc library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u3    amd64  Exported ISC Shared Library
-ii   libisc-export166                       1:9.11.2+dfsg-5                 amd64  Exported ISC Shared Library
+ii   libisc-export166                       1:9.11.2+dfsg-10                amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1-1.2                      amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.15.2-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.2                       amd64  Linux Key Management Utilities (library)
@@ -209,7 +209,7 @@ ii   libwrap0                               7.6.q-27                        amd6
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-4.14.0-3-amd64             4.14.12-2                       amd64  Linux 4.14 for 64-bit PCs
+ii   linux-image-4.14.0-3-amd64             4.14.13-1                       amd64  Linux 4.14 for 64-bit PCs
 ii   linux-image-4.9.0-5-amd64              4.9.65-3+deb9u2                 amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.14+89                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.26-4                          all    GNU C Library: National Language (locale) data [support]
