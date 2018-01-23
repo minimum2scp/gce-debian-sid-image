@@ -75,7 +75,7 @@ ii   isc-dhcp-client                        4.3.5-3+b2                      amd6
 ii   isc-dhcp-common                        4.3.5-3+b2                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.4-11                        amd64  small utilities built with klibc for early boot
 ii   kmod                                   25-1                            amd64  tools for managing Linux kernel modules
-ii   kpartx                                 0.7.4-2                         amd64  create device mappings for partitions
+ii   kpartx                                 0.7.4-2+b1                      amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
 ii   libapparmor1                           2.12-1                          amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.6~alpha7                      amd64  deb package format runtime library
@@ -189,7 +189,7 @@ ii   libsemanage1                           2.7-2                           amd6
 ii   libsepol1                              2.7-1                           amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.1a-1                        amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.30.2-0.3                      amd64  smart column output alignment library
-ii   libsqlite3-0                           3.21.0-1                        amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.22.0-1                        amd64  SQLite 3 shared library
 ii   libss2                                 1.43.8-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2n-1                        amd64  Secure Sockets Layer toolkit - shared libraries
