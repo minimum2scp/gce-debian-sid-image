@@ -14,8 +14,8 @@ ii   cloud-guest-utils                      0.29-1                          all 
 ii   coreutils                              8.28-1                          amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-6                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-128.1                    amd64  process scheduling daemon
-ii   curl                                   7.57.0-1                        amd64  command line tool for transferring data with URL syntax
-ii   dash                                   0.5.8-2.7                       amd64  POSIX-compliant shell
+ii   curl                                   7.58.0-2                        amd64  command line tool for transferring data with URL syntax
+ii   dash                                   0.5.8-2.9                       amd64  POSIX-compliant shell
 ii   debconf                                1.5.65                          all    Debian configuration management system
 ii   debconf-i18n                           1.5.65                          all    full internationalization support for debconf
 ii   debian-archive-keyring                 2017.7                          all    GnuPG archive keys of the Debian archive
@@ -45,7 +45,7 @@ ii   gnupg-agent                            2.2.4-1                         all 
 ii   gnupg-l10n                             2.2.4-1                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.4-1                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       185.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       186.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.7.2-2                         all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.1.2-1+deb9                    amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.4-1                         amd64  GNU Privacy Guard -- minimalist public key operations
@@ -68,7 +68,7 @@ ii   init                                   1.51                            amd6
 ii   init-system-helpers                    1.51                            all    helper tools for all init systems
 ii   initramfs-tools                        0.130                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.130                           all    generic modular initramfs generator (core tools)
-ii   iproute2                               4.14.1-1                        amd64  networking and traffic control tools
+ii   iproute2                               4.14.1-2                        amd64  networking and traffic control tools
 ii   iptables                               1.6.1-2+b1                      amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-3+b2                      amd64  DHCP client for automatically obtaining an IP address
@@ -77,7 +77,7 @@ ii   klibc-utils                            2.0.4-11                        amd6
 ii   kmod                                   25-1                            amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.4-2+b1                      amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
-ii   libapparmor1                           2.12-1                          amd64  changehat AppArmor library
+ii   libapparmor1                           2.12-2                          amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.6~alpha7                      amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.6~alpha7                      amd64  package management runtime library
 ii   libargon2-0                            0~20161029-1.1                  amd64  memory-hard hashing function - runtime library
@@ -96,8 +96,8 @@ ii   libcap2                                1:2.25-1.2                      amd6
 ii   libcomerr2                             1.43.8-2                        amd64  common error description library
 ii   libcryptsetup12                        2:2.0.0-1                       amd64  disk encryption support - shared library
 ii   libcryptsetup4                         2:1.7.5-1                       amd64  disk encryption support - shared library
-ii   libcurl3                               7.57.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii   libcurl3-gnutls                        7.57.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3                               7.58.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.58.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-13.1+b1                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.238                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
@@ -116,7 +116,7 @@ ii   libfuse2                               2.9.7-1                         amd6
 ii   libgcc1                                1:7.2.0-20                      amd64  GCC support library
 ii   libgcrypt20                            1.8.1-4                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
-ii   libgmp10                               2:6.1.2+dfsg-1.2                amd64  Multiprecision arithmetic library
+ii   libgmp10                               2:6.1.2+dfsg-2                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.17-1                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-5                          amd64  library for common error values and messages in GnuPG components
 ii   libgpm2                                1.20.7-4                        amd64  General Purpose Mouse - shared library
@@ -243,7 +243,7 @@ ii   pinentry-curses                        1.0.0-3                         amd6
 ii   procps                                 2:3.3.12-3                      amd64  /proc file system utilities
 ii   python                                 2.7.14-4                        amd64  interactive high-level object-oriented language (default version)
 ii   python-boto                            2.44.0-1                        all    Python interface to Amazon's Web Services - Python 2.x
-ii   python-certifi                         2017.11.5-1                     all    root certificates for validating SSL certs and verifying TLS hosts
+ii   python-certifi                         2018.1.18-1                     all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-1                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7-2+b3                        amd64  CRC Generator - python 2.x
 ii   python-google-compute-engine           2.7.2-2                         all    Google Compute Engine python library for Python 2.x.
@@ -257,7 +257,7 @@ ii   python2.7                              2.7.14-4                        amd6
 ii   python2.7-minimal                      2.7.14-4                        amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.6.4-1                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-boto                           2.44.0-1                        all    Python interface to Amazon's Web Services - Python 3.x
-ii   python3-certifi                        2017.11.5-1                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
+ii   python3-certifi                        2018.1.18-1                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
 ii   python3-distutils                      3.6.4-2                         all    distutils package for Python 3.x
 ii   python3-google-compute-engine          2.7.2-2                         all    Google Compute Engine python library for Python 3.x.
