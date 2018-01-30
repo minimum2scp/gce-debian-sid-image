@@ -119,7 +119,7 @@ ii   libgdbm3                               1.8.3-14                        amd6
 ii   libgmp10                               2:6.1.2+dfsg-2                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.17-1                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-5                          amd64  library for common error values and messages in GnuPG components
-ii   libgpm2                                1.20.7-4                        amd64  General Purpose Mouse - shared library
+ii   libgpm2                                1.20.7-5                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.16-2                          amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhogweed4                            3.4-1                           amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.1                        amd64  GNU Libidn library, implementation of IETF IDN specifications
@@ -195,13 +195,13 @@ ii   libssh2-1                              1.8.0-1                         amd6
 ii   libssl1.0.2                            1.0.2n-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             7.3.0-1                         amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            236-4                           amd64  systemd utility library
+ii   libsystemd0                            237-1                           amd64  systemd utility library
 ii   libtasn1-6                             4.13-2                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.0+20171125-1                  amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               236-4                           amd64  libudev shared library
+ii   libudev1                               237-1                           amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libunistring2                          0.9.8-1                         amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
@@ -273,19 +273,19 @@ ii   python3.6-minimal                      3.6.4-3                         amd6
 ii   readline-common                        7.0-3                           all    GNU readline and history libraries, common files
 ii   rsyslog                                8.32.0-1                        amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
-ii   sed                                    4.4-1                           amd64  GNU stream editor for filtering/transforming text
+ii   sed                                    4.4-2                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.11                          all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p10+dfsg-6               amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.21p2-3                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                236-4                           amd64  system and service manager
-ii   systemd-sysv                           236-4                           amd64  system and service manager - SysV links
+ii   systemd                                237-1                           amd64  system and service manager
+ii   systemd-sysv                           237-1                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.10                   amd64  System-V-like utilities
 ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.42                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.42                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018c-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   236-4                           amd64  /dev/ and hotplug management daemon
+ii   udev                                   237-1                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.30.2-0.3                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.30.2-0.3                      amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.1401-2                    amd64  Vi IMproved - enhanced vi editor
