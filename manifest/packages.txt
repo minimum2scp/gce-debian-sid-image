@@ -46,8 +46,8 @@ ii   gnupg-l10n                             2.2.4-1                         all 
 ii   gnupg-utils                            2.2.4-1                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       186.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   google-compute-engine                  2.7.2-2                         all    Google Compute Engine guest environment.
-ii   google-compute-engine-oslogin          1.1.2-1+deb9                    amd64  Google Compute Engine OS Login
+ii   google-compute-engine                  2.7.5-1                         all    Google Compute Engine guest environment.
+ii   google-compute-engine-oslogin          1.1.4-1+deb9                    amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.4-1                         amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.4-1                         amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.4-1                         amd64  GNU privacy guard - Web Key Service client
@@ -62,7 +62,7 @@ ii   grub-pc                                2.02-2                          amd6
 ii   grub-pc-bin                            2.02-2                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS binaries)
 ii   grub2-common                           2.02-2                          amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.6-5+b1                        amd64  GNU compression utilities
-ii   hostname                               3.18+b1                         amd64  utility to set/show the host name or domain name
+ii   hostname                               3.19                            amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.29                          amd64  high level tools to configure network interfaces
 ii   init                                   1.51                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.51                            all    helper tools for all init systems
@@ -99,7 +99,7 @@ ii   libcryptsetup4                         2:1.7.5-1                       amd6
 ii   libcurl3                               7.58.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.58.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-13.1+b1                  amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.238                           amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.239                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported DNS Shared Library
 ii   libdns-export169                       1:9.11.2.P1-1                   amd64  Exported DNS Shared Library
@@ -153,7 +153,7 @@ ii   libncurses5                            6.0+20171125-1                  amd6
 ii   libncursesw5                           6.0+20171125-1                  amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.6-2                         amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.4-1                           amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.20-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.20-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
 ii   libnghttp2-14                          1.29.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.5-3                           amd64  replacement for GNU Pth using system threads
@@ -246,7 +246,7 @@ ii   python-boto                            2.44.0-1                        all 
 ii   python-certifi                         2018.1.18-1                     all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-1                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7-2+b3                        amd64  CRC Generator - python 2.x
-ii   python-google-compute-engine           2.7.2-2                         all    Google Compute Engine python library for Python 2.x.
+ii   python-google-compute-engine           2.7.5-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.14-4                        amd64  minimal subset of the Python language (default version)
 ii   python-pkg-resources                   38.2.4-2                        all    Package Discovery and Resource Access using pkg_resources
@@ -260,7 +260,7 @@ ii   python3-boto                           2.44.0-1                        all 
 ii   python3-certifi                        2018.1.18-1                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
 ii   python3-distutils                      3.6.4-2                         all    distutils package for Python 3.x
-ii   python3-google-compute-engine          2.7.2-2                         all    Google Compute Engine python library for Python 3.x.
+ii   python3-google-compute-engine          2.7.5-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-lib2to3                        3.6.4-2                         all    Interactive high-level object-oriented language (2to3, version 3.6)
 ii   python3-minimal                        3.6.4-1                         amd64  minimal subset of the Python language (default python3 version)
@@ -292,8 +292,8 @@ ii   vim                                    2:8.0.1401-2                    amd6
 ii   vim-common                             2:8.0.1401-2                    all    Vi IMproved - Common files
 ii   vim-runtime                            2:8.0.1401-2                    all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:8.0.1401-2                    amd64  Vi IMproved - enhanced vi editor - compact version
-ii   wget                                   1.19.3-2                        amd64  retrieves files from the web
-ii   whiptail                               0.52.20-1+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
+ii   wget                                   1.19.4-1                        amd64  retrieves files from the web
+ii   whiptail                               0.52.20-2                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.0.1401-2                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.3                       amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.8.dfsg-5                  amd64  compression library - runtime
