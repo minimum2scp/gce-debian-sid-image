@@ -45,7 +45,7 @@ ii   gnupg-agent                            2.2.4-1                         all 
 ii   gnupg-l10n                             2.2.4-1                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.4-1                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       186.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       187.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.7.5-1                         all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.1.4-1+deb9                    amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.4-1                         amd64  GNU Privacy Guard -- minimalist public key operations
@@ -62,7 +62,7 @@ ii   grub-pc                                2.02-2                          amd6
 ii   grub-pc-bin                            2.02-2                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS binaries)
 ii   grub2-common                           2.02-2                          amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.6-5+b1                        amd64  GNU compression utilities
-ii   hostname                               3.19                            amd64  utility to set/show the host name or domain name
+ii   hostname                               3.20                            amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.29                          amd64  high level tools to configure network interfaces
 ii   init                                   1.51                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.51                            all    helper tools for all init systems
@@ -116,6 +116,7 @@ ii   libfuse2                               2.9.7-1                         amd6
 ii   libgcc1                                1:7.3.0-1                       amd64  GCC support library
 ii   libgcrypt20                            1.8.1-4                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
+ii   libgdbm5                               1.14.1-2                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-2                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.17-1                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.27-5                          amd64  library for common error values and messages in GnuPG components
@@ -166,7 +167,7 @@ ii   libpam0g                               1.1.8-3.6                       amd6
 ii   libparted2                             3.2-20                          amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.22-5                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-8                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.26                            5.26.1-4                        amd64  shared Perl library
+ii   libperl5.26                            5.26.1-4+b1                     amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                         amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-10+b2                      amd64  lib for parsing cmdline parameters
@@ -219,7 +220,7 @@ ii   login                                  1:4.5-1                         amd6
 ii   logrotate                              3.11.0-0.1                      amd64  Log rotation utility
 ii   lsb-base                               9.20170808                      all    Linux Standard Base init script functionality
 ii   lsb-release                            9.20170808                      all    Linux Standard Base version reporting utility
-ii   man-db                                 2.7.6.1-4                       amd64  on-line manual pager
+ii   man-db                                 2.7.6.1-4+b1                    amd64  on-line manual pager
 ii   mawk                                   1.3.3-17+b3                     amd64  a pattern scanning and text processing language
 ii   mime-support                           3.60                            all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.30.2-0.3                      amd64  tools for mounting and manipulating filesystems
@@ -236,8 +237,8 @@ ii   openssh-sftp-server                    1:7.6p1-3                       amd6
 ii   openssl                                1.1.0g-2                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-20                          amd64  disk partition manipulator
 ii   passwd                                 1:4.5-1                         amd64  change and administer password and group data
-ii   perl                                   5.26.1-4                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.26.1-4                        amd64  minimal Perl system
+ii   perl                                   5.26.1-4+b1                     amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.26.1-4+b1                     amd64  minimal Perl system
 ii   perl-modules-5.26                      5.26.1-4                        all    Core Perl modules
 ii   pinentry-curses                        1.0.0-3                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.12-3                      amd64  /proc file system utilities
@@ -249,7 +250,7 @@ ii   python-crcmod                          1.7-2+b3                        amd6
 ii   python-google-compute-engine           2.7.5-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.14-4                        amd64  minimal subset of the Python language (default version)
-ii   python-pkg-resources                   38.2.4-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   38.4.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.4-1                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-1                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.22-1                          all    HTTP library with thread-safe connection pooling for Python
@@ -259,12 +260,12 @@ ii   python3                                3.6.4-1                         amd6
 ii   python3-boto                           2.44.0-1                        all    Python interface to Amazon's Web Services - Python 3.x
 ii   python3-certifi                        2018.1.18-1                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
-ii   python3-distutils                      3.6.4-2                         all    distutils package for Python 3.x
+ii   python3-distutils                      3.6.4-3                         all    distutils package for Python 3.x
 ii   python3-google-compute-engine          2.7.5-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-lib2to3                        3.6.4-2                         all    Interactive high-level object-oriented language (2to3, version 3.6)
+ii   python3-lib2to3                        3.6.4-3                         all    Interactive high-level object-oriented language (2to3, version 3.6)
 ii   python3-minimal                        3.6.4-1                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  38.2.4-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  38.4.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.4-1                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-1                        all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.22-1                          all    HTTP library with thread-safe connection pooling for Python3
