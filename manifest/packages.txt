@@ -1,6 +1,6 @@
 ii   acpi-support-base                      0.142-8                         all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.28-1+b1                   amd64  Advanced Configuration and Power Interface event daemon
-ii   adduser                                3.116                           all    add and remove users and groups
+ii   adduser                                3.117                           all    add and remove users and groups
 ii   apt                                    1.6~alpha7                      amd64  commandline package manager
 ii   apt-utils                              1.6~alpha7                      amd64  package management related utility programs
 ii   base-files                             10.1                            amd64  Debian base system miscellaneous files
@@ -69,7 +69,7 @@ ii   init-system-helpers                    1.51                            all 
 ii   initramfs-tools                        0.130                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.130                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               4.14.1-2                        amd64  networking and traffic control tools
-ii   iptables                               1.6.1-2+b1                      amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.6.2-1                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-3+b2                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5-3+b2                      amd64  common manpages relevant to all of the isc-dhcp packages
@@ -125,9 +125,9 @@ ii   libgssapi-krb5-2                       1.16-2                          amd6
 ii   libhogweed4                            3.4-1                           amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.1                        amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.4-1.1                       amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc0                              1.6.1-2+b1                      amd64  netfilter libip4tc library
-ii   libip6tc0                              1.6.1-2+b1                      amd64  netfilter libip6tc library
-ii   libiptc0                               1.6.1-2+b1                      amd64  netfilter libiptc library
+ii   libip4tc0                              1.6.2-1                         amd64  netfilter libip4tc library
+ii   libip6tc0                              1.6.2-1                         amd64  netfilter libip6tc library
+ii   libiptc0                               1.6.2-1                         amd64  netfilter libiptc library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported ISC Shared Library
 ii   libisc-export166                       1:9.11.2.P1-1                   amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1-1.3                      amd64  JSON manipulation library - shared library
@@ -210,7 +210,7 @@ ii   libutempter0                           1.1.6-3                         amd6
 ii   libuuid1                               2.30.2-0.3                      amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                        amd64  Wietse Venema's TCP wrappers library
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
-ii   libxtables12                           1.6.1-2+b1                      amd64  netfilter xtables library
+ii   libxtables12                           1.6.2-1                         amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
 ii   linux-image-4.14.0-3-amd64             4.14.13-1                       amd64  Linux 4.14 for 64-bit PCs
 ii   linux-image-4.9.0-5-amd64              4.9.65-3+deb9u2                 amd64  Linux 4.9 for 64-bit PCs
@@ -289,12 +289,12 @@ ii   ucf                                    3.0036                          all 
 ii   udev                                   237-1                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.30.2-0.3                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.30.2-0.3                      amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.0.1401-2                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.0.1401-2                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.0.1401-2                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.0.1401-2                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.0.1453-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.0.1453-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.0.1453-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.0.1453-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.19.4-1                        amd64  retrieves files from the web
 ii   whiptail                               0.52.20-2                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.0.1401-2                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.0.1453-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.3                       amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.8.dfsg-5                  amd64  compression library - runtime
