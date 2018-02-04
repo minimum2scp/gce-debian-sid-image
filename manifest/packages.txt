@@ -166,7 +166,7 @@ ii   libpam-runtime                         1.1.8-3.6                       all 
 ii   libpam0g                               1.1.8-3.6                       amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-20                          amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.22-5                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
-ii   libpcre3                               2:8.39-8                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
+ii   libpcre3                               2:8.39-9                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.1-4+b1                     amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                         amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-1                        amd64  PNG library - runtime (version 1.6)
