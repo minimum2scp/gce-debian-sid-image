@@ -100,7 +100,7 @@ ii   libcryptsetup4                         2:1.7.5-1                       amd6
 ii   libcurl3                               7.58.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.58.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28-13.1+b1                  amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.240                           amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.241                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported DNS Shared Library
 ii   libdns-export169                       1:9.11.2.P1-1                   amd64  Exported DNS Shared Library
@@ -152,8 +152,8 @@ ii   libmagic1                              1:5.32-1                        amd6
 ii   libmnl0                                1.0.4-2                         amd64  minimalistic Netlink communication library
 ii   libmount1                              2.31.1-0.1                      amd64  device mounting library
 ii   libmpdec2                              2.4.2-1                         amd64  library for decimal floating point arithmetic (runtime library)
-ii   libncurses5                            6.0+20171125-1                  amd64  shared libraries for terminal handling
-ii   libncursesw5                           6.0+20171125-1                  amd64  shared libraries for terminal handling (wide character support)
+ii   libncurses5                            6.1-1                           amd64  shared libraries for terminal handling
+ii   libncursesw5                           6.1-1                           amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.6-2                         amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.4-1                           amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
@@ -203,7 +203,7 @@ ii   libtasn1-6                             4.13-2                          amd6
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
-ii   libtinfo5                              6.0+20171125-1                  amd64  shared low-level terminfo library for terminal handling
+ii   libtinfo5                              6.1-1                           amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               237-2                           amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libunistring2                          0.9.8-1                         amd64  Unicode string library for C
@@ -228,9 +228,9 @@ ii   mime-support                           3.60                            all 
 ii   mount                                  2.31.1-0.1                      amd64  tools for mounting and manipulating filesystems
 ii   multiarch-support                      2.26-6                          amd64  Transitional package to ensure multiarch compatibility
 ii   nano                                   2.9.2-1                         amd64  small, friendly text editor inspired by Pico
-ii   ncurses-base                           6.0+20171125-1                  all    basic terminal type definitions
-ii   ncurses-bin                            6.0+20171125-1                  amd64  terminal-related programs and man pages
-ii   net-tools                              1.60+git20161116.90da8a0-1      amd64  NET-3 networking toolkit
+ii   ncurses-base                           6.1-1                           all    basic terminal type definitions
+ii   ncurses-bin                            6.1-1                           amd64  terminal-related programs and man pages
+ii   net-tools                              1.60+git20161116.90da8a0-2      amd64  NET-3 networking toolkit
 ii   netbase                                5.4                             all    Basic TCP/IP networking system
 ii   ntp                                    1:4.2.8p10+dfsg-6               amd64  Network Time Protocol daemon and utility programs
 ii   openssh-client                         1:7.6p1-4                       amd64  secure shell (SSH) client, for secure access to remote machines
@@ -284,8 +284,8 @@ ii   systemd                                237-2                           amd6
 ii   systemd-sysv                           237-2                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.10                   amd64  System-V-like utilities
 ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
-ii   tasksel                                3.42                            all    tool for selecting tasks for installation on Debian systems
-ii   tasksel-data                           3.42                            all    official tasks used for installation of Debian systems
+ii   tasksel                                3.43                            all    tool for selecting tasks for installation on Debian systems
+ii   tasksel-data                           3.43                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018c-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0036                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   237-2                           amd64  /dev/ and hotplug management daemon
