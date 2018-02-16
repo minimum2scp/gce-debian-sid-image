@@ -190,7 +190,7 @@ ii   libselinux1                            2.7-2+b1                        amd6
 ii   libsemanage-common                     2.7-2                           all    Common files for SELinux policy management libraries
 ii   libsemanage1                           2.7-2+b1                        amd64  SELinux policy management library
 ii   libsepol1                              2.7-1                           amd64  SELinux library for manipulating binary security policies
-ii   libslang2                              2.3.1a-1                        amd64  S-Lang programming library - runtime version
+ii   libslang2                              2.3.1a-2                        amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.31.1-0.4                      amd64  smart column output alignment library
 ii   libsqlite3-0                           3.22.0-1                        amd64  SQLite 3 shared library
 ii   libss2                                 1.43.9-1                        amd64  command-line interface parsing library
@@ -214,7 +214,7 @@ ii   libwrap0                               7.6.q-27                        amd6
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.2-1                         amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-4.14.0-3-amd64             4.14.13-1                       amd64  Linux 4.14 for 64-bit PCs
+ii   linux-image-4.14.0-3-amd64             4.14.17-1                       amd64  Linux 4.14 for 64-bit PCs
 ii   linux-image-4.9.0-5-amd64              4.9.65-3+deb9u2                 amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.14+89                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.26-6                          all    GNU C Library: National Language (locale) data [support]
