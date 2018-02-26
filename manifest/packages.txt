@@ -77,7 +77,7 @@ ii   klibc-utils                            2.0.4-11                        amd6
 ii   kmod                                   25-1                            amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.4-3                         amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
-ii   libapparmor1                           2.12-2                          amd64  changehat AppArmor library
+ii   libapparmor1                           2.12-3                          amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.6~alpha7                      amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.6~alpha7                      amd64  package management runtime library
 ii   libargon2-0                            0~20161029-1.1                  amd64  memory-hard hashing function - runtime library
@@ -288,7 +288,7 @@ ii   tar                                    1.29b-2                         amd6
 ii   tasksel                                3.43                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.43                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018c-1                         all    time zone and daylight-saving time data
-ii   ucf                                    3.0037                          all    Update Configuration File(s): preserve user changes to config files
+ii   ucf                                    3.0038                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   237-3                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.31.1-0.4                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.31.1-0.4                      amd64  runtime components for the Universally Unique ID library
