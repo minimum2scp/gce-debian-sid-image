@@ -46,8 +46,8 @@ ii   gnupg-l10n                             2.2.5-1                         all 
 ii   gnupg-utils                            2.2.5-1                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.0-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       191.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   google-compute-engine                  2.7.5-2                         all    Google Compute Engine guest environment.
-ii   google-compute-engine-oslogin          1.1.4-1+deb9                    amd64  Google Compute Engine OS Login
+ii   google-compute-engine                  2.7.6-1                         all    Google Compute Engine guest environment.
+ii   google-compute-engine-oslogin          1.1.5-1+deb9                    amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.5-1                         amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.5-1                         amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.5-1                         amd64  GNU privacy guard - Web Key Service client
@@ -199,13 +199,13 @@ ii   libssh2-1                              1.8.0-1                         amd6
 ii   libssl1.0.2                            1.0.2n-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             8-20180218-1                    amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            237-3                           amd64  systemd utility library
+ii   libsystemd0                            237-4                           amd64  systemd utility library
 ii   libtasn1-6                             4.13-2                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.1-1                           amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               237-3                           amd64  libudev shared library
+ii   libudev1                               237-4                           amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1           amd64  Unicode string library for C
 ii   libunistring2                          0.9.8-1                         amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                         amd64  Micro string library: shared library
@@ -216,14 +216,14 @@ ii   libxapian30                            1.4.5-1                         amd6
 ii   libxtables12                           1.6.2-1                         amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
 ii   linux-image-4.15.0-1-amd64             4.15.4-1                        amd64  Linux 4.15 for 64-bit PCs
-ii   linux-image-4.9.0-5-amd64              4.9.65-3+deb9u2                 amd64  Linux 4.9 for 64-bit PCs
+ii   linux-image-4.9.0-6-amd64              4.9.82-1+deb9u2                 amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.15+90                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.26-6                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1                         amd64  system login tools
 ii   logrotate                              3.11.0-0.1                      amd64  Log rotation utility
 ii   lsb-base                               9.20170808                      all    Linux Standard Base init script functionality
 ii   lsb-release                            9.20170808                      all    Linux Standard Base version reporting utility
-ii   man-db                                 2.8.1-1                         amd64  on-line manual pager
+ii   man-db                                 2.8.2-1                         amd64  on-line manual pager
 ii   mawk                                   1.3.3-17+b3                     amd64  a pattern scanning and text processing language
 ii   mime-support                           3.60                            all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.31.1-0.4                      amd64  tools for mounting and manipulating filesystems
@@ -250,7 +250,7 @@ ii   python-boto                            2.44.0-1                        all 
 ii   python-certifi                         2018.1.18-2                     all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-1                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7-2+b3                        amd64  CRC Generator - python 2.x
-ii   python-google-compute-engine           2.7.5-2                         all    Google Compute Engine python library for Python 2.x.
+ii   python-google-compute-engine           2.7.6-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.14-4                        amd64  minimal subset of the Python language (default version)
 ii   python-pkg-resources                   38.4.0-1                        all    Package Discovery and Resource Access using pkg_resources
@@ -263,8 +263,9 @@ ii   python3                                3.6.4-1                         amd6
 ii   python3-boto                           2.44.0-1                        all    Python interface to Amazon's Web Services - Python 3.x
 ii   python3-certifi                        2018.1.18-2                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
+ii   python3-distro                         1.0.1-2                         all    Linux OS platform information API
 ii   python3-distutils                      3.6.4-4                         all    distutils package for Python 3.x
-ii   python3-google-compute-engine          2.7.5-2                         all    Google Compute Engine python library for Python 3.x.
+ii   python3-google-compute-engine          2.7.6-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-lib2to3                        3.6.4-4                         all    Interactive high-level object-oriented language (2to3, version 3.6)
 ii   python3-minimal                        3.6.4-1                         amd64  minimal subset of the Python language (default python3 version)
@@ -281,15 +282,15 @@ ii   sed                                    4.4-2                           amd6
 ii   sensible-utils                         0.0.11                          all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p10+dfsg-6               amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.21p2-3                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                237-3                           amd64  system and service manager
-ii   systemd-sysv                           237-3                           amd64  system and service manager - SysV links
+ii   systemd                                237-4                           amd64  system and service manager
+ii   systemd-sysv                           237-4                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.10                   amd64  System-V-like utilities
 ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.43                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.43                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018c-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0038                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   237-3                           amd64  /dev/ and hotplug management daemon
+ii   udev                                   237-4                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.31.1-0.4                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.31.1-0.4                      amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.0.1453-1                    amd64  Vi IMproved - enhanced vi editor
