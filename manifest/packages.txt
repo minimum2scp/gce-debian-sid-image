@@ -33,7 +33,7 @@ ii   etckeeper                              1.18.7-1                        all 
 ii   ethtool                                1:4.11-1                        amd64  display or change Ethernet device settings
 ii   fdisk                                  2.31.1-0.5                      amd64  collection of partitioning utilities
 ii   file                                   1:5.32-2                        amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20170828-2            amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20171230-2            amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-12                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8-20180310-1                    amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1                         amd64  GPT fdisk text-mode partitioning tool
