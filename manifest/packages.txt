@@ -6,9 +6,13 @@ ii   apt-utils                              1.6~beta1                       amd6
 ii   base-files                             10.1                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.44                          amd64  Debian base system master password and group files
 ii   bash                                   4.4.18-1.1                      amd64  GNU Bourne Again SHell
+ii   binutils                               2.30-8                          amd64  GNU assembler, linker and binary utilities
+ii   binutils-common                        2.30-8                          amd64  Common files for the GNU assembler, linker and binary utilities
+ii   binutils-x86-64-linux-gnu              2.30-8                          amd64  GNU binary utilities, for x86-64-linux-gnu target
 ii   bsdmainutils                           11.1.2                          amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.31.1-0.5                    amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.27.2-2                      amd64  Tiny utilities for small and embedded systems
+ii   bzip2                                  1.0.6-8.1                       amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20170717                        all    Common CA certificates
 ii   cloud-guest-utils                      0.29-1                          all    cloud guest utilities
 ii   coreutils                              8.28-1                          amd64  GNU core utilities
@@ -20,13 +24,14 @@ ii   debconf                                1.5.66                          all 
 ii   debconf-i18n                           1.5.66                          all    full internationalization support for debconf
 ii   debian-archive-keyring                 2017.7                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.8.4                           amd64  Miscellaneous utilities specific to Debian
-ii   dh-python                              3.20180313                      all    Debian helper tools for packaging Python libraries and applications
+ii   dh-python                              3.20180318                      all    Debian helper tools for packaging Python libraries and applications
 ii   diffutils                              1:3.6-1                         amd64  File comparison utilities
 ii   dirmngr                                2.2.5-1                         amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.37                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.1-1                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.19.0.5                        amd64  Debian package management system
+ii   dpkg-dev                               1.19.0.5                        all    Debian package development tools
 ii   e2fslibs                               1.44.0-1                        amd64  transitional package
 ii   e2fsprogs                              1.44.0-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.7-1                        all    store /etc in git, mercurial, bzr or darcs
@@ -34,8 +39,8 @@ ii   ethtool                                1:4.11-1                        amd6
 ii   fdisk                                  2.31.1-0.5                      amd64  collection of partitioning utilities
 ii   file                                   1:5.32-2                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20171230-2            amd64  utilities for finding files--find, xargs
-ii   gcc-6-base                             6.4.0-13                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8-20180312-2                    amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-6-base                             6.4.0-14                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8-20180319-1                    amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-4                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.16.2-1                      amd64  fast, scalable, distributed revision control system
@@ -77,7 +82,7 @@ ii   klibc-utils                            2.0.4-11                        amd6
 ii   kmod                                   25-1                            amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.4-3                         amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                     amd64  Access control list shared library
-ii   libapparmor1                           2.12-3                          amd64  changehat AppArmor library
+ii   libapparmor1                           2.12-4                          amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.6~beta1                       amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.6~beta1                       amd64  package management runtime library
 ii   libargon2-0                            0~20161029-1.1                  amd64  memory-hard hashing function - runtime library
@@ -85,6 +90,7 @@ ii   libassuan0                             2.5.1-2                         amd6
 ii   libattr1                               1:2.4.47-2+b2                   amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.8.2-1                       all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.2-1                       amd64  Dynamic library for security auditing
+ii   libbinutils                            2.30-8                          amd64  GNU binary utilities (private shared library)
 ii   libblkid1                              2.31.1-0.5                      amd64  block device ID library
 ii   libbsd0                                0.8.7-1                         amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-8.1                       amd64  high-quality block-sorting file compressor library - runtime
@@ -104,6 +110,7 @@ ii   libdebconfclient0                      0.241+b1                        amd6
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported DNS Shared Library
 ii   libdns-export169                       1:9.11.2.P1-1                   amd64  Exported DNS Shared Library
+ii   libdpkg-perl                           1.19.0.5                        all    Dpkg perl modules
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
 ii   libelf1                                0.170-0.3                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17025-1                       all    Perl module for error/exception handling in an OO-ish way
@@ -115,7 +122,7 @@ ii   libfdisk1                              2.31.1-0.5                      amd6
 ii   libffi6                                3.2.1-8                         amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.8.1-2                         amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:8-20180312-2                  amd64  GCC support library
+ii   libgcc1                                1:8-20180319-1                  amd64  GCC support library
 ii   libgcrypt20                            1.8.1-4                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.14.1-6                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
@@ -198,7 +205,7 @@ ii   libss2                                 1.44.0-1                        amd6
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2n-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             8-20180312-2                    amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             8-20180319-1                    amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            238-2                           amd64  systemd utility library
 ii   libtasn1-6                             4.13-2                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
@@ -223,6 +230,7 @@ ii   login                                  1:4.5-1                         amd6
 ii   logrotate                              3.11.0-0.1                      amd64  Log rotation utility
 ii   lsb-base                               9.20170808                      all    Linux Standard Base init script functionality
 ii   lsb-release                            9.20170808                      all    Linux Standard Base version reporting utility
+ii   make                                   4.2.1-1                         amd64  utility for directing compilation
 ii   man-db                                 2.8.2-1                         amd64  on-line manual pager
 ii   mawk                                   1.3.3-17+b3                     amd64  a pattern scanning and text processing language
 ii   mime-support                           3.60                            all    MIME files 'mime.types' & 'mailcap', and support programs
@@ -240,6 +248,7 @@ ii   openssh-sftp-server                    1:7.6p1-4                       amd6
 ii   openssl                                1.1.0g-2                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-20                          amd64  disk partition manipulator
 ii   passwd                                 1:4.5-1                         amd64  change and administer password and group data
+ii   patch                                  2.7.6-1                         amd64  Apply a diff file to an original
 ii   perl                                   5.26.1-5                        amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.26.1-5                        amd64  minimal Perl system
 ii   perl-modules-5.26                      5.26.1-5                        all    Core Perl modules
