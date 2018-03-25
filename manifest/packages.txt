@@ -32,8 +32,8 @@ ii   dmidecode                              3.1-1                           amd6
 ii   dmsetup                                2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.19.0.5                        amd64  Debian package management system
 ii   dpkg-dev                               1.19.0.5                        all    Debian package development tools
-ii   e2fslibs                               1.44.0-1                        amd64  transitional package
-ii   e2fsprogs                              1.44.0-1                        amd64  ext2/ext3/ext4 file system utilities
+ii   e2fslibs                               1.44.1-1                        amd64  transitional package
+ii   e2fsprogs                              1.44.1-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.7-1                        all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.11-1                        amd64  display or change Ethernet device settings
 ii   fdisk                                  2.31.1-0.5                      amd64  collection of partitioning utilities
@@ -42,7 +42,7 @@ ii   findutils                              4.6.0+git+20171230-2            amd6
 ii   gcc-6-base                             6.4.0-15                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8-20180321-1                    amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1                         amd64  GPT fdisk text-mode partitioning tool
-ii   gettext-base                           0.19.8.1-5                      amd64  GNU Internationalization utilities for the base system
+ii   gettext-base                           0.19.8.1-6                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.16.3-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.16.3-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.5-1                         amd64  GNU privacy guard - a free PGP replacement
@@ -99,8 +99,8 @@ ii   libc-l10n                              2.27-2                          all 
 ii   libc6                                  2.27-2                          amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.7-3.1+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-1.2                      amd64  POSIX 1003.1e capabilities (library)
-ii   libcom-err2                            1.44.0-1                        amd64  common error description library
-ii   libcomerr2                             1.44.0-1                        amd64  transitional package
+ii   libcom-err2                            1.44.1-1                        amd64  common error description library
+ii   libcomerr2                             1.44.1-1                        amd64  transitional package
 ii   libcryptsetup12                        2:2.0.2-1                       amd64  disk encryption support - shared library
 ii   libcryptsetup4                         2:1.7.3-4                       amd64  disk encryption support - shared library
 ii   libcurl3                               7.58.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
@@ -116,7 +116,7 @@ ii   libelf1                                0.170-0.3                       amd6
 ii   liberror-perl                          0.17025-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                      amd64  Helper functions for handling strings (lib)
 ii   libexpat1                              2.2.5-3                         amd64  XML parsing C library - runtime library
-ii   libext2fs2                             1.44.0-1                        amd64  ext2/ext3/ext4 file system libraries
+ii   libext2fs2                             1.44.1-1                        amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           0.99.8-2                        amd64  fast json library for C
 ii   libfdisk1                              2.31.1-0.5                      amd64  fdisk partitioning library
 ii   libffi6                                3.2.1-8                         amd64  Foreign Function Interface library runtime
@@ -201,7 +201,7 @@ ii   libsepol1                              2.7-1                           amd6
 ii   libslang2                              2.3.2-1                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.31.1-0.5                      amd64  smart column output alignment library
 ii   libsqlite3-0                           3.22.0-2                        amd64  SQLite 3 shared library
-ii   libss2                                 1.44.0-1                        amd64  command-line interface parsing library
+ii   libss2                                 1.44.1-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2n-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0g-2                        amd64  Secure Sockets Layer toolkit - shared libraries
@@ -222,9 +222,9 @@ ii   libwrap0                               7.6.q-27                        amd6
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.2-1                         amd64  netfilter xtables library
 ii   linux-base                             4.5                             all    Linux image base package
-ii   linux-image-4.15.0-1-amd64             4.15.4-1                        amd64  Linux 4.15 for 64-bit PCs
+ii   linux-image-4.15.0-2-amd64             4.15.11-1                       amd64  Linux 4.15 for 64-bit PCs
 ii   linux-image-4.9.0-6-amd64              4.9.82-1+deb9u3                 amd64  Linux 4.9 for 64-bit PCs
-ii   linux-image-amd64                      4.15+90                         amd64  Linux for 64-bit PCs (meta-package)
+ii   linux-image-amd64                      4.15+91                         amd64  Linux for 64-bit PCs (meta-package)
 ii   locales                                2.27-2                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1                         amd64  system login tools
 ii   logrotate                              3.11.0-0.1                      amd64  Log rotation utility
@@ -262,7 +262,7 @@ ii   python-crcmod                          1.7-2+b3                        amd6
 ii   python-google-compute-engine           2.7.6-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.14-4                        amd64  minimal subset of the Python language (default version)
-ii   python-pkg-resources                   38.5.2-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   39.0.1-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.4-2                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-2                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.22-1                          all    HTTP library with thread-safe connection pooling for Python
@@ -276,7 +276,7 @@ ii   python3-distro                         1.0.1-2                         all 
 ii   python3-google-compute-engine          2.7.6-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.6.4-1                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  38.5.2-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  39.0.1-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.4-2                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-2                        all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.22-1                          all    HTTP library with thread-safe connection pooling for Python3
