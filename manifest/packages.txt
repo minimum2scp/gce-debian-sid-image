@@ -34,7 +34,7 @@ ii   fdisk                                  2.31.1-0.5                      amd6
 ii   file                                   1:5.32-2                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20171230-2            amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-15                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8-20180321-1                    amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8-20180331-1                    amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-6                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.16.3-1                      amd64  fast, scalable, distributed revision control system
@@ -70,8 +70,8 @@ ii   initramfs-tools-core                   0.130                           all 
 ii   iproute2                               4.15.0-3                        amd64  networking and traffic control tools
 ii   iptables                               1.6.2-1                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20161105-1                    amd64  Tools to test the reachability of network hosts
-ii   isc-dhcp-client                        4.3.5-3.1                       amd64  DHCP client for automatically obtaining an IP address
-ii   isc-dhcp-common                        4.3.5-3.1                       amd64  common manpages relevant to all of the isc-dhcp packages
+ii   isc-dhcp-client                        4.3.5-4                         amd64  DHCP client for automatically obtaining an IP address
+ii   isc-dhcp-common                        4.3.5-4                         amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.4-11                        amd64  small utilities built with klibc for early boot
 ii   kmod                                   25-1                            amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.4-3                         amd64  create device mappings for partitions
@@ -101,8 +101,8 @@ ii   libcurl3-gnutls                        7.58.0-2                        amd6
 ii   libdb5.3                               5.3.28-13.1+b1                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.243                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd64  Linux Kernel Device Mapper userspace library
+ii   libdns-export1100                      1:9.11.3+dfsg-1                 amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported DNS Shared Library
-ii   libdns-export169                       1:9.11.2.P1-1                   amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
 ii   libelf1                                0.170-0.3                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17025-1                       all    Perl module for error/exception handling in an OO-ish way
@@ -116,7 +116,7 @@ ii   libfdisk1                              2.31.1-0.5                      amd6
 ii   libffi6                                3.2.1-8                         amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.8.1-2                         amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:8-20180321-1                  amd64  GCC support library
+ii   libgcc1                                1:8-20180331-1                  amd64  GCC support library
 ii   libgcrypt20                            1.8.2-2                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.14.1-6                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
@@ -133,7 +133,7 @@ ii   libip4tc0                              1.6.2-1                         amd6
 ii   libip6tc0                              1.6.2-1                         amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.2-1                         amd64  netfilter libiptc library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported ISC Shared Library
-ii   libisc-export166                       1:9.11.2.P1-1                   amd64  Exported ISC Shared Library
+ii   libisc-export169                       1:9.11.3+dfsg-1                 amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1-1.3                      amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.16-2                          amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.2                       amd64  Linux Key Management Utilities (library)
@@ -180,9 +180,9 @@ ii   libpsl5                                0.20.1-1                        amd6
 ii   libpython-stdlib                       2.7.14-4                        amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.14-7                        amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.14-7                        amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-ii   libpython3-stdlib                      3.6.5~rc1-1                     amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.6-minimal                   3.6.5-1                         amd64  Minimal subset of the Python language (version 3.6)
-ii   libpython3.6-stdlib                    3.6.5-1                         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
+ii   libpython3-stdlib                      3.6.5-1                         amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3.6-minimal                   3.6.5-2                         amd64  Minimal subset of the Python language (version 3.6)
+ii   libpython3.6-stdlib                    3.6.5-2                         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
 ii   libreadline7                           7.0-3                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1+b1  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3      amd64  Cyrus SASL - authentication abstraction library
@@ -199,7 +199,7 @@ ii   libss2                                 1.44.1-1                        amd6
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2o-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0h-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             8-20180321-1                    amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             8-20180331-1                    amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            238-3                           amd64  systemd utility library
 ii   libtasn1-6                             4.13-2                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
@@ -260,20 +260,20 @@ ii   python-six                             1.11.0-2                        all 
 ii   python-urllib3                         1.22-1                          all    HTTP library with thread-safe connection pooling for Python
 ii   python2.7                              2.7.14-7                        amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.14-7                        amd64  Minimal subset of the Python language (version 2.7)
-ii   python3                                3.6.5~rc1-1                     amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3                                3.6.5-1                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-boto                           2.44.0-1                        all    Python interface to Amazon's Web Services - Python 3.x
 ii   python3-certifi                        2018.1.18-2                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-chardet                        3.0.4-1                         all    universal character encoding detector for Python3
 ii   python3-distro                         1.0.1-2                         all    Linux OS platform information API
 ii   python3-google-compute-engine          2.7.6-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-minimal                        3.6.5~rc1-1                     amd64  minimal subset of the Python language (default python3 version)
+ii   python3-minimal                        3.6.5-1                         amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  39.0.1-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.4-2                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-2                        all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.22-1                          all    HTTP library with thread-safe connection pooling for Python3
-ii   python3.6                              3.6.5-1                         amd64  Interactive high-level object-oriented language (version 3.6)
-ii   python3.6-minimal                      3.6.5-1                         amd64  Minimal subset of the Python language (version 3.6)
+ii   python3.6                              3.6.5-2                         amd64  Interactive high-level object-oriented language (version 3.6)
+ii   python3.6-minimal                      3.6.5-2                         amd64  Minimal subset of the Python language (version 3.6)
 ii   readline-common                        7.0-3                           all    GNU readline and history libraries, common files
 ii   rsyslog                                8.33.1-1                        amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
