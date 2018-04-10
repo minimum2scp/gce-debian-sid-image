@@ -104,7 +104,7 @@ ii   libdevmapper1.02.1                     2:1.02.145-4.1                  amd6
 ii   libdns-export1100                      1:9.11.3+dfsg-1                 amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4    amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20170329-1                  amd64  BSD editline and history libraries
-ii   libelf1                                0.170-0.3                       amd64  library to read and write ELF files
+ii   libelf1                                0.170-0.4                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17025-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                      amd64  Helper functions for handling strings (lib)
 ii   libevent-core-2.1-6                    2.1.8-stable-4                  amd64  Asynchronous event notification library (core)
@@ -168,7 +168,7 @@ ii   libpam-modules                         1.1.8-3.7                       amd6
 ii   libpam-modules-bin                     1.1.8-3.7                       amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.1.8-3.7                       all    Runtime support for the PAM library
 ii   libpam0g                               1.1.8-3.7                       amd64  Pluggable Authentication Modules library
-ii   libparted2                             3.2-20                          amd64  disk partition manipulator - shared library
+ii   libparted2                             3.2-21                          amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.31-3                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-9                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.1-5                        amd64  shared Perl library
@@ -239,7 +239,7 @@ ii   openssh-client                         1:7.7p1-2                       amd6
 ii   openssh-server                         1:7.7p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:7.7p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.0h-2                        amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   parted                                 3.2-20                          amd64  disk partition manipulator
+ii   parted                                 3.2-21                          amd64  disk partition manipulator
 ii   passwd                                 1:4.5-1                         amd64  change and administer password and group data
 ii   perl                                   5.26.1-5                        amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.26.1-5                        amd64  minimal Perl system
