@@ -44,7 +44,7 @@ ii   gnupg-agent                            2.2.5-1                         all 
 ii   gnupg-l10n                             2.2.5-1                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.5-1                         amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       197.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       198.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.7.6-1                         all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.1.5-1+deb9                    amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.5-1                         amd64  GNU Privacy Guard -- minimalist public key operations
@@ -177,7 +177,7 @@ ii   libpng16-16                            1.6.34-1                        amd6
 ii   libpopt0                               1.16-11                         amd64  lib for parsing cmdline parameters
 ii   libprocps6                             2:3.3.14-1                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.20.1-1                        amd64  Library for Public Suffix List (shared libraries)
-ii   libpython-stdlib                       2.7.14-4                        amd64  interactive high-level object-oriented language (default python version)
+ii   libpython-stdlib                       2.7.15~rc1-1                    amd64  interactive high-level object-oriented language (default python version)
 ii   libpython2.7-minimal                   2.7.15~rc1-1                    amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.15~rc1-1                    amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.6.5-3                         amd64  interactive high-level object-oriented language (default python3 version)
@@ -247,14 +247,14 @@ ii   perl-base                              5.26.1-6                        amd6
 ii   perl-modules-5.26                      5.26.1-6                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-1                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.14-1                      amd64  /proc file system utilities
-ii   python                                 2.7.14-4                        amd64  interactive high-level object-oriented language (default version)
+ii   python                                 2.7.15~rc1-1                    amd64  interactive high-level object-oriented language (default version)
 ii   python-boto                            2.44.0-1                        all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2018.1.18-3                     all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-1                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7-2+b2                        amd64  CRC Generator - python 2.x
 ii   python-google-compute-engine           2.7.6-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
-ii   python-minimal                         2.7.14-4                        amd64  minimal subset of the Python language (default version)
+ii   python-minimal                         2.7.15~rc1-1                    amd64  minimal subset of the Python language (default version)
 ii   python-pkg-resources                   39.0.1-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.4-2                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-2                        all    Python 2 and 3 compatibility library (Python 2 interface)
