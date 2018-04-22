@@ -160,7 +160,7 @@ ii   libnetfilter-conntrack3                1.0.6-2                         amd6
 ii   libnettle6                             3.4-1                           amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-4                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnghttp2-14                          1.31.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.31.1-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.5-3                           amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                     amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.10-2                       amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -185,8 +185,8 @@ ii   libpython3.6-minimal                   3.6.5-3                         amd6
 ii   libpython3.6-stdlib                    3.6.5-3                         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
 ii   libreadline7                           7.0-3                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1+b1  amd64  toolkit for RTMP streams (shared library)
-ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3      amd64  Cyrus SASL - authentication abstraction library
-ii   libsasl2-modules-db                    2.1.27~101-g0780600+dfsg-3      amd64  Cyrus SASL - pluggable authentication modules (DB)
+ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3.1    amd64  Cyrus SASL - authentication abstraction library
+ii   libsasl2-modules-db                    2.1.27~101-g0780600+dfsg-3.1    amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.3.1-2.1                       amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.7-2+b2                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.7-2                           all    Common files for SELinux policy management libraries
@@ -215,7 +215,7 @@ ii   libuuid1                               2.31.1-0.5                      amd6
 ii   libwrap0                               7.6.q-27                        amd64  Wietse Venema's TCP wrappers library
 ii   libxapian30                            1.4.5-1                         amd64  Search engine library
 ii   libxtables12                           1.6.2-1                         amd64  netfilter xtables library
-ii   libzstd1                               1.3.3+dfsg-1                    amd64  fast lossless compression algorithm
+ii   libzstd1                               1.3.3+dfsg-2                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                             all    Linux image base package
 ii   linux-image-4.15.0-3-amd64             4.15.17-1                       amd64  Linux 4.15 for 64-bit PCs
 ii   linux-image-4.9.0-6-amd64              4.9.82-1+deb9u3                 amd64  Linux 4.9 for 64-bit PCs
