@@ -153,7 +153,7 @@ ii   libmagic-mgc                           1:5.32-2                        amd6
 ii   libmagic1                              1:5.32-2                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmnl0                                1.0.4-2                         amd64  minimalistic Netlink communication library
 ii   libmount1                              2.31.1-0.5                      amd64  device mounting library
-ii   libmpdec2                              2.4.2-1                         amd64  library for decimal floating point arithmetic (runtime library)
+ii   libmpdec2                              2.4.2-2                         amd64  library for decimal floating point arithmetic (runtime library)
 ii   libncurses5                            6.1-1                           amd64  shared libraries for terminal handling
 ii   libncursesw5                           6.1-1                           amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.6-2                         amd64  Netfilter netlink-conntrack library
