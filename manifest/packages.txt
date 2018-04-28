@@ -171,7 +171,7 @@ ii   libpam0g                               1.1.8-3.7                       amd6
 ii   libparted2                             3.2-21                          amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.31-3                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-9                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.26                            5.26.2-2                        amd64  shared Perl library
+ii   libperl5.26                            5.26.2-3                        amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                         amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-11                         amd64  lib for parsing cmdline parameters
@@ -183,7 +183,7 @@ ii   libpython2.7-stdlib                    2.7.15~rc1-1                    amd6
 ii   libpython3-stdlib                      3.6.5-3                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.6-minimal                   3.6.5-3                         amd64  Minimal subset of the Python language (version 3.6)
 ii   libpython3.6-stdlib                    3.6.5-3                         amd64  Interactive high-level object-oriented language (standard library, version 3.6)
-ii   libreadline7                           7.0-3                           amd64  GNU readline and history libraries, run-time libraries
+ii   libreadline7                           7.0-3+b1                        amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-1+b1  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3.1    amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules-db                    2.1.27~101-g0780600+dfsg-3.1    amd64  Cyrus SASL - pluggable authentication modules (DB)
@@ -243,9 +243,9 @@ ii   openssh-sftp-server                    1:7.7p1-2                       amd6
 ii   openssl                                1.1.0h-2                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-21                          amd64  disk partition manipulator
 ii   passwd                                 1:4.5-1                         amd64  change and administer password and group data
-ii   perl                                   5.26.2-2                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.26.2-2                        amd64  minimal Perl system
-ii   perl-modules-5.26                      5.26.2-2                        all    Core Perl modules
+ii   perl                                   5.26.2-3                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.26.2-3                        amd64  minimal Perl system
+ii   perl-modules-5.26                      5.26.2-3                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-1                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.14-1                      amd64  /proc file system utilities
 ii   python                                 2.7.15~rc1-1                    amd64  interactive high-level object-oriented language (default version)
@@ -278,7 +278,7 @@ ii   python3.6                              3.6.5-3                         amd6
 ii   python3.6-minimal                      3.6.5-3                         amd64  Minimal subset of the Python language (version 3.6)
 ii   readline-common                        7.0-3                           all    GNU readline and history libraries, common files
 ii   rsyslog                                8.34.0-1                        amd64  reliable system and kernel logging daemon
-ii   screen                                 4.6.2-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
+ii   screen                                 4.6.2-1+b1                      amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.4-2                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12                          all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p11+dfsg-1               amd64  Network Time Protocol - sntp client
