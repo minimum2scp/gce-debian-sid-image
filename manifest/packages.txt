@@ -286,7 +286,7 @@ ii   sudo                                   1.8.21p2-3                      amd6
 ii   systemd                                238-4                           amd64  system and service manager
 ii   systemd-sysv                           238-4                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.10                   amd64  System-V-like utilities
-ii   tar                                    1.29b-2                         amd64  GNU version of the tar archiving utility
+ii   tar                                    1.30+dfsg-1                     amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.43                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.43                            all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018d-1                         all    time zone and daylight-saving time data
