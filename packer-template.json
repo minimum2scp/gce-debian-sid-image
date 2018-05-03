@@ -1,7 +1,7 @@
 {
   "variables": {
     "project_id": "",
-    "source_image": "debian-9-stretch-v20180401"
+    "source_image": "debian-9-stretch-v20180501"
   },
   "builders": [{
     "type": "googlecompute",
