@@ -6,7 +6,7 @@ ii   apt-utils                              1.6.1                           amd6
 ii   base-files                             10.1                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.45                          amd64  Debian base system master password and group files
 ii   bash                                   4.4.18-2                        amd64  GNU Bourne Again SHell
-ii   bsdmainutils                           11.1.2                          amd64  collection of more utilities from FreeBSD
+ii   bsdmainutils                           11.1.2+b1                       amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.31.1-0.5                    amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.27.2-2                      amd64  Tiny utilities for small and embedded systems
 ii   ca-certificates                        20180409                        all    Common CA certificates
@@ -143,8 +143,8 @@ ii   libkmod2                               25-1                            amd6
 ii   libkrb5-3                              1.16-2                          amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.16-2                          amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.3.5-2                         amd64  X.509 and CMS support library
-ii   libldap-2.4-2                          2.4.44+dfsg-5+deb9u1            amd64  OpenLDAP libraries
-ii   libldap-common                         2.4.45+dfsg-1                   all    OpenLDAP common files for libraries
+ii   libldap-2.4-2                          2.4.46+dfsg-4                   amd64  OpenLDAP libraries
+ii   libldap-common                         2.4.46+dfsg-4                   all    OpenLDAP common files for libraries
 ii   liblocale-gettext-perl                 1.07-3+b3                       amd64  module using libc functions for internationalization in Perl
 ii   liblogging-stdlog0                     1.0.6-3                         amd64  easy to use and lightweight logging library
 ii   liblognorm5                            2.0.5-1                         amd64  log normalizing library
@@ -291,7 +291,7 @@ ii   sysvinit-utils                         2.88dsf-59.10                   amd6
 ii   tar                                    1.30+dfsg-1                     amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.43                            all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.43                            all    official tasks used for installation of Debian systems
-ii   tzdata                                 2018d-1                         all    time zone and daylight-saving time data
+ii   tzdata                                 2018e-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0038                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   238-4                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.31.1-0.5                      amd64  miscellaneous system utilities
