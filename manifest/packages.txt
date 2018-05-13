@@ -34,7 +34,7 @@ ii   fdisk                                  2.32-0.1                        amd6
 ii   file                                   1:5.33-2                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20171230-2            amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-17                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8.1.0-2                         amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.1.0-3                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-6+b1                   amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.17.0-1                      amd64  fast, scalable, distributed revision control system
@@ -117,7 +117,7 @@ ii   libfdisk1                              2.32-0.1                        amd6
 ii   libffi6                                3.2.1-8                         amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.8.1-2                         amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                         amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:8.1.0-2                       amd64  GCC support library
+ii   libgcc1                                1:8.1.0-3                       amd64  GCC support library
 ii   libgcrypt20                            1.8.2-2                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.14.1-6                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                        amd64  GNU dbm database routines (runtime version)
@@ -202,7 +202,7 @@ ii   libss2                                 1.44.1-2                        amd6
 ii   libssh2-1                              1.8.0-1                         amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2o-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0h-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             8.1.0-2                         amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             8.1.0-3                         amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            238-4                           amd64  systemd utility library
 ii   libtasn1-6                             4.13-2                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
@@ -259,7 +259,7 @@ ii   python-crcmod                          1.7-2+b2                        amd6
 ii   python-google-compute-engine           2.8.2-1                         all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.15~rc1-1                    amd64  minimal subset of the Python language (default version)
-ii   python-pkg-resources                   39.0.1-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   39.1.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.4-2                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-2                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.22-1                          all    HTTP library with thread-safe connection pooling for Python
@@ -273,7 +273,7 @@ ii   python3-distro                         1.0.1-2                         all 
 ii   python3-google-compute-engine          2.8.2-1                         all    Google Compute Engine python library for Python 3.x.
 ii   python3-idna                           2.6-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.6.5-3                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  39.0.1-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  39.1.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.18.4-2                        all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-2                        all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.22-1                          all    HTTP library with thread-safe connection pooling for Python3
