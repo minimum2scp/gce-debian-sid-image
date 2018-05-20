@@ -163,7 +163,7 @@ ii   libnetfilter-conntrack3                1.0.7-1                         amd6
 ii   libnettle6                             3.4-1                           amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-4                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnghttp2-14                          1.31.1-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.32.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.5-3                           amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                     amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.10-2                       amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -174,7 +174,7 @@ ii   libpam0g                               1.1.8-3.7                       amd6
 ii   libparted2                             3.2-21+b1                       amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.31-3                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-9                        amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.26                            5.26.2-4                        amd64  shared Perl library
+ii   libperl5.26                            5.26.2-5                        amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                         amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-11                         amd64  lib for parsing cmdline parameters
@@ -204,7 +204,7 @@ ii   libssl1.0.2                            1.0.2o-1                        amd6
 ii   libssl1.1                              1.1.0h-3                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             8.1.0-3                         amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            238-4                           amd64  systemd utility library
-ii   libtasn1-6                             4.13-2                          amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.13-3                          amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                        amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                        amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                        all    internationalized substitute of Text::Wrap
@@ -246,9 +246,9 @@ ii   openssh-sftp-server                    1:7.7p1-2                       amd6
 ii   openssl                                1.1.0h-3                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   parted                                 3.2-21+b1                       amd64  disk partition manipulator
 ii   passwd                                 1:4.5-1                         amd64  change and administer password and group data
-ii   perl                                   5.26.2-4                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.26.2-4                        amd64  minimal Perl system
-ii   perl-modules-5.26                      5.26.2-4                        all    Core Perl modules
+ii   perl                                   5.26.2-5                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.26.2-5                        amd64  minimal Perl system
+ii   perl-modules-5.26                      5.26.2-5                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-1+b1                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.14-1+b1                   amd64  /proc file system utilities
 ii   python                                 2.7.15~rc1-1                    amd64  interactive high-level object-oriented language (default version)
