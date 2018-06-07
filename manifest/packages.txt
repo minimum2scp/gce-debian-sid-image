@@ -180,7 +180,8 @@ ii   libpopt0                               1.16-11                       amd64 
 ii   libprocps6                             2:3.3.14-1+b1                 amd64  library for accessing process information from /proc
 ii   libprocps7                             2:3.3.15-2                    amd64  library for accessing process information from /proc
 ii   libpsl5                                0.20.2-1                      amd64  Library for Public Suffix List (shared libraries)
-ii   libpython-stdlib                       2.7.15~rc1-1                  amd64  interactive high-level object-oriented language (default python version)
+ii   libpython-stdlib                       2.7.15-2                      amd64  interactive high-level object-oriented language (Python2)
+ii   libpython2-stdlib                      2.7.15-2                      amd64  interactive high-level object-oriented language (Python2)
 ii   libpython2.7-minimal                   2.7.15-1                      amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.15-1                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.6.5-3                       amd64  interactive high-level object-oriented language (default python3 version)
@@ -197,7 +198,7 @@ ii   libsemanage1                           2.8-1                         amd64 
 ii   libsepol1                              2.8-1                         amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-1+b1                    amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.32-0.1                      amd64  smart column output alignment library
-ii   libsqlite3-0                           3.23.1-1                      amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.24.0-1                      amd64  SQLite 3 shared library
 ii   libss2                                 1.44.2-1                      amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-1                       amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2o-1                      amd64  Secure Sockets Layer toolkit - shared libraries
@@ -251,18 +252,20 @@ ii   perl-base                              5.26.2-5                      amd64 
 ii   perl-modules-5.26                      5.26.2-5                      all    Core Perl modules
 ii   pinentry-curses                        1.1.0-1+b1                    amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.15-2                    amd64  /proc file system utilities
-ii   python                                 2.7.15~rc1-1                  amd64  interactive high-level object-oriented language (default version)
+ii   python                                 2.7.15-2                      amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-boto                            2.44.0-1                      all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2018.1.18-3                   all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-1                       all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7+dfsg-1                    amd64  CRC Generator - Python 2.x
 ii   python-google-compute-engine           2.8.2-1                       all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                         all    Python IDNA2008 (RFC 5891) handling (Python 2)
-ii   python-minimal                         2.7.15~rc1-1                  amd64  minimal subset of the Python language (default version)
+ii   python-minimal                         2.7.15-2                      amd64  minimal subset of the Python2 language
 ii   python-pkg-resources                   39.1.0-1                      all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.18.4-2                      all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-2                      all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.22-1                        all    HTTP library with thread-safe connection pooling for Python
+ii   python2                                2.7.15-2                      amd64  interactive high-level object-oriented language (Python2 version)
+ii   python2-minimal                        2.7.15-2                      amd64  minimal subset of the Python2 language
 ii   python2.7                              2.7.15-1                      amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.15-1                      amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.6.5-3                       amd64  interactive high-level object-oriented language (default python3 version)
@@ -280,7 +283,7 @@ ii   python3-urllib3                        1.22-1                        all   
 ii   python3.6                              3.6.5-9                       amd64  Interactive high-level object-oriented language (version 3.6)
 ii   python3.6-minimal                      3.6.5-9                       amd64  Minimal subset of the Python language (version 3.6)
 ii   readline-common                        7.0-5                         all    GNU readline and history libraries, common files
-ii   rsyslog                                8.34.0-1                      amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.35.0-1                      amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-1+b1                    amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.4-2                         amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12                        all    Utilities for sensible alternative selection
