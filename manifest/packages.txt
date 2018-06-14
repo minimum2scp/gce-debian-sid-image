@@ -117,7 +117,7 @@ ii   libffi6                                3.2.1-8                       amd64 
 ii   libfreetype6                           2.8.1-2                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                       amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:8.1.0-5                     amd64  GCC support library
-ii   libgcrypt20                            1.8.2-2                       amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.8.3-1                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.14.1-6+b1                   amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
 ii   libgdbm5                               1.14.1-6+b1                   amd64  GNU dbm database routines (runtime version)
