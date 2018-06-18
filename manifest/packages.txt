@@ -94,7 +94,7 @@ ii   libcap2                                1:2.25-1.2                    amd64 
 ii   libcap2-bin                            1:2.25-1.2                    amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.44.2-1                      amd64  common error description library
 ii   libcomerr2                             1.44.2-1                      amd64  transitional package
-ii   libcryptsetup12                        2:2.0.3-1                     amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.0.3-2                     amd64  disk encryption support - shared library
 ii   libcryptsetup4                         2:1.7.3-4                     amd64  disk encryption support - shared library
 ii   libcurl3                               7.60.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.60.0-2                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
