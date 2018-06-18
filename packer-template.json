@@ -45,7 +45,8 @@
         "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y ntp google-compute-engine",
         "sudo cp -a /var/tmp/ntp.conf.google /etc/ntp.conf",
-        "sudo etckeeper commit 'ntp: copied original ntp.conf from debian-9 image family'"
+        "sudo etckeeper commit 'ntp: copied original ntp.conf from debian-9 image family'",
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends linux-image-cloud-amd64"
       ],
       "expect_disconnect": false
     },
