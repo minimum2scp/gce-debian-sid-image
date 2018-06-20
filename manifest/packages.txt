@@ -43,7 +43,7 @@ ii   gnupg-agent                            2.2.8-1                       all   
 ii   gnupg-l10n                             2.2.8-1                       all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.8-1                       amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                         all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       204.0.0-0                     all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       206.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.8.3-1                       all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.3.0-1+deb9                  amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.8-1                       amd64  GNU Privacy Guard -- minimalist public key operations
@@ -105,7 +105,7 @@ ii   libdns-export1100                      1:9.11.3+dfsg-2               amd64 
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20180525-1                amd64  BSD editline and history libraries
 ii   libelf1                                0.170-0.4                     amd64  library to read and write ELF files
-ii   liberror-perl                          0.17025-1                     all    Perl module for error/exception handling in an OO-ish way
+ii   liberror-perl                          0.17026-1                     all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                    amd64  Helper functions for handling strings (lib)
 ii   libevent-core-2.1-6                    2.1.8-stable-4                amd64  Asynchronous event notification library (core)
 ii   libevent-pthreads-2.1-6                2.1.8-stable-4                amd64  Asynchronous event notification library (pthreads)
@@ -222,8 +222,8 @@ ii   libxapian30                            1.4.5-1                       amd64 
 ii   libxtables12                           1.6.2-1                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.4+dfsg-3                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
-ii   linux-image-4.16.0-2-amd64             4.16.12-1                     amd64  Linux 4.16 for 64-bit PCs
-ii   linux-image-4.16.0-2-cloud-amd64       4.16.12-1                     amd64  Linux 4.16 for x86-64 cloud
+ii   linux-image-4.16.0-2-amd64             4.16.16-1                     amd64  Linux 4.16 for 64-bit PCs
+ii   linux-image-4.16.0-2-cloud-amd64       4.16.16-1                     amd64  Linux 4.16 for x86-64 cloud
 ii   linux-image-4.9.0-6-amd64              4.9.88-1+deb9u1               amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.16+94                       amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.16+94                       amd64  Linux for x86-64 cloud (meta-package)
@@ -302,12 +302,12 @@ ii   ucf                                    3.0038                        all   
 ii   udev                                   238-5                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.32-0.1                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.32-0.1                      amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.0.1766-1                  amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.0.1766-1                  all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.0.1766-1                  all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.0.1766-1                  amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.1.0089-1                  amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.1.0089-1                  all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.1.0089-1                  all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.1.0089-1                  amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.19.5-1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.20-4                     amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.0.1766-1                  amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.1.0089-1                  amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.3                     amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1               amd64  compression library - runtime
