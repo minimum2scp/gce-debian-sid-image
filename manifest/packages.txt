@@ -5,7 +5,7 @@ ii   apt                                    1.6.2                         amd64 
 ii   apt-utils                              1.6.2                         amd64  package management related utility programs
 ii   base-files                             10.1                          amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.45                        amd64  Debian base system master password and group files
-ii   bash                                   4.4.18-3                      amd64  GNU Bourne Again SHell
+ii   bash                                   4.4.18-3.1                    amd64  GNU Bourne Again SHell
 ii   bsdmainutils                           11.1.2+b1                     amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.32-0.1                    amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.27.2-2                    amd64  Tiny utilities for small and embedded systems
@@ -83,7 +83,7 @@ ii   libargon2-1                            0~20171227-0.1                amd64 
 ii   libassuan0                             2.5.1-2                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                 amd64  Extended attribute shared library
 ii   libaudit-common                        1:2.8.3-1                     all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:2.8.3-1                     amd64  Dynamic library for security auditing
+ii   libaudit1                              1:2.8.3-1+b1                  amd64  Dynamic library for security auditing
 ii   libblkid1                              2.32-0.1                      amd64  block device ID library
 ii   libbsd0                                0.9.1-1                       amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-8.1                     amd64  high-quality block-sorting file compressor library - runtime
@@ -219,7 +219,7 @@ ii   libustr-1.0-1                          1.0.4-6                       amd64 
 ii   libutempter0                           1.1.6-3                       amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.32-0.1                      amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                      amd64  Wietse Venema's TCP wrappers library
-ii   libxapian30                            1.4.5-1                       amd64  Search engine library
+ii   libxapian30                            1.4.6-1                       amd64  Search engine library
 ii   libxtables12                           1.6.2-1                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.4+dfsg-3                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
