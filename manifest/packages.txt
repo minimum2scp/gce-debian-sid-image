@@ -213,12 +213,12 @@ ii   libtinfo5                              6.1+20180210-4                amd64 
 ii   libtinfo6                              6.1+20180210-4                amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               239-5                         amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1         amd64  Unicode string library for C
-ii   libunistring2                          0.9.8-1                       amd64  Unicode string library for C
+ii   libunistring2                          0.9.10-1                      amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                       amd64  Micro string library: shared library
 ii   libutempter0                           1.1.6-3                       amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.32-0.1                      amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                      amd64  Wietse Venema's TCP wrappers library
-ii   libxapian30                            1.4.6-1                       amd64  Search engine library
+ii   libxapian30                            1.4.6-2                       amd64  Search engine library
 ii   libxtables12                           1.6.2-1                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.4+dfsg-3                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
