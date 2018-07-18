@@ -33,7 +33,7 @@ ii   fdisk                                  2.32-0.1                      amd64 
 ii   file                                   1:5.33-3                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20171230-2          amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-18                      amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8.1.0-10                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.1.0-11                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1+b1                    amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-6+b1                 amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.18.0-1                    amd64  fast, scalable, distributed revision control system
@@ -71,7 +71,7 @@ ii   iptables                               1.6.2-1                       amd64 
 ii   iputils-ping                           3:20180629-1                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-4                       amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5-4                       amd64  common manpages relevant to all of the isc-dhcp packages
-ii   klibc-utils                            2.0.4-12                      amd64  small utilities built with klibc for early boot
+ii   klibc-utils                            2.0.4-13                      amd64  small utilities built with klibc for early boot
 ii   kmod                                   25-1                          amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.7-1                       amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                   amd64  Access control list shared library
@@ -116,7 +116,7 @@ ii   libfdisk1                              2.32-0.1                      amd64 
 ii   libffi6                                3.2.1-8                       amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.8.1-2                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.7-1                       amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:8.1.0-10                    amd64  GCC support library
+ii   libgcc1                                1:8.1.0-11                    amd64  GCC support library
 ii   libgcrypt20                            1.8.3-1                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.14.1-6+b1                   amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
@@ -137,7 +137,7 @@ ii   libisc-export169                       1:9.11.3+dfsg-2               amd64 
 ii   libjson-c3                             0.12.1-1.3                    amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.16-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.3                     amd64  Linux Key Management Utilities (library)
-ii   libklibc                               2.0.4-12                      amd64  minimal libc subset for use with initramfs
+ii   libklibc                               2.0.4-13                      amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               25-1                          amd64  libkmod shared library
 ii   libkrb5-3                              1.16-2                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.16-2                        amd64  MIT Kerberos runtime libraries - Support library
@@ -154,16 +154,16 @@ ii   libmagic1                              1:5.33-3                      amd64 
 ii   libmnl0                                1.0.4-2                       amd64  minimalistic Netlink communication library
 ii   libmount1                              2.32-0.1                      amd64  device mounting library
 ii   libmpdec2                              2.4.2-2                       amd64  library for decimal floating point arithmetic (runtime library)
-ii   libncurses5                            6.1+20180210-4                amd64  shared libraries for terminal handling (legacy version)
-ii   libncurses6                            6.1+20180210-4                amd64  shared libraries for terminal handling
-ii   libncursesw5                           6.1+20180210-4                amd64  shared libraries for terminal handling (wide character legacy version)
-ii   libncursesw6                           6.1+20180210-4                amd64  shared libraries for terminal handling (wide character support)
+ii   libncurses5                            6.1+20180714-1                amd64  shared libraries for terminal handling (legacy version)
+ii   libncurses6                            6.1+20180714-1                amd64  shared libraries for terminal handling
+ii   libncursesw5                           6.1+20180714-1                amd64  shared libraries for terminal handling (wide character legacy version)
+ii   libncursesw6                           6.1+20180714-1                amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.7-1                       amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.4-1                         amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-5                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                    amd64  Netfilter netlink library
 ii   libnghttp2-14                          1.32.0-1                      amd64  library implementing HTTP/2 protocol (shared library)
-ii   libnpth0                               1.5-4                         amd64  replacement for GNU Pth using system threads
+ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                   amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.12-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.1.8-3.7                     amd64  Pluggable Authentication Modules for PAM
@@ -172,7 +172,7 @@ ii   libpam-runtime                         1.1.8-3.7                     all   
 ii   libpam0g                               1.1.8-3.7                     amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-21+b1                     amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.31-3                       amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
-ii   libpcre3                               2:8.39-9                      amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
+ii   libpcre3                               2:8.39-10                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.2-6                      amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                       amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-2                      amd64  PNG library - runtime (version 1.6)
@@ -203,14 +203,14 @@ ii   libss2                                 1.44.3-1                      amd64 
 ii   libssh2-1                              1.8.0-1                       amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2o-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0h-4                      amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             8.1.0-10                      amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             8.1.0-11                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            239-5                         amd64  systemd utility library
 ii   libtasn1-6                             4.13-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                      amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b6                      amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                      all    internationalized substitute of Text::Wrap
-ii   libtinfo5                              6.1+20180210-4                amd64  shared low-level terminfo library (legacy version)
-ii   libtinfo6                              6.1+20180210-4                amd64  shared low-level terminfo library for terminal handling
+ii   libtinfo5                              6.1+20180714-1                amd64  shared low-level terminfo library (legacy version)
+ii   libtinfo6                              6.1+20180714-1                amd64  shared low-level terminfo library for terminal handling
 ii   libudev1                               239-5                         amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1         amd64  Unicode string library for C
 ii   libunistring2                          0.9.10-1                      amd64  Unicode string library for C
@@ -238,8 +238,8 @@ ii   mime-support                           3.61                          all   
 ii   mount                                  2.32-0.1                      amd64  tools for mounting and manipulating filesystems
 ii   multiarch-support                      2.27-5                        amd64  Transitional package to ensure multiarch compatibility
 ii   nano                                   2.9.8-1                       amd64  small, friendly text editor inspired by Pico
-ii   ncurses-base                           6.1+20180210-4                all    basic terminal type definitions
-ii   ncurses-bin                            6.1+20180210-4                amd64  terminal-related programs and man pages
+ii   ncurses-base                           6.1+20180714-1                all    basic terminal type definitions
+ii   ncurses-bin                            6.1+20180714-1                amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20161116.90da8a0-2    amd64  NET-3 networking toolkit
 ii   netbase                                5.4                           all    Basic TCP/IP networking system
 ii   ntp                                    1:4.2.8p11+dfsg-1             amd64  Network Time Protocol daemon and utility programs
