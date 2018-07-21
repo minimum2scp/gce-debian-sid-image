@@ -222,8 +222,8 @@ ii   libxapian30                            1.4.7-1                       amd64 
 ii   libxtables12                           1.6.2-1                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.4+dfsg-3                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
-ii   linux-image-4.17.0-1-amd64             4.17.6-2                      amd64  Linux 4.17 for 64-bit PCs
-ii   linux-image-4.17.0-1-cloud-amd64       4.17.6-2                      amd64  Linux 4.17 for x86-64 cloud
+ii   linux-image-4.17.0-1-amd64             4.17.8-1                      amd64  Linux 4.17 for 64-bit PCs
+ii   linux-image-4.17.0-1-cloud-amd64       4.17.8-1                      amd64  Linux 4.17 for x86-64 cloud
 ii   linux-image-4.9.0-6-amd64              4.9.88-1+deb9u1               amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.17+95                       amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.17+95                       amd64  Linux for x86-64 cloud (meta-package)
