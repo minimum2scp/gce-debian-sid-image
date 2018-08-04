@@ -33,7 +33,7 @@ ii   fdisk                                  2.32-0.4                      amd64 
 ii   file                                   1:5.33-3                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20171230-2          amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-19                      amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8.2.0-2                       amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.2.0-3                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1+b1                    amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-6+b1                 amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.18.0-1                    amd64  fast, scalable, distributed revision control system
@@ -68,7 +68,7 @@ ii   initramfs-tools                        0.132                         all   
 ii   initramfs-tools-core                   0.132                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               4.17.0-2                      amd64  networking and traffic control tools
 ii   iptables                               1.6.2-1                       amd64  administration tools for packet filtering and NAT
-ii   iputils-ping                           3:20180629-1                  amd64  Tools to test the reachability of network hosts
+ii   iputils-ping                           3:20180629-2                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-4+b1                    amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5-4+b1                    amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.4-14                      amd64  small utilities built with klibc for early boot
@@ -116,7 +116,7 @@ ii   libfdisk1                              2.32-0.4                      amd64 
 ii   libffi6                                3.2.1-8                       amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.8.1-2                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.8-1                       amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:8.2.0-2                     amd64  GCC support library
+ii   libgcc1                                1:8.2.0-3                     amd64  GCC support library
 ii   libgcrypt20                            1.8.3-1                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.14.1-6+b1                   amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
@@ -172,7 +172,7 @@ ii   libpam-runtime                         1.1.8-3.7                     all   
 ii   libpam0g                               1.1.8-3.7                     amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-21+b1                     amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.31-3                       amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
-ii   libpcre3                               2:8.39-10                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
+ii   libpcre3                               2:8.39-11                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.2-6                      amd64  shared Perl library
 ii   libpipeline1                           1.5.0-1                       amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-2                      amd64  PNG library - runtime (version 1.6)
@@ -203,7 +203,7 @@ ii   libss2                                 1.44.3-1                      amd64 
 ii   libssh2-1                              1.8.0-2                       amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2o-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.0h-4                      amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             8.2.0-2                       amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             8.2.0-3                       amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            239-7                         amd64  systemd utility library
 ii   libtasn1-6                             4.13-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1                      amd64  get display widths of characters on the terminal
