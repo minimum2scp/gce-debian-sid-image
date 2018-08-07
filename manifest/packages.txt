@@ -43,7 +43,7 @@ ii   gnupg-agent                            2.2.9-1                       all   
 ii   gnupg-l10n                             2.2.9-1                       all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.9-1                       amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                         all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       210.0.0-0                     all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       211.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.8.3-1                       all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.3.0-1+deb9                  amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.9-1                       amd64  GNU Privacy Guard -- minimalist public key operations
@@ -67,7 +67,7 @@ ii   init-system-helpers                    1.51                          all   
 ii   initramfs-tools                        0.132                         all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.132                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               4.17.0-2                      amd64  networking and traffic control tools
-ii   iptables                               1.6.2-1                       amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.6.2-1.1                     amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20180629-2                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-4+b1                    amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5-4+b1                    amd64  common manpages relevant to all of the isc-dhcp packages
@@ -129,9 +129,9 @@ ii   libgssapi-krb5-2                       1.16-2                        amd64 
 ii   libhogweed4                            3.4-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.2                      amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.4-2.2                     amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc0                              1.6.2-1                       amd64  netfilter libip4tc library
-ii   libip6tc0                              1.6.2-1                       amd64  netfilter libip6tc library
-ii   libiptc0                               1.6.2-1                       amd64  netfilter libiptc library
+ii   libip4tc0                              1.6.2-1.1                     amd64  netfilter libip4tc library
+ii   libip6tc0                              1.6.2-1.1                     amd64  netfilter libip6tc library
+ii   libiptc0                               1.6.2-1.1                     amd64  netfilter libiptc library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported ISC Shared Library
 ii   libisc-export169                       1:9.11.4+dfsg-4               amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1-1.3                    amd64  JSON manipulation library - shared library
@@ -219,12 +219,12 @@ ii   libutempter0                           1.1.6-3                       amd64 
 ii   libuuid1                               2.32-0.4                      amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                      amd64  Wietse Venema's TCP wrappers library
 ii   libxapian30                            1.4.7-2                       amd64  Search engine library
-ii   libxtables12                           1.6.2-1                       amd64  netfilter xtables library
+ii   libxtables12                           1.6.2-1.1                     amd64  netfilter xtables library
 ii   libzstd1                               1.3.4+dfsg-3                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
 ii   linux-image-4.17.0-1-amd64             4.17.8-1                      amd64  Linux 4.17 for 64-bit PCs
 ii   linux-image-4.17.0-1-cloud-amd64       4.17.8-1                      amd64  Linux 4.17 for x86-64 cloud
-ii   linux-image-4.9.0-7-amd64              4.9.110-1                     amd64  Linux 4.9 for 64-bit PCs
+ii   linux-image-4.9.0-7-amd64              4.9.110-3+deb9u1              amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.17+95                       amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.17+95                       amd64  Linux for x86-64 cloud (meta-package)
 ii   locales                                2.27-5                        all    GNU C Library: National Language (locale) data [support]
