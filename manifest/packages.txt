@@ -43,7 +43,7 @@ ii   gnupg-agent                            2.2.9-1                       all   
 ii   gnupg-l10n                             2.2.9-1                       all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.9-1                       amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                         all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       211.0.0-0                     all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       212.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.8.3-1                       all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.3.0-1+deb9                  amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.9-1                       amd64  GNU Privacy Guard -- minimalist public key operations
@@ -166,10 +166,10 @@ ii   libnghttp2-14                          1.32.0-1                      amd64 
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                   amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.12-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
-ii   libpam-modules                         1.1.8-3.7                     amd64  Pluggable Authentication Modules for PAM
-ii   libpam-modules-bin                     1.1.8-3.7                     amd64  Pluggable Authentication Modules for PAM - helper binaries
-ii   libpam-runtime                         1.1.8-3.7                     all    Runtime support for the PAM library
-ii   libpam0g                               1.1.8-3.7                     amd64  Pluggable Authentication Modules library
+ii   libpam-modules                         1.1.8-3.8                     amd64  Pluggable Authentication Modules for PAM
+ii   libpam-modules-bin                     1.1.8-3.8                     amd64  Pluggable Authentication Modules for PAM - helper binaries
+ii   libpam-runtime                         1.1.8-3.8                     all    Runtime support for the PAM library
+ii   libpam0g                               1.1.8-3.8                     amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-21+b1                     amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.31-3                       amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-11                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
