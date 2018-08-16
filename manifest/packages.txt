@@ -31,7 +31,7 @@ ii   etckeeper                              1.18.7-1                      all   
 ii   ethtool                                1:4.16-1                      amd64  display or change Ethernet device settings
 ii   fdisk                                  2.32.1-0.1                    amd64  collection of partitioning utilities
 ii   file                                   1:5.34-2                      amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20171230-2          amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20180808-2          amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.4.0-20                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.2.0-4                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1+b1                    amd64  GPT fdisk text-mode partitioning tool
@@ -62,8 +62,8 @@ ii   grub2-common                           2.02+dfsg1-5                  amd64 
 ii   gzip                                   1.9-2                         amd64  GNU compression utilities
 ii   hostname                               3.20                          amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.34                        amd64  high level tools to configure network interfaces
-ii   init                                   1.52                          amd64  metapackage ensuring an init system is installed
-ii   init-system-helpers                    1.52                          all    helper tools for all init systems
+ii   init                                   1.53                          amd64  metapackage ensuring an init system is installed
+ii   init-system-helpers                    1.53                          all    helper tools for all init systems
 ii   initramfs-tools                        0.132                         all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.132                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               4.17.0-2                      amd64  networking and traffic control tools
@@ -98,7 +98,7 @@ ii   libcryptsetup12                        2:2.0.4-2                     amd64 
 ii   libcryptsetup4                         2:1.7.3-4                     amd64  disk encryption support - shared library
 ii   libcurl3                               7.60.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.61.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libdb5.3                               5.3.28-13.1+b1                amd64  Berkeley v5.3 Database Libraries [runtime]
+ii   libdb5.3                               5.3.28+dfsg1-0.1              amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.244                         amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1102                      1:9.11.4+dfsg-4               amd64  Exported DNS Shared Library
@@ -109,7 +109,7 @@ ii   liberror-perl                          0.17026-1                     all   
 ii   libestr0                               0.1.10-2.1                    amd64  Helper functions for handling strings (lib)
 ii   libevent-core-2.1-6                    2.1.8-stable-4                amd64  Asynchronous event notification library (core)
 ii   libevent-pthreads-2.1-6                2.1.8-stable-4                amd64  Asynchronous event notification library (pthreads)
-ii   libexpat1                              2.2.5-3                       amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.2.6-1                       amd64  XML parsing C library - runtime library
 ii   libext2fs2                             1.44.3-1                      amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           0.99.8-2                      amd64  fast json library for C
 ii   libfdisk1                              2.32.1-0.1                    amd64  fdisk partitioning library
@@ -165,7 +165,7 @@ ii   libnfnetlink0                          1.0.1-3+b1                    amd64 
 ii   libnghttp2-14                          1.32.0-1                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                   amd64  automated option processing library based on autogen
-ii   libp11-kit0                            0.23.12-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
+ii   libp11-kit0                            0.23.13-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.1.8-3.8                     amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.1.8-3.8                     amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.1.8-3.8                     all    Runtime support for the PAM library
