@@ -24,7 +24,7 @@ ii   dirmngr                                2.2.10-1                      amd64 
 ii   distro-info-data                       0.38                          all    information about the distributions' releases (data files)
 ii   dmidecode                              3.1-2                         amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.145-4.1                amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.19.0.5+b1                   amd64  Debian package management system
+ii   dpkg                                   1.19.1                        amd64  Debian package management system
 ii   e2fslibs                               1.44.4-2                      amd64  transitional package
 ii   e2fsprogs                              1.44.4-2                      amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.8-1                      all    store /etc in git, mercurial, bzr or darcs
@@ -60,7 +60,7 @@ ii   grub-pc                                2.02+dfsg1-6                  amd64 
 ii   grub-pc-bin                            2.02+dfsg1-6                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS binaries)
 ii   grub2-common                           2.02+dfsg1-6                  amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.9-2                         amd64  GNU compression utilities
-ii   hostname                               3.20                          amd64  utility to set/show the host name or domain name
+ii   hostname                               3.21                          amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.34                        amd64  high level tools to configure network interfaces
 ii   init                                   1.54                          amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.54                          all    helper tools for all init systems
@@ -99,9 +99,9 @@ ii   libcryptsetup4                         2:1.7.3-4                     amd64 
 ii   libcurl3                               7.60.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libcurl3-gnutls                        7.61.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.2              amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.244                         amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.245                         amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                amd64  Linux Kernel Device Mapper userspace library
-ii   libdns-export1102                      1:9.11.4.P2+dfsg-2            amd64  Exported DNS Shared Library
+ii   libdns-export1102                      1:9.11.4.P2+dfsg-3            amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20180525-1                amd64  BSD editline and history libraries
 ii   libelf1                                0.170-0.5                     amd64  library to read and write ELF files
@@ -133,7 +133,7 @@ ii   libip4tc0                              1.6.2-1.1                     amd64 
 ii   libip6tc0                              1.6.2-1.1                     amd64  netfilter libip6tc library
 ii   libiptc0                               1.6.2-1.1                     amd64  netfilter libiptc library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported ISC Shared Library
-ii   libisc-export169                       1:9.11.4.P2+dfsg-2            amd64  Exported ISC Shared Library
+ii   libisc-export169                       1:9.11.4.P2+dfsg-3            amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1-1.3                    amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.16-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.3                     amd64  Linux Key Management Utilities (library)
@@ -160,7 +160,7 @@ ii   libncursesw5                           6.1+20180714-1                amd64 
 ii   libncursesw6                           6.1+20180714-1                amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.7-1                       amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.4-1                         amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.20-7                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.20-8                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                    amd64  Netfilter netlink library
 ii   libnghttp2-14                          1.33.0-1                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
@@ -185,8 +185,8 @@ ii   libpython2-stdlib                      2.7.15-3                      amd64 
 ii   libpython2.7-minimal                   2.7.15-4                      amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.15-4                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.6.6-1                       amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.6-minimal                   3.6.6-4                       amd64  Minimal subset of the Python language (version 3.6)
-ii   libpython3.6-stdlib                    3.6.6-4                       amd64  Interactive high-level object-oriented language (standard library, version 3.6)
+ii   libpython3.6-minimal                   3.6.7~rc1-1                   amd64  Minimal subset of the Python language (version 3.6)
+ii   libpython3.6-stdlib                    3.6.7~rc1-1                   amd64  Interactive high-level object-oriented language (standard library, version 3.6)
 ii   libreadline7                           7.0-5                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2   amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3.1  amd64  Cyrus SASL - authentication abstraction library
@@ -198,7 +198,7 @@ ii   libsemanage1                           2.8-1+b1                      amd64 
 ii   libsepol1                              2.8-1                         amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-1+b1                    amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.32.1-0.1                    amd64  smart column output alignment library
-ii   libsqlite3-0                           3.25.1-1                      amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.25.2-1                      amd64  SQLite 3 shared library
 ii   libss2                                 1.44.4-2                      amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2                       amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2o-1                      amd64  Secure Sockets Layer toolkit - shared libraries
@@ -282,8 +282,8 @@ ii   python3-pkg-resources                  40.2.0-1                      all   
 ii   python3-requests                       2.18.4-2                      all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-2                      all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.22-1                        all    HTTP library with thread-safe connection pooling for Python3
-ii   python3.6                              3.6.6-4                       amd64  Interactive high-level object-oriented language (version 3.6)
-ii   python3.6-minimal                      3.6.6-4                       amd64  Minimal subset of the Python language (version 3.6)
+ii   python3.6                              3.6.7~rc1-1                   amd64  Interactive high-level object-oriented language (version 3.6)
+ii   python3.6-minimal                      3.6.7~rc1-1                   amd64  Minimal subset of the Python language (version 3.6)
 ii   readline-common                        7.0-5                         all    GNU readline and history libraries, common files
 ii   rsyslog                                8.38.0-1                      amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-3                       amd64  terminal multiplexer with VT100/ANSI terminal emulation
@@ -307,7 +307,7 @@ ii   vim-common                             2:8.1.0320-1                  all   
 ii   vim-runtime                            2:8.1.0320-1                  all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:8.1.0320-1                  amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.19.5-2                      amd64  retrieves files from the web
-ii   whiptail                               0.52.20-7                     amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.20-8                     amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.1.0320-1                  amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.2-1.3                     amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1               amd64  compression library - runtime
