@@ -43,7 +43,7 @@ ii   gnupg-agent                            2.2.10-2                      all   
 ii   gnupg-l10n                             2.2.10-2                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.10-2                      amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                         all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       218.0.0-0                     all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       219.0.1-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  2.8.4-1                       all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1.3.1-1+deb9                  amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.10-2                      amd64  GNU Privacy Guard -- minimalist public key operations
@@ -189,8 +189,8 @@ ii   libpython3.6-minimal                   3.6.7~rc1-1                   amd64 
 ii   libpython3.6-stdlib                    3.6.7~rc1-1                   amd64  Interactive high-level object-oriented language (standard library, version 3.6)
 ii   libreadline7                           7.0-5                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2   amd64  toolkit for RTMP streams (shared library)
-ii   libsasl2-2                             2.1.27~101-g0780600+dfsg-3.1  amd64  Cyrus SASL - authentication abstraction library
-ii   libsasl2-modules-db                    2.1.27~101-g0780600+dfsg-3.1  amd64  Cyrus SASL - pluggable authentication modules (DB)
+ii   libsasl2-2                             2.1.27~rc8-1                  amd64  Cyrus SASL - authentication abstraction library
+ii   libsasl2-modules-db                    2.1.27~rc8-1                  amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.3.3-3                       amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.8-1+b1                      amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.8-1                         all    Common files for SELinux policy management libraries
@@ -222,11 +222,11 @@ ii   libxapian30                            1.4.7-2                       amd64 
 ii   libxtables12                           1.6.2-1.1                     amd64  netfilter xtables library
 ii   libzstd1                               1.3.5+dfsg-1                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
-ii   linux-image-4.18.0-1-amd64             4.18.8-1                      amd64  Linux 4.18 for 64-bit PCs
-ii   linux-image-4.18.0-1-cloud-amd64       4.18.8-1                      amd64  Linux 4.18 for x86-64 cloud
+ii   linux-image-4.18.0-2-amd64             4.18.10-1                     amd64  Linux 4.18 for 64-bit PCs
+ii   linux-image-4.18.0-2-cloud-amd64       4.18.10-1                     amd64  Linux 4.18 for x86-64 cloud
 ii   linux-image-4.9.0-8-amd64              4.9.110-3+deb9u5              amd64  Linux 4.9 for 64-bit PCs
-ii   linux-image-amd64                      4.18+98                       amd64  Linux for 64-bit PCs (meta-package)
-ii   linux-image-cloud-amd64                4.18+98                       amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-amd64                      4.18+99                       amd64  Linux for 64-bit PCs (meta-package)
+ii   linux-image-cloud-amd64                4.18+99                       amd64  Linux for x86-64 cloud (meta-package)
 ii   locales                                2.27-6                        all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1.1                     amd64  system login tools
 ii   logrotate                              3.14.0-4                      amd64  Log rotation utility
