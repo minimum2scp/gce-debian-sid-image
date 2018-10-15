@@ -293,7 +293,7 @@ ii   sntp                                   1:4.2.8p12+dfsg-3             amd64 
 ii   sudo                                   1.8.23-2                      amd64  Provide limited super user privileges to specific users
 ii   systemd                                239-10                        amd64  system and service manager
 ii   systemd-sysv                           239-10                        amd64  system and service manager - SysV links
-ii   sysvinit-utils                         2.88dsf-59.10                 amd64  System-V-like utilities
+ii   sysvinit-utils                         2.88dsf-59.11                 amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-2                   amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.46                          all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.46                          all    official tasks used for installation of Debian systems
