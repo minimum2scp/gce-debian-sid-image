@@ -62,12 +62,12 @@ ii   grub2-common                           2.02+dfsg1-6                  amd64 
 ii   gzip                                   1.9-2.1                       amd64  GNU compression utilities
 ii   hostname                               3.21                          amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.34                        amd64  high level tools to configure network interfaces
-ii   init                                   1.54                          amd64  metapackage ensuring an init system is installed
-ii   init-system-helpers                    1.54                          all    helper tools for all init systems
+ii   init                                   1.55                          amd64  metapackage ensuring an init system is installed
+ii   init-system-helpers                    1.55                          all    helper tools for all init systems
 ii   initramfs-tools                        0.132                         all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.132                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               4.18.0-2                      amd64  networking and traffic control tools
-ii   iptables                               1.6.2-1.1                     amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.8.1-1                       amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20180629-2                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.3.5-4+b1                    amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.3.5-4+b1                    amd64  common manpages relevant to all of the isc-dhcp packages
@@ -129,11 +129,12 @@ ii   libgssapi-krb5-2                       1.16.1-1                      amd64 
 ii   libhogweed4                            3.4-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.2                      amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.5-1                       amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc0                              1.6.2-1.1                     amd64  netfilter libip4tc library
-ii   libip6tc0                              1.6.2-1.1                     amd64  netfilter libip6tc library
-ii   libiptc0                               1.6.2-1.1                     amd64  netfilter libiptc library
+ii   libip4tc0                              1.8.1-1                       amd64  netfilter libip4tc library
+ii   libip6tc0                              1.8.1-1                       amd64  netfilter libip6tc library
+ii   libiptc0                               1.8.1-1                       amd64  netfilter libiptc library
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported ISC Shared Library
 ii   libisc-export169                       1:9.11.4.P2+dfsg-3            amd64  Exported ISC Shared Library
+ii   libjansson4                            2.11-1                        amd64  C library for encoding, decoding and manipulating JSON data
 ii   libjson-c3                             0.12.1-1.3                    amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.16.1-1                      amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-9.3                     amd64  Linux Key Management Utilities (library)
@@ -162,6 +163,7 @@ ii   libnetfilter-conntrack3                1.0.7-1                       amd64 
 ii   libnettle6                             3.4-1                         amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-8                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                    amd64  Netfilter netlink library
+ii   libnftnl7                              1.1.1-1                       amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.34.0-1                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                   amd64  automated option processing library based on autogen
@@ -219,7 +221,7 @@ ii   libutempter0                           1.1.6-3                       amd64 
 ii   libuuid1                               2.32.1-0.1                    amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                      amd64  Wietse Venema's TCP wrappers library
 ii   libxapian30                            1.4.7-4                       amd64  Search engine library
-ii   libxtables12                           1.6.2-1.1                     amd64  netfilter xtables library
+ii   libxtables12                           1.8.1-1                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.5+dfsg-1                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
 ii   linux-image-4.18.0-2-amd64             4.18.10-2                     amd64  Linux 4.18 for 64-bit PCs
