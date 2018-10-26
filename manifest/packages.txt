@@ -265,7 +265,7 @@ ii   python-google-compute-engine           2.8.8-1                       all   
 ii   python-idna                            2.6-1                         all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.15-3                      amd64  minimal subset of the Python2 language
 ii   python-pkg-resources                   40.4.3-1                      all    Package Discovery and Resource Access using pkg_resources
-ii   python-requests                        2.20.0-1                      all    elegant and simple HTTP library for Python2, built for human beings
+ii   python-requests                        2.20.0-2                      all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.11.0-2                      all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.24-1                        all    HTTP library with thread-safe connection pooling for Python
 ii   python2                                2.7.15-3                      amd64  interactive high-level object-oriented language (Python2 version)
@@ -281,7 +281,7 @@ ii   python3-google-compute-engine          2.8.8-1                       all   
 ii   python3-idna                           2.6-1                         all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.6.7-1                       amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  40.4.3-1                      all    Package Discovery and Resource Access using pkg_resources
-ii   python3-requests                       2.20.0-1                      all    elegant and simple HTTP library for Python3, built for human beings
+ii   python3-requests                       2.20.0-2                      all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.11.0-2                      all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.24-1                        all    HTTP library with thread-safe connection pooling for Python3
 ii   python3.6                              3.6.7-1                       amd64  Interactive high-level object-oriented language (version 3.6)
