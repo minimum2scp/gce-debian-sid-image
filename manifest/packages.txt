@@ -55,10 +55,10 @@ ii   gpgsm                                  2.2.10-3                      amd64 
 ii   gpgv                                   2.2.10-3                      amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.1-2                         amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.3-10                     amd64  GNU troff text-formatting system (base system components)
-ii   grub-common                            2.02+dfsg1-6                  amd64  GRand Unified Bootloader (common files)
-ii   grub-pc                                2.02+dfsg1-6                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS version)
-ii   grub-pc-bin                            2.02+dfsg1-6                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS binaries)
-ii   grub2-common                           2.02+dfsg1-6                  amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-common                            2.02+dfsg1-7                  amd64  GRand Unified Bootloader (common files)
+ii   grub-pc                                2.02+dfsg1-7                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS version)
+ii   grub-pc-bin                            2.02+dfsg1-7                  amd64  GRand Unified Bootloader, version 2 (PC/BIOS binaries)
+ii   grub2-common                           2.02+dfsg1-7                  amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.9-2.1                       amd64  GNU compression utilities
 ii   hostname                               3.21                          amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.34                        amd64  high level tools to configure network interfaces
@@ -117,7 +117,7 @@ ii   libffi6                                3.2.1-8                       amd64 
 ii   libfreetype6                           2.8.1-2                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.8-2                       amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:8.2.0-8                     amd64  GCC support library
-ii   libgcrypt20                            1.8.3-1                       amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.8.4-2                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-1                      amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
 ii   libgdbm6                               1.18.1-1                      amd64  GNU dbm database routines (runtime version)
@@ -176,7 +176,7 @@ ii   libparted2                             3.2-23                        amd64 
 ii   libpcre2-8-0                           10.32-1                       amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-11                     amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.26                            5.26.2-7+b1                   amd64  shared Perl library
-ii   libpipeline1                           1.5.0-1                       amd64  pipeline manipulation library
+ii   libpipeline1                           1.5.0-2                       amd64  pipeline manipulation library
 ii   libpng16-16                            1.6.34-2                      amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-11                       amd64  lib for parsing cmdline parameters
 ii   libprocps6                             2:3.3.14-1+b1                 amd64  library for accessing process information from /proc
@@ -299,7 +299,7 @@ ii   sysvinit-utils                         2.88dsf-59.11                 amd64 
 ii   tar                                    1.30+dfsg-2                   amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.46                          all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.46                          all    official tasks used for installation of Debian systems
-ii   tzdata                                 2018f-1                       all    time zone and daylight-saving time data
+ii   tzdata                                 2018g-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038                        all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   239-10                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.32.1-0.1                    amd64  miscellaneous system utilities
