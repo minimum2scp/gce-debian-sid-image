@@ -220,12 +220,12 @@ ii   libustr-1.0-1                          1.0.4-6                       amd64 
 ii   libutempter0                           1.1.6-3                       amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.32.1-0.1                    amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-27                      amd64  Wietse Venema's TCP wrappers library
-ii   libxapian30                            1.4.8-1                       amd64  Search engine library
+ii   libxapian30                            1.4.9-1                       amd64  Search engine library
 ii   libxtables12                           1.8.1-2                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.5+dfsg-1                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
-ii   linux-image-4.18.0-2-amd64             4.18.10-2                     amd64  Linux 4.18 for 64-bit PCs
-ii   linux-image-4.18.0-2-cloud-amd64       4.18.10-2                     amd64  Linux 4.18 for x86-64 cloud
+ii   linux-image-4.18.0-2-amd64             4.18.10-2+b1                  amd64  Linux 4.18 for 64-bit PCs
+ii   linux-image-4.18.0-2-cloud-amd64       4.18.10-2+b1                  amd64  Linux 4.18 for x86-64 cloud
 ii   linux-image-4.9.0-8-amd64              4.9.110-3+deb9u6              amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.18+99                       amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.18+99                       amd64  Linux for x86-64 cloud (meta-package)
