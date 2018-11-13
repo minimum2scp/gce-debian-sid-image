@@ -1,8 +1,8 @@
 ii   acpi-support-base                      0.142-8                       all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.28-1+b1                 amd64  Advanced Configuration and Power Interface event daemon
 ii   adduser                                3.118                         all    add and remove users and groups
-ii   apt                                    1.7.0                         amd64  commandline package manager
-ii   apt-utils                              1.7.0                         amd64  package management related utility programs
+ii   apt                                    1.8.0~alpha2                  amd64  commandline package manager
+ii   apt-utils                              1.8.0~alpha2                  amd64  package management related utility programs
 ii   base-files                             10.1                          amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.45                        amd64  Debian base system master password and group files
 ii   bash                                   4.4.18-3.1                    amd64  GNU Bourne Again SHell
@@ -76,8 +76,8 @@ ii   kmod                                   25-1                          amd64 
 ii   kpartx                                 0.7.8-2                       amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                   amd64  Access control list shared library
 ii   libapparmor1                           2.13.1-3+b1                   amd64  changehat AppArmor library
-ii   libapt-inst2.0                         1.7.0                         amd64  deb package format runtime library
-ii   libapt-pkg5.0                          1.7.0                         amd64  package management runtime library
+ii   libapt-inst2.0                         1.8.0~alpha2                  amd64  deb package format runtime library
+ii   libapt-pkg5.0                          1.8.0~alpha2                  amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.1                amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.1-2                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                 amd64  Extended attribute shared library
@@ -298,8 +298,8 @@ ii   systemd                                239-11                        amd64 
 ii   systemd-sysv                           239-11                        amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.11                 amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-2                   amd64  GNU version of the tar archiving utility
-ii   tasksel                                3.47                          all    tool for selecting tasks for installation on Debian systems
-ii   tasksel-data                           3.47                          all    official tasks used for installation of Debian systems
+ii   tasksel                                3.48                          all    tool for selecting tasks for installation on Debian systems
+ii   tasksel-data                           3.48                          all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018g-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038                        all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   239-11                        amd64  /dev/ and hotplug management daemon
