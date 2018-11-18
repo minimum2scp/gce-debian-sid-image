@@ -105,7 +105,7 @@ ii   libdns-export1102                      1:9.11.4.P2+dfsg-3            amd64 
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20180525-1                amd64  BSD editline and history libraries
 ii   libelf1                                0.170-0.5                     amd64  library to read and write ELF files
-ii   liberror-perl                          0.17026-1                     all    Perl module for error/exception handling in an OO-ish way
+ii   liberror-perl                          0.17027-1                     all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                    amd64  Helper functions for handling strings (lib)
 ii   libevent-core-2.1-6                    2.1.8-stable-4                amd64  Asynchronous event notification library (core)
 ii   libevent-pthreads-2.1-6                2.1.8-stable-4                amd64  Asynchronous event notification library (pthreads)
@@ -206,14 +206,14 @@ ii   libssh2-1                              1.8.0-2                       amd64 
 ii   libssl1.0.2                            1.0.2o-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.1-2                       amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             8.2.0-9                       amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            239-11                        amd64  systemd utility library
+ii   libsystemd0                            239-12                        amd64  systemd utility library
 ii   libtasn1-6                             4.13-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1+b1                   amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b7                      amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                      all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.1+20181013-1                amd64  shared low-level terminfo library (legacy version)
 ii   libtinfo6                              6.1+20181013-1                amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               239-11                        amd64  libudev shared library
+ii   libudev1                               239-12                        amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1         amd64  Unicode string library for C
 ii   libunistring2                          0.9.10-1                      amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                       amd64  Micro string library: shared library
@@ -294,15 +294,15 @@ ii   sed                                    4.5-2                         amd64 
 ii   sensible-utils                         0.0.12                        all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p12+dfsg-3             amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.23-2                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                239-11                        amd64  system and service manager
-ii   systemd-sysv                           239-11                        amd64  system and service manager - SysV links
+ii   systemd                                239-12                        amd64  system and service manager
+ii   systemd-sysv                           239-12                        amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.88dsf-59.11                 amd64  System-V-like utilities
-ii   tar                                    1.30+dfsg-2                   amd64  GNU version of the tar archiving utility
+ii   tar                                    1.30+dfsg-3                   amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.48                          all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.48                          all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018g-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038                        all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   239-11                        amd64  /dev/ and hotplug management daemon
+ii   udev                                   239-12                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.32.1-0.2                    amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.32.1-0.2                    amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.1.0320-1+b1               amd64  Vi IMproved - enhanced vi editor
