@@ -36,8 +36,8 @@ ii   gcc-6-base                             6.5.0-2                       amd64 
 ii   gcc-8-base                             8.2.0-10                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1+b1                    amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.19.2-1                    amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.19.2-1                    all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.20.0~rc1-1                amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.20.0~rc1-1                all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.11-1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.2.11-1                      all    GNU privacy guard - cryptographic agent (dummy transitional package)
 ii   gnupg-l10n                             2.2.11-1                      all    GNU privacy guard - localization files
@@ -164,7 +164,7 @@ ii   libnettle6                             3.4-1                         amd64 
 ii   libnewt0.52                            0.52.20-8                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                    amd64  Netfilter netlink library
 ii   libnftnl7                              1.1.1-1                       amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.34.0-1                      amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.35.0-1                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                   amd64  automated option processing library based on autogen
 ii   libp11-kit0                            0.23.14-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
