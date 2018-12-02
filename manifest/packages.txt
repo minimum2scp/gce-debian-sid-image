@@ -121,7 +121,7 @@ ii   libgcrypt20                            1.8.4-3                       amd64 
 ii   libgdbm-compat4                        1.18.1-2                      amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
 ii   libgdbm6                               1.18.1-2                      amd64  GNU dbm database routines (runtime version)
-ii   libgmp10                               2:6.1.2+dfsg-3                amd64  Multiprecision arithmetic library
+ii   libgmp10                               2:6.1.2+dfsg-4                amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.5.19-1+b1                   amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.32-3                        amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-5                      amd64  General Purpose Mouse - shared library
@@ -200,20 +200,20 @@ ii   libsemanage1                           2.8-1+b1                      amd64 
 ii   libsepol1                              2.8-1                         amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-1+b1                    amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.32.1-0.2                    amd64  smart column output alignment library
-ii   libsqlite3-0                           3.25.3-2                      amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.26.0-1                      amd64  SQLite 3 shared library
 ii   libss2                                 1.44.4-2                      amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2                       amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2q-2                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.1a-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             8.2.0-10                      amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            239-13                        amd64  systemd utility library
+ii   libsystemd0                            239-14                        amd64  systemd utility library
 ii   libtasn1-6                             4.13-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1+b1                   amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-5+b7                      amd64  converts between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-7.1                      all    internationalized substitute of Text::Wrap
 ii   libtinfo5                              6.1+20181013-1                amd64  shared low-level terminfo library (legacy version)
 ii   libtinfo6                              6.1+20181013-1                amd64  shared low-level terminfo library for terminal handling
-ii   libudev1                               239-13                        amd64  libudev shared library
+ii   libudev1                               239-14                        amd64  libudev shared library
 ii   libunistring0                          0.9.6+really0.9.3-0.1         amd64  Unicode string library for C
 ii   libunistring2                          0.9.10-1                      amd64  Unicode string library for C
 ii   libustr-1.0-1                          1.0.4-6                       amd64  Micro string library: shared library
@@ -294,15 +294,15 @@ ii   sed                                    4.5-2                         amd64 
 ii   sensible-utils                         0.0.12                        all    Utilities for sensible alternative selection
 ii   sntp                                   1:4.2.8p12+dfsg-3             amd64  Network Time Protocol - sntp client
 ii   sudo                                   1.8.26-2                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                239-13                        amd64  system and service manager
-ii   systemd-sysv                           239-13                        amd64  system and service manager - SysV links
+ii   systemd                                239-14                        amd64  system and service manager
+ii   systemd-sysv                           239-14                        amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.92~beta-2                   amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-3                   amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.48                          all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.48                          all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018g-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038                        all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   239-13                        amd64  /dev/ and hotplug management daemon
+ii   udev                                   239-14                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.32.1-0.2                    amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.32.1-0.2                    amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:8.1.0549-1                  amd64  Vi IMproved - enhanced vi editor
