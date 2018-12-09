@@ -28,7 +28,7 @@ ii   dpkg                                   1.19.2                        amd64 
 ii   e2fslibs                               1.44.4-2                      amd64  transitional package
 ii   e2fsprogs                              1.44.4-2                      amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.8-1                      all    store /etc in git, mercurial, bzr or darcs
-ii   ethtool                                1:4.16-1                      amd64  display or change Ethernet device settings
+ii   ethtool                                1:4.19-1                      amd64  display or change Ethernet device settings
 ii   fdisk                                  2.33-0.2                      amd64  collection of partitioning utilities
 ii   file                                   1:5.34-2                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20181018-1          amd64  utilities for finding files--find, xargs
