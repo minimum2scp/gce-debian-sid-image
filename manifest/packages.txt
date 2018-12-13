@@ -14,7 +14,7 @@ ii   cloud-guest-utils                      0.29-1                        all   
 ii   coreutils                              8.30-1                        amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-6                   amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-130                    amd64  process scheduling daemon
-ii   dash                                   0.5.10.2-1                    amd64  POSIX-compliant shell
+ii   dash                                   0.5.10.2-2                    amd64  POSIX-compliant shell
 ii   debconf                                1.5.69                        all    Debian configuration management system
 ii   debconf-i18n                           1.5.69                        all    full internationalization support for debconf
 ii   debian-archive-keyring                 2018.1                        all    GnuPG archive keys of the Debian archive
@@ -103,7 +103,7 @@ ii   libdebconfclient0                      0.245                         amd64 
 ii   libdevmapper1.02.1                     2:1.02.145-4.1                amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1104                      1:9.11.5+dfsg-1               amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
-ii   libedit2                               3.1-20180525-1                amd64  BSD editline and history libraries
+ii   libedit2                               3.1-20181209-1                amd64  BSD editline and history libraries
 ii   libelf1                                0.175-1                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17027-1                     all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                    amd64  Helper functions for handling strings (lib)
@@ -186,8 +186,8 @@ ii   libpython2-stdlib                      2.7.15-3                      amd64 
 ii   libpython2.7-minimal                   2.7.15-5                      amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.15-5                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.7.1-2                       amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.7-minimal                   3.7.1-1                       amd64  Minimal subset of the Python language (version 3.7)
-ii   libpython3.7-stdlib                    3.7.1-1                       amd64  Interactive high-level object-oriented language (standard library, version 3.7)
+ii   libpython3.7-minimal                   3.7.2~rc1-1                   amd64  Minimal subset of the Python language (version 3.7)
+ii   libpython3.7-stdlib                    3.7.2~rc1-1                   amd64  Interactive high-level object-oriented language (standard library, version 3.7)
 ii   libreadline7                           7.0-5                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2   amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27~rc8-1                  amd64  Cyrus SASL - authentication abstraction library
@@ -284,8 +284,8 @@ ii   python3-pkg-resources                  40.6.2-1                      all   
 ii   python3-requests                       2.20.0-2                      all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.12.0-1                      all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.24-1                        all    HTTP library with thread-safe connection pooling for Python3
-ii   python3.7                              3.7.1-1                       amd64  Interactive high-level object-oriented language (version 3.7)
-ii   python3.7-minimal                      3.7.1-1                       amd64  Minimal subset of the Python language (version 3.7)
+ii   python3.7                              3.7.2~rc1-1                   amd64  Interactive high-level object-oriented language (version 3.7)
+ii   python3.7-minimal                      3.7.2~rc1-1                   amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        7.0-5                         all    GNU readline and history libraries, common files
 ii   rsyslog                                8.40.0-1                      amd64  reliable system and kernel logging daemon
 ii   screen                                 4.6.2-3                       amd64  terminal multiplexer with VT100/ANSI terminal emulation
