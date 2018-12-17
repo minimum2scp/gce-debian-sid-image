@@ -36,8 +36,8 @@ ii   gcc-6-base                             6.5.0-2                       amd64 
 ii   gcc-8-base                             8.2.0-12                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1+b1                    amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.20.0-1                    amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.20.0-1                    all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.20.1-1                    amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.20.1-1                    all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.12-1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-agent                            2.2.12-1                      all    GNU privacy guard - cryptographic agent (dummy transitional package)
 ii   gnupg-l10n                             2.2.12-1                      all    GNU privacy guard - localization files
@@ -86,9 +86,9 @@ ii   libaudit1                              1:2.8.4-2                     amd64 
 ii   libblkid1                              2.33-0.2                      amd64  block device ID library
 ii   libbsd0                                0.9.1-1                       amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-9                       amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.28-2                        amd64  GNU C Library: Binaries
-ii   libc-l10n                              2.28-2                        all    GNU C Library: localization files
-ii   libc6                                  2.28-2                        amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.28-3                        amd64  GNU C Library: Binaries
+ii   libc-l10n                              2.28-3                        all    GNU C Library: localization files
+ii   libc6                                  2.28-3                        amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.9-1+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-1.2                    amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-1.2                    amd64  POSIX 1003.1e capabilities (utilities)
@@ -122,7 +122,7 @@ ii   libgdbm-compat4                        1.18.1-2                      amd64 
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
 ii   libgdbm6                               1.18.1-2                      amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-4                amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.5.19-1+b1                   amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.6.5-2                       amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.33-3                        amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-5                      amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.16.1-1                      amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -228,7 +228,7 @@ ii   linux-image-4.18.0-3-cloud-amd64       4.18.20-2                     amd64 
 ii   linux-image-4.9.0-8-amd64              4.9.130-2                     amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.18+100                      amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.18+100                      amd64  Linux for x86-64 cloud (meta-package)
-ii   locales                                2.28-2                        all    GNU C Library: National Language (locale) data [support]
+ii   locales                                2.28-3                        all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1.1                     amd64  system login tools
 ii   logrotate                              3.14.0-4                      amd64  Log rotation utility
 ii   lsb-base                               10.2018112800                 all    Linux Standard Base init script functionality
@@ -237,7 +237,7 @@ ii   man-db                                 2.8.4-3                       amd64 
 ii   mawk                                   1.3.3-17+b3                   amd64  a pattern scanning and text processing language
 ii   mime-support                           3.61                          all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.33-0.2                      amd64  tools for mounting and manipulating filesystems
-ii   multiarch-support                      2.28-2                        amd64  Transitional package to ensure multiarch compatibility
+ii   multiarch-support                      2.28-3                        amd64  Transitional package to ensure multiarch compatibility
 ii   nano                                   3.2-1                         amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.1+20181013-1                all    basic terminal type definitions
 ii   ncurses-bin                            6.1+20181013-1                amd64  terminal-related programs and man pages
@@ -300,7 +300,7 @@ ii   tar                                    1.30+dfsg-3                   amd64 
 ii   tasksel                                3.48                          all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.48                          all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018g-1                       all    time zone and daylight-saving time data
-ii   ucf                                    3.0038                        all    Update Configuration File(s): preserve user changes to config files
+ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   239-15                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.33-0.2                      amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.33-0.2                      amd64  runtime components for the Universally Unique ID library
