@@ -299,8 +299,8 @@ ii   systemd                                240-1                         amd64 
 ii   systemd-sysv                           240-1                         amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.93-1                        amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-3                   amd64  GNU version of the tar archiving utility
-ii   tasksel                                3.48                          all    tool for selecting tasks for installation on Debian systems
-ii   tasksel-data                           3.48                          all    official tasks used for installation of Debian systems
+ii   tasksel                                3.49                          all    tool for selecting tasks for installation on Debian systems
+ii   tasksel-data                           3.49                          all    official tasks used for installation of Debian systems
 ii   tzdata                                 2018g-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   240-1                         amd64  /dev/ and hotplug management daemon
