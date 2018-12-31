@@ -105,7 +105,7 @@ ii   libdevmapper1.02.1                     2:1.02.155-1                  amd64 
 ii   libdns-export1104                      1:9.11.5.P1+dfsg-1            amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20181209-1                amd64  BSD editline and history libraries
-ii   libelf1                                0.175-1                       amd64  library to read and write ELF files
+ii   libelf1                                0.175-2                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17027-1                     all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                    amd64  Helper functions for handling strings (lib)
 ii   libevent-core-2.1-6                    2.1.8-stable-4                amd64  Asynchronous event notification library (core)
@@ -225,8 +225,8 @@ ii   libxapian30                            1.4.9-1                       amd64 
 ii   libxtables12                           1.8.2-3                       amd64  netfilter xtables library
 ii   libzstd1                               1.3.5+dfsg-2                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.5                           all    Linux image base package
-ii   linux-image-4.19.0-1-amd64             4.19.12-1                     amd64  Linux 4.19 for 64-bit PCs (signed)
-ii   linux-image-4.19.0-1-cloud-amd64       4.19.12-1                     amd64  Linux 4.19 for x86-64 cloud (signed)
+ii   linux-image-4.19.0-1-amd64             4.19.13-1                     amd64  Linux 4.19 for 64-bit PCs (signed)
+ii   linux-image-4.19.0-1-cloud-amd64       4.19.13-1                     amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-4.9.0-8-amd64              4.9.130-2                     amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.19+101                      amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.19+101                      amd64  Linux for x86-64 cloud (meta-package)
@@ -301,7 +301,7 @@ ii   sysvinit-utils                         2.93-2                        amd64 
 ii   tar                                    1.30+dfsg-3                   amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.49                          all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.49                          all    official tasks used for installation of Debian systems
-ii   tzdata                                 2018h-1                       all    time zone and daylight-saving time data
+ii   tzdata                                 2018i-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   240-2                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.33-0.2                      amd64  miscellaneous system utilities
