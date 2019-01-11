@@ -67,7 +67,7 @@ ii   init                                   1.56+nmu1                     amd64 
 ii   init-system-helpers                    1.56+nmu1                     all    helper tools for all init systems
 ii   initramfs-tools                        0.132                         all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.132                         all    generic modular initramfs generator (core tools)
-ii   iproute2                               4.19.0-2                      amd64  networking and traffic control tools
+ii   iproute2                               4.20.0-2                      amd64  networking and traffic control tools
 ii   iptables                               1.8.2-3                       amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20180629-2                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2                       amd64  DHCP client for automatically obtaining an IP address
