@@ -14,10 +14,10 @@ ii   cloud-guest-utils                      0.29-1                        all   
 ii   coreutils                              8.30-1                        amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-6                   amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-130                    amd64  process scheduling daemon
-ii   curl                                   7.62.0-1                      amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.63.0-1                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-4                    amd64  POSIX-compliant shell
-ii   debconf                                1.5.69                        all    Debian configuration management system
-ii   debconf-i18n                           1.5.69                        all    full internationalization support for debconf
+ii   debconf                                1.5.70                        all    Debian configuration management system
+ii   debconf-i18n                           1.5.70                        all    full internationalization support for debconf
 ii   debian-archive-keyring                 2018.1                        all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.8.6                         amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.6-1                       amd64  File comparison utilities
@@ -28,11 +28,11 @@ ii   dmsetup                                2:1.02.155-1                  amd64 
 ii   dpkg                                   1.19.2                        amd64  Debian package management system
 ii   e2fslibs                               1.44.5-1                      amd64  transitional package
 ii   e2fsprogs                              1.44.5-1                      amd64  ext2/ext3/ext4 file system utilities
-ii   etckeeper                              1.18.8-1                      all    store /etc in git, mercurial, bzr or darcs
+ii   etckeeper                              1.18.10-1                     all    store /etc in git, mercurial, bzr or darcs
 ii   ethtool                                1:4.19-1                      amd64  display or change Ethernet device settings
 ii   fdisk                                  2.33.1-0.1                    amd64  collection of partitioning utilities
 ii   file                                   1:5.35-2                      amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20181018-1          amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20190105-2          amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.5.0-2                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.2.0-14                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1.1                     amd64  GPT fdisk text-mode partitioning tool
@@ -97,8 +97,8 @@ ii   libcom-err2                            1.44.5-1                      amd64 
 ii   libcomerr2                             1.44.5-1                      amd64  transitional package
 ii   libcryptsetup12                        2:2.0.6-1                     amd64  disk encryption support - shared library
 ii   libcryptsetup4                         2:1.7.3-4                     amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.62.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.62.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.63.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.63.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.2              amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.246                         amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.155-1                  amd64  Linux Kernel Device Mapper userspace library
