@@ -15,7 +15,7 @@ ii   coreutils                              8.30-1                        amd64 
 ii   cpio                                   2.12+dfsg-6                   amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-130                    amd64  process scheduling daemon
 ii   curl                                   7.63.0-1                      amd64  command line tool for transferring data with URL syntax
-ii   dash                                   0.5.10.2-4                    amd64  POSIX-compliant shell
+ii   dash                                   0.5.10.2-5                    amd64  POSIX-compliant shell
 ii   debconf                                1.5.70                        all    Debian configuration management system
 ii   debconf-i18n                           1.5.70                        all    full internationalization support for debconf
 ii   debian-archive-keyring                 2018.1                        all    GnuPG archive keys of the Debian archive
