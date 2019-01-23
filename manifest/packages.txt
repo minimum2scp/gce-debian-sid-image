@@ -1,15 +1,15 @@
 ii   acpi-support-base                      0.142-8                       all    scripts for handling base ACPI events such as the power button
 ii   acpid                                  1:2.0.31-1                    amd64  Advanced Configuration and Power Interface event daemon
 ii   adduser                                3.118                         all    add and remove users and groups
-ii   apt                                    1.8.0~alpha3                  amd64  commandline package manager
-ii   apt-utils                              1.8.0~alpha3                  amd64  package management related utility programs
+ii   apt                                    1.8.0~alpha3.1                amd64  commandline package manager
+ii   apt-utils                              1.8.0~alpha3.1                amd64  package management related utility programs
 ii   base-files                             10.1                          amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.45                        amd64  Debian base system master password and group files
 ii   bash                                   5.0-1                         amd64  GNU Bourne Again SHell
 ii   bsdmainutils                           11.1.2+b1                     amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.33.1-0.1                  amd64  basic utilities from 4.4BSD-Lite
 ii   busybox                                1:1.27.2-3                    amd64  Tiny utilities for small and embedded systems
-ii   ca-certificates                        20180409                      all    Common CA certificates
+ii   ca-certificates                        20190110                      all    Common CA certificates
 ii   cloud-guest-utils                      0.29-1                        all    cloud guest utilities
 ii   coreutils                              8.30-1                        amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-6                   amd64  GNU cpio -- a program to manage archives of files
@@ -25,7 +25,7 @@ ii   dirmngr                                2.2.12-1                      amd64 
 ii   distro-info-data                       0.39                          all    information about the distributions' releases (data files)
 ii   dmidecode                              3.2-1                         amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.155-1                  amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.19.2                        amd64  Debian package management system
+ii   dpkg                                   1.19.3                        amd64  Debian package management system
 ii   e2fslibs                               1.44.5-1                      amd64  transitional package
 ii   e2fsprogs                              1.44.5-1                      amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.10-1                     all    store /etc in git, mercurial, bzr or darcs
@@ -77,8 +77,8 @@ ii   kmod                                   25-2                          amd64 
 ii   kpartx                                 0.7.9-2                       amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                   amd64  Access control list shared library
 ii   libapparmor1                           2.13.2-3                      amd64  changehat AppArmor library
-ii   libapt-inst2.0                         1.8.0~alpha3                  amd64  deb package format runtime library
-ii   libapt-pkg5.0                          1.8.0~alpha3                  amd64  package management runtime library
+ii   libapt-inst2.0                         1.8.0~alpha3.1                amd64  deb package format runtime library
+ii   libapt-pkg5.0                          1.8.0~alpha3.1                amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.2-1                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.47-2+b2                 amd64  Extended attribute shared library
