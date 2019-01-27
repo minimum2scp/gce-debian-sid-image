@@ -123,11 +123,11 @@ ii   libgdbm-compat4                        1.18.1-2                      amd64 
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
 ii   libgdbm6                               1.18.1-2                      amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-4                amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.6.5-2                       amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.6.6-2                       amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.33-3                        amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-5                      amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.17-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhogweed4                            3.4.1~rc1-1                   amd64  low level cryptographic library (public-key cryptos)
+ii   libhogweed4                            3.4.1-1                       amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.2                      amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.5-1                       amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc0                              1.8.2-3                       amd64  netfilter libip4tc library
@@ -160,7 +160,7 @@ ii   libncurses6                            6.1+20181013-1                amd64 
 ii   libncursesw5                           6.1+20181013-1                amd64  shared libraries for terminal handling (wide character legacy version)
 ii   libncursesw6                           6.1+20181013-1                amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.7-1                       amd64  Netfilter netlink-conntrack library
-ii   libnettle6                             3.4.1~rc1-1                   amd64  low level cryptographic library (symmetric and one-way cryptos)
+ii   libnettle6                             3.4.1-1                       amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.20-8                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                    amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.2-2                       amd64  Netfilter nftables userspace API library
