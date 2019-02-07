@@ -14,7 +14,7 @@ ii   cloud-guest-utils                      0.29-1                        all   
 ii   coreutils                              8.30-1                        amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-6                   amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-130                    amd64  process scheduling daemon
-ii   curl                                   7.63.0-1                      amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.64.0-1                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-5                    amd64  POSIX-compliant shell
 ii   debconf                                1.5.70                        all    Debian configuration management system
 ii   debconf-i18n                           1.5.70                        all    full internationalization support for debconf
@@ -33,7 +33,7 @@ ii   ethtool                                1:4.19-1                      amd64 
 ii   fdisk                                  2.33.1-0.1                    amd64  collection of partitioning utilities
 ii   file                                   1:5.35-2                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20190105-2          amd64  utilities for finding files--find, xargs
-ii   gcc-6-base                             6.5.0-2                       amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-6-base                             6.3.0-18+deb9u1               amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.2.0-17                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1.1                     amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
@@ -65,8 +65,8 @@ ii   hostname                               3.21                          amd64 
 ii   ifupdown                               0.8.35                        amd64  high level tools to configure network interfaces
 ii   init                                   1.56+nmu1                     amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.56+nmu1                     all    helper tools for all init systems
-ii   initramfs-tools                        0.132                         all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.132                         all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.133                         all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.133                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               4.20.0-2                      amd64  networking and traffic control tools
 ii   iptables                               1.8.2-3                       amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20180629-2                  amd64  Tools to test the reachability of network hosts
@@ -91,14 +91,14 @@ ii   libc-bin                               2.28-6                        amd64 
 ii   libc-l10n                              2.28-6                        all    GNU C Library: localization files
 ii   libc6                                  2.28-6                        amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.9-2                       amd64  An alternate POSIX capabilities library
-ii   libcap2                                1:2.25-1.2                    amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.25-1.2                    amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.25-2                      amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.25-2                      amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.44.5-1                      amd64  common error description library
 ii   libcomerr2                             1.44.5-1                      amd64  transitional package
 ii   libcryptsetup12                        2:2.0.6-1                     amd64  disk encryption support - shared library
 ii   libcryptsetup4                         2:1.7.3-4                     amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.63.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.63.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.64.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.64.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.3              amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdebconfclient0                      0.246                         amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.155-2                  amd64  Linux Kernel Device Mapper userspace library
@@ -137,7 +137,7 @@ ii   libisc-export1100                      1:9.11.5.P1+dfsg-1            amd64 
 ii   libisc-export160                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1+ds-2                   amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.17-1                        amd64  MIT Kerberos runtime libraries - Crypto Library
-ii   libkeyutils1                           1.5.9-9.3                     amd64  Linux Key Management Utilities (library)
+ii   libkeyutils1                           1.5.9-10                      amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.6-1                       amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               25-2                          amd64  libkmod shared library
 ii   libkrb5-3                              1.17-1                        amd64  MIT Kerberos runtime libraries
