@@ -73,7 +73,7 @@ ii   iputils-ping                           3:20180629-2                  amd64 
 ii   isc-dhcp-client                        4.4.1-2                       amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.1-2                       amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.6-1                       amd64  small utilities built with klibc for early boot
-ii   kmod                                   25-2                          amd64  tools for managing Linux kernel modules
+ii   kmod                                   26-1                          amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.9-2                       amd64  create device mappings for partitions
 ii   libacl1                                2.2.52-3+b1                   amd64  Access control list shared library
 ii   libapparmor1                           2.13.2-7                      amd64  changehat AppArmor library
@@ -87,9 +87,9 @@ ii   libaudit1                              1:2.8.4-2                     amd64 
 ii   libblkid1                              2.33.1-0.1                    amd64  block device ID library
 ii   libbsd0                                0.9.1-1                       amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-9                       amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.28-6                        amd64  GNU C Library: Binaries
-ii   libc-l10n                              2.28-6                        all    GNU C Library: localization files
-ii   libc6                                  2.28-6                        amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.28-7                        amd64  GNU C Library: Binaries
+ii   libc-l10n                              2.28-7                        all    GNU C Library: localization files
+ii   libc6                                  2.28-7                        amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.9-2                       amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-2                      amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-2                      amd64  POSIX 1003.1e capabilities (utilities)
@@ -100,7 +100,7 @@ ii   libcryptsetup4                         2:1.7.3-4                     amd64 
 ii   libcurl3-gnutls                        7.64.0-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.64.0-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.3              amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdebconfclient0                      0.246                         amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.247                         amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.155-2                  amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1104                      1:9.11.5.P1+dfsg-1            amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
@@ -139,7 +139,7 @@ ii   libjson-c3                             0.12.1+ds-2                   amd64 
 ii   libk5crypto3                           1.17-1                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.5.9-10                      amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.6-1                       amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               25-2                          amd64  libkmod shared library
+ii   libkmod2                               26-1                          amd64  libkmod shared library
 ii   libkrb5-3                              1.17-1                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.17-1                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.3.5-2                       amd64  X.509 and CMS support library
@@ -193,7 +193,7 @@ ii   libreadline7                           7.0-5                         amd64 
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2   amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27+dfsg-1                 amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules-db                    2.1.27+dfsg-1                 amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.3.3-3                       amd64  high level interface to Linux seccomp filter
+ii   libseccomp2                            2.3.3-4                       amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.8-1+b1                      amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.8-2                         all    Common files for SELinux policy management libraries
 ii   libsemanage1                           2.8-2                         amd64  SELinux policy management library
@@ -230,21 +230,21 @@ ii   linux-image-4.19.0-2-cloud-amd64       4.19.16-1                     amd64 
 ii   linux-image-4.9.0-8-amd64              4.9.130-2                     amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.19+102                      amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.19+102                      amd64  Linux for x86-64 cloud (meta-package)
-ii   locales                                2.28-6                        all    GNU C Library: National Language (locale) data [support]
+ii   locales                                2.28-7                        all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.5-1.1                     amd64  system login tools
 ii   logrotate                              3.14.0-4                      amd64  Log rotation utility
 ii   lsb-base                               10.2018112800                 all    Linux Standard Base init script functionality
 ii   lsb-release                            10.2018112800                 all    Linux Standard Base version reporting utility
-ii   man-db                                 2.8.5-1                       amd64  on-line manual pager
+ii   man-db                                 2.8.5-2                       amd64  on-line manual pager
 ii   mawk                                   1.3.3-17+b3                   amd64  a pattern scanning and text processing language
-ii   mime-support                           3.61                          all    MIME files 'mime.types' & 'mailcap', and support programs
+ii   mime-support                           3.62                          all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.33.1-0.1                    amd64  tools for mounting and manipulating filesystems
-ii   multiarch-support                      2.28-6                        amd64  Transitional package to ensure multiarch compatibility
+ii   multiarch-support                      2.28-7                        amd64  Transitional package to ensure multiarch compatibility
 ii   nano                                   3.2-1                         amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.1+20181013-1                all    basic terminal type definitions
 ii   ncurses-bin                            6.1+20181013-1                amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1    amd64  NET-3 networking toolkit
-ii   netbase                                5.5                           all    Basic TCP/IP networking system
+ii   netbase                                5.6                           all    Basic TCP/IP networking system
 ii   ntp                                    1:4.2.8p12+dfsg-3             amd64  Network Time Protocol daemon and utility programs
 ii   openssh-client                         1:7.9p1-6                     amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:7.9p1-6                     amd64  secure shell (SSH) server, for secure access from remote machines
@@ -266,7 +266,7 @@ ii   python-crcmod                          1.7+dfsg-1+b1                 amd64 
 ii   python-google-compute-engine           2.8.13-1                      all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-1                         all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.15-4                      amd64  minimal subset of the Python2 language
-ii   python-pkg-resources                   40.7.1-1                      all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   40.8.0-1                      all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.20.0-2                      all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.12.0-1                      all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.24-1                        all    HTTP library with thread-safe connection pooling for Python
@@ -282,7 +282,7 @@ ii   python3-distro                         1.3.0-1                       all   
 ii   python3-google-compute-engine          20181206-4                    all    Python library for Google Compute Engine interaction (Python 3)
 ii   python3-idna                           2.6-1                         all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.7.2-1                       amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  40.7.1-1                      all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  40.8.0-1                      all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.20.0-2                      all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.12.0-1                      all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.24-1                        all    HTTP library with thread-safe connection pooling for Python3
