@@ -32,9 +32,9 @@ ii   etckeeper                              1.18.10-1                     all   
 ii   ethtool                                1:4.19-1                      amd64  display or change Ethernet device settings
 ii   fdisk                                  2.33.1-0.1                    amd64  collection of partitioning utilities
 ii   file                                   1:5.35-2                      amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20190105-2          amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20190209-2          amd64  utilities for finding files--find, xargs
 ii   gcc-6-base                             6.3.0-18+deb9u1               amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8.2.0-20                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.2.0-21                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gdisk                                  1.0.3-1.1                     amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.20.1-2                    amd64  fast, scalable, distributed revision control system
@@ -75,13 +75,13 @@ ii   isc-dhcp-common                        4.4.1-2                       amd64 
 ii   klibc-utils                            2.0.6-1                       amd64  small utilities built with klibc for early boot
 ii   kmod                                   26-1                          amd64  tools for managing Linux kernel modules
 ii   kpartx                                 0.7.9-2                       amd64  create device mappings for partitions
-ii   libacl1                                2.2.52-4                      amd64  access control list - shared library
+ii   libacl1                                2.2.52-5                      amd64  access control list - shared library
 ii   libapparmor1                           2.13.2-7                      amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.8.0~rc3                     amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.8.0~rc3                     amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.2-1                       amd64  IPC library for the GnuPG components
-ii   libattr1                               1:2.4.47-3                    amd64  extended attribute handling - shared library
+ii   libattr1                               1:2.4.47-4                    amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:2.8.4-2                     all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.4-2                     amd64  Dynamic library for security auditing
 ii   libblkid1                              2.33.1-0.1                    amd64  block device ID library
@@ -117,7 +117,7 @@ ii   libfdisk1                              2.33.1-0.1                    amd64 
 ii   libffi6                                3.2.1-9                       amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.9.1-3                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-1                       amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:8.2.0-20                    amd64  GCC support library
+ii   libgcc1                                1:8.2.0-21                    amd64  GCC support library
 ii   libgcrypt20                            1.8.4-5                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-3                      amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm3                               1.8.3-14                      amd64  GNU dbm database routines (runtime version)
@@ -167,7 +167,7 @@ ii   libnftnl11                             1.1.2-2                       amd64 
 ii   libnghttp2-14                          1.36.0-2                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
 ii   libopts25                              1:5.18.12-4                   amd64  automated option processing library based on autogen
-ii   libp11-kit0                            0.23.14-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
+ii   libp11-kit0                            0.23.15-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.3.1-5                       amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                       amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.3.1-5                       all    Runtime support for the PAM library
@@ -205,7 +205,7 @@ ii   libss2                                 1.44.5-1                      amd64 
 ii   libssh2-1                              1.8.0-2                       amd64  SSH2 client-side library
 ii   libssl1.0.2                            1.0.2q-2                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl1.1                              1.1.1a-1                      amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             8.2.0-20                      amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             8.2.0-21                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            240-5                         amd64  systemd utility library
 ii   libtasn1-6                             4.13-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-7.1+b1                   amd64  get display widths of characters on the terminal
@@ -227,7 +227,7 @@ ii   libzstd1                               1.3.8+dfsg-3                  amd64 
 ii   linux-base                             4.5                           all    Linux image base package
 ii   linux-image-4.19.0-3-amd64             4.19.20-1                     amd64  Linux 4.19 for 64-bit PCs (signed)
 ii   linux-image-4.19.0-3-cloud-amd64       4.19.20-1                     amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-4.9.0-8-amd64              4.9.130-2                     amd64  Linux 4.9 for 64-bit PCs
+ii   linux-image-4.9.0-8-amd64              4.9.144-3                     amd64  Linux 4.9 for 64-bit PCs
 ii   linux-image-amd64                      4.19+103                      amd64  Linux for 64-bit PCs (meta-package)
 ii   linux-image-cloud-amd64                4.19+103                      amd64  Linux for x86-64 cloud (meta-package)
 ii   locales                                2.28-7                        all    GNU C Library: National Language (locale) data [support]
