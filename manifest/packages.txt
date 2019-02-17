@@ -105,7 +105,7 @@ ii   libdevmapper1.02.1                     2:1.02.155-2                  amd64 
 ii   libdns-export1104                      1:9.11.5.P1+dfsg-2            amd64  Exported DNS Shared Library
 ii   libdns-export162                       1:9.10.3.dfsg.P4-12.3+deb9u4  amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20181209-1                amd64  BSD editline and history libraries
-ii   libelf1                                0.175-2                       amd64  library to read and write ELF files
+ii   libelf1                                0.176-1                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17027-2                     all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1                    amd64  Helper functions for handling strings (lib)
 ii   libevent-core-2.1-6                    2.1.8-stable-4                amd64  Asynchronous event notification library (core)
@@ -184,8 +184,8 @@ ii   libprocps7                             2:3.3.15-2                    amd64 
 ii   libpsl5                                0.20.2-2                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.15-4                      amd64  interactive high-level object-oriented language (Python2)
 ii   libpython2-stdlib                      2.7.15-4                      amd64  interactive high-level object-oriented language (Python2)
-ii   libpython2.7-minimal                   2.7.15-8                      amd64  Minimal subset of the Python language (version 2.7)
-ii   libpython2.7-stdlib                    2.7.15-8                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
+ii   libpython2.7-minimal                   2.7.15-9                      amd64  Minimal subset of the Python language (version 2.7)
+ii   libpython2.7-stdlib                    2.7.15-9                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.7.2-1                       amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.7-minimal                   3.7.2-2                       amd64  Minimal subset of the Python language (version 3.7)
 ii   libpython3.7-stdlib                    3.7.2-2                       amd64  Interactive high-level object-oriented language (standard library, version 3.7)
@@ -272,8 +272,8 @@ ii   python-six                             1.12.0-1                      all   
 ii   python-urllib3                         1.24.1-1                      all    HTTP library with thread-safe connection pooling for Python
 ii   python2                                2.7.15-4                      amd64  interactive high-level object-oriented language (Python2 version)
 ii   python2-minimal                        2.7.15-4                      amd64  minimal subset of the Python2 language
-ii   python2.7                              2.7.15-8                      amd64  Interactive high-level object-oriented language (version 2.7)
-ii   python2.7-minimal                      2.7.15-8                      amd64  Minimal subset of the Python language (version 2.7)
+ii   python2.7                              2.7.15-9                      amd64  Interactive high-level object-oriented language (version 2.7)
+ii   python2.7-minimal                      2.7.15-9                      amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.7.2-1                       amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-boto                           2.44.0-1.1                    all    Python interface to Amazon's Web Services - Python 3.x
 ii   python3-certifi                        2018.8.24-1                   all    root certificates for validating SSL certs and verifying TLS hosts (python3)
