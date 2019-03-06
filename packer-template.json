@@ -27,7 +27,8 @@
         "sudo cp -a /etc/ntp.conf /var/tmp/ntp.conf.google",
         "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
-        "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge ntp unattended-upgrades"
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge ntp unattended-upgrades",
+        "sudo apt-mark hold google-compute-engine google-compute-engine-oslogin python-google-compute-engine python3-google-compute-engine"
       ],
       "expect_disconnect": false
     },
