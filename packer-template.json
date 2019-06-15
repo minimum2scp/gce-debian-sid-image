@@ -47,8 +47,7 @@
         "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y chrony",
         "sudo cp -a /var/tmp/chrony.conf.google /etc/chrony/chrony.conf",
-        "if sudo etckeeper unclean; then sudo etckeeper commit 'chrony: copied original chrony.conf from debian-10 image family'; fi",
-        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends linux-image-cloud-amd64"
+        "if sudo etckeeper unclean; then sudo etckeeper commit 'chrony: copied original chrony.conf from debian-10 image family'; fi"
       ],
       "expect_disconnect": false
     },
