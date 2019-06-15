@@ -1,7 +1,8 @@
 {
   "variables": {
     "project_id": "",
-    "source_image": "debian-9-stretch-v20190514"
+    "source_image": "debian-10-buster-v20190611",
+    "source_image_project_id": "debian-cloud-testing"
   },
   "builders": [{
     "type": "googlecompute",
@@ -10,6 +11,7 @@
     "machine_type": "f1-micro",
     "preemptible": false,
     "source_image": "{{user `source_image`}}",
+    "source_image_project_id": "{{user `source_image_project_id`}}",
     "image_name": "debian-sid-v{{isotime \"20060102-150405\"}}",
     "image_family": "debian-sid",
     "image_description": "Debian sid (source image: {{user `source_image`}})",
@@ -24,10 +26,10 @@
     {
       "type": "shell",
       "inline": [
-        "sudo cp -a /etc/ntp.conf /var/tmp/ntp.conf.google",
+        "sudo cp -a /etc/chrony/chrony.conf /var/tmp/chrony.conf.google",
         "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
-        "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge ntp unattended-upgrades"
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge chrony unattended-upgrades"
       ],
       "expect_disconnect": false
     },
@@ -43,10 +45,9 @@
         "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
         "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
-        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y ntp google-compute-engine",
-        "sudo cp -a /var/tmp/ntp.conf.google /etc/ntp.conf",
-        "sudo etckeeper commit 'ntp: copied original ntp.conf from debian-9 image family'",
-        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends linux-image-cloud-amd64"
+        "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y chrony",
+        "sudo cp -a /var/tmp/chrony.conf.google /etc/chrony/chrony.conf",
+        "if sudo etckeeper unclean; then sudo etckeeper commit 'chrony: copied original chrony.conf from debian-10 image family'; fi"
       ],
       "expect_disconnect": false
     },
