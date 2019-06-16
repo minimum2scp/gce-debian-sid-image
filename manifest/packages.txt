@@ -267,10 +267,10 @@ ii   tzdata                                 2019a-1                      all    
 ii   ucf                                    3.0038+nmu1                  all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   241-5                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.33.1-0.1                   amd64  miscellaneous system utilities
-ii   vim-common                             2:8.1.0875-4                 all    Vi IMproved - Common files
-ii   vim-tiny                               2:8.1.0875-4                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim-common                             2:8.1.0875-5                 all    Vi IMproved - Common files
+ii   vim-tiny                               2:8.1.0875-5                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.20.1-1.1                   amd64  retrieves files from the web
 ii   whiptail                               0.52.20-8                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.1.0875-4                 amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.1.0875-5                 amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1              amd64  compression library - runtime
