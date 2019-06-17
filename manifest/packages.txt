@@ -158,7 +158,7 @@ ii   libncurses6                            6.1+20181013-2               amd64  
 ii   libncursesw6                           6.1+20181013-2               amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.7-1                      amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.4.1-1                      amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.20-8                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.21-1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                   amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.2-2                      amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.37.0-1                     amd64  library implementing HTTP/2 protocol (shared library)
@@ -270,7 +270,7 @@ ii   util-linux                             2.33.1-0.1                   amd64  
 ii   vim-common                             2:8.1.0875-5                 all    Vi IMproved - Common files
 ii   vim-tiny                               2:8.1.0875-5                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.20.1-1.1                   amd64  retrieves files from the web
-ii   whiptail                               0.52.20-8                    amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.21-1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.1.0875-5                 amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1              amd64  compression library - runtime
