@@ -213,7 +213,7 @@ ii   libwrap0                               7.6.q-28                     amd64  
 ii   libxtables12                           1.8.2-4                      amd64  netfilter xtables library
 ii   libzstd1                               1.3.8+dfsg-3                 amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                          all    Linux image base package
-ii   linux-image-4.19.0-5-cloud-amd64       4.19.37-3                    amd64  Linux 4.19 for x86-64 cloud (signed)
+ii   linux-image-4.19.0-5-cloud-amd64       4.19.37-4                    amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                4.19+105                     amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.5-1.1                    amd64  system login tools
 ii   logrotate                              3.14.0-4                     amd64  Log rotation utility
@@ -222,7 +222,7 @@ ii   lsb-release                            10.2019051400                all    
 ii   mawk                                   1.3.3-17+b3                  amd64  a pattern scanning and text processing language
 ii   mime-support                           3.62                         all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mount                                  2.33.1-0.1                   amd64  tools for mounting and manipulating filesystems
-ii   nano                                   3.2-2                        amd64  small, friendly text editor inspired by Pico
+ii   nano                                   3.2-3                        amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.1+20181013-2               all    basic terminal type definitions
 ii   ncurses-bin                            6.1+20181013-2               amd64  terminal-related programs and man pages
 ii   netbase                                5.6                          all    Basic TCP/IP networking system
