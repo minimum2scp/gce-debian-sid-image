@@ -16,7 +16,7 @@ ii   cloud-initramfs-growroot               0.18.debian7                 all    
 ii   cloud-utils                            0.29-1                       all    metapackage for installation of upstream cloud-utils source
 ii   coreutils                              8.30-3                       amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-9                  amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-133                   amd64  process scheduling daemon
+ii   cron                                   3.0pl1-134                   amd64  process scheduling daemon
 ii   curl                                   7.64.0-4                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-5                   amd64  POSIX-compliant shell
 ii   dbus                                   1.12.16-1                    amd64  simple interprocess messaging system (daemon and utilities)
