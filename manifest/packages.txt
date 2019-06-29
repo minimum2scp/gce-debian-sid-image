@@ -252,7 +252,7 @@ ii   python3-distro                         1.3.0-1                      all    
 ii   python3-google-compute-engine          20190124-3                   all    Python library for Google Compute Engine interaction (Python 3)
 ii   python3-idna                           2.6-1                        all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.7.3-1                      amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  40.8.0-1                     all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  41.0.1-1                     all    Package Discovery and Resource Access using pkg_resources
 ii   python3-requests                       2.21.0-1                     all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-six                            1.12.0-1                     all    Python 2 and 3 compatibility library (Python 3 interface)
 ii   python3-urllib3                        1.24.1-1                     all    HTTP library with thread-safe connection pooling for Python3
