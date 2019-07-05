@@ -270,7 +270,7 @@ ii   sysvinit-utils                         2.93-8                       amd64  
 ii   tar                                    1.30+dfsg-6                  amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.53                         all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.53                         all    official tasks used for installation of Debian systems
-ii   tzdata                                 2019a-1                      all    time zone and daylight-saving time data
+ii   tzdata                                 2019b-1                      all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                  all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   241-5                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.33.1-0.1                   amd64  miscellaneous system utilities
