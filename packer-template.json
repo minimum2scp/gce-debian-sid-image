@@ -27,7 +27,7 @@
       "type": "shell",
       "inline": [
         "sudo cp -a /etc/chrony/chrony.conf /var/tmp/chrony.conf.google",
-        "sudo apt-get --allow-releaseinfo-change update",
+        "sudo apt-get update",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
         "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge chrony unattended-upgrades"
       ],
