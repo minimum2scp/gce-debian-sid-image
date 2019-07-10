@@ -2,14 +2,14 @@ ii   adduser                                3.118                        all    
 ii   apparmor                               2.13.2-10                    amd64  user-space parser utility for AppArmor
 ii   apt                                    1.8.2                        amd64  commandline package manager
 ii   apt-utils                              1.8.2                        amd64  package management related utility programs
-ii   base-files                             10.3                         amd64  Debian base system miscellaneous files
+ii   base-files                             11                           amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.46                       amd64  Debian base system master password and group files
 ii   bash                                   5.0-4                        amd64  GNU Bourne Again SHell
 ii   bsdmainutils                           11.1.2+b1                    amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.33.1-0.1                 amd64  basic utilities from 4.4BSD-Lite
-ii   bzip2                                  1.0.6-9.1                    amd64  high-quality block-sorting file compressor - utilities
+ii   bzip2                                  1.0.6-9.2                    amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20190110                     all    Common CA certificates
-ii   chrony                                 3.4-4                        amd64  Versatile implementation of the Network Time Protocol
+ii   chrony                                 3.5-2                        amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.30-3                       amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-9                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-134                   amd64  process scheduling daemon
@@ -31,7 +31,7 @@ ii   etckeeper                              1.18.10-1                    all    
 ii   fdisk                                  2.33.1-0.1                   amd64  collection of partitioning utilities
 ii   file                                   1:5.35-4                     amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20190209-2         amd64  utilities for finding files--find, xargs
-ii   gcc-8-base                             8.3.0-7                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.3.0-19                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.1.0-8                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1             all    Automatically resize the root partition on first boot.
 ii   gdbm-l10n                              1.18.1-4                     all    GNU dbm database routines (translation files)
@@ -54,10 +54,10 @@ ii   gpgsm                                  2.2.13-2                     amd64  
 ii   gpgv                                   2.2.13-2                     amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.3-1                        amd64  GNU grep, egrep and fgrep
 ii   grub-cloud-amd64                       0.0.4                        amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.02+dfsg1-20                amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.02+dfsg1-20                amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
-ii   grub-pc-bin                            2.02+dfsg1-20                amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.02+dfsg1-20                amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-common                            2.04-1                       amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.04-1                       amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-pc-bin                            2.04-1                       amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.04-1                       amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.9-3                        amd64  GNU compression utilities
 ii   haveged                                1.9.1-7                      amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.21                         amd64  utility to set/show the host name or domain name
@@ -66,8 +66,8 @@ ii   init                                   1.57                         amd64  
 ii   init-system-helpers                    1.57                         all    helper tools for all init systems
 ii   initramfs-tools                        0.133                        all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.133                        all    generic modular initramfs generator (core tools)
-ii   iproute2                               4.20.0-2                     amd64  networking and traffic control tools
-ii   iptables                               1.8.2-4                      amd64  administration tools for packet filtering and NAT
+ii   iproute2                               5.2.0-1                      amd64  networking and traffic control tools
+ii   iptables                               1.8.3-2                      amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190515-2                 amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.1-2                      amd64  common manpages relevant to all of the isc-dhcp packages
@@ -86,7 +86,7 @@ ii   libaudit-common                        1:2.8.5-1                    all    
 ii   libaudit1                              1:2.8.5-1                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.33.1-0.1                   amd64  block device ID library
 ii   libbsd0                                0.9.1-2                      amd64  utility functions from BSD systems - shared library
-ii   libbz2-1.0                             1.0.6-9.1                    amd64  high-quality block-sorting file compressor library - runtime
+ii   libbz2-1.0                             1.0.6-9.2                    amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.28-10                      amd64  GNU C Library: Binaries
 ii   libc6                                  2.28-10                      amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.9-2                      amd64  An alternate POSIX capabilities library
@@ -127,8 +127,10 @@ ii   libhogweed4                            3.4.1-1                      amd64  
 ii   libidn11                               1.33-2.2                     amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.5-1                      amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc0                              1.8.2-4                      amd64  netfilter libip4tc library
+ii   libip4tc2                              1.8.3-2                      amd64  netfilter libip4tc library
 ii   libip6tc0                              1.8.2-4                      amd64  netfilter libip6tc library
-ii   libiptc0                               1.8.2-4                      amd64  netfilter libiptc library
+ii   libip6tc2                              1.8.3-2                      amd64  netfilter libip6tc library
+ii   libiptc0                               1.8.3-2                      amd64  netfilter libiptc library
 ii   libisc-export1100                      1:9.11.5.P4+dfsg-5.1         amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1+ds-2                  amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.17-4                       amd64  MIT Kerberos runtime libraries - Crypto Library
@@ -155,7 +157,7 @@ ii   libnetfilter-conntrack3                1.0.7-1                      amd64  
 ii   libnettle6                             3.4.1-1                      amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.21-1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                   amd64  Netfilter netlink library
-ii   libnftnl11                             1.1.2-2                      amd64  Netfilter nftables userspace API library
+ii   libnftnl11                             1.1.3-2                      amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.37.0-1                     amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                        amd64  replacement for GNU Pth using system threads
 ii   libp11-kit0                            0.23.15-2                    amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -177,8 +179,8 @@ ii   libpython2-stdlib                      2.7.16-1                     amd64  
 ii   libpython2.7-minimal                   2.7.16-3                     amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.16-3                     amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.7.3-1                      amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.7-minimal                   3.7.4~rc2-2                  amd64  Minimal subset of the Python language (version 3.7)
-ii   libpython3.7-stdlib                    3.7.4~rc2-2                  amd64  Interactive high-level object-oriented language (standard library, version 3.7)
+ii   libpython3.7-minimal                   3.7.4-1                      amd64  Minimal subset of the Python language (version 3.7)
+ii   libpython3.7-stdlib                    3.7.4-1                      amd64  Interactive high-level object-oriented language (standard library, version 3.7)
 ii   libreadline7                           7.0-5                        amd64  GNU readline and history libraries, run-time libraries
 ii   libreadline8                           8.0-2                        amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2  amd64  toolkit for RTMP streams (shared library)
@@ -207,7 +209,7 @@ ii   libudev1                               241-6                        amd64  
 ii   libunistring2                          0.9.10-1                     amd64  Unicode string library for C
 ii   libuuid1                               2.33.1-0.1                   amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-28                     amd64  Wietse Venema's TCP wrappers library
-ii   libxtables12                           1.8.2-4                      amd64  netfilter xtables library
+ii   libxtables12                           1.8.3-2                      amd64  netfilter xtables library
 ii   libzstd1                               1.3.8+dfsg-3                 amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                          all    Linux image base package
 ii   linux-image-4.19.0-5-cloud-amd64       4.19.37-5                    amd64  Linux 4.19 for x86-64 cloud (signed)
@@ -256,10 +258,10 @@ ii   python3-distro                         1.3.0-1                      all    
 ii   python3-google-compute-engine          1:20190708.00-g1             all    Google Compute Engine python library for Python 3.x.
 ii   python3-minimal                        3.7.3-1                      amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  41.0.1-1                     all    Package Discovery and Resource Access using pkg_resources
-ii   python3.7                              3.7.4~rc2-2                  amd64  Interactive high-level object-oriented language (version 3.7)
-ii   python3.7-minimal                      3.7.4~rc2-2                  amd64  Minimal subset of the Python language (version 3.7)
+ii   python3.7                              3.7.4-1                      amd64  Interactive high-level object-oriented language (version 3.7)
+ii   python3.7-minimal                      3.7.4-1                      amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-2                        all    GNU readline and history libraries, common files
-ii   rsyslog                                8.1905.0-4                   amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.1907.0-1                   amd64  reliable system and kernel logging daemon
 ii   sed                                    4.7-1                        amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12                       all    Utilities for sensible alternative selection
 ii   sudo                                   1.8.27-1                     amd64  Provide limited super user privileges to specific users
