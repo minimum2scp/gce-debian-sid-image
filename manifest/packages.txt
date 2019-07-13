@@ -30,7 +30,7 @@ ii   e2fsprogs                              1.45.2-1                     amd64  
 ii   etckeeper                              1.18.10-1                    all    store /etc in git, mercurial, bzr or darcs
 ii   fdisk                                  2.33.1-0.1                   amd64  collection of partitioning utilities
 ii   file                                   1:5.35-4                     amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.6.0+git+20190209-2         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.6.0+git+20190510-2         amd64  utilities for finding files--find, xargs
 ii   gcc-8-base                             8.3.0-19                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.1.0-8                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1             all    Automatically resize the root partition on first boot.
@@ -59,7 +59,7 @@ ii   grub-efi-amd64-bin                     2.04-1                       amd64  
 ii   grub-pc-bin                            2.04-1                       amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.04-1                       amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.9-3                        amd64  GNU compression utilities
-ii   haveged                                1.9.1-7                      amd64  Linux entropy source using the HAVEGE algorithm
+ii   haveged                                1.9.1-8                      amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.21                         amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.35                       amd64  high level tools to configure network interfaces
 ii   init                                   1.57                         amd64  metapackage ensuring an init system is installed
@@ -122,7 +122,7 @@ ii   libgmp10                               2:6.1.2+dfsg-4               amd64  
 ii   libgnutls30                            3.6.8-2                      amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.36-2                       amd64  GnuPG development runtime library
 ii   libgssapi-krb5-2                       1.17-4                       amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhavege1                             1.9.1-7                      amd64  entropy source using the HAVEGE algorithm - shared library
+ii   libhavege1                             1.9.1-8                      amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                      amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.2                     amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.0.5-1                      amd64  Internationalized domain names (IDNA2008/TR46) library
