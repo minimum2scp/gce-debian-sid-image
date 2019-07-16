@@ -80,7 +80,7 @@ ii   libapparmor1                           2.13.2-10                    amd64  
 ii   libapt-inst2.0                         1.8.2                        amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.8.2                        amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2               amd64  memory-hard hashing function - runtime library
-ii   libassuan0                             2.5.3-3                      amd64  IPC library for the GnuPG components
+ii   libassuan0                             2.5.3-5                      amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.48-4                   amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:2.8.5-1                    all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.5-1                    amd64  Dynamic library for security auditing
@@ -120,7 +120,7 @@ ii   libgdbm-compat4                        1.18.1-4+b1                  amd64  
 ii   libgdbm6                               1.18.1-4+b1                  amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.1.2+dfsg-4               amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.6.8-2                      amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.36-4                       amd64  GnuPG development runtime library
+ii   libgpg-error0                          1.36-6                       amd64  GnuPG development runtime library
 ii   libgssapi-krb5-2                       1.17-4                       amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege1                             1.9.1-8                      amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                      amd64  low level cryptographic library (public-key cryptos)
@@ -201,7 +201,7 @@ ii   libssl1.1                              1.1.1c-1                     amd64  
 ii   libstdc++6                             9.1.0-8                      amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            241-6+b1                     amd64  systemd utility library
 ii   libtasn1-6                             4.13-4                       amd64  Manage ASN.1 structures (runtime)
-ii   libtext-charwidth-perl                 0.04-7.1+b1                  amd64  get display widths of characters on the terminal
+ii   libtext-charwidth-perl                 0.04-8                       amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-6                        amd64  module to convert between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-8                       all    internationalized substitute of Text::Wrap
 ii   libtinfo6                              6.1+20181013-2               amd64  shared low-level terminfo library for terminal handling
