@@ -82,8 +82,8 @@ ii   libapt-pkg5.0                          1.8.2                        amd64  
 ii   libargon2-1                            0~20171227-0.2               amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.3-7                      amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.48-4                   amd64  extended attribute handling - shared library
-ii   libaudit-common                        1:2.8.5-1                    all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:2.8.5-1                    amd64  Dynamic library for security auditing
+ii   libaudit-common                        1:2.8.5-2                    all    Dynamic library for security auditing - common files
+ii   libaudit1                              1:2.8.5-2                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.33.1-0.1                   amd64  block device ID library
 ii   libbsd0                                0.9.1-2                      amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.6-9.2                    amd64  high-quality block-sorting file compressor library - runtime
@@ -93,7 +93,7 @@ ii   libcap-ng0                             0.7.9-2                      amd64  
 ii   libcap2                                1:2.25-2                     amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-2                     amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.2-1                     amd64  common error description library
-ii   libcryptsetup12                        2:2.1.0-6                    amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.1.0-7                    amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.65.1-1                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.65.1-1                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6             amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -125,7 +125,7 @@ ii   libgssapi-krb5-2                       1.17-5                       amd64  
 ii   libhavege1                             1.9.1-8                      amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                      amd64  low level cryptographic library (public-key cryptos)
 ii   libidn11                               1.33-2.2                     amd64  GNU Libidn library, implementation of IETF IDN specifications
-ii   libidn2-0                              2.0.5-1                      amd64  Internationalized domain names (IDNA2008/TR46) library
+ii   libidn2-0                              2.2.0-1                      amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc0                              1.8.2-4                      amd64  netfilter libip4tc library
 ii   libip4tc2                              1.8.3-2                      amd64  netfilter libip4tc library
 ii   libip6tc0                              1.8.2-4                      amd64  netfilter libip6tc library
@@ -188,8 +188,8 @@ ii   libsasl2-modules                       2.1.27+dfsg-1                amd64  
 ii   libsasl2-modules-db                    2.1.27+dfsg-1                amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.4.1-2                      amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.9-2                        amd64  SELinux runtime shared libraries
-ii   libsemanage-common                     2.9-2                        all    Common files for SELinux policy management libraries
-ii   libsemanage1                           2.9-2                        amd64  SELinux policy management library
+ii   libsemanage-common                     2.9-3                        all    Common files for SELinux policy management libraries
+ii   libsemanage1                           2.9-3                        amd64  SELinux policy management library
 ii   libsepol1                              2.9-2                        amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-4                      amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.33.1-0.1                   amd64  smart column output alignment library
@@ -266,7 +266,7 @@ ii   sensible-utils                         0.0.12                       all    
 ii   sudo                                   1.8.27-1                     amd64  Provide limited super user privileges to specific users
 ii   systemd                                241-7                        amd64  system and service manager
 ii   systemd-sysv                           241-7                        amd64  system and service manager - SysV links
-ii   sysvinit-utils                         2.95-1                       amd64  System-V-like utilities
+ii   sysvinit-utils                         2.95-2                       amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-6                  amd64  GNU version of the tar archiving utility
 ii   tasksel                                3.53                         all    tool for selecting tasks for installation on Debian systems
 ii   tasksel-data                           3.53                         all    official tasks used for installation of Debian systems
