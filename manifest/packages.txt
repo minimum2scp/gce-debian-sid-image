@@ -29,7 +29,7 @@ ii   dpkg                                   1.19.7                       amd64  
 ii   e2fsprogs                              1.45.3-3                     amd64  ext2/ext3/ext4 file system utilities
 ii   etckeeper                              1.18.10-1                    all    store /etc in git, mercurial, bzr or darcs
 ii   fdisk                                  2.33.1-0.1                   amd64  collection of partitioning utilities
-ii   file                                   1:5.37-4                     amd64  Recognize the type of data in a file using "magic" numbers
+ii   file                                   1:5.37-5                     amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20190510-2         amd64  utilities for finding files--find, xargs
 ii   gcc-8-base                             8.3.0-19                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.1.0-10                     amd64  GCC, the GNU Compiler Collection (base package)
@@ -146,8 +146,8 @@ ii   liblocale-gettext-perl                 1.07-3+b4                    amd64  
 ii   liblognorm5                            2.0.5-1                      amd64  log normalizing library
 ii   liblz4-1                               1.8.3-1                      amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.4-1                      amd64  XZ-format compression library
-ii   libmagic-mgc                           1:5.37-4                     amd64  File type determination library using "magic" numbers (compiled magic file)
-ii   libmagic1                              1:5.37-4                     amd64  Recognize the type of data in a file using "magic" numbers - library
+ii   libmagic-mgc                           1:5.37-5                     amd64  File type determination library using "magic" numbers (compiled magic file)
+ii   libmagic1                              1:5.37-5                     amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmnl0                                1.0.4-2                      amd64  minimalistic Netlink communication library
 ii   libmount1                              2.33.1-0.1                   amd64  device mounting library
 ii   libmpdec2                              2.4.2-2                      amd64  library for decimal floating point arithmetic (runtime library)
@@ -234,7 +234,7 @@ ii   passwd                                 1:4.7-2                      amd64  
 ii   perl                                   5.28.1-6                     amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.28.1-6                     amd64  minimal Perl system
 ii   perl-modules-5.28                      5.28.1-6                     all    Core Perl modules
-ii   pinentry-curses                        1.1.0-2                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
+ii   pinentry-curses                        1.1.0-3                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.15-2                   amd64  /proc file system utilities
 ii   publicsuffix                           20190723.1836-1              all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.16-1                     amd64  interactive high-level object-oriented language (Python2 version)
