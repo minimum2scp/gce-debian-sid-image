@@ -1,5 +1,5 @@
 ii   adduser                                3.118                        all    add and remove users and groups
-ii   apparmor                               2.13.3-3                     amd64  user-space parser utility for AppArmor
+ii   apparmor                               2.13.3-4                     amd64  user-space parser utility for AppArmor
 ii   apt                                    1.8.2                        amd64  commandline package manager
 ii   apt-utils                              1.8.2                        amd64  package management related utility programs
 ii   base-files                             11                           amd64  Debian base system miscellaneous files
@@ -64,8 +64,8 @@ ii   hostname                               3.21                         amd64  
 ii   ifupdown                               0.8.35                       amd64  high level tools to configure network interfaces
 ii   init                                   1.57                         amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.57                         all    helper tools for all init systems
-ii   initramfs-tools                        0.133                        all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.133                        all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.134                        all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.134                        all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.2.0-1                      amd64  networking and traffic control tools
 ii   iptables                               1.8.3-2                      amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190515-2                 amd64  Tools to test the reachability of network hosts
@@ -76,7 +76,7 @@ ii   kmod                                   26-1                         amd64  
 ii   krb5-locales                           1.17-5                       all    internationalization support for MIT Kerberos
 ii   less                                   487-0.1+b1                   amd64  pager program similar to more
 ii   libacl1                                2.2.53-4                     amd64  access control list - shared library
-ii   libapparmor1                           2.13.3-3                     amd64  changehat AppArmor library
+ii   libapparmor1                           2.13.3-4                     amd64  changehat AppArmor library
 ii   libapt-inst2.0                         1.8.2                        amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.8.2                        amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2               amd64  memory-hard hashing function - runtime library
@@ -199,7 +199,7 @@ ii   libssh2-1                              1.8.0-2.1                    amd64  
 ii   libssl1.1                              1.1.1c-1                     amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             9.1.0-10                     amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            241-7                        amd64  systemd utility library
-ii   libtasn1-6                             4.13-4                       amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.14-2                       amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-8                       amd64  get display widths of characters on the terminal
 ii   libtext-iconv-perl                     1.7-6                        amd64  module to convert between character sets in Perl
 ii   libtext-wrapi18n-perl                  0.06-8                       all    internationalized substitute of Text::Wrap
