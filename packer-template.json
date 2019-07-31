@@ -1,8 +1,8 @@
 {
   "variables": {
     "project_id": "",
-    "source_image": "debian-10-buster-v20190708",
-    "source_image_project_id": "debian-cloud-testing"
+    "source_image": "debian-10-buster-v20190729",
+    "source_image_project_id": "debian-cloud"
   },
   "builders": [{
     "type": "googlecompute",
