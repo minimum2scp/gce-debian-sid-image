@@ -32,7 +32,7 @@ ii   fdisk                                  2.34-0.1                      amd64 
 ii   file                                   1:5.37-5                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.6.0+git+20190510-2          amd64  utilities for finding files--find, xargs
 ii   gcc-8-base                             8.3.0-21                      amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-9-base                             9.2.1-2                       amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-9-base                             9.2.1-3                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1              all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.23.0-1                    amd64  fast, scalable, distributed revision control system
@@ -65,8 +65,8 @@ ii   hostname                               3.21                          amd64 
 ii   ifupdown                               0.8.35+b1                     amd64  high level tools to configure network interfaces
 ii   init                                   1.57                          amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.57                          all    helper tools for all init systems
-ii   initramfs-tools                        0.134                         all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.134                         all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.135                         all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.135                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.2.0-1                       amd64  networking and traffic control tools
 ii   iptables                               1.8.3-2                       amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190709-1                  amd64  Tools to test the reachability of network hosts
@@ -93,7 +93,7 @@ ii   libcap-ng0                             0.7.9-2+b1                    amd64 
 ii   libcap2                                1:2.25-2                      amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-2                      amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.3-4                      amd64  common error description library
-ii   libcryptsetup12                        2:2.2.0-1                     amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.2.0-2                     amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.65.3-1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.65.3-1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6              amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -114,7 +114,7 @@ ii   libfdisk1                              2.34-0.1                      amd64 
 ii   libffi6                                3.2.1-9                       amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.9.1-4                       amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-1                       amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:9.2.1-2                     amd64  GCC support library
+ii   libgcc1                                1:9.2.1-3                     amd64  GCC support library
 ii   libgcrypt20                            1.8.4-5                       amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-4+b1                   amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-4+b1                   amd64  GNU dbm database routines (runtime version)
@@ -125,7 +125,6 @@ ii   libgpm2                                1.20.7-5+b1                   amd64 
 ii   libgssapi-krb5-2                       1.17-6                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege1                             1.9.4-2                       amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1+b1                    amd64  low level cryptographic library (public-key cryptos)
-ii   libidn11                               1.33-2.2                      amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.2.0-1                       amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.3-2                       amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.3-2                       amd64  netfilter libip6tc library
@@ -163,7 +162,7 @@ ii   libp11-kit0                            0.23.16.1-2                   amd64 
 ii   libpam-modules                         1.3.1-5                       amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                       amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.3.1-5                       all    Runtime support for the PAM library
-ii   libpam-systemd                         241-7                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         242-4                         amd64  system and service manager - PAM module
 ii   libpam0g                               1.3.1-5                       amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.2-25+b1                     amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.32-5+b1                    amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
@@ -179,8 +178,8 @@ ii   libpython2-stdlib                      2.7.16-1                      amd64 
 ii   libpython2.7-minimal                   2.7.16-3                      amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.16-3                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.7.3-1                       amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.7-minimal                   3.7.4-2                       amd64  Minimal subset of the Python language (version 3.7)
-ii   libpython3.7-stdlib                    3.7.4-2                       amd64  Interactive high-level object-oriented language (standard library, version 3.7)
+ii   libpython3.7-minimal                   3.7.4-3                       amd64  Minimal subset of the Python language (version 3.7)
+ii   libpython3.7-stdlib                    3.7.4-3                       amd64  Interactive high-level object-oriented language (standard library, version 3.7)
 ii   libreadline8                           8.0-2                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2   amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27+dfsg-1                 amd64  Cyrus SASL - authentication abstraction library
@@ -197,12 +196,12 @@ ii   libsqlite3-0                           3.29.0-2                      amd64 
 ii   libss2                                 1.45.3-4                      amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                     amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1c-1                      amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             9.2.1-2                       amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            241-7                         amd64  systemd utility library
+ii   libstdc++6                             9.2.1-3                       amd64  GNU Standard C++ Library v3
+ii   libsystemd0                            242-4                         amd64  systemd utility library
 ii   libtasn1-6                             4.14-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtinfo6                              6.1+20190803-1                amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                       amd64  universal charset detection library - shared library
-ii   libudev1                               241-7                         amd64  libudev shared library
+ii   libudev1                               242-4                         amd64  libudev shared library
 ii   libunistring2                          0.9.10-2                      amd64  Unicode string library for C
 ii   libuuid1                               2.34-0.1                      amd64  Universally Unique ID library
 ii   libwrap0                               7.6.q-28                      amd64  Wietse Venema's TCP wrappers library
@@ -210,7 +209,7 @@ ii   libxtables12                           1.8.3-2                       amd64 
 ii   libzstd1                               1.4.3+dfsg-1                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                           all    Linux image base package
 ii   linux-image-4.19.0-5-cloud-amd64       4.19.37-6                     amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.2.0-2-cloud-amd64        5.2.9-1                       amd64  Linux 5.2 for x86-64 cloud (signed)
+ii   linux-image-5.2.0-2-cloud-amd64        5.2.9-2                       amd64  Linux 5.2 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.2+106                       amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.7-2                       amd64  system login tools
 ii   logrotate                              3.14.0-4                      amd64  Log rotation utility
@@ -261,8 +260,8 @@ ii   python3-distro                         1.3.0-1                       all   
 ii   python3-google-compute-engine          1:20190801.00-g1              all    Google Compute Engine python library for Python 3.x.
 ii   python3-minimal                        3.7.3-1                       amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  41.1.0-1                      all    Package Discovery and Resource Access using pkg_resources
-ii   python3.7                              3.7.4-2                       amd64  Interactive high-level object-oriented language (version 3.7)
-ii   python3.7-minimal                      3.7.4-2                       amd64  Minimal subset of the Python language (version 3.7)
+ii   python3.7                              3.7.4-3                       amd64  Interactive high-level object-oriented language (version 3.7)
+ii   python3.7-minimal                      3.7.4-3                       amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-2                         all    GNU readline and history libraries, common files
 ii   rsyslog                                8.1908.0-1                    amd64  reliable system and kernel logging daemon
 ii   sed                                    4.7-1                         amd64  GNU stream editor for filtering/transforming text
@@ -272,13 +271,13 @@ ii   shim-signed                            1.33+15+1533136590.3beb971-7  amd64 
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7  all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-7       amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sudo                                   1.8.27-1+b1                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                241-7                         amd64  system and service manager
-ii   systemd-sysv                           241-7                         amd64  system and service manager - SysV links
+ii   systemd                                242-4                         amd64  system and service manager
+ii   systemd-sysv                           242-4                         amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.95-5                        amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-6+b1                amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2019b-2                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   241-7                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   242-4                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                      amd64  miscellaneous system utilities
 ii   vim                                    2:8.1.0875-5                  amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.1.0875-5                  all    Vi IMproved - Common files
