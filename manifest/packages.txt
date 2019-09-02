@@ -56,6 +56,7 @@ ii   groff-base                             1.22.4-3                      amd64 
 ii   grub-cloud-amd64                       0.0.4                         amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.04-3                        amd64  GRand Unified Bootloader (common files)
 ii   grub-efi-amd64-bin                     2.04-3                        amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-efi-amd64-signed                  1+2.04+3                      amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
 ii   grub-pc-bin                            2.04-3                        amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.04-3                        amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.9-3+b1                      amd64  GNU compression utilities
@@ -152,7 +153,7 @@ ii   libncurses6                            6.1+20190803-1                amd64 
 ii   libncursesw6                           6.1+20190803-1                amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.7-2                       amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.5.1+really3.4.1-1           amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.21-2                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.21-3                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                    amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.4-1                       amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.39.2-1                      amd64  library implementing HTTP/2 protocol (shared library)
@@ -284,7 +285,7 @@ ii   vim-common                             2:8.1.0875-5                  all   
 ii   vim-runtime                            2:8.1.0875-5                  all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:8.1.0875-5                  amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                    amd64  retrieves files from the web
-ii   whiptail                               0.52.21-2                     amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.21-3                     amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.1.0875-5                  amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                    amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1+b1            amd64  compression library - runtime
