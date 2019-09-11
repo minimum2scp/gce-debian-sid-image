@@ -31,7 +31,7 @@ ii   etckeeper                              1.18.10-1                     all   
 ii   fdisk                                  2.34-0.1                      amd64  collection of partitioning utilities
 ii   file                                   1:5.37-5                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                       amd64  utilities for finding files--find, xargs
-ii   gcc-8-base                             8.3.0-21                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.3.0-22                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.2.1-8                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1              all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.17-3                      all   
 ii   gnupg-l10n                             2.2.17-3                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.17-3                      amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                         all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       261.0.0-0                     all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       262.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190905.00-g1              all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20190801.00-g1+deb10        amd64  Google Compute Engine OS Login
 ii   gpg                                    2.2.17-3                      amd64  GNU Privacy Guard -- minimalist public key operations
@@ -238,7 +238,7 @@ ii   perl-base                              5.28.1-6                      amd64 
 ii   perl-modules-5.28                      5.28.1-6                      all    Core Perl modules
 ii   pinentry-curses                        1.1.0-3                       amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.15-2+b1                 amd64  /proc file system utilities
-ii   publicsuffix                           20190723.1836-1               all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20190904.1802-1               all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.16-1                      amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-boto                            2.49.0-2                      all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2018.8.24-1                   all    root certificates for validating SSL certs and verifying TLS hosts
