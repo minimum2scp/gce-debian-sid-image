@@ -276,7 +276,7 @@ ii   shim-unsigned                          15+1533136590.3beb971-7       amd64 
 ii   sudo                                   1.8.27-1+b1                   amd64  Provide limited super user privileges to specific users
 ii   systemd                                242-7                         amd64  system and service manager
 ii   systemd-sysv                           242-7                         amd64  system and service manager - SysV links
-ii   sysvinit-utils                         2.96~beta-1                   amd64  System-V-like utilities
+ii   sysvinit-utils                         2.96~beta-2                   amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-6+b1                amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2019c-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
