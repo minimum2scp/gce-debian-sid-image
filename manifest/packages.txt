@@ -180,8 +180,8 @@ ii   libpython2-stdlib                      2.7.16-1                      amd64 
 ii   libpython2.7-minimal                   2.7.16-4                      amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.16-4                      amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.7.3-1                       amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.7-minimal                   3.7.4-4                       amd64  Minimal subset of the Python language (version 3.7)
-ii   libpython3.7-stdlib                    3.7.4-4                       amd64  Interactive high-level object-oriented language (standard library, version 3.7)
+ii   libpython3.7-minimal                   3.7.5~rc1-1                   amd64  Minimal subset of the Python language (version 3.7)
+ii   libpython3.7-stdlib                    3.7.5~rc1-1                   amd64  Interactive high-level object-oriented language (standard library, version 3.7)
 ii   libreadline8                           8.0-3                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2   amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27+dfsg-1                 amd64  Cyrus SASL - authentication abstraction library
@@ -262,8 +262,8 @@ ii   python3-distro                         1.3.0-1                       all   
 ii   python3-google-compute-engine          1:20190916.00-g1              all    Google Compute Engine python library for Python 3.x.
 ii   python3-minimal                        3.7.3-1                       amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  41.2.0-1                      all    Package Discovery and Resource Access using pkg_resources
-ii   python3.7                              3.7.4-4                       amd64  Interactive high-level object-oriented language (version 3.7)
-ii   python3.7-minimal                      3.7.4-4                       amd64  Minimal subset of the Python language (version 3.7)
+ii   python3.7                              3.7.5~rc1-1                   amd64  Interactive high-level object-oriented language (version 3.7)
+ii   python3.7-minimal                      3.7.5~rc1-1                   amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-3                         all    GNU readline and history libraries, common files
 ii   rsyslog                                8.1908.0-1                    amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.14                        all    dh-runit implementation detail
@@ -276,9 +276,9 @@ ii   shim-unsigned                          15+1533136590.3beb971-7       amd64 
 ii   sudo                                   1.8.27-1+b1                   amd64  Provide limited super user privileges to specific users
 ii   systemd                                242-7                         amd64  system and service manager
 ii   systemd-sysv                           242-7                         amd64  system and service manager - SysV links
-ii   sysvinit-utils                         2.96~beta-2                   amd64  System-V-like utilities
+ii   sysvinit-utils                         2.96~beta-3                   amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-6+b1                amd64  GNU version of the tar archiving utility
-ii   tzdata                                 2019c-2                       all    time zone and daylight-saving time data
+ii   tzdata                                 2019c-3                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   242-7                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                      amd64  miscellaneous system utilities
