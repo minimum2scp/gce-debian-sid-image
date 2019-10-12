@@ -81,6 +81,8 @@ ii   libapparmor1                           2.13.3-5+b1                   amd64 
 ii   libapt-inst2.0                         1.8.4                         amd64  deb package format runtime library
 ii   libapt-pkg5.0                          1.8.4                         amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                amd64  memory-hard hashing function - runtime library
+ii   libasound2                             1.1.8-2                       amd64  shared library for ALSA applications
+ii   libasound2-data                        1.1.8-2                       all    Configuration files and profiles for ALSA drivers
 ii   libassuan0                             2.5.3-7                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.48-5                    amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:2.8.5-2                     all    Dynamic library for security auditing - common files
@@ -91,6 +93,7 @@ ii   libbsd0                                0.10.0-1                      amd64 
 ii   libbz2-1.0                             1.0.8-2                       amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.29-2                        amd64  GNU C Library: Binaries
 ii   libc6                                  2.29-2                        amd64  GNU C Library: Shared libraries
+ii   libcanberra0                           0.30-7                        amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-2                      amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-2                      amd64  POSIX 1003.1e capabilities (utilities)
@@ -144,6 +147,7 @@ ii   libksba8                               1.3.5-2                       amd64 
 ii   libldap-2.4-2                          2.4.48+dfsg-1+b1              amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.48+dfsg-1                 all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1+b1                    amd64  log normalizing library
+ii   libltdl7                               2.4.6-11                      amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.1-2                       amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.4-1+b1                    amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.37-5                      amd64  File type determination library using "magic" numbers (compiled magic file)
@@ -160,6 +164,7 @@ ii   libnfnetlink0                          1.0.1-3+b1                    amd64 
 ii   libnftnl11                             1.1.4-1                       amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.39.2-1                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                         amd64  replacement for GNU Pth using system threads
+ii   libogg0                                1.3.2-1+b1                    amd64  Ogg bitstream library
 ii   libp11-kit0                            0.23.17-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.3.1-5                       amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                       amd64  Pluggable Authentication Modules for PAM - helper binaries
@@ -201,11 +206,14 @@ ii   libssl1.1                              1.1.1d-1                      amd64 
 ii   libstdc++6                             9.2.1-9                       amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            242-7                         amd64  systemd utility library
 ii   libtasn1-6                             4.14-3                        amd64  Manage ASN.1 structures (runtime)
+ii   libtdb1                                1.4.2-2                       amd64  Trivial Database - shared library
 ii   libtinfo6                              6.1+20190803-1                amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                       amd64  universal charset detection library - shared library
 ii   libudev1                               242-7                         amd64  libudev shared library
 ii   libunistring2                          0.9.10-2                      amd64  Unicode string library for C
 ii   libuuid1                               2.34-0.1                      amd64  Universally Unique ID library
+ii   libvorbis0a                            1.3.6-2                       amd64  decoder library for Vorbis General Audio Compression Codec
+ii   libvorbisfile3                         1.3.6-2                       amd64  high-level API for Vorbis General Audio Compression Codec
 ii   libwrap0                               7.6.q-28                      amd64  Wietse Venema's TCP wrappers library
 ii   libxtables12                           1.8.3-2                       amd64  netfilter xtables library
 ii   libzstd1                               1.4.3+dfsg-1                  amd64  fast lossless compression algorithm
@@ -273,6 +281,7 @@ ii   shim-helpers-amd64-signed              1+15+1533136590.3beb971+7     amd64 
 ii   shim-signed                            1.33+15+1533136590.3beb971-7  amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7  all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-7       amd64  boot loader to chain-load signed boot loaders under Secure Boot
+ii   sound-theme-freedesktop                0.8-2                         all    freedesktop.org sound theme
 ii   sudo                                   1.8.27-1+b1                   amd64  Provide limited super user privileges to specific users
 ii   systemd                                242-7                         amd64  system and service manager
 ii   systemd-sysv                           242-7                         amd64  system and service manager - SysV links
@@ -282,12 +291,12 @@ ii   tzdata                                 2019c-3                       all   
 ii   ucf                                    3.0038+nmu1                   all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   242-7                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                      amd64  miscellaneous system utilities
-ii   vim                                    2:8.1.0875-5+b1               amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.1.0875-5                  all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.1.0875-5                  all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.1.0875-5+b1               amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.1.2136-1                  amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.1.2136-1                  all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.1.2136-1                  all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.1.2136-1                  amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                    amd64  retrieves files from the web
 ii   whiptail                               0.52.21-3                     amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.1.0875-5+b1               amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.1.2136-1                  amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                    amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1+b1            amd64  compression library - runtime
