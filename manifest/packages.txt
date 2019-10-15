@@ -117,7 +117,7 @@ ii   libext2fs2                             1.45.4-1                      amd64 
 ii   libfastjson4                           0.99.8-2                      amd64  fast json library for C
 ii   libfdisk1                              2.34-0.1                      amd64  fdisk partitioning library
 ii   libffi6                                3.2.1-9                       amd64  Foreign Function Interface library runtime
-ii   libfreetype6                           2.9.1-4                       amd64  FreeType 2 font engine, shared library files
+ii   libfreetype6                           2.10.1-2                      amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-2                       amd64  Filesystem in Userspace (library)
 ii   libgcc1                                1:9.2.1-9                     amd64  GCC support library
 ii   libgcrypt20                            1.8.5-3                       amd64  LGPL Crypto library - runtime library
@@ -282,7 +282,7 @@ ii   shim-signed                            1.33+15+1533136590.3beb971-7  amd64 
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7  all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-7       amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                         all    freedesktop.org sound theme
-ii   sudo                                   1.8.27-1+b1                   amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.8.27-1+deb10u1              amd64  Provide limited super user privileges to specific users
 ii   systemd                                242-7                         amd64  system and service manager
 ii   systemd-sysv                           242-7                         amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.96~beta-3                   amd64  System-V-like utilities
