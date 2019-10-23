@@ -29,7 +29,7 @@ ii   e2fsprogs                              1.45.4-1                      amd64 
 ii   efibootmgr                             15-1+b1                       amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.10-1                     all    store /etc in git, mercurial, bzr or darcs
 ii   fdisk                                  2.34-0.1                      amd64  collection of partitioning utilities
-ii   file                                   1:5.37-5                      amd64  Recognize the type of data in a file using "magic" numbers
+ii   file                                   1:5.37-6                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                       amd64  utilities for finding files--find, xargs
 ii   gcc-8-base                             8.3.0-23                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.2.1-9                       amd64  GCC, the GNU Compiler Collection (base package)
@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.17-3                      all   
 ii   gnupg-l10n                             2.2.17-3                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.17-3                      amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                         all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       267.0.0-0                     all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       268.0.0-0                     all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190916.00-g1              all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10        amd64  Google Compute Engine OS Login
 ii   google-osconfig-agent                  1:20190925.00-g1              amd64  Google Compute Engine OSConfig Agent
@@ -88,7 +88,7 @@ ii   libattr1                               1:2.4.48-5                    amd64 
 ii   libaudit-common                        1:2.8.5-2                     all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.5-2                     amd64  Dynamic library for security auditing
 ii   libblkid1                              2.34-0.1                      amd64  block device ID library
-ii   libbrotli1                             1.0.7-3                       amd64  library implementing brotli encoder and decoder (shared libraries)
+ii   libbrotli1                             1.0.7-4                       amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                      amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-2                       amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.29-2                        amd64  GNU C Library: Binaries
@@ -150,8 +150,8 @@ ii   liblognorm5                            2.0.5-1+b1                    amd64 
 ii   libltdl7                               2.4.6-11                      amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.1-2                       amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.4-1+b1                    amd64  XZ-format compression library
-ii   libmagic-mgc                           1:5.37-5                      amd64  File type determination library using "magic" numbers (compiled magic file)
-ii   libmagic1                              1:5.37-5                      amd64  Recognize the type of data in a file using "magic" numbers - library
+ii   libmagic-mgc                           1:5.37-6                      amd64  File type determination library using "magic" numbers (compiled magic file)
+ii   libmagic1                              1:5.37-6                      amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmnl0                                1.0.4-2+b1                    amd64  minimalistic Netlink communication library
 ii   libmount1                              2.34-0.1                      amd64  device mounting library
 ii   libmpdec2                              2.4.2-2                       amd64  library for decimal floating point arithmetic (runtime library)
@@ -282,7 +282,7 @@ ii   shim-signed                            1.33+15+1533136590.3beb971-7  amd64 
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7  all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-7       amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                         all    freedesktop.org sound theme
-ii   sudo                                   1.8.27-1.1                    amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.8.28p1-1                    amd64  Provide limited super user privileges to specific users
 ii   systemd                                242-7                         amd64  system and service manager
 ii   systemd-sysv                           242-7                         amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.96-1                        amd64  System-V-like utilities
