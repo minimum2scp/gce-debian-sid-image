@@ -35,8 +35,8 @@ ii   gcc-8-base                             8.3.0-23                      amd64 
 ii   gcc-9-base                             9.2.1-12                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1              all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-9                    amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.24.0~rc0-1                amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.24.0~rc0-1                all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.24.0~rc1-1                amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.24.0~rc1-1                all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.17-3                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.17-3                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.17-3                      amd64  GNU privacy guard - utility programs
@@ -94,7 +94,7 @@ ii   libbz2-1.0                             1.0.8-2                       amd64 
 ii   libc-bin                               2.29-2                        amd64  GNU C Library: Binaries
 ii   libc6                                  2.29-2                        amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                        amd64  simple abstract interface for playing event sounds
-ii   libcap-ng0                             0.7.9-2+b1                    amd64  An alternate POSIX capabilities library
+ii   libcap-ng0                             0.7.9-2.1                     amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.25-2                      amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.25-2                      amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.4-1                      amd64  common error description library
@@ -155,8 +155,8 @@ ii   libmagic1                              1:5.37-6                      amd64 
 ii   libmnl0                                1.0.4-2+b1                    amd64  minimalistic Netlink communication library
 ii   libmount1                              2.34-0.1                      amd64  device mounting library
 ii   libmpdec2                              2.4.2-2                       amd64  library for decimal floating point arithmetic (runtime library)
-ii   libncurses6                            6.1+20190803-1                amd64  shared libraries for terminal handling
-ii   libncursesw6                           6.1+20190803-1                amd64  shared libraries for terminal handling (wide character support)
+ii   libncurses6                            6.1+20191019-1                amd64  shared libraries for terminal handling
+ii   libncursesw6                           6.1+20191019-1                amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.7-2                       amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.5.1+really3.4.1-1           amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.21-3                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
@@ -207,7 +207,7 @@ ii   libstdc++6                             9.2.1-12                      amd64 
 ii   libsystemd0                            242-7                         amd64  systemd utility library
 ii   libtasn1-6                             4.14-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-2                       amd64  Trivial Database - shared library
-ii   libtinfo6                              6.1+20190803-1                amd64  shared low-level terminfo library for terminal handling
+ii   libtinfo6                              6.1+20191019-1                amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                       amd64  universal charset detection library - shared library
 ii   libudev1                               242-7                         amd64  libudev shared library
 ii   libunistring2                          0.9.10-2                      amd64  Unicode string library for C
@@ -232,8 +232,8 @@ ii   mime-support                           3.64                          all   
 ii   mokutil                                0.3.0+1538710437.fb6250f-1    amd64  tools for manipulating machine owner keys
 ii   mount                                  2.34-0.1                      amd64  tools for mounting and manipulating filesystems
 ii   nano                                   4.5-1                         amd64  small, friendly text editor inspired by Pico
-ii   ncurses-base                           6.1+20190803-1                all    basic terminal type definitions
-ii   ncurses-bin                            6.1+20190803-1                amd64  terminal-related programs and man pages
+ii   ncurses-base                           6.1+20191019-1                all    basic terminal type definitions
+ii   ncurses-bin                            6.1+20191019-1                amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1    amd64  NET-3 networking toolkit
 ii   netbase                                5.6                           all    Basic TCP/IP networking system
 ii   openssh-client                         1:8.1p1-1                     amd64  secure shell (SSH) client, for secure access to remote machines
@@ -273,7 +273,7 @@ ii   python3-pkg-resources                  41.2.0-1                      all   
 ii   python3.7                              3.7.5-1                       amd64  Interactive high-level object-oriented language (version 3.7)
 ii   python3.7-minimal                      3.7.5-1                       amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-3                         all    GNU readline and history libraries, common files
-ii   rsyslog                                8.1910.0-1                    amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.1910.0-2                    amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.14                        all    dh-runit implementation detail
 ii   sed                                    4.7-1                         amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12                        all    Utilities for sensible alternative selection
