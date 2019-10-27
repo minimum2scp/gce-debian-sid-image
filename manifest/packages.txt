@@ -13,7 +13,7 @@ ii   chrony                                 3.5-4+b1                        amd6
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
 ii   cpio                                   2.12+dfsg-9+b1                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-135                      amd64  process scheduling daemon
-ii   curl                                   7.66.0-1                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.66.0-1+b1                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-6                      amd64  POSIX-compliant shell
 ii   dbus                                   1.12.16-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.73                          all    Debian configuration management system
@@ -99,8 +99,8 @@ ii   libcap2                                1:2.25-2                        amd6
 ii   libcap2-bin                            1:2.25-2                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.4-1                        amd64  common error description library
 ii   libcryptsetup12                        2:2.2.1-1                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.66.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.66.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.66.0-1+b1                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.66.0-1+b1                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.16-2                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.250                           amd64  Debian Configuration Management System (C-implementation library)
@@ -259,7 +259,7 @@ ii   python-crcmod                          1.7+dfsg-1+b1                   amd6
 ii   python-google-compute-engine           1:20190916.00-g1                all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-2                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.17-1                        amd64  minimal subset of the Python2 language
-ii   python-pkg-resources                   41.2.0-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python-pkg-resources                   41.4.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.21.0-1                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.12.0-2                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.24.1-1                        all    HTTP library with thread-safe connection pooling for Python
@@ -271,7 +271,7 @@ ii   python3                                3.7.5-1                         amd6
 ii   python3-distro                         1.3.0-2                         all    Linux OS platform information API
 ii   python3-google-compute-engine          1:20190916.00-g1                all    Google Compute Engine python library for Python 3.x.
 ii   python3-minimal                        3.7.5-1                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  41.2.0-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  41.4.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3.7                              3.7.5-1                         amd64  Interactive high-level object-oriented language (version 3.7)
 ii   python3.7-minimal                      3.7.5-1                         amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-3                           all    GNU readline and history libraries, common files
