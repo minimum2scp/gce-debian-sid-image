@@ -32,7 +32,7 @@ ii   fdisk                                  2.34-0.1                        amd6
 ii   file                                   1:5.37-6                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
 ii   gcc-8-base                             8.3.0-24                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-9-base                             9.2.1-18                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-9-base                             9.2.1-19                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-9                      amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.24.0-1                      amd64  fast, scalable, distributed revision control system
@@ -119,7 +119,7 @@ ii   libfdisk1                              2.34-0.1                        amd6
 ii   libffi6                                3.2.1-9                         amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.10.1-2                        amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-2                         amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:9.2.1-18                      amd64  GCC support library
+ii   libgcc1                                1:9.2.1-19                      amd64  GCC support library
 ii   libgcrypt20                            1.8.5-3                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
@@ -205,7 +205,7 @@ ii   libsqlite3-0                           3.30.1-1                        amd6
 ii   libss2                                 1.45.4-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             9.2.1-18                        amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             9.2.1-19                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            242-8                           amd64  systemd utility library
 ii   libtasn1-6                             4.14-3                          amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-2                         amd64  Trivial Database - shared library
@@ -293,12 +293,12 @@ ii   tzdata                                 2019c-3                         all 
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   242-8                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
-ii   vim                                    2:8.1.2244-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.1.2244-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.1.2244-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.1.2244-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.1.2269-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.1.2269-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.1.2269-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.1.2269-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-3                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.1.2244-1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.1.2269-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1+b1              amd64  compression library - runtime
