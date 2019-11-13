@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.17-3                        all 
 ii   gnupg-l10n                             2.2.17-3                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.17-3                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       270.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       271.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190916.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-osconfig-agent                  1:20190925.00-g1                amd64  Google Compute Engine OSConfig Agent
@@ -194,7 +194,7 @@ ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b1  amd6
 ii   libsasl2-2                             2.1.27+dfsg-1                   amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.27+dfsg-1                   amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.27+dfsg-1                   amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.4.1-2                         amd64  high level interface to Linux seccomp filter
+ii   libseccomp2                            2.4.2-1                         amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.9-3                           amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.9-3                           all    Common files for SELinux policy management libraries
 ii   libsemanage1                           2.9-3                           amd64  SELinux policy management library
@@ -220,9 +220,9 @@ ii   libwrap0                               7.6.q-28                        amd6
 ii   libxtables12                           1.8.3-2                         amd64  netfilter xtables library
 ii   libzstd1                               1.4.3+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
-ii   linux-image-4.19.0-6-cloud-amd64       4.19.67-2+deb10u1               amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.3.0-2-cloud-amd64        5.3.9-1                         amd64  Linux 5.3 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.3.9-1                         amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-4.19.0-6-cloud-amd64       4.19.67-2+deb10u2               amd64  Linux 4.19 for x86-64 cloud (signed)
+ii   linux-image-5.3.0-2-cloud-amd64        5.3.9-2                         amd64  Linux 5.3 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.3.9-2                         amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.7-2                         amd64  system login tools
 ii   logrotate                              3.15.1-1                        amd64  Log rotation utility
 ii   logsave                                1.45.4-1                        amd64  save the output of a command in a log file
@@ -275,7 +275,7 @@ ii   python3-pkg-resources                  41.4.0-1                        all 
 ii   python3.7                              3.7.5-2                         amd64  Interactive high-level object-oriented language (version 3.7)
 ii   python3.7-minimal                      3.7.5-2                         amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-3                           all    GNU readline and history libraries, common files
-ii   rsyslog                                8.1910.0-2                      amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.1911.0-1                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.14                          all    dh-runit implementation detail
 ii   sed                                    4.7-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12                          all    Utilities for sensible alternative selection
