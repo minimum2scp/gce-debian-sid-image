@@ -86,7 +86,7 @@ ii   libasound2-data                        1.1.9-1                         all 
 ii   libassuan0                             2.5.3-7                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.48-5                      amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:2.8.5-2                       all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:2.8.5-2                       amd64  Dynamic library for security auditing
+ii   libaudit1                              1:2.8.5-2+b1                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.34-0.1                        amd64  block device ID library
 ii   libbrotli1                             1.0.7-5+b1                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                        amd64  utility functions from BSD systems - shared library
@@ -182,8 +182,8 @@ ii   libpng16-16                            1.6.37-1                        amd6
 ii   libpopt0                               1.16-14                         amd64  lib for parsing cmdline parameters
 ii   libprocps7                             2:3.3.15-2+b1                   amd64  library for accessing process information from /proc
 ii   libpsl5                                0.20.2-2                        amd64  Library for Public Suffix List (shared libraries)
-ii   libpython-stdlib                       2.7.17-1                        amd64  interactive high-level object-oriented language (Python2)
-ii   libpython2-stdlib                      2.7.17-1                        amd64  interactive high-level object-oriented language (Python2)
+ii   libpython-stdlib                       2.7.17-2                        amd64  interactive high-level object-oriented language (Python2)
+ii   libpython2-stdlib                      2.7.17-2                        amd64  interactive high-level object-oriented language (Python2)
 ii   libpython2.7-minimal                   2.7.17-1                        amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.17-1                        amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.7.5-3                         amd64  interactive high-level object-oriented language (default python3 version)
@@ -197,7 +197,7 @@ ii   libsasl2-modules-db                    2.1.27+dfsg-1                   amd6
 ii   libseccomp2                            2.4.2-2                         amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            2.9-3+b1                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.9-3                           all    Common files for SELinux policy management libraries
-ii   libsemanage1                           2.9-3                           amd64  SELinux policy management library
+ii   libsemanage1                           2.9-3+b1                        amd64  SELinux policy management library
 ii   libsepol1                              2.9-2+b2                        amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-4                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.34-0.1                        amd64  smart column output alignment library
@@ -208,7 +208,7 @@ ii   libssl1.1                              1.1.1d-2                        amd6
 ii   libstdc++6                             9.2.1-19                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            243-7                           amd64  systemd utility library
 ii   libtasn1-6                             4.14-3                          amd64  Manage ASN.1 structures (runtime)
-ii   libtdb1                                1.4.2-2                         amd64  Trivial Database - shared library
+ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
 ii   libtinfo6                              6.1+20191019-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                         amd64  universal charset detection library - shared library
 ii   libudev1                               243-7                           amd64  libudev shared library
@@ -251,20 +251,20 @@ ii   perl-modules-5.30                      5.30.0-9                        all 
 ii   pinentry-curses                        1.1.0-3                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.15-2+b1                   amd64  /proc file system utilities
 ii   publicsuffix                           20190925.1705-1                 all    accurate, machine-readable list of domain name suffixes
-ii   python                                 2.7.17-1                        amd64  interactive high-level object-oriented language (Python2 version)
+ii   python                                 2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-boto                            2.49.0-2                        all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2018.8.24-1                     all    root certificates for validating SSL certs and verifying TLS hosts
 ii   python-chardet                         3.0.4-4                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7+dfsg-1+b1                   amd64  CRC Generator - Python 2.x
 ii   python-google-compute-engine           1:20191115.00-g1                all    Google Compute Engine python library for Python 2.x.
 ii   python-idna                            2.6-2                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
-ii   python-minimal                         2.7.17-1                        amd64  minimal subset of the Python2 language
+ii   python-minimal                         2.7.17-2                        amd64  minimal subset of the Python2 language
 ii   python-pkg-resources                   41.4.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.21.0-1                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.13.0-1                        all    Python 2 and 3 compatibility library (Python 2 interface)
 ii   python-urllib3                         1.24.1-1                        all    HTTP library with thread-safe connection pooling for Python
-ii   python2                                2.7.17-1                        amd64  interactive high-level object-oriented language (Python2 version)
-ii   python2-minimal                        2.7.17-1                        amd64  minimal subset of the Python2 language
+ii   python2                                2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
+ii   python2-minimal                        2.7.17-2                        amd64  minimal subset of the Python2 language
 ii   python2.7                              2.7.17-1                        amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.17-1                        amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.7.5-3                         amd64  interactive high-level object-oriented language (default python3 version)
