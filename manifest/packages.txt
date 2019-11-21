@@ -11,7 +11,7 @@ ii   bzip2                                  1.0.8-2                         amd6
 ii   ca-certificates                        20190110                        all    Common CA certificates
 ii   chrony                                 3.5-4+b1                        amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
-ii   cpio                                   2.12+dfsg-9+b1                  amd64  GNU cpio -- a program to manage archives of files
+ii   cpio                                   2.13+dfsg-1                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-135                      amd64  process scheduling daemon
 ii   curl                                   7.66.0-1+b1                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-6                      amd64  POSIX-compliant shell
@@ -34,7 +34,7 @@ ii   findutils                              4.7.0-1                         amd6
 ii   gcc-8-base                             8.3.0-24                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.2.1-19                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
-ii   gettext-base                           0.19.8.1-9                      amd64  GNU Internationalization utilities for the base system
+ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.24.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.24.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.17-3                        all    GNU privacy guard - a free PGP replacement
