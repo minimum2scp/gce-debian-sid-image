@@ -216,7 +216,7 @@ ii   libunistring2                          0.9.10-2                        amd6
 ii   libuuid1                               2.34-0.1                        amd64  Universally Unique ID library
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
-ii   libwrap0                               7.6.q-28                        amd64  Wietse Venema's TCP wrappers library
+ii   libwrap0                               7.6.q-29                        amd64  Wietse Venema's TCP wrappers library
 ii   libxtables12                           1.8.3-2                         amd64  netfilter xtables library
 ii   libzstd1                               1.4.4+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
@@ -237,7 +237,7 @@ ii   nano                                   4.5-1                           amd6
 ii   ncurses-base                           6.1+20191019-1                  all    basic terminal type definitions
 ii   ncurses-bin                            6.1+20191019-1                  amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
-ii   netbase                                5.6                             all    Basic TCP/IP networking system
+ii   netbase                                5.7                             all    Basic TCP/IP networking system
 ii   openssh-client                         1:8.1p1-1                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:8.1p1-1                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:8.1p1-1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
@@ -250,7 +250,7 @@ ii   perl-base                              5.30.0-9                        amd6
 ii   perl-modules-5.30                      5.30.0-9                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-3                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.15-2+b1                   amd64  /proc file system utilities
-ii   publicsuffix                           20190925.1705-1                 all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20191120.1745-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-boto                            2.49.0-2                        all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2018.8.24-1                     all    root certificates for validating SSL certs and verifying TLS hosts
