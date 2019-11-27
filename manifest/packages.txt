@@ -31,8 +31,8 @@ ii   etckeeper                              1.18.10-1.1                     all 
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
 ii   file                                   1:5.37-6                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
-ii   gcc-8-base                             8.3.0-24                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-9-base                             9.2.1-19                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.3.0-25                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-9-base                             9.2.1-20                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.24.0-1                      amd64  fast, scalable, distributed revision control system
@@ -119,7 +119,7 @@ ii   libfdisk1                              2.34-0.1                        amd6
 ii   libffi6                                3.2.1-9                         amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.10.1-2                        amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-2                         amd64  Filesystem in Userspace (library)
-ii   libgcc1                                1:9.2.1-19                      amd64  GCC support library
+ii   libgcc1                                1:9.2.1-20                      amd64  GCC support library
 ii   libgcrypt20                            1.8.5-3                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
@@ -205,7 +205,7 @@ ii   libsqlite3-0                           3.30.1-1                        amd6
 ii   libss2                                 1.45.4-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             9.2.1-19                        amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             9.2.1-20                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            243-8                           amd64  systemd utility library
 ii   libtasn1-6                             4.14-3                          amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
@@ -278,7 +278,7 @@ ii   readline-common                        8.0-3                           all 
 ii   rsyslog                                8.1911.0-1                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.14                          all    dh-runit implementation detail
 ii   sed                                    4.7-1                           amd64  GNU stream editor for filtering/transforming text
-ii   sensible-utils                         0.0.12                          all    Utilities for sensible alternative selection
+ii   sensible-utils                         0.0.12+nmu1                     all    Utilities for sensible alternative selection
 ii   shim-helpers-amd64-signed              1+15+1533136590.3beb971+7       amd64  boot loader to chain-load signed boot loaders (signed by Debian)
 ii   shim-signed                            1.33+15+1533136590.3beb971-7    amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all    Secure Boot chain-loading bootloader (common helper scripts)
