@@ -216,7 +216,7 @@ ii   libunistring2                          0.9.10-2                        amd6
 ii   libuuid1                               2.34-0.1                        amd64  Universally Unique ID library
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
-ii   libwrap0                               7.6.q-29                        amd64  Wietse Venema's TCP wrappers library
+ii   libwrap0                               7.6.q-30                        amd64  Wietse Venema's TCP wrappers library
 ii   libxtables12                           1.8.3-2                         amd64  netfilter xtables library
 ii   libzstd1                               1.4.4+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
