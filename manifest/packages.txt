@@ -171,7 +171,7 @@ ii   libp11-kit0                            0.23.18.1-2                     amd6
 ii   libpam-modules                         1.3.1-5                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.3.1-5                         all    Runtime support for the PAM library
-ii   libpam-systemd                         243-8                           amd64  system and service manager - PAM module
+ii   libpam-systemd                         243-9                           amd64  system and service manager - PAM module
 ii   libpam0g                               1.3.1-5                         amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.3-1                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.34-1                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
@@ -206,12 +206,12 @@ ii   libss2                                 1.45.4-1                        amd6
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             9.2.1-20                        amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            243-8                           amd64  systemd utility library
+ii   libsystemd0                            243-9                           amd64  systemd utility library
 ii   libtasn1-6                             4.14-3                          amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
 ii   libtinfo6                              6.1+20191019-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                         amd64  universal charset detection library - shared library
-ii   libudev1                               243-8                           amd64  libudev shared library
+ii   libudev1                               243-9                           amd64  libudev shared library
 ii   libunistring2                          0.9.10-2                        amd64  Unicode string library for C
 ii   libuuid1                               2.34-0.1                        amd64  Universally Unique ID library
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
@@ -285,13 +285,13 @@ ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all 
 ii   shim-unsigned                          15+1533136590.3beb971-7         amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                           all    freedesktop.org sound theme
 ii   sudo                                   1.8.29-1                        amd64  Provide limited super user privileges to specific users
-ii   systemd                                243-8                           amd64  system and service manager
-ii   systemd-sysv                           243-8                           amd64  system and service manager - SysV links
+ii   systemd                                243-9                           amd64  system and service manager
+ii   systemd-sysv                           243-9                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.96-1                          amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-6+b1                  amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2019c-3                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   243-8                           amd64  /dev/ and hotplug management daemon
+ii   udev                                   243-9                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
 ii   vim                                    2:8.1.2269-1                    amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.1.2269-1                    all    Vi IMproved - Common files
