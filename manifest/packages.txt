@@ -13,7 +13,7 @@ ii   chrony                                 3.5-4+b1                        amd6
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-1                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-135                      amd64  process scheduling daemon
-ii   curl                                   7.67.0-1                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.67.0-2                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-6                      amd64  POSIX-compliant shell
 ii   dbus                                   1.12.16-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.73                          all    Debian configuration management system
@@ -27,7 +27,7 @@ ii   dmsetup                                2:1.02.155-3                    amd6
 ii   dpkg                                   1.19.7                          amd64  Debian package management system
 ii   e2fsprogs                              1.45.4-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             15-1+b1                         amd64  Interact with the EFI Boot Manager
-ii   etckeeper                              1.18.10-1.1                     all    store /etc in git, mercurial, brz or darcs
+ii   etckeeper                              1.18.12-1                       all    store /etc in git, mercurial, bzr or darcs
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
 ii   file                                   1:5.37-6                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
@@ -99,8 +99,8 @@ ii   libcap2                                1:2.27-1                        amd6
 ii   libcap2-bin                            1:2.27-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.4-1                        amd64  common error description library
 ii   libcryptsetup12                        2:2.2.2-1                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.67.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.67.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.67.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.67.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.16-2                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.250                           amd64  Debian Configuration Management System (C-implementation library)
@@ -207,7 +207,7 @@ ii   libssh2-1                              1.8.0-2.1                       amd6
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             9.2.1-21                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            243-9                           amd64  systemd utility library
-ii   libtasn1-6                             4.14-3                          amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.15.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
 ii   libtinfo6                              6.1+20191019-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                         amd64  universal charset detection library - shared library
