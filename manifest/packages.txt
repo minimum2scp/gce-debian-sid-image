@@ -69,7 +69,7 @@ ii   init-system-helpers                    1.57                            all 
 ii   initramfs-tools                        0.135                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.135                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.4.0-1                         amd64  networking and traffic control tools
-ii   iptables                               1.8.3-2                         amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.8.4-1                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190709-2                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2                         amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.7-1                         amd64  small utilities built with klibc for early boot
@@ -132,9 +132,9 @@ ii   libhavege2                             1.9.8-2                         amd6
 ii   libhogweed4                            3.5.1+really3.4.1-1             amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed5                            3.5.1+really3.5.1-2             amd64  low level cryptographic library (public-key cryptos)
 ii   libidn2-0                              2.2.0-2                         amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc2                              1.8.3-2                         amd64  netfilter libip4tc library
-ii   libip6tc2                              1.8.3-2                         amd64  netfilter libip6tc library
-ii   libiptc0                               1.8.3-2                         amd64  netfilter libiptc library
+ii   libip4tc2                              1.8.4-1                         amd64  netfilter libip4tc library
+ii   libip6tc2                              1.8.4-1                         amd64  netfilter libip6tc library
+ii   libiptc0                               1.8.4-1                         amd64  transitional dummy package
 ii   libisc-export1100                      1:9.11.5.P4+dfsg-5.1+b1         amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1+ds-2                     amd64  JSON manipulation library - shared library
 ii   libjson-c4                             0.13.1+dfsg-6                   amd64  JSON manipulation library - shared library
@@ -174,7 +174,7 @@ ii   libpam-runtime                         1.3.1-5                         all 
 ii   libpam-systemd                         244-3                           amd64  system and service manager - PAM module
 ii   libpam0g                               1.3.1-5                         amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.3-1                           amd64  disk partition manipulator - shared library
-ii   libpcre2-8-0                           10.34-3                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
+ii   libpcre2-8-0                           10.34-3+b1                      amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-12+b1                    amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.30                            5.30.0-9                        amd64  shared Perl library
 ii   libpipeline1                           1.5.1-2                         amd64  pipeline manipulation library
@@ -217,7 +217,7 @@ ii   libuuid1                               2.34-0.1                        amd6
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
 ii   libwrap0                               7.6.q-30                        amd64  Wietse Venema's TCP wrappers library
-ii   libxtables12                           1.8.3-2                         amd64  netfilter xtables library
+ii   libxtables12                           1.8.4-1                         amd64  netfilter xtables library
 ii   libzstd1                               1.4.4+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-6-cloud-amd64       4.19.67-2+deb10u2               amd64  Linux 4.19 for x86-64 cloud (signed)
