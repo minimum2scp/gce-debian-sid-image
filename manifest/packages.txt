@@ -18,7 +18,7 @@ ii   dash                                   0.5.10.2-6                      amd6
 ii   dbus                                   1.12.16-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.73                          all    Debian configuration management system
 ii   debian-archive-keyring                 2019.1                          all    GnuPG archive keys of the Debian archive
-ii   debianutils                            4.9                             amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            4.9.1                           amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.7-3                         amd64  File comparison utilities
 ii   dirmngr                                2.2.17-3                        amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.43                            all    information about the distributions' releases (data files)
@@ -91,13 +91,14 @@ ii   libblkid1                              2.34-0.1                        amd6
 ii   libbrotli1                             1.0.7-5+b1                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-2                         amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.29-3                          amd64  GNU C Library: Binaries
-ii   libc6                                  2.29-3                          amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.29-5                          amd64  GNU C Library: Binaries
+ii   libc6                                  2.29-5                          amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2.1+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.27-1                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.27-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.4-1                        amd64  common error description library
+ii   libcrypt1                              1:4.4.10-5                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.2.2-1                       amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.67.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.67.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
@@ -174,7 +175,7 @@ ii   libpam-runtime                         1.3.1-5                         all 
 ii   libpam-systemd                         244-3                           amd64  system and service manager - PAM module
 ii   libpam0g                               1.3.1-5                         amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.3-1                           amd64  disk partition manipulator - shared library
-ii   libpcre2-8-0                           10.34-3+b1                      amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
+ii   libpcre2-8-0                           10.34-5                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-12+b1                    amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.30                            5.30.0-9                        amd64  shared Perl library
 ii   libpipeline1                           1.5.1-2                         amd64  pipeline manipulation library
@@ -237,7 +238,7 @@ ii   nano                                   4.5-1                           amd6
 ii   ncurses-base                           6.1+20191019-1                  all    basic terminal type definitions
 ii   ncurses-bin                            6.1+20191019-1                  amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
-ii   netbase                                5.7                             all    Basic TCP/IP networking system
+ii   netbase                                5.8                             all    Basic TCP/IP networking system
 ii   openssh-client                         1:8.1p1-1                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:8.1p1-1                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:8.1p1-1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
