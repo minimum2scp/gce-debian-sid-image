@@ -54,7 +54,7 @@ ii   gpgsm                                  2.2.17-3                        amd6
 ii   gpgv                                   2.2.17-3                        amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.3-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-3                        amd64  GNU troff text-formatting system (base system components)
-ii   grub-cloud-amd64                       0.0.4                           amd64  GRand Unified Bootloader (cloud setup)
+ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.04-4                          amd64  GRand Unified Bootloader (common files)
 ii   grub-efi-amd64-bin                     2.04-4                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii   grub-efi-amd64-signed                  1+2.04+4                        amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
