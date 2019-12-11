@@ -35,13 +35,13 @@ ii   gcc-8-base                             8.3.0-26                        amd6
 ii   gcc-9-base                             9.2.1-21                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.24.0-1                      amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.24.0-1                      all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.24.0-2                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.24.0-2                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.17-3                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.17-3                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.17-3                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       272.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       273.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190916.00-g2                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-osconfig-agent                  1:20190925.00-g1                amd64  Google Compute Engine OSConfig Agent
@@ -199,7 +199,7 @@ ii   libseccomp2                            2.4.2-2                         amd6
 ii   libselinux1                            2.9-3+b1                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     2.9-3                           all    Common files for SELinux policy management libraries
 ii   libsemanage1                           2.9-3+b1                        amd64  SELinux policy management library
-ii   libsepol1                              2.9-2+b2                        amd64  SELinux library for manipulating binary security policies
+ii   libsepol1                              3.0-1                           amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-4                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.34-0.1                        amd64  smart column output alignment library
 ii   libsqlite3-0                           3.30.1-1                        amd64  SQLite 3 shared library
