@@ -27,7 +27,7 @@ ii   dmsetup                                2:1.02.155-3                    amd6
 ii   dpkg                                   1.19.7                          amd64  Debian package management system
 ii   e2fsprogs                              1.45.4-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             15-1+b1                         amd64  Interact with the EFI Boot Manager
-ii   etckeeper                              1.18.12-1                       all    store /etc in git, mercurial, bzr or darcs
+ii   etckeeper                              1.18.12-1.1                     all    store /etc in git, mercurial, bzr or darcs
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
 ii   file                                   1:5.37-6                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
@@ -98,7 +98,7 @@ ii   libcap-ng0                             0.7.9-2.1+b1                    amd6
 ii   libcap2                                1:2.27-1                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.27-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.4-1                        amd64  common error description library
-ii   libcrypt1                              1:4.4.10-5                      amd64  libcrypt shared library
+ii   libcrypt1                              1:4.4.10-7                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.2.2-1                       amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.67.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.67.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
@@ -162,7 +162,7 @@ ii   libncursesw6                           6.1+20191019-1                  amd6
 ii   libnetfilter-conntrack3                1.0.7-2                         amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.5.1+really3.4.1-1             amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnettle7                             3.5.1+really3.5.1-2             amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.21-3+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.21-4                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.5-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.40.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
@@ -299,7 +299,7 @@ ii   vim-common                             2:8.1.2269-1                    all 
 ii   vim-runtime                            2:8.1.2269-1                    all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:8.1.2269-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
-ii   whiptail                               0.52.21-3+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.21-4                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.1.2269-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-1+b1              amd64  compression library - runtime
