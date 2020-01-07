@@ -23,7 +23,7 @@ ii   diffutils                              1:3.7-3                         amd6
 ii   dirmngr                                2.2.17-3                        amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.43                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.2-3                           amd64  SMBIOS/DMI table decoder
-ii   dmsetup                                2:1.02.155-3                    amd64  Linux Kernel Device Mapper userspace library
+ii   dmsetup                                2:1.02.155-4                    amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.19.7                          amd64  Debian package management system
 ii   e2fsprogs                              1.45.4-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             15-1+b1                         amd64  Interact with the EFI Boot Manager
@@ -105,7 +105,7 @@ ii   libcurl4                               7.67.0-2                        amd6
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.16-2                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.250                           amd64  Debian Configuration Management System (C-implementation library)
-ii   libdevmapper1.02.1                     2:1.02.155-3                    amd64  Linux Kernel Device Mapper userspace library
+ii   libdevmapper1.02.1                     2:1.02.155-4                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1104                      1:9.11.5.P4+dfsg-5.1+b1         amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20191231-1                  amd64  BSD editline and history libraries
 ii   libefiboot1                            37-2                            amd64  Library to manage UEFI variables
@@ -222,8 +222,8 @@ ii   libxtables12                           1.8.4-1                         amd6
 ii   libzstd1                               1.4.4+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-6-cloud-amd64       4.19.67-2+deb10u2               amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.4.0-1-cloud-amd64        5.4.6-1                         amd64  Linux 5.4 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.4.6-1                         amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.4.0-2-cloud-amd64        5.4.8-1                         amd64  Linux 5.4 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.4.8-1                         amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8-1                         amd64  system login tools
 ii   logrotate                              3.15.1-2                        amd64  Log rotation utility
 ii   logsave                                1.45.4-1                        amd64  save the output of a command in a log file
