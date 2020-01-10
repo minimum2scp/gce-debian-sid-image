@@ -178,7 +178,7 @@ ii   libparted2                             3.3-1                           amd6
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-12+b1                    amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.30                            5.30.0-9                        amd64  shared Perl library
-ii   libpipeline1                           1.5.2-1                         amd64  Unix process pipeline manipulation library
+ii   libpipeline1                           1.5.2-2                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-14                         amd64  lib for parsing cmdline parameters
 ii   libprocps7                             2:3.3.15-2+b1                   amd64  library for accessing process information from /proc
@@ -239,9 +239,9 @@ ii   ncurses-base                           6.1+20191019-1                  all 
 ii   ncurses-bin                            6.1+20191019-1                  amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
 ii   netbase                                6.0                             all    Basic TCP/IP networking system
-ii   openssh-client                         1:8.1p1-3                       amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:8.1p1-3                       amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:8.1p1-3                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:8.1p1-4                       amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:8.1p1-4                       amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:8.1p1-4                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.1d-2                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.77                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.3-1                           amd64  disk partition manipulator
@@ -263,7 +263,7 @@ ii   python-minimal                         2.7.17-2                        amd6
 ii   python-pkg-resources                   44.0.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.22.0-2                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.13.0-1                        all    Python 2 and 3 compatibility library (Python 2 interface)
-ii   python-urllib3                         1.25.6-4                        all    HTTP library with thread-safe connection pooling for Python
+ii   python-urllib3                         1.25.6-5                        all    HTTP library with thread-safe connection pooling for Python
 ii   python2                                2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python2-minimal                        2.7.17-2                        amd64  minimal subset of the Python2 language
 ii   python2.7                              2.7.17-1                        amd64  Interactive high-level object-oriented language (version 2.7)
