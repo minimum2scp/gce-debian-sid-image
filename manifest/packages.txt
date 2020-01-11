@@ -91,8 +91,8 @@ ii   libblkid1                              2.34-0.1                        amd6
 ii   libbrotli1                             1.0.7-6                         amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-2                         amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.29-8                          amd64  GNU C Library: Binaries
-ii   libc6                                  2.29-8                          amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.29-9                          amd64  GNU C Library: Binaries
+ii   libc6                                  2.29-9                          amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2.1+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.27-1                        amd64  POSIX 1003.1e capabilities (library)
