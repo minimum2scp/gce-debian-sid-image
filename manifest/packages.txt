@@ -35,8 +35,8 @@ ii   gcc-8-base                             8.3.0-26                        amd6
 ii   gcc-9-base                             9.2.1-23                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.25.0~rc2-1                  amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.25.0~rc2-1                  all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.25.0-1                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.25.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.19-1                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.19-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.19-1                        amd64  GNU privacy guard - utility programs
