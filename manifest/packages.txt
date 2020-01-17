@@ -29,7 +29,7 @@ ii   e2fsprogs                              1.45.5-2                        amd6
 ii   efibootmgr                             15-1+b1                         amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.12-1.1                     all    store /etc in git, mercurial, bzr or darcs
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
-ii   file                                   1:5.38-3                        amd64  Recognize the type of data in a file using "magic" numbers
+ii   file                                   1:5.38-4                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
 ii   gcc-8-base                             8.3.0-26                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.2.1-23                        amd64  GCC, the GNU Compiler Collection (base package)
@@ -44,7 +44,7 @@ ii   google-cloud-packages-archive-keyring  1.2-1                           all 
 ii   google-cloud-sdk                       276.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190916.00-g2                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10          amd64  Google Compute Engine OS Login
-ii   google-osconfig-agent                  1:20200113.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20190925.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.19-1                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.19-1                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.19-1                        amd64  GNU privacy guard - Web Key Service client
@@ -152,8 +152,8 @@ ii   liblognorm5                            2.0.5-1+b1                      amd6
 ii   libltdl7                               2.4.6-11                        amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.2-2                         amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.4-1+b1                      amd64  XZ-format compression library
-ii   libmagic-mgc                           1:5.38-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
-ii   libmagic1                              1:5.38-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
+ii   libmagic-mgc                           1:5.38-4                        amd64  File type determination library using "magic" numbers (compiled magic file)
+ii   libmagic1                              1:5.38-4                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmnl0                                1.0.4-2+b1                      amd64  minimalistic Netlink communication library
 ii   libmount1                              2.34-0.1                        amd64  device mounting library
 ii   libmpdec2                              2.4.2-2                         amd64  library for decimal floating point arithmetic (runtime library)
