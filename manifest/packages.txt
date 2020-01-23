@@ -202,7 +202,7 @@ ii   libsemanage1                           3.0-1                           amd6
 ii   libsepol1                              3.0-1                           amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-4                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.34-0.1                        amd64  smart column output alignment library
-ii   libsqlite3-0                           3.30.1+fossil191229-1           amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.31.0-1                        amd64  SQLite 3 shared library
 ii   libss2                                 1.45.5-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
@@ -276,7 +276,7 @@ ii   python3-pkg-resources                  44.0.0-1                        all 
 ii   python3.7                              3.7.6-1+b1                      amd64  Interactive high-level object-oriented language (version 3.7)
 ii   python3.7-minimal                      3.7.6-1+b1                      amd64  Minimal subset of the Python language (version 3.7)
 ii   readline-common                        8.0-3                           all    GNU readline and history libraries, common files
-ii   rsyslog                                8.1911.0-1                      amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2001.0-1                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.14                          all    dh-runit implementation detail
 ii   sed                                    4.7-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12+nmu1                     all    Utilities for sensible alternative selection
