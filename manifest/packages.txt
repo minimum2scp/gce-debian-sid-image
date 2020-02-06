@@ -252,7 +252,7 @@ ii   perl-base                              5.30.0-9                        amd6
 ii   perl-modules-5.30                      5.30.0-9                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-3+b1                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.15-2+b1                   amd64  /proc file system utilities
-ii   publicsuffix                           20191120.1745-1                 all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20200201.2258-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-boto                            2.49.0-2                        all    Python interface to Amazon's Web Services - Python 2.x
 ii   python-certifi                         2019.11.28-1                    all    root certificates for validating SSL certs and verifying TLS hosts
