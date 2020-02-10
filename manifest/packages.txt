@@ -95,8 +95,8 @@ ii   libc-bin                               2.29-10                         amd6
 ii   libc6                                  2.29-10                         amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2.1+b1                    amd64  An alternate POSIX capabilities library
-ii   libcap2                                1:2.27-1                        amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.27-1                        amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.31-1                        amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.31-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcom-err2                            1.45.5-2                        amd64  common error description library
 ii   libcrypt1                              1:4.4.10-10                     amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.2.2-3                       amd64  disk encryption support - shared library
@@ -270,7 +270,7 @@ ii   python2-minimal                        2.7.17-2                        amd6
 ii   python2.7                              2.7.17-1+b1                     amd64  Interactive high-level object-oriented language (version 2.7)
 ii   python2.7-minimal                      2.7.17-1+b1                     amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.7.5-3                         amd64  interactive high-level object-oriented language (default python3 version)
-ii   python3-distro                         1.3.0-2                         all    Linux OS platform information API
+ii   python3-distro                         1.4.0-1                         all    Linux OS platform information API
 ii   python3-google-compute-engine          1:20191210.00-g1                all    Google Compute Engine python library for Python 3.x.
 ii   python3-minimal                        3.7.5-3                         amd64  minimal subset of the Python language (default python3 version)
 ii   python3-pkg-resources                  44.0.0-1                        all    Package Discovery and Resource Access using pkg_resources
