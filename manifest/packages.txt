@@ -31,7 +31,7 @@ ii   etckeeper                              1.18.12-1.1                     all 
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
 ii   file                                   1:5.38-4                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
-ii   gcc-10-base                            10-20200204-1                   amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-10-base                            10-20200211-1                   amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.3.0-28                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
@@ -121,8 +121,8 @@ ii   libffi6                                3.2.1-9                         amd6
 ii   libffi7                                3.3-3                           amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.10.1-2                        amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-2                         amd64  Filesystem in Userspace (library)
-ii   libgcc-s1                              10-20200204-1                   amd64  GCC support library
-ii   libgcc1                                1:10-20200204-1                 amd64  GCC support library (dependency package)
+ii   libgcc-s1                              10-20200211-1                   amd64  GCC support library
+ii   libgcc1                                1:10-20200211-1                 amd64  GCC support library (dependency package)
 ii   libgcrypt20                            1.8.5-3                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
@@ -207,7 +207,7 @@ ii   libsqlite3-0                           3.31.1-2                        amd6
 ii   libss2                                 1.45.5-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             10-20200204-1                   amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             10-20200211-1                   amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            244.2-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.15.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
@@ -264,7 +264,7 @@ ii   python-minimal                         2.7.17-2                        amd6
 ii   python-pkg-resources                   44.0.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.22.0-2                        all    elegant and simple HTTP library for Python2, built for human beings
 ii   python-six                             1.14.0-2                        all    Python 2 and 3 compatibility library (Python 2 interface)
-ii   python-urllib3                         1.25.6-5                        all    HTTP library with thread-safe connection pooling for Python
+ii   python-urllib3                         1.25.8-1                        all    HTTP library with thread-safe connection pooling for Python
 ii   python2                                2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python2-minimal                        2.7.17-2                        amd64  minimal subset of the Python2 language
 ii   python2.7                              2.7.17-1+b1                     amd64  Interactive high-level object-oriented language (version 2.7)
