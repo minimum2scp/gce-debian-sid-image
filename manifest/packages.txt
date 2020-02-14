@@ -69,7 +69,7 @@ ii   init-system-helpers                    1.57                            all 
 ii   initramfs-tools                        0.136                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.136                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.5.0-1                         amd64  networking and traffic control tools
-ii   iptables                               1.8.4-2                         amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.8.4-3                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190709-3                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.1                       amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.7-1                         amd64  small utilities built with klibc for early boot
@@ -135,8 +135,8 @@ ii   libhavege2                             1.9.8-4                         amd6
 ii   libhogweed4                            3.5.1+really3.4.1-1             amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed5                            3.5.1+really3.5.1-2             amd64  low level cryptographic library (public-key cryptos)
 ii   libidn2-0                              2.2.0-2                         amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc2                              1.8.4-2                         amd64  netfilter libip4tc library
-ii   libip6tc2                              1.8.4-2                         amd64  netfilter libip6tc library
+ii   libip4tc2                              1.8.4-3                         amd64  netfilter libip4tc library
+ii   libip6tc2                              1.8.4-3                         amd64  netfilter libip6tc library
 ii   libisc-export1104                      1:9.11.14+dfsg-3                amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1+ds-2                     amd64  JSON manipulation library - shared library
 ii   libjson-c4                             0.13.1+dfsg-6                   amd64  JSON manipulation library - shared library
@@ -182,7 +182,7 @@ ii   libperl5.30                            5.30.0-9                        amd6
 ii   libpipeline1                           1.5.2-2                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-14                         amd64  lib for parsing cmdline parameters
-ii   libprocps7                             2:3.3.15-2+b1                   amd64  library for accessing process information from /proc
+ii   libprocps8                             2:3.3.16-1                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.20.2-2                        amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.17-2                        amd64  interactive high-level object-oriented language (Python2)
 ii   libpython2-stdlib                      2.7.17-2                        amd64  interactive high-level object-oriented language (Python2)
@@ -219,12 +219,12 @@ ii   libuuid1                               2.34-0.1                        amd6
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
 ii   libwrap0                               7.6.q-30                        amd64  Wietse Venema's TCP wrappers library
-ii   libxtables12                           1.8.4-2                         amd64  netfilter xtables library
-ii   libzstd1                               1.4.4+dfsg-1                    amd64  fast lossless compression algorithm
+ii   libxtables12                           1.8.4-3                         amd64  netfilter xtables library
+ii   libzstd1                               1.4.4+dfsg-3                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-8-cloud-amd64       4.19.98-1                       amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.4.0-3-cloud-amd64        5.4.13-1                        amd64  Linux 5.4 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.4.13-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.4.0-4-cloud-amd64        5.4.19-1                        amd64  Linux 5.4 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.4.19-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.15.1-2                        amd64  Log rotation utility
 ii   logsave                                1.45.5-2                        amd64  save the output of a command in a log file
@@ -235,7 +235,7 @@ ii   mawk                                   1.3.4.20200120-1                amd6
 ii   mime-support                           3.64                            all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mokutil                                0.3.0+1538710437.fb6250f-1      amd64  tools for manipulating machine owner keys
 ii   mount                                  2.34-0.1                        amd64  tools for mounting and manipulating filesystems
-ii   nano                                   4.7-2                           amd64  small, friendly text editor inspired by Pico
+ii   nano                                   4.8-1                           amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.1+20191019-1                  all    basic terminal type definitions
 ii   ncurses-bin                            6.1+20191019-1                  amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
@@ -251,7 +251,7 @@ ii   perl                                   5.30.0-9                        amd6
 ii   perl-base                              5.30.0-9                        amd64  minimal Perl system
 ii   perl-modules-5.30                      5.30.0-9                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-3+b1                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
-ii   procps                                 2:3.3.15-2+b1                   amd64  /proc file system utilities
+ii   procps                                 2:3.3.16-1                      amd64  /proc file system utilities
 ii   publicsuffix                           20200201.2258-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-boto                            2.49.0-2                        all    Python interface to Amazon's Web Services - Python 2.x
