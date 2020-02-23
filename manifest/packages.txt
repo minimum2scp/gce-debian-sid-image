@@ -13,7 +13,7 @@ ii   chrony                                 3.5-5                           amd6
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
-ii   curl                                   7.67.0-2                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.68.0-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-6                      amd64  POSIX-compliant shell
 ii   dbus                                   1.12.16-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.73                          all    Debian configuration management system
@@ -31,7 +31,7 @@ ii   etckeeper                              1.18.12-1.1                     all 
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
 ii   file                                   1:5.38-4                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
-ii   gcc-10-base                            10-20200211-1                   amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-10-base                            10-20200222-1                   amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.3.0-29                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
@@ -100,8 +100,8 @@ ii   libcap2-bin                            1:2.32-1                        amd6
 ii   libcom-err2                            1.45.5-2                        amd64  common error description library
 ii   libcrypt1                              1:4.4.10-10                     amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.2.2-3                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.67.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.67.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.68.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.68.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.16-2                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.251                           amd64  Debian Configuration Management System (C-implementation library)
@@ -121,9 +121,9 @@ ii   libffi6                                3.2.1-9                         amd6
 ii   libffi7                                3.3-3                           amd64  Foreign Function Interface library runtime
 ii   libfreetype6                           2.10.1-2                        amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-2                         amd64  Filesystem in Userspace (library)
-ii   libgcc-s1                              10-20200211-1                   amd64  GCC support library
-ii   libgcc1                                1:10-20200211-1                 amd64  GCC support library (dependency package)
-ii   libgcrypt20                            1.8.5-3                         amd64  LGPL Crypto library - runtime library
+ii   libgcc-s1                              10-20200222-1                   amd64  GCC support library
+ii   libgcc1                                1:10-20200222-1                 amd64  GCC support library (dependency package)
+ii   libgcrypt20                            1.8.5-5                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.0+dfsg-3                  amd64  Multiprecision arithmetic library
@@ -207,7 +207,7 @@ ii   libsqlite3-0                           3.31.1-3                        amd6
 ii   libss2                                 1.45.5-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             10-20200211-1                   amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             10-20200222-1                   amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            244.3-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
