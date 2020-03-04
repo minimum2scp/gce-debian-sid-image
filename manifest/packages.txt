@@ -94,13 +94,13 @@ ii   libbz2-1.0                             1.0.8-2                         amd6
 ii   libc-bin                               2.29-10                         amd64  GNU C Library: Binaries
 ii   libc6                                  2.29-10                         amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
-ii   libcap-ng0                             0.7.9-2.1+b1                    amd64  An alternate POSIX capabilities library
+ii   libcap-ng0                             0.7.9-2.1+b2                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.32-1                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.32-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0                               0.5.0+dfsg-2                    amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.45.5-2                        amd64  common error description library
 ii   libcrypt1                              1:4.4.15-1                      amd64  libcrypt shared library
-ii   libcryptsetup12                        2:2.2.2-3                       amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.3.0-1                       amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.68.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.68.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -212,7 +212,7 @@ ii   libssl1.1                              1.1.1d-2                        amd6
 ii   libstdc++6                             10-20200222-1                   amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            244.3-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
-ii   libtdb1                                1.4.2-3                         amd64  Trivial Database - shared library
+ii   libtdb1                                1.4.2-3+b1                      amd64  Trivial Database - shared library
 ii   libtinfo6                              6.2-1                           amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                         amd64  universal charset detection library - shared library
 ii   libudev1                               244.3-1                         amd64  libudev shared library
@@ -297,12 +297,12 @@ ii   tzdata                                 2019c-3                         all 
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   244.3-1                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
-ii   vim                                    2:8.1.2269-1+b1                 amd64  Vi IMproved - enhanced vi editor
+ii   vim                                    2:8.1.2269-1+b2                 amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.1.2269-1                    all    Vi IMproved - Common files
 ii   vim-runtime                            2:8.1.2269-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.1.2269-1+b1                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim-tiny                               2:8.1.2269-1+b2                 amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.1.2269-1+b1                 amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.1.2269-1+b2                 amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
