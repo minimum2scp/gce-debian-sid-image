@@ -1,7 +1,7 @@
 {
   "variables": {
     "project_id": "",
-    "source_image": "debian-10-buster-v20200210",
+    "source_image": "debian-10-buster-v20200309",
     "source_image_project_id": "debian-cloud"
   },
   "builders": [{
