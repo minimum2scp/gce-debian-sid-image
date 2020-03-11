@@ -297,12 +297,12 @@ ii   tzdata                                 2019c-3                         all 
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   244.3-1                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
-ii   vim                                    2:8.1.2269-1+b2                 amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.1.2269-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.1.2269-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.1.2269-1+b2                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.0368-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.0368-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.0368-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.0368-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.1.2269-1+b2                 amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.0368-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
