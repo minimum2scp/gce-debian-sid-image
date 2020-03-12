@@ -9,7 +9,7 @@ ii   bsdmainutils                           11.1.2+b1                       amd6
 ii   bsdutils                               1:2.34-0.1                      amd64  basic utilities from 4.4BSD-Lite
 ii   bzip2                                  1.0.8-2                         amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20190110                        all    Common CA certificates
-ii   chrony                                 3.5-5                           amd64  Versatile implementation of the Network Time Protocol
+ii   chrony                                 3.5-6                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
@@ -91,8 +91,8 @@ ii   libblkid1                              2.34-0.1                        amd6
 ii   libbrotli1                             1.0.7-6                         amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-2                         amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.29-10                         amd64  GNU C Library: Binaries
-ii   libc6                                  2.29-10                         amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.30-1                          amd64  GNU C Library: Binaries
+ii   libc6                                  2.30-1                          amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2.1+b2                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.32-1                        amd64  POSIX 1003.1e capabilities (library)
@@ -175,7 +175,7 @@ ii   libp11-kit0                            0.23.20-1                       amd6
 ii   libpam-modules                         1.3.1-5                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.3.1-5                         all    Runtime support for the PAM library
-ii   libpam-systemd                         244.3-1                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         245-1                           amd64  system and service manager - PAM module
 ii   libpam0g                               1.3.1-5                         amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.3-4                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
@@ -210,12 +210,12 @@ ii   libss2                                 1.45.5-2                        amd6
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1d-2                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             10-20200304-1                   amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            244.3-1                         amd64  systemd utility library
+ii   libsystemd0                            245-1                           amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3+b1                      amd64  Trivial Database - shared library
 ii   libtinfo6                              6.2-1                           amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                         amd64  universal charset detection library - shared library
-ii   libudev1                               244.3-1                         amd64  libudev shared library
+ii   libudev1                               245-1                           amd64  libudev shared library
 ii   libunistring2                          0.9.10-2                        amd64  Unicode string library for C
 ii   libuuid1                               2.34-0.1                        amd64  Universally Unique ID library
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
@@ -289,13 +289,13 @@ ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all 
 ii   shim-unsigned                          15+1533136590.3beb971-7         amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                           all    freedesktop.org sound theme
 ii   sudo                                   1.8.31-1                        amd64  Provide limited super user privileges to specific users
-ii   systemd                                244.3-1                         amd64  system and service manager
-ii   systemd-sysv                           244.3-1                         amd64  system and service manager - SysV links
+ii   systemd                                245-1                           amd64  system and service manager
+ii   systemd-sysv                           245-1                           amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.96-2.1                        amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-6+b1                  amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2019c-3                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   244.3-1                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   245-1                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
 ii   vim                                    2:8.2.0368-1                    amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.2.0368-1                    all    Vi IMproved - Common files
