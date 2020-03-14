@@ -73,7 +73,7 @@ ii   iptables                               1.8.4-3                         amd6
 ii   iputils-ping                           3:20190709-3                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.1+b1                    amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.7-1                         amd64  small utilities built with klibc for early boot
-ii   kmod                                   27-1                            amd64  tools for managing Linux kernel modules
+ii   kmod                                   27-2                            amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.17-6                          all    internationalization support for MIT Kerberos
 ii   less                                   551-1                           amd64  pager program similar to more
 ii   libacl1                                2.2.53-6                        amd64  access control list - shared library
@@ -145,7 +145,7 @@ ii   libjson-c4                             0.13.1+dfsg-7                   amd6
 ii   libk5crypto3                           1.17-6                          amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.7-1                         amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               27-1                            amd64  libkmod shared library
+ii   libkmod2                               27-2                            amd64  libkmod shared library
 ii   libkrb5-3                              1.17-6                          amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.17-6                          amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.3.5-2                         amd64  X.509 and CMS support library
@@ -228,7 +228,7 @@ ii   linux-image-4.19.0-8-cloud-amd64       4.19.98-1                       amd6
 ii   linux-image-5.4.0-4-cloud-amd64        5.4.19-1                        amd64  Linux 5.4 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.4.19-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-1                       amd64  system login tools
-ii   logrotate                              3.15.1-2                        amd64  Log rotation utility
+ii   logrotate                              3.16.0-1                        amd64  Log rotation utility
 ii   logsave                                1.45.5-2                        amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                          all    Linux Standard Base init script functionality
 ii   lsb-release                            11.1.0                          all    Linux Standard Base version reporting utility
@@ -261,7 +261,7 @@ ii   python-certifi                         2019.11.28-1                    all 
 ii   python-chardet                         3.0.4-4                         all    universal character encoding detector for Python2
 ii   python-crcmod                          1.7+dfsg-1+b1                   amd64  CRC Generator - Python 2.x
 ii   python-google-compute-engine           1:20191210.00-g1                all    Google Compute Engine python library for Python 2.x.
-ii   python-idna                            2.6-2                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
+ii   python-idna                            2.8-1                           all    Python IDNA2008 (RFC 5891) handling (Python 2)
 ii   python-minimal                         2.7.17-2                        amd64  minimal subset of the Python2 language
 ii   python-pkg-resources                   44.0.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python-requests                        2.22.0-2                        all    elegant and simple HTTP library for Python2, built for human beings
@@ -297,12 +297,12 @@ ii   tzdata                                 2019c-3                         all 
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   245-2                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
-ii   vim                                    2:8.2.0368-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.2.0368-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.2.0368-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.0368-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.0378-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.0378-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.0378-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.0378-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.0368-1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.0378-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
