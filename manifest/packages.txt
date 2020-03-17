@@ -35,13 +35,13 @@ ii   gcc-10-base                            10-20200312-2                   amd6
 ii   gcc-8-base                             8.4.0-1                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.25.1-1                      amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.25.1-1                      all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.26.0~rc2-1                  amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.26.0~rc2-1                  all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.19-3                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.19-3                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.19-3                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       284.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       285.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190916.00-g2                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-osconfig-agent                  1:20200130.01-g1                amd64  Google Compute Engine OSConfig Agent
@@ -297,12 +297,12 @@ ii   tzdata                                 2019c-3                         all 
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   245-2                           amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
-ii   vim                                    2:8.2.0378-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.2.0378-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.2.0378-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.0378-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.0397-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.0397-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.0397-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.0397-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.0378-1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.0397-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
