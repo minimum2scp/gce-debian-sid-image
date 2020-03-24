@@ -20,7 +20,7 @@ ii   debconf                                1.5.73                          all 
 ii   debian-archive-keyring                 2019.1                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.9.1                           amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.7-3                         amd64  File comparison utilities
-ii   dirmngr                                2.2.19-3                        amd64  GNU privacy guard - network certificate management service
+ii   dirmngr                                2.2.20-1                        amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.43                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.2-3                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.167-1+b1                 amd64  Linux Kernel Device Mapper userspace library
@@ -32,26 +32,26 @@ ii   fdisk                                  2.34-0.1                        amd6
 ii   file                                   1:5.38-4                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10-20200321-1                   amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-8-base                             8.4.0-1                         amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-8-base                             8.4.0-2                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20190708.00-g1                all    Automatically resize the root partition on first boot.
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.26.0~rc2-1                  amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.26.0~rc2-1                  all    fast, scalable, distributed revision control system (manual pages)
-ii   gnupg                                  2.2.19-3                        all    GNU privacy guard - a free PGP replacement
-ii   gnupg-l10n                             2.2.19-3                        all    GNU privacy guard - localization files
-ii   gnupg-utils                            2.2.19-3                        amd64  GNU privacy guard - utility programs
+ii   git                                    1:2.26.0-1                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.26.0-1                      all    fast, scalable, distributed revision control system (manual pages)
+ii   gnupg                                  2.2.20-1                        all    GNU privacy guard - a free PGP replacement
+ii   gnupg-l10n                             2.2.20-1                        all    GNU privacy guard - localization files
+ii   gnupg-utils                            2.2.20-1                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       285.0.1-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20190916.00-g2                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-osconfig-agent                  1:20200130.01-g1                amd64  Google Compute Engine OSConfig Agent
-ii   gpg                                    2.2.19-3                        amd64  GNU Privacy Guard -- minimalist public key operations
-ii   gpg-agent                              2.2.19-3                        amd64  GNU privacy guard - cryptographic agent
-ii   gpg-wks-client                         2.2.19-3                        amd64  GNU privacy guard - Web Key Service client
-ii   gpg-wks-server                         2.2.19-3                        amd64  GNU privacy guard - Web Key Service server
-ii   gpgconf                                2.2.19-3                        amd64  GNU privacy guard - core configuration utilities
-ii   gpgsm                                  2.2.19-3                        amd64  GNU privacy guard - S/MIME version
-ii   gpgv                                   2.2.19-3                        amd64  GNU privacy guard - signature verification tool
+ii   gpg                                    2.2.20-1                        amd64  GNU Privacy Guard -- minimalist public key operations
+ii   gpg-agent                              2.2.20-1                        amd64  GNU privacy guard - cryptographic agent
+ii   gpg-wks-client                         2.2.20-1                        amd64  GNU privacy guard - Web Key Service client
+ii   gpg-wks-server                         2.2.20-1                        amd64  GNU privacy guard - Web Key Service server
+ii   gpgconf                                2.2.20-1                        amd64  GNU privacy guard - core configuration utilities
+ii   gpgsm                                  2.2.20-1                        amd64  GNU privacy guard - S/MIME version
+ii   gpgv                                   2.2.20-1                        amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.4-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-4                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
@@ -74,7 +74,7 @@ ii   iputils-ping                           3:20190709-3                    amd6
 ii   isc-dhcp-client                        4.4.1-2.1+b2                    amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.7-1                         amd64  small utilities built with klibc for early boot
 ii   kmod                                   27-2                            amd64  tools for managing Linux kernel modules
-ii   krb5-locales                           1.17-6                          all    internationalization support for MIT Kerberos
+ii   krb5-locales                           1.17-7                          all    internationalization support for MIT Kerberos
 ii   less                                   551-1                           amd64  pager program similar to more
 ii   libacl1                                2.2.53-6                        amd64  access control list - shared library
 ii   libapparmor1                           2.13.3-7                        amd64  changehat AppArmor library
@@ -119,7 +119,7 @@ ii   libext2fs2                             1.45.6-1                        amd6
 ii   libfastjson4                           0.99.8-2                        amd64  fast json library for C
 ii   libfdisk1                              2.34-0.1                        amd64  fdisk partitioning library
 ii   libffi6                                3.2.1-9                         amd64  Foreign Function Interface library runtime
-ii   libffi7                                3.3-3                           amd64  Foreign Function Interface library runtime
+ii   libffi7                                3.3-4                           amd64  Foreign Function Interface library runtime
 ii   libfido2-1                             1.3.1-1                         amd64  library for generating and verifying FIDO 2.0 objects
 ii   libfreetype6                           2.10.1-2                        amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-3                         amd64  Filesystem in Userspace (library)
@@ -132,7 +132,7 @@ ii   libgmp10                               2:6.2.0+dfsg-4                  amd6
 ii   libgnutls30                            3.6.12-2                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.37-1                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-5+b1                     amd64  General Purpose Mouse - shared library
-ii   libgssapi-krb5-2                       1.17-6                          amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii   libgssapi-krb5-2                       1.17-7                          amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.8-4                         amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.5.1+really3.4.1-1             amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed5                            3.5.1+really3.5.1-2             amd64  low level cryptographic library (public-key cryptos)
@@ -142,12 +142,12 @@ ii   libip6tc2                              1.8.4-3                         amd6
 ii   libisc-export1105                      1:9.11.17+dfsg-4                amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1+ds-2                     amd64  JSON manipulation library - shared library
 ii   libjson-c4                             0.13.1+dfsg-7                   amd64  JSON manipulation library - shared library
-ii   libk5crypto3                           1.17-6                          amd64  MIT Kerberos runtime libraries - Crypto Library
+ii   libk5crypto3                           1.17-7                          amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.7-1                         amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               27-2                            amd64  libkmod shared library
-ii   libkrb5-3                              1.17-6                          amd64  MIT Kerberos runtime libraries
-ii   libkrb5support0                        1.17-6                          amd64  MIT Kerberos runtime libraries - Support library
+ii   libkrb5-3                              1.17-7                          amd64  MIT Kerberos runtime libraries
+ii   libkrb5support0                        1.17-7                          amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.3.5-2                         amd64  X.509 and CMS support library
 ii   libldap-2.4-2                          2.4.49+dfsg-2                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.49+dfsg-2                   all    OpenLDAP common files for libraries
@@ -297,12 +297,12 @@ ii   tzdata                                 2019c-3                         all 
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   245.2-1                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
-ii   vim                                    2:8.2.0397-1+b1                 amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.2.0397-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.2.0397-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.0397-1+b1                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.0439-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.0439-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.0439-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.0439-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.0397-1+b1                 amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.0439-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
