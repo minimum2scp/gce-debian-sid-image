@@ -162,12 +162,12 @@ ii   libmount1                              2.34-0.1                        amd6
 ii   libmpdec2                              2.4.2-3                         amd64  library for decimal floating point arithmetic (runtime library)
 ii   libncurses6                            6.2-1                           amd64  shared libraries for terminal handling
 ii   libncursesw6                           6.2-1                           amd64  shared libraries for terminal handling (wide character support)
-ii   libnetfilter-conntrack3                1.0.7-2                         amd64  Netfilter netlink-conntrack library
+ii   libnetfilter-conntrack3                1.0.8-1                         amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.5.1+really3.4.1-1             amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnettle7                             3.5.1+really3.5.1-2             amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.21-4                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnftnl11                             1.1.5-1                         amd64  Netfilter nftables userspace API library
+ii   libnftnl11                             1.1.6-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.40.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-1                           amd64  replacement for GNU Pth using system threads
 ii   libogg0                                1.3.2-1+b1                      amd64  Ogg bitstream library
@@ -175,7 +175,7 @@ ii   libp11-kit0                            0.23.20-1                       amd6
 ii   libpam-modules                         1.3.1-5                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.3.1-5                         all    Runtime support for the PAM library
-ii   libpam-systemd                         245.2-1                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         245.4-1                         amd64  system and service manager - PAM module
 ii   libpam0g                               1.3.1-5                         amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.3-4                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
@@ -191,8 +191,8 @@ ii   libpython2-stdlib                      2.7.17-2                        amd6
 ii   libpython2.7-minimal                   2.7.17-1+b1                     amd64  Minimal subset of the Python language (version 2.7)
 ii   libpython2.7-stdlib                    2.7.17-1+b1                     amd64  Interactive high-level object-oriented language (standard library, version 2.7)
 ii   libpython3-stdlib                      3.8.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.8-minimal                   3.8.2-1                         amd64  Minimal subset of the Python language (version 3.8)
-ii   libpython3.8-stdlib                    3.8.2-1                         amd64  Interactive high-level object-oriented language (standard library, version 3.8)
+ii   libpython3.8-minimal                   3.8.2-1+b1                      amd64  Minimal subset of the Python language (version 3.8)
+ii   libpython3.8-stdlib                    3.8.2-1+b1                      amd64  Interactive high-level object-oriented language (standard library, version 3.8)
 ii   libreadline8                           8.0-4                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b1  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.27+dfsg-2                   amd64  Cyrus SASL - authentication abstraction library
@@ -210,12 +210,12 @@ ii   libss2                                 1.45.6-1                        amd6
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1f-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             10-20200324-1                   amd64  GNU Standard C++ Library v3
-ii   libsystemd0                            245.2-1                         amd64  systemd utility library
+ii   libsystemd0                            245.4-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3+b1                      amd64  Trivial Database - shared library
 ii   libtinfo6                              6.2-1                           amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.6-3                         amd64  universal charset detection library - shared library
-ii   libudev1                               245.2-1                         amd64  libudev shared library
+ii   libudev1                               245.4-1                         amd64  libudev shared library
 ii   libunistring2                          0.9.10-2                        amd64  Unicode string library for C
 ii   libuuid1                               2.34-0.1                        amd64  Universally Unique ID library
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
@@ -263,8 +263,8 @@ ii   python2.7                              2.7.17-1+b1                     amd6
 ii   python2.7-minimal                      2.7.17-1+b1                     amd64  Minimal subset of the Python language (version 2.7)
 ii   python3                                3.8.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.8.2-2                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3.8                              3.8.2-1                         amd64  Interactive high-level object-oriented language (version 3.8)
-ii   python3.8-minimal                      3.8.2-1                         amd64  Minimal subset of the Python language (version 3.8)
+ii   python3.8                              3.8.2-1+b1                      amd64  Interactive high-level object-oriented language (version 3.8)
+ii   python3.8-minimal                      3.8.2-1+b1                      amd64  Minimal subset of the Python language (version 3.8)
 ii   readline-common                        8.0-4                           all    GNU readline and history libraries, common files
 ii   rsyslog                                8.2002.0-2                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.15                          all    dh-runit implementation detail
@@ -276,13 +276,13 @@ ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all 
 ii   shim-unsigned                          15+1533136590.3beb971-7         amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                           all    freedesktop.org sound theme
 ii   sudo                                   1.8.31p1-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                245.2-1                         amd64  system and service manager
-ii   systemd-sysv                           245.2-1                         amd64  system and service manager - SysV links
+ii   systemd                                245.4-1                         amd64  system and service manager
+ii   systemd-sysv                           245.4-1                         amd64  system and service manager - SysV links
 ii   sysvinit-utils                         2.96-3                          amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-7                     amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2019c-3                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   245.2-1                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   245.4-1                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
 ii   vim                                    2:8.2.0439-1                    amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.2.0439-1                    all    Vi IMproved - Common files
