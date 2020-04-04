@@ -32,7 +32,8 @@ ii   file                                   1:5.38-4                        amd6
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10-20200402-1                   amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.4.0-3                         amd64  GCC, the GNU Compiler Collection (base package)
-ii   gce-disk-expand                        1:20200326.00-g1                all    Automatically resize the root partition on first boot.
+ii   gce-disk-expand                        1:20200403.00-g1                all    Automatically resize the root partition on first boot.
+ii   gdisk                                  1.0.5-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.26.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.26.0-1                      all    fast, scalable, distributed revision control system (manual pages)
@@ -129,7 +130,7 @@ ii   libgcrypt20                            1.8.5-5                         amd6
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.0+dfsg-4                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.6.12-2                        amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.6.13-2                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.37-1                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-5+b1                     amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.17-7                          amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
