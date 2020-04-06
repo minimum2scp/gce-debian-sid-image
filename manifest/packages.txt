@@ -9,7 +9,7 @@ ii   bsdmainutils                           11.1.2+b1                       amd6
 ii   bsdutils                               1:2.34-0.1                      amd64  basic utilities from 4.4BSD-Lite
 ii   bzip2                                  1.0.8-2                         amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20190110                        all    Common CA certificates
-ii   chrony                                 3.5-7                           amd64  Versatile implementation of the Network Time Protocol
+ii   chrony                                 3.5-8                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
