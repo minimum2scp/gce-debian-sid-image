@@ -189,9 +189,9 @@ ii   libprocps8                             2:3.3.16-4                      amd6
 ii   libpsl5                                0.21.0-1                        amd64  Library for Public Suffix List (shared libraries)
 ii   libpython-stdlib                       2.7.17-2                        amd64  interactive high-level object-oriented language (Python2)
 ii   libpython2-stdlib                      2.7.17-2                        amd64  interactive high-level object-oriented language (Python2)
-ii   libpython2.7-minimal                   2.7.18~rc1-1                    amd64  Minimal subset of the Python language (version 2.7)
-ii   libpython2.7-stdlib                    2.7.18~rc1-1                    amd64  Interactive high-level object-oriented language (standard library, version 2.7)
-ii   libpython3-stdlib                      3.8.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython2.7-minimal                   2.7.18~rc1-2                    amd64  Minimal subset of the Python language (version 2.7)
+ii   libpython2.7-stdlib                    2.7.18~rc1-2                    amd64  Interactive high-level object-oriented language (standard library, version 2.7)
+ii   libpython3-stdlib                      3.8.2-3                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.8-minimal                   3.8.2-1+b1                      amd64  Minimal subset of the Python language (version 3.8)
 ii   libpython3.8-stdlib                    3.8.2-1+b1                      amd64  Interactive high-level object-oriented language (standard library, version 3.8)
 ii   libreadline8                           8.0-4                           amd64  GNU readline and history libraries, run-time libraries
@@ -226,8 +226,8 @@ ii   libxtables12                           1.8.4-3                         amd6
 ii   libzstd1                               1.4.4+dfsg-3                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-8-cloud-amd64       4.19.98-1                       amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.4.0-4-cloud-amd64        5.4.19-1                        amd64  Linux 5.4 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.4.19-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.5.0-1-cloud-amd64        5.5.13-2                        amd64  Linux 5.5 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.5.13-2                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.16.0-2                        amd64  Log rotation utility
 ii   logsave                                1.45.6-1                        amd64  save the output of a command in a log file
@@ -237,7 +237,7 @@ ii   mawk                                   1.3.4.20200120-2                amd6
 ii   mime-support                           3.64                            all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mokutil                                0.3.0+1538710437.fb6250f-1      amd64  tools for manipulating machine owner keys
 ii   mount                                  2.34-0.1                        amd64  tools for mounting and manipulating filesystems
-ii   nano                                   4.9.1-1                         amd64  small, friendly text editor inspired by Pico
+ii   nano                                   4.9.2-1                         amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.2-1                           all    basic terminal type definitions
 ii   ncurses-bin                            6.2-1                           amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
@@ -260,10 +260,10 @@ ii   python-crcmod                          1.7+dfsg-1+b1                   amd6
 ii   python-minimal                         2.7.17-2                        amd64  minimal subset of the Python2 language
 ii   python2                                2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python2-minimal                        2.7.17-2                        amd64  minimal subset of the Python2 language
-ii   python2.7                              2.7.18~rc1-1                    amd64  Interactive high-level object-oriented language (version 2.7)
-ii   python2.7-minimal                      2.7.18~rc1-1                    amd64  Minimal subset of the Python language (version 2.7)
-ii   python3                                3.8.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
-ii   python3-minimal                        3.8.2-2                         amd64  minimal subset of the Python language (default python3 version)
+ii   python2.7                              2.7.18~rc1-2                    amd64  Interactive high-level object-oriented language (version 2.7)
+ii   python2.7-minimal                      2.7.18~rc1-2                    amd64  Minimal subset of the Python language (version 2.7)
+ii   python3                                3.8.2-3                         amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3-minimal                        3.8.2-3                         amd64  minimal subset of the Python language (default python3 version)
 ii   python3.8                              3.8.2-1+b1                      amd64  Interactive high-level object-oriented language (version 3.8)
 ii   python3.8-minimal                      3.8.2-1+b1                      amd64  Minimal subset of the Python language (version 3.8)
 ii   readline-common                        8.0-4                           all    GNU readline and history libraries, common files
