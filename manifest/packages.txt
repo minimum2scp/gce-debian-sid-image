@@ -281,7 +281,7 @@ ii   systemd-sysv                           245.5-1                         amd6
 rc   systemd-timesyncd                      245.5-1                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         2.96-3                          amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-7                     amd64  GNU version of the tar archiving utility
-ii   tzdata                                 2019c-3                         all    time zone and daylight-saving time data
+ii   tzdata                                 2020a-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0038+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   245.5-1                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.34-0.1                        amd64  miscellaneous system utilities
