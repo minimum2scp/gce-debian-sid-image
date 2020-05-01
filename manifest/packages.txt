@@ -77,7 +77,7 @@ ii   klibc-utils                            2.0.7-1                         amd6
 ii   kmod                                   27+20200310-2                   amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.17-7                          all    internationalization support for MIT Kerberos
 ii   less                                   551-1                           amd64  pager program similar to more
-ii   libacl1                                2.2.53-7                        amd64  access control list - shared library
+ii   libacl1                                2.2.53-8                        amd64  access control list - shared library
 ii   libapparmor1                           2.13.4-1+b1                     amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2                           amd64  package management runtime library
 ii   libapt-pkg6.0                          2.0.2                           amd64  package management runtime library
