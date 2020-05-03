@@ -30,7 +30,7 @@ ii   etckeeper                              1.18.12-1.1                     all 
 ii   fdisk                                  2.34-0.1                        amd64  collection of partitioning utilities
 ii   file                                   1:5.38-4                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
-ii   gcc-10-base                            10-20200418-1                   amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-10-base                            10-20200502-1                   amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.4.0-3                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200403.00-g1                all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.5-1                         amd64  GPT fdisk text-mode partitioning tool
@@ -124,8 +124,8 @@ ii   libffi7                                3.3-4                           amd6
 ii   libfido2-1                             1.4.0-1                         amd64  library for generating and verifying FIDO 2.0 objects
 ii   libfreetype6                           2.10.1-2                        amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-3                         amd64  Filesystem in Userspace (library)
-ii   libgcc-s1                              10-20200418-1                   amd64  GCC support library
-ii   libgcc1                                1:10-20200418-1                 amd64  GCC support library (dependency package)
+ii   libgcc-s1                              10-20200502-1                   amd64  GCC support library
+ii   libgcc1                                1:10-20200502-1                 amd64  GCC support library (dependency package)
 ii   libgcrypt20                            1.8.5-5                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
@@ -210,7 +210,7 @@ ii   libsqlite3-0                           3.31.1-5                        amd6
 ii   libss2                                 1.45.6-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.8.0-2.1                       amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1g-1                        amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             10-20200418-1                   amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             10-20200502-1                   amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            245.5-2                         amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.2-3+b1                      amd64  Trivial Database - shared library
