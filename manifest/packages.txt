@@ -1,7 +1,7 @@
 ii   adduser                                3.118                           all    add and remove users and groups
 ii   apparmor                               2.13.4-1+b1                     amd64  user-space parser utility for AppArmor
-ii   apt                                    2.1.0                           amd64  commandline package manager
-ii   apt-utils                              2.1.0                           amd64  package management related utility programs
+ii   apt                                    2.1.1                           amd64  commandline package manager
+ii   apt-utils                              2.1.1                           amd64  package management related utility programs
 ii   base-files                             11                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.47                          amd64  Debian base system master password and group files
 ii   bash                                   5.0-6                           amd64  GNU Bourne Again SHell
@@ -80,7 +80,7 @@ ii   less                                   551-1                           amd6
 ii   libacl1                                2.2.53-8                        amd64  access control list - shared library
 ii   libapparmor1                           2.13.4-1+b1                     amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2                           amd64  package management runtime library
-ii   libapt-pkg6.0                          2.1.0                           amd64  package management runtime library
+ii   libapt-pkg6.0                          2.1.1                           amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libasound2                             1.2.2-2.1                       amd64  shared library for ALSA applications
 ii   libasound2-data                        1.2.2-2.1                       all    Configuration files and profiles for ALSA drivers
@@ -252,7 +252,7 @@ ii   passwd                                 1:4.8.1-1                       amd6
 ii   perl                                   5.30.0-10                       amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.30.0-10                       amd64  minimal Perl system
 ii   perl-modules-5.30                      5.30.0-10                       all    Core Perl modules
-ii   pinentry-curses                        1.1.0-3+b1                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
+ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-4                      amd64  /proc file system utilities
 ii   publicsuffix                           20200201.2258-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
