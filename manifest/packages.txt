@@ -43,7 +43,7 @@ ii   gnupg-utils                            2.2.20-1                        amd6
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       293.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20200121.00-g1                all    Google Compute Engine guest environment.
-ii   google-compute-engine-oslogin          1:20191014.00-g1+deb10          amd64  Google Compute Engine OS Login
+ii   google-compute-engine-oslogin          1:20200507.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20200410.01-g1                amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20200416.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.20-1                        amd64  GNU Privacy Guard -- minimalist public key operations
