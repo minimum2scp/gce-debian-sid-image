@@ -8,7 +8,7 @@ ii   bash                                   5.0-6                           amd6
 ii   bsdmainutils                           11.1.2+b1                       amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.35.2-2                      amd64  basic utilities from 4.4BSD-Lite
 ii   bzip2                                  1.0.8-3                         amd64  high-quality block-sorting file compressor - utilities
-ii   ca-certificates                        20190110                        all    Common CA certificates
+ii   ca-certificates                        20200601                        all    Common CA certificates
 ii   chrony                                 3.5-9                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.30-3+b1                       amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
@@ -35,8 +35,8 @@ ii   gcc-8-base                             8.3.0-6                         amd6
 ii   gce-disk-expand                        1:20200403.00-g1                all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.5-1                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.19.8.1-10                     amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.27.0~rc2-1                  amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.27.0~rc2-1                  all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.27.0-1                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.27.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.20-1                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.20-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.20-1                        amd64  GNU privacy guard - utility programs
@@ -181,7 +181,7 @@ ii   libpam0g                               1.3.1-5                         amd6
 ii   libparted2                             3.3-4                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-12+b1                    amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.30                            5.30.2-1                        amd64  shared Perl library
+ii   libperl5.30                            5.30.3-1                        amd64  shared Perl library
 ii   libpipeline1                           1.5.2-2                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-14                         amd64  lib for parsing cmdline parameters
@@ -217,7 +217,7 @@ ii   libtdb1                                1.4.2-3+b1                      amd6
 ii   libtinfo6                              6.2-1                           amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.7-1                         amd64  universal charset detection library - shared library
 ii   libudev1                               245.5-3                         amd64  libudev shared library
-ii   libunistring2                          0.9.10-3                        amd64  Unicode string library for C
+ii   libunistring2                          0.9.10-4                        amd64  Unicode string library for C
 ii   libuuid1                               2.35.2-2                        amd64  Universally Unique ID library
 ii   libvorbis0a                            1.3.6-2                         amd64  decoder library for Vorbis General Audio Compression Codec
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
@@ -232,12 +232,12 @@ ii   login                                  1:4.8.1-1                       amd6
 ii   logrotate                              3.16.0-3                        amd64  Log rotation utility
 ii   logsave                                1.45.6-1                        amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                          all    Linux Standard Base init script functionality
-ii   man-db                                 2.9.1-1                         amd64  tools for reading manual pages
+ii   man-db                                 2.9.2-1                         amd64  tools for reading manual pages
 ii   mawk                                   1.3.4.20200120-2                amd64  Pattern scanning and text processing language
 ii   mime-support                           3.64                            all    MIME files 'mime.types' & 'mailcap', and support programs
 ii   mokutil                                0.3.0+1538710437.fb6250f-1      amd64  tools for manipulating machine owner keys
 ii   mount                                  2.35.2-2                        amd64  tools for mounting and manipulating filesystems
-ii   nano                                   4.9.2-1                         amd64  small, friendly text editor inspired by Pico
+ii   nano                                   4.9.3-1                         amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.2-1                           all    basic terminal type definitions
 ii   ncurses-bin                            6.2-1                           amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
@@ -249,9 +249,9 @@ ii   openssl                                1.1.1g-1                        amd6
 ii   os-prober                              1.77                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.3-4                           amd64  disk partition manipulator
 ii   passwd                                 1:4.8.1-1                       amd64  change and administer password and group data
-ii   perl                                   5.30.2-1                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.30.2-1                        amd64  minimal Perl system
-ii   perl-modules-5.30                      5.30.2-1                        all    Core Perl modules
+ii   perl                                   5.30.3-1                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.30.3-1                        amd64  minimal Perl system
+ii   perl-modules-5.30                      5.30.3-1                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-5                      amd64  /proc file system utilities
 ii   publicsuffix                           20200506.1625-1                 all    accurate, machine-readable list of domain name suffixes
