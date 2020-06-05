@@ -181,7 +181,7 @@ ii   libpam0g                               1.3.1-5                         amd6
 ii   libparted2                             3.3-4                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-12+b1                    amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.30                            5.30.3-1                        amd64  shared Perl library
+ii   libperl5.30                            5.30.3-2                        amd64  shared Perl library
 ii   libpipeline1                           1.5.2-2                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.16-14                         amd64  lib for parsing cmdline parameters
@@ -223,7 +223,7 @@ ii   libvorbis0a                            1.3.6-2                         amd6
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
 ii   libwrap0                               7.6.q-30                        amd64  Wietse Venema's TCP wrappers library
 ii   libxtables12                           1.8.5-1                         amd64  netfilter xtables library
-ii   libzstd1                               1.4.4+dfsg-3                    amd64  fast lossless compression algorithm
+ii   libzstd1                               1.4.5+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-9-cloud-amd64       4.19.118-2                      amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-5.6.0-2-cloud-amd64        5.6.14-1                        amd64  Linux 5.6 for x86-64 cloud (signed)
@@ -249,9 +249,9 @@ ii   openssl                                1.1.1g-1                        amd6
 ii   os-prober                              1.77                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.3-4                           amd64  disk partition manipulator
 ii   passwd                                 1:4.8.1-1                       amd64  change and administer password and group data
-ii   perl                                   5.30.3-1                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.30.3-1                        amd64  minimal Perl system
-ii   perl-modules-5.30                      5.30.3-1                        all    Core Perl modules
+ii   perl                                   5.30.3-2                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.30.3-2                        amd64  minimal Perl system
+ii   perl-modules-5.30                      5.30.3-2                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-5                      amd64  /proc file system utilities
 ii   publicsuffix                           20200506.1625-1                 all    accurate, machine-readable list of domain name suffixes
