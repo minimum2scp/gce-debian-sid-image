@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.20-1                        all 
 ii   gnupg-l10n                             2.2.20-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.20-1                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       296.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       296.0.1-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20200121.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200507.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20200529.00-g1                amd64  Google Compute Engine Guest Agent
@@ -130,7 +130,7 @@ ii   libgcrypt20                            1.8.5-5                         amd6
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.0+dfsg-5                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.6.14-1                        amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.6.14-2                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-1                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-6                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.17-10                         amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
