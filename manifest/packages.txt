@@ -110,8 +110,8 @@ ii   libdebconfclient0                      0.252                           amd6
 ii   libdevmapper1.02.1                     2:1.02.167-1+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1110                      1:9.11.19+dfsg-1                amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20191231-1                  amd64  BSD editline and history libraries
-ii   libefiboot1                            37-2                            amd64  Library to manage UEFI variables
-ii   libefivar1                             37-2                            amd64  Library to manage UEFI variables
+ii   libefiboot1                            37-2.1                          amd64  Library to manage UEFI variables
+ii   libefivar1                             37-2.1                          amd64  Library to manage UEFI variables
 ii   libelf1                                0.176-1.1                       amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1+b1                   amd64  Helper functions for handling strings (lib)
