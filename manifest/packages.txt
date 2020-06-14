@@ -82,9 +82,9 @@ ii   libapparmor1                           2.13.4-2                        amd6
 ii   libapt-pkg5.0                          1.8.2.1                         amd64  package management runtime library
 ii   libapt-pkg6.0                          2.1.6                           amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
-ii   libasound2                             1.2.2-2.1                       amd64  shared library for ALSA applications
-ii   libasound2-data                        1.2.2-2.1                       all    Configuration files and profiles for ALSA drivers
-ii   libassuan0                             2.5.3-7                         amd64  IPC library for the GnuPG components
+ii   libasound2                             1.2.2-2.2                       amd64  shared library for ALSA applications
+ii   libasound2-data                        1.2.2-2.2                       all    Configuration files and profiles for ALSA drivers
+ii   libassuan0                             2.5.3-7.1                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.48-5                      amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:2.8.5-3                       all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.5-3+b1                    amd64  Dynamic library for security auditing
