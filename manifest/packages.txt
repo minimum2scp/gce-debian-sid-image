@@ -129,7 +129,7 @@ ii   libgcc1                                1:8.3.0-6                       amd6
 ii   libgcrypt20                            1.8.5-5                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5                        amd64  GNU dbm database routines (runtime version)
-ii   libgmp10                               2:6.2.0+dfsg-5                  amd64  Multiprecision arithmetic library
+ii   libgmp10                               2:6.2.0+dfsg-6                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.6.14-2                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-1                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-6                        amd64  General Purpose Mouse - shared library
@@ -170,7 +170,7 @@ ii   libnewt0.52                            0.52.21-4+b1                    amd6
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.7-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.41.0-2                        amd64  library implementing HTTP/2 protocol (shared library)
-ii   libnpth0                               1.6-1                           amd64  replacement for GNU Pth using system threads
+ii   libnpth0                               1.6-2                           amd64  replacement for GNU Pth using system threads
 ii   libogg0                                1.3.2-1+b1                      amd64  Ogg bitstream library
 ii   libp11-kit0                            0.23.20-1                       amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.3.1-5                         amd64  Pluggable Authentication Modules for PAM
