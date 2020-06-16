@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.20-1                        all 
 ii   gnupg-l10n                             2.2.20-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.20-1                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-1                           all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       296.0.1-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       297.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20200121.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200507.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20200529.00-g1                amd64  Google Compute Engine Guest Agent
@@ -142,7 +142,7 @@ ii   libip4tc2                              1.8.5-1                         amd6
 ii   libip6tc2                              1.8.5-1                         amd64  netfilter libip6tc library
 ii   libisc-export1105                      1:9.11.19+dfsg-1                amd64  Exported ISC Shared Library
 ii   libjson-c3                             0.12.1+ds-2                     amd64  JSON manipulation library - shared library
-ii   libjson-c4                             0.13.1+dfsg-7                   amd64  JSON manipulation library - shared library
+ii   libjson-c4                             0.13.1+dfsg-8                   amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.17-10                         amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.7-1                         amd64  minimal libc subset for use with initramfs
@@ -283,7 +283,7 @@ rc   systemd-timesyncd                      245.6-1                         amd6
 ii   sysvinit-utils                         2.96-3                          amd64  System-V-like utilities
 ii   tar                                    1.30+dfsg-7                     amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2020a-1                         all    time zone and daylight-saving time data
-ii   ucf                                    3.0042                          all    Update Configuration File(s): preserve user changes to config files
+ii   ucf                                    3.0043                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   245.6-1                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.35.2-2                        amd64  miscellaneous system utilities
 ii   vim                                    2:8.2.0716-3                    amd64  Vi IMproved - enhanced vi editor
