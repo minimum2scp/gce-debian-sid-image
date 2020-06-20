@@ -276,7 +276,7 @@ ii   shim-signed                            1.33+15+1533136590.3beb971-7    amd6
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-9         amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                           all    freedesktop.org sound theme
-ii   sudo                                   1.9.0-1                         amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.9.1-1                         amd64  Provide limited super user privileges to specific users
 ii   systemd                                245.6-1                         amd64  system and service manager
 ii   systemd-sysv                           245.6-1                         amd64  system and service manager - SysV links
 rc   systemd-timesyncd                      245.6-1                         amd64  minimalistic service to synchronize local time with NTP servers
