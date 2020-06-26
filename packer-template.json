@@ -15,6 +15,7 @@
     "image_name": "debian-sid-v{{isotime \"20060102-150405\"}}",
     "image_family": "debian-sid",
     "image_description": "Debian sid (source image: {{user `source_image`}})",
+    "disk_size": 10,
     "ssh_username": "packer",
     "metadata": {
       "block-project-ssh-keys": "TRUE"
