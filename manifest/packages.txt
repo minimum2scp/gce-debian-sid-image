@@ -6,7 +6,7 @@ ii   base-files                             11                              amd6
 ii   base-passwd                            3.5.47                          amd64  Debian base system master password and group files
 ii   bash                                   5.0-6                           amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.35.2-6                        amd64  extra utilities from 4.4BSD-Lite
-ii   bsdmainutils                           12.1.2                          amd64  collection of more utilities from FreeBSD
+ii   bsdmainutils                           12.1.2+b1                       amd64  collection of more utilities from FreeBSD
 ii   bsdutils                               1:2.35.2-6                      amd64  basic utilities from 4.4BSD-Lite
 ii   bzip2                                  1.0.8-3                         amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20200601                        all    Common CA certificates
@@ -24,7 +24,7 @@ ii   diffutils                              1:3.7-3                         amd6
 ii   dirmngr                                2.2.20-1                        amd64  GNU privacy guard - network certificate management service
 ii   dmidecode                              3.2-3                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.167-1+b1                 amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.20.1                          amd64  Debian package management system
+ii   dpkg                                   1.20.2                          amd64  Debian package management system
 ii   e2fsprogs                              1.45.6-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             17-1                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.14-1                       all    store /etc in git, mercurial, brz or darcs
@@ -268,7 +268,7 @@ ii   python3-minimal                        3.8.2-3                         amd6
 ii   python3.8                              3.8.3-1                         amd64  Interactive high-level object-oriented language (version 3.8)
 ii   python3.8-minimal                      3.8.3-1                         amd64  Minimal subset of the Python language (version 3.8)
 ii   readline-common                        8.0-4                           all    GNU readline and history libraries, common files
-ii   rsyslog                                8.2006.0-1                      amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2006.0-2                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.8.15                          all    dh-runit implementation detail
 ii   sed                                    4.7-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12+nmu1                     all    Utilities for sensible alternative selection
