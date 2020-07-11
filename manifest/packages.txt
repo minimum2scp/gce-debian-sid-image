@@ -263,7 +263,7 @@ ii   perl-base                              5.30.3-4                        amd6
 ii   perl-modules-5.30                      5.30.3-4                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-5                      amd64  /proc file system utilities
-ii   publicsuffix                           20200506.1625-1                 all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20200627.1701-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python                                 2.7.17-2                        amd64  interactive high-level object-oriented language (Python2 version)
 ii   python-crcmod                          1.7+dfsg-1+b1                   amd64  CRC Generator - Python 2.x
 ii   python-minimal                         2.7.17-2                        amd64  minimal subset of the Python2 language
