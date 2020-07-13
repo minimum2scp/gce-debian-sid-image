@@ -168,7 +168,7 @@ ii   libmnl0                                1.0.4-3                         amd6
 ii   libmount1                              2.35.2-7                        amd64  device mounting library
 ii   libmpc3                                1.1.0-1                         amd64  multiple precision complex floating-point library
 ii   libmpdec2                              2.4.2-3                         amd64  library for decimal floating point arithmetic (runtime library)
-ii   libmpfr6                               4.0.2-1                         amd64  multiple precision floating-point computation
+ii   libmpfr6                               4.1.0-2                         amd64  multiple precision floating-point computation
 ii   libncurses6                            6.2-1                           amd64  shared libraries for terminal handling
 ii   libncursesw6                           6.2-1                           amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.8-1                         amd64  Netfilter netlink-conntrack library
@@ -285,7 +285,7 @@ ii   shim-signed                            1.33+15+1533136590.3beb971-7    amd6
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-9         amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                           all    freedesktop.org sound theme
-ii   sudo                                   1.9.1-1                         amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.9.1-2                         amd64  Provide limited super user privileges to specific users
 ii   systemd                                245.6-2                         amd64  system and service manager
 ii   systemd-sysv                           245.6-2                         amd64  system and service manager - SysV links
 rc   systemd-timesyncd                      245.6-2                         amd64  minimalistic service to synchronize local time with NTP servers
