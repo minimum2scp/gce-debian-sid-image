@@ -58,7 +58,7 @@
     {
       "type": "shell",
       "inline": [
-        "python /tmp/scripts/mk-manifest.py"
+        "python3 /tmp/scripts/mk-manifest.py"
       ],
       "expect_disconnect": false
     },
