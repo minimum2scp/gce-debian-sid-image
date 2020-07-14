@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 # -*- coding: utf_8 -*-
 
 import json
@@ -28,7 +28,7 @@ def make_manifest_packages_txt(src="/tmp/packages.jsonl", dest="/tmp/packages.tx
     '''.split()
 
     with open(src, "r") as src_fh:
-        packages = [json.loads(line.decode("utf-8")) for line in src_fh.readlines()]
+        packages = [json.loads(line) for line in src_fh.readlines()]
 
     width = {}
     for f in fields:
@@ -40,7 +40,7 @@ def make_manifest_packages_txt(src="/tmp/packages.jsonl", dest="/tmp/packages.tx
     with open(dest, "w") as dest_fh:
         for package in packages:
             line = "  ".join(["%-" + str(width[f]) + "s" for f in fields]) % tuple([package[f] for f in fields])
-            line = line.rstrip().encode("utf-8")
+            line = line.rstrip()
             dest_fh.write(line + "\n")
 
 make_manifest_packages_jsonl()
