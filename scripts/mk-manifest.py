@@ -12,14 +12,11 @@ def make_manifest_packages_jsonl(dest="/tmp/packages.jsonl"):
       source:Package source:Version
     '''.split()
 
-    cmd = ["dpkg-query", "-f", "\\t".join(map(lambda f: "${%s}" % f, fields)) + "\\n", "-W"]
+    cmd = ["dpkg-query", "-f", "\\t".join(["${%s}" % f for f in fields]) + "\\n", "-W"]
 
     packages = [
-            dict(zip(fields, line.split("\t")))
-            for line in filter(
-                lambda line: line.strip() != "",
-                subprocess.check_output(cmd).decode("utf-8").split("\n")
-                )
+            dict(list(zip(fields, line.split("\t"))))
+            for line in [line for line in subprocess.check_output(cmd).decode("utf-8").split("\n") if line.strip() != ""]
             ]
     with open(dest, "w") as fh:
         for p in packages:
@@ -42,7 +39,7 @@ def make_manifest_packages_txt(src="/tmp/packages.jsonl", dest="/tmp/packages.tx
 
     with open(dest, "w") as dest_fh:
         for package in packages:
-            line = "  ".join(map(lambda f: "%-" + str(width[f]) + "s", fields)) % tuple(map(lambda f: package[f], fields))
+            line = "  ".join(["%-" + str(width[f]) + "s" for f in fields]) % tuple([package[f] for f in fields])
             line = line.rstrip().encode("utf-8")
             dest_fh.write(line + "\n")
 
