@@ -1,8 +1,7 @@
 {
   "variables": {
     "project_id": "",
-    "source_image": "debian-10-buster-v20200618",
-    "source_image_project_id": "debian-cloud"
+    "expected_source_image": "debian-10-buster-v20200618"
   },
   "builders": [{
     "type": "googlecompute",
@@ -10,8 +9,8 @@
     "zone": "us-west1-a",
     "machine_type": "e2-micro",
     "preemptible": true,
-    "source_image": "{{user `source_image`}}",
-    "source_image_project_id": "{{user `source_image_project_id`}}",
+    "source_image_family": "debian-10",
+    "source_image_project_id": "debian-cloud",
     "image_name": "debian-sid-v{{isotime \"20060102-150405\"}}",
     "image_family": "debian-sid",
     "image_description": "Debian sid (source image: {{user `source_image`}})",
@@ -22,6 +21,19 @@
     }
   }],
   "provisioners":[
+    {
+      "type": "shell",
+      "inline": [
+        "expected_image={{user `expected_source_image`}}",
+        "actual_image=$(basename $(curl -sS -H Metadata-Flavor:Google http://metadata.google.internal/computeMetadata/v1/instance/image))",
+        "if [ ${expected_image} != ${actual_image} ]; then",
+        "  echo \"ERROR: image is updated\"",
+        "  echo \"  expected: ${expected_image}\"",
+        "  echo \"  got:      ${actual_image}\"",
+        "  exit 1",
+        "fi"
+      ]
+    },
     {
       "type": "file",
       "source": "scripts",
