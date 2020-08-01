@@ -116,7 +116,7 @@ ii   libdns-export1110                      1:9.11.19+dfsg-1                amd6
 ii   libedit2                               3.1-20191231-1                  amd64  BSD editline and history libraries
 ii   libefiboot1                            37-2.1                          amd64  Library to manage UEFI variables
 ii   libefivar1                             37-2.1                          amd64  Library to manage UEFI variables
-ii   libelf1                                0.180-1                         amd64  library to read and write ELF files
+ii   libelf1                                0.180-1+b1                      amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1+b1                   amd64  Helper functions for handling strings (lib)
 ii   libexpat1                              2.2.9-1                         amd64  XML parsing C library - runtime library
@@ -258,7 +258,7 @@ ii   perl-base                              5.30.3-4                        amd6
 ii   perl-modules-5.30                      5.30.3-4                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-5                      amd64  /proc file system utilities
-ii   publicsuffix                           20200627.1701-1                 all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20200729.1725-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python3                                3.8.2-3                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-crcmod                         1.7+dfsg-2+b2                   amd64  CRC Generator - Python 3.x
 ii   python3-minimal                        3.8.2-3                         amd64  minimal subset of the Python language (default python3 version)
