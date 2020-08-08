@@ -225,7 +225,7 @@ ii   libvorbis0a                            1.3.6-2                         amd6
 ii   libvorbisfile3                         1.3.6-2                         amd64  high-level API for Vorbis General Audio Compression Codec
 ii   libwrap0                               7.6.q-30                        amd64  Wietse Venema's TCP wrappers library
 ii   libxtables12                           1.8.5-2                         amd64  netfilter xtables library
-ii   libzstd1                               1.4.5+dfsg-3                    amd64  fast lossless compression algorithm
+ii   libzstd1                               1.4.5+dfsg-4                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-10-cloud-amd64      4.19.132-1                      amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-5.7.0-2-cloud-amd64        5.7.10-1                        amd64  Linux 5.7 for x86-64 cloud (signed)
