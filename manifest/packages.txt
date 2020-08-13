@@ -73,7 +73,7 @@ ii   init                                   1.58                            amd6
 ii   init-system-helpers                    1.58                            all    helper tools for all init systems
 ii   initramfs-tools                        0.137                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.137                           all    generic modular initramfs generator (core tools)
-ii   iproute2                               5.7.0-1                         amd64  networking and traffic control tools
+ii   iproute2                               5.8.0-1                         amd64  networking and traffic control tools
 ii   iptables                               1.8.5-2                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190709-3                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.1+b2                    amd64  DHCP client for automatically obtaining an IP address
@@ -188,7 +188,7 @@ ii   libparted2                             3.3-4                           amd6
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-13                       amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.30                            5.30.3-4                        amd64  shared Perl library
-ii   libpipeline1                           1.5.2-2                         amd64  Unix process pipeline manipulation library
+ii   libpipeline1                           1.5.3-1                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.18-1                          amd64  lib for parsing cmdline parameters
 ii   libprocps8                             2:3.3.16-5                      amd64  library for accessing process information from /proc
