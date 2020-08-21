@@ -11,7 +11,7 @@ ii   bsdutils                               1:2.36-2                        amd6
 ii   bzip2                                  1.0.8-4                         amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20200601                        all    Common CA certificates
 ii   calendar                               12.1.7                          amd64  display upcoming dates and provide reminders
-ii   chrony                                 3.5-9+b1                        amd64  Versatile implementation of the Network Time Protocol
+ii   chrony                                 3.5.1-1                         amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.32-3                          amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-3                     amd64  GNU cpio -- a program to manage archives of files
 ii   cpp                                    4:10.1.0-1                      amd64  GNU C preprocessor (cpp)
@@ -49,7 +49,7 @@ ii   google-cloud-sdk                       306.0.0-0                       all 
 ii   google-compute-engine                  1:20200626.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200507.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20200706.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20200807.02-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20200818.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.20-1                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.20-1                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.20-1                        amd64  GNU privacy guard - Web Key Service client
@@ -77,7 +77,7 @@ ii   iproute2                               5.8.0-1                         amd6
 ii   iptables                               1.8.5-2                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20190709-3                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.1+b2                    amd64  DHCP client for automatically obtaining an IP address
-ii   klibc-utils                            2.0.7-1                         amd64  small utilities built with klibc for early boot
+ii   klibc-utils                            2.0.8-1                         amd64  small utilities built with klibc for early boot
 ii   kmod                                   27+20200310-2                   amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.17-10                         all    internationalization support for MIT Kerberos
 ii   less                                   551-2                           amd64  pager program similar to more
@@ -86,8 +86,8 @@ ii   libapparmor1                           2.13.4-3                        amd6
 ii   libapt-pkg5.0                          1.8.2.1                         amd64  package management runtime library
 ii   libapt-pkg6.0                          2.1.10                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
-ii   libasound2                             1.2.2-2.3                       amd64  shared library for ALSA applications
-ii   libasound2-data                        1.2.2-2.3                       all    Configuration files and profiles for ALSA drivers
+ii   libasound2                             1.2.3.2-1                       amd64  shared library for ALSA applications
+ii   libasound2-data                        1.2.3.2-1                       all    Configuration files and profiles for ALSA drivers
 ii   libassuan0                             2.5.3-7.1                       amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.4.48-5                      amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:2.8.5-3                       all    Dynamic library for security auditing - common files
@@ -150,7 +150,7 @@ ii   libjson-c3                             0.12.1+ds-2+deb10u1             amd6
 ii   libjson-c5                             0.15-1                          amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.17-10                         amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                         amd64  Linux Key Management Utilities (library)
-ii   libklibc                               2.0.7-1                         amd64  minimal libc subset for use with initramfs
+ii   libklibc                               2.0.8-1                         amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               27+20200310-2                   amd64  libkmod shared library
 ii   libkrb5-3                              1.17-10                         amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.17-10                         amd64  MIT Kerberos runtime libraries - Support library
