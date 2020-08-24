@@ -17,7 +17,7 @@ ii   cpio                                   2.13+dfsg-3                     amd6
 ii   cpp                                    4:10.1.0-1                      amd64  GNU C preprocessor (cpp)
 ii   cpp-10                                 10.2.0-5                        amd64  GNU C preprocessor
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
-ii   curl                                   7.68.0-1+b1                     amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.72.0-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.10.2-7                      amd64  POSIX-compliant shell
 ii   dbus                                   1.12.20-1                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.74                          all    Debian configuration management system
@@ -75,7 +75,7 @@ ii   initramfs-tools                        0.137                           all 
 ii   initramfs-tools-core                   0.137                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.8.0-1                         amd64  networking and traffic control tools
 ii   iptables                               1.8.5-2                         amd64  administration tools for packet filtering and NAT
-ii   iputils-ping                           3:20200821-1                    amd64  Tools to test the reachability of network hosts
+ii   iputils-ping                           3:20200821-2                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.1+b2                    amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.8-1                         amd64  small utilities built with klibc for early boot
 ii   kmod                                   27+20200310-2                   amd64  tools for managing Linux kernel modules
@@ -100,14 +100,14 @@ ii   libc-bin                               2.31-3                          amd6
 ii   libc6                                  2.31-3                          amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2.2                       amd64  An alternate POSIX capabilities library
-ii   libcap2                                1:2.42-2                        amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.42-2                        amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.43-1                        amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.43-1                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0                               0.5.0+dfsg-2                    amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.45.6-1                        amd64  common error description library
 ii   libcrypt1                              1:4.4.16-1                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.3.3-2                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.68.0-1+b1                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.68.0-1+b1                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.72.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.72.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.20-1                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.253                           amd64  Debian Configuration Management System (C-implementation library)
@@ -178,7 +178,7 @@ ii   libnftnl11                             1.1.7-1                         amd6
 ii   libnghttp2-14                          1.41.0-3                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-2                           amd64  replacement for GNU Pth using system threads
 ii   libogg0                                1.3.2-1+b1                      amd64  Ogg bitstream library
-ii   libp11-kit0                            0.23.20-1                       amd64  library for loading and coordinating access to PKCS#11 modules - runtime
+ii   libp11-kit0                            0.23.21-2                       amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.3.1-5                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.3.1-5                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.3.1-5                         all    Runtime support for the PAM library
@@ -237,7 +237,7 @@ ii   lsb-base                               11.1.0                          all 
 ii   man-db                                 2.9.3-2                         amd64  tools for reading manual pages
 ii   mawk                                   1.3.4.20200120-2                amd64  Pattern scanning and text processing language
 ii   mime-support                           3.64                            all    MIME files 'mime.types' & 'mailcap', and support programs
-ii   mokutil                                0.3.0+1538710437.fb6250f-1      amd64  tools for manipulating machine owner keys
+ii   mokutil                                0.3.0+1538710437.fb6250f-1+b1   amd64  tools for manipulating machine owner keys
 ii   mount                                  2.36-2                          amd64  tools for mounting and manipulating filesystems
 ii   nano                                   5.1-1                           amd64  small, friendly text editor inspired by Pico
 ii   ncal                                   12.1.7                          amd64  display a calendar and the date of Easter
