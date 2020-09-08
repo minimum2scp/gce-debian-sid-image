@@ -44,7 +44,7 @@ ii   git-man                                1:2.28.0-1                      all 
 ii   gnupg                                  2.2.20-1                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.20-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.20-1                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-329330792                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-330397855                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       308.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20200731.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200805.01-g1+deb10          amd64  Google Compute Engine OS Login
@@ -93,7 +93,7 @@ ii   libattr1                               1:2.4.48-5                      amd6
 ii   libaudit-common                        1:2.8.5-3                       all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:2.8.5-3+b1                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.36-3                          amd64  block device ID library
-ii   libbrotli1                             1.0.9-1                         amd64  library implementing brotli encoder and decoder (shared libraries)
+ii   libbrotli1                             1.0.9-2                         amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-4                         amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.31-3                          amd64  GNU C Library: Binaries
@@ -155,8 +155,8 @@ ii   libkmod2                               27+20200310-2                   amd6
 ii   libkrb5-3                              1.17-10                         amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.17-10                         amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.4.0-2                         amd64  X.509 and CMS support library
-ii   libldap-2.4-2                          2.4.51+dfsg-1                   amd64  OpenLDAP libraries
-ii   libldap-common                         2.4.51+dfsg-1                   all    OpenLDAP common files for libraries
+ii   libldap-2.4-2                          2.4.53+dfsg-1                   amd64  OpenLDAP libraries
+ii   libldap-common                         2.4.53+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
 ii   libltdl7                               2.4.6-14                        amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.2-2                         amd64  Fast LZ compression algorithm library - runtime
@@ -228,8 +228,8 @@ ii   libxtables12                           1.8.5-3                         amd6
 ii   libzstd1                               1.4.5+dfsg-4                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-10-cloud-amd64      4.19.132-1                      amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.7.0-3-cloud-amd64        5.7.17-1                        amd64  Linux 5.7 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.7.17-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.8.0-1-cloud-amd64        5.8.7-1                         amd64  Linux 5.8 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.8.7-1                         amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.16.0-3                        amd64  Log rotation utility
 ii   logsave                                1.45.6-1                        amd64  save the output of a command in a log file
