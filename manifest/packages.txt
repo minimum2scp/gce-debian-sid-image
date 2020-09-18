@@ -13,8 +13,8 @@ ii   ca-certificates                        20200601                        all 
 ii   calendar                               12.1.7                          amd64  display upcoming dates and provide reminders
 ii   chrony                                 3.5.1-2                         amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.32-3                          amd64  GNU core utilities
-ii   cpio                                   2.13+dfsg-3                     amd64  GNU cpio -- a program to manage archives of files
-ii   cpp                                    4:10.1.0-1                      amd64  GNU C preprocessor (cpp)
+ii   cpio                                   2.13+dfsg-4                     amd64  GNU cpio -- a program to manage archives of files
+ii   cpp                                    4:10.2.0-1                      amd64  GNU C preprocessor (cpp)
 ii   cpp-10                                 10.2.0-8                        amd64  GNU C preprocessor
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
 ii   curl                                   7.72.0-1                        amd64  command line tool for transferring data with URL syntax
@@ -167,8 +167,8 @@ ii   libmnl0                                1.0.4-3                         amd6
 ii   libmount1                              2.36-3                          amd64  device mounting library
 ii   libmpc3                                1.2.0-1                         amd64  multiple precision complex floating-point library
 ii   libmpfr6                               4.1.0-3                         amd64  multiple precision floating-point computation
-ii   libncurses6                            6.2-1                           amd64  shared libraries for terminal handling
-ii   libncursesw6                           6.2-1                           amd64  shared libraries for terminal handling (wide character support)
+ii   libncurses6                            6.2+20200912-1                  amd64  shared libraries for terminal handling
+ii   libncursesw6                           6.2+20200912-1                  amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.8-1                         amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.5.1+really3.4.1-1             amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnettle8                             3.6-2                           amd64  low level cryptographic library (symmetric and one-way cryptos)
@@ -216,7 +216,7 @@ ii   libstdc++6                             10.2.0-8                        amd6
 ii   libsystemd0                            246.5-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtdb1                                1.4.3-1                         amd64  Trivial Database - shared library
-ii   libtinfo6                              6.2-1                           amd64  shared low-level terminfo library for terminal handling
+ii   libtinfo6                              6.2+20200912-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libuchardet0                           0.0.7-1                         amd64  universal charset detection library - shared library
 ii   libudev1                               246.5-1                         amd64  libudev shared library
 ii   libunistring2                          0.9.10-4                        amd64  Unicode string library for C
@@ -241,8 +241,8 @@ ii   mokutil                                0.3.0+1538710437.fb6250f-1+b1   amd6
 ii   mount                                  2.36-3                          amd64  tools for mounting and manipulating filesystems
 ii   nano                                   5.2-1                           amd64  small, friendly text editor inspired by Pico
 ii   ncal                                   12.1.7                          amd64  display a calendar and the date of Easter
-ii   ncurses-base                           6.2-1                           all    basic terminal type definitions
-ii   ncurses-bin                            6.2-1                           amd64  terminal-related programs and man pages
+ii   ncurses-base                           6.2+20200912-1                  all    basic terminal type definitions
+ii   ncurses-bin                            6.2+20200912-1                  amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20180626.aebd88e-1      amd64  NET-3 networking toolkit
 ii   netbase                                6.1                             all    Basic TCP/IP networking system
 ii   openssh-client                         1:8.3p1-1                       amd64  secure shell (SSH) client, for secure access to remote machines
