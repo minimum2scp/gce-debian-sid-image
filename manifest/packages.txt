@@ -1,5 +1,5 @@
 ii   adduser                                3.118                           all    add and remove users and groups
-ii   apparmor                               2.13.4-3+b1                     amd64  user-space parser utility for AppArmor
+ii   apparmor                               2.13.5-1                        amd64  user-space parser utility for AppArmor
 ii   apt                                    2.1.10                          amd64  commandline package manager
 ii   apt-utils                              2.1.10                          amd64  package management related utility programs
 ii   base-files                             11                              amd64  Debian base system miscellaneous files
@@ -82,7 +82,7 @@ ii   kmod                                   27+20200310-2                   amd6
 ii   krb5-locales                           1.17-10                         all    internationalization support for MIT Kerberos
 ii   less                                   551-2                           amd64  pager program similar to more
 ii   libacl1                                2.2.53-8                        amd64  access control list - shared library
-ii   libapparmor1                           2.13.4-3+b1                     amd64  changehat AppArmor library
+ii   libapparmor1                           2.13.5-1                        amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2.1                         amd64  package management runtime library
 ii   libapt-pkg6.0                          2.1.10                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
