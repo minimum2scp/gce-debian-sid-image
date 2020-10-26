@@ -1,7 +1,7 @@
 ii   adduser                                3.118                           all    add and remove users and groups
 ii   apparmor                               2.13.5-1                        amd64  user-space parser utility for AppArmor
-ii   apt                                    2.1.10                          amd64  commandline package manager
-ii   apt-utils                              2.1.10                          amd64  package management related utility programs
+ii   apt                                    2.1.11                          amd64  commandline package manager
+ii   apt-utils                              2.1.11                          amd64  package management related utility programs
 ii   base-files                             11                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.48                          amd64  Debian base system master password and group files
 ii   bash                                   5.1~rc1-2                       amd64  GNU Bourne Again SHell
@@ -84,7 +84,7 @@ ii   less                                   551-2                           amd6
 ii   libacl1                                2.2.53-8                        amd64  access control list - shared library
 ii   libapparmor1                           2.13.5-1                        amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2.1                         amd64  package management runtime library
-ii   libapt-pkg6.0                          2.1.10                          amd64  package management runtime library
+ii   libapt-pkg6.0                          2.1.11                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libasound2                             1.2.3.2-1                       amd64  shared library for ALSA applications
 ii   libasound2-data                        1.2.3.2-1                       all    Configuration files and profiles for ALSA drivers
