@@ -33,7 +33,7 @@ ii   efibootmgr                             17-1                            amd6
 ii   etckeeper                              1.18.14-1                       all    store /etc in git, mercurial, brz or darcs
 ii   fdisk                                  2.36-3+b1                       amd64  collection of partitioning utilities
 ii   file                                   1:5.38-5                        amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.7.0-1                         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.7.0+git20201010-2             amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10.2.0-15                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.3.0-6                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
@@ -45,7 +45,7 @@ ii   gnupg                                  2.2.20-1                        all 
 ii   gnupg-l10n                             2.2.20-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.20-1                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-339068340                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       315.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       316.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20200731.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200819.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20200813.01-g1                amd64  Google Compute Engine Guest Agent
@@ -131,7 +131,7 @@ ii   libfreetype6                           2.10.2+dfsg-4                   amd6
 ii   libfuse2                               2.9.9-3                         amd64  Filesystem in Userspace (library)
 ii   libgcc-s1                              10.2.0-15                       amd64  GCC support library
 ii   libgcc1                                1:8.3.0-6                       amd64  GCC support library
-ii   libgcrypt20                            1.8.6-2                         amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.8.7-2                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.18.1-5.1                      amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5.1                      amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.0+dfsg-6                  amd64  Multiprecision arithmetic library
@@ -290,12 +290,12 @@ ii   tzdata                                 2020d-1                         all 
 ii   ucf                                    3.0043                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   246.6-2                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.36-3+b1                       amd64  miscellaneous system utilities
-ii   vim                                    2:8.2.0716-3                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.2.0716-3                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.2.0716-3                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.0716-3                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.1913-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.1913-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.1913-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.1913-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4+b2                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.0716-3                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.1913-1                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
