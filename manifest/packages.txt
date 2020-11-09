@@ -1,5 +1,5 @@
 ii   adduser                                3.118                           all    add and remove users and groups
-ii   apparmor                               2.13.5-1                        amd64  user-space parser utility for AppArmor
+ii   apparmor                               2.13.5-1+b1                     amd64  user-space parser utility for AppArmor
 ii   apt                                    2.1.11                          amd64  commandline package manager
 ii   apt-utils                              2.1.11                          amd64  package management related utility programs
 ii   base-files                             11                              amd64  Debian base system miscellaneous files
@@ -60,11 +60,11 @@ ii   gpgv                                   2.2.20-1                        amd6
 ii   grep                                   3.4-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-5                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.04-9                          amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.04-9                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-common                            2.04-10                         amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.04-10                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii   grub-efi-amd64-signed                  1+2.04+9                        amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.04-9                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.04-9                          amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-pc-bin                            2.04-10                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.04-10                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-2                          amd64  GNU compression utilities
 ii   haveged                                1.9.8-4                         amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23                            amd64  utility to set/show the host name or domain name
@@ -74,7 +74,7 @@ ii   init-system-helpers                    1.58                            all 
 ii   initramfs-tools                        0.139                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.139                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.9.0-1                         amd64  networking and traffic control tools
-ii   iptables                               1.8.5-3                         amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.8.6-1                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20200821-2                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.1+b2                    amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.8-1                         amd64  small utilities built with klibc for early boot
@@ -82,7 +82,7 @@ ii   kmod                                   27+20200310-2                   amd6
 ii   krb5-locales                           1.17-10                         all    internationalization support for MIT Kerberos
 ii   less                                   551-2                           amd64  pager program similar to more
 ii   libacl1                                2.2.53-8                        amd64  access control list - shared library
-ii   libapparmor1                           2.13.5-1                        amd64  changehat AppArmor library
+ii   libapparmor1                           2.13.5-1+b1                     amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2.1                         amd64  package management runtime library
 ii   libapt-pkg6.0                          2.1.11                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
@@ -143,8 +143,8 @@ ii   libhavege2                             1.9.8-4                         amd6
 ii   libhogweed4                            3.4.1-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed6                            3.6-2                           amd64  low level cryptographic library (public-key cryptos)
 ii   libidn2-0                              2.3.0-2                         amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc2                              1.8.5-3                         amd64  netfilter libip4tc library
-ii   libip6tc2                              1.8.5-3                         amd64  netfilter libip6tc library
+ii   libip4tc2                              1.8.6-1                         amd64  netfilter libip4tc library
+ii   libip6tc2                              1.8.6-1                         amd64  netfilter libip6tc library
 ii   libisc-export1105                      1:9.11.19+dfsg-1                amd64  Exported ISC Shared Library
 ii   libisl22                               0.22.1-1                        amd64  manipulating sets and relations of integer points bounded by linear constraints
 ii   libjson-c3                             0.12.1+ds-2+deb10u1             amd64  JSON manipulation library - shared library
@@ -156,7 +156,7 @@ ii   libkmod2                               27+20200310-2                   amd6
 ii   libkrb5-3                              1.17-10                         amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.17-10                         amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.4.0-2                         amd64  X.509 and CMS support library
-ii   libldap-2.4-2                          2.4.55+dfsg-1                   amd64  OpenLDAP libraries
+ii   libldap-2.4-2                          2.4.55+dfsg-1+b1                amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.55+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
 ii   libltdl7                               2.4.6-14                        amd64  System independent dlopen wrapper for GNU libtool
@@ -175,7 +175,7 @@ ii   libnettle6                             3.4.1-1                         amd6
 ii   libnettle8                             3.6-2                           amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.21-4+b2                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnftnl11                             1.1.8-1                         amd64  Netfilter nftables userspace API library
+ii   libnftnl11                             1.1.8-2                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.41.0-3                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                         amd64  Public client interface for NIS(YP) and NIS+
@@ -191,7 +191,7 @@ ii   libpam0g                               1.3.1-5                         amd6
 ii   libparted2                             3.3-4                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.34-7                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-13                       amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.30                            5.30.3-4                        amd64  shared Perl library
+ii   libperl5.32                            5.32.0-4                        amd64  shared Perl library
 ii   libpipeline1                           1.5.3-1                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-3                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.18-2                          amd64  lib for parsing cmdline parameters
@@ -205,7 +205,7 @@ ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2  amd6
 ii   libsasl2-2                             2.1.27+dfsg-2                   amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.27+dfsg-2                   amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.27+dfsg-2                   amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.4.4-1+b1                      amd64  high level interface to Linux seccomp filter
+ii   libseccomp2                            2.5.0-3                         amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.1-2+b1                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.1-1                           all    Common files for SELinux policy management libraries
 ii   libsemanage1                           3.1-1+b1                        amd64  SELinux policy management library
@@ -230,7 +230,7 @@ ii   libuuid1                               2.36-3+b2                       amd6
 ii   libvorbis0a                            1.3.7-1                         amd64  decoder library for Vorbis General Audio Compression Codec
 ii   libvorbisfile3                         1.3.7-1                         amd64  high-level API for Vorbis General Audio Compression Codec
 ii   libwrap0                               7.6.q-30                        amd64  Wietse Venema's TCP wrappers library
-ii   libxtables12                           1.8.5-3                         amd64  netfilter xtables library
+ii   libxtables12                           1.8.6-1                         amd64  netfilter xtables library
 ii   libzstd1                               1.4.5+dfsg-4                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-11-cloud-amd64      4.19.146-1                      amd64  Linux 4.19 for x86-64 cloud (signed)
@@ -259,9 +259,9 @@ ii   openssl                                1.1.1h-1                        amd6
 ii   os-prober                              1.77                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.3-4                           amd64  disk partition manipulator
 ii   passwd                                 1:4.8.1-1                       amd64  change and administer password and group data
-ii   perl                                   5.30.3-4                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.30.3-4                        amd64  minimal Perl system
-ii   perl-modules-5.30                      5.30.3-4                        all    Core Perl modules
+ii   perl                                   5.32.0-4                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.32.0-4                        amd64  minimal Perl system
+ii   perl-modules-5.32                      5.32.0-4                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-5                      amd64  /proc file system utilities
 ii   publicsuffix                           20200729.1725-1                 all    accurate, machine-readable list of domain name suffixes
@@ -290,12 +290,12 @@ ii   tzdata                                 2020d-1                         all 
 ii   ucf                                    3.0043                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   246.6-2                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.36-3+b2                       amd64  miscellaneous system utilities
-ii   vim                                    2:8.2.1913-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim                                    2:8.2.1913-1+b1                 amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.2.1913-1                    all    Vi IMproved - Common files
 ii   vim-runtime                            2:8.2.1913-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.1913-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim-tiny                               2:8.2.1913-1+b1                 amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4+b2                    amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.1913-1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.1913-1+b1                 amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
