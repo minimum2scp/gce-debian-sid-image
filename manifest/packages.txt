@@ -142,7 +142,7 @@ ii   libgssapi-krb5-2                       1.17-10                         amd6
 ii   libhavege2                             1.9.8-4                         amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed6                            3.6-2                           amd64  low level cryptographic library (public-key cryptos)
-ii   libidn2-0                              2.3.0-2                         amd64  Internationalized domain names (IDNA2008/TR46) library
+ii   libidn2-0                              2.3.0-3                         amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.6-1                         amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.6-1                         amd64  netfilter libip6tc library
 ii   libisc-export1105                      1:9.11.19+dfsg-1                amd64  Exported ISC Shared Library
@@ -238,7 +238,7 @@ ii   linux-image-5.9.0-2-cloud-amd64        5.9.6-1                         amd6
 ii   linux-image-cloud-amd64                5.9.6-1                         amd64  Linux for x86-64 cloud (meta-package)
 ii   locales                                2.31-4                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.8.1-1                       amd64  system login tools
-ii   logrotate                              3.17.0-1                        amd64  Log rotation utility
+ii   logrotate                              3.17.0-2                        amd64  Log rotation utility
 ii   logsave                                1.45.6-1                        amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                          all    Linux Standard Base init script functionality
 ii   man-db                                 2.9.3-2                         amd64  tools for reading manual pages
