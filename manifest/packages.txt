@@ -79,7 +79,7 @@ ii   iputils-ping                           3:20200821-2                    amd6
 ii   isc-dhcp-client                        4.4.1-2.1+b2                    amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.8-1                         amd64  small utilities built with klibc for early boot
 ii   kmod                                   27+20200310-2                   amd64  tools for managing Linux kernel modules
-ii   krb5-locales                           1.18.3-1                        all    internationalization support for MIT Kerberos
+ii   krb5-locales                           1.18.3-2                        all    internationalization support for MIT Kerberos
 ii   less                                   551-2                           amd64  pager program similar to more
 ii   libacl1                                2.2.53-8                        amd64  access control list - shared library
 ii   libapparmor1                           2.13.5-1+b1                     amd64  changehat AppArmor library
@@ -138,7 +138,7 @@ ii   libgmp10                               2:6.2.1+dfsg-1                  amd6
 ii   libgnutls30                            3.6.15-4                        amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-2                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-6                        amd64  General Purpose Mouse - shared library
-ii   libgssapi-krb5-2                       1.18.3-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii   libgssapi-krb5-2                       1.18.3-2                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.8-4                         amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed6                            3.6-2                           amd64  low level cryptographic library (public-key cryptos)
@@ -149,12 +149,12 @@ ii   libisc-export1105                      1:9.11.19+dfsg-1                amd6
 ii   libisl22                               0.22.1-1                        amd64  manipulating sets and relations of integer points bounded by linear constraints
 ii   libjson-c3                             0.12.1+ds-2+deb10u1             amd64  JSON manipulation library - shared library
 ii   libjson-c5                             0.15-1                          amd64  JSON manipulation library - shared library
-ii   libk5crypto3                           1.18.3-1                        amd64  MIT Kerberos runtime libraries - Crypto Library
+ii   libk5crypto3                           1.18.3-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.8-1                         amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               27+20200310-2                   amd64  libkmod shared library
-ii   libkrb5-3                              1.18.3-1                        amd64  MIT Kerberos runtime libraries
-ii   libkrb5support0                        1.18.3-1                        amd64  MIT Kerberos runtime libraries - Support library
+ii   libkrb5-3                              1.18.3-2                        amd64  MIT Kerberos runtime libraries
+ii   libkrb5support0                        1.18.3-2                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.4.0-2                         amd64  X.509 and CMS support library
 ii   libldap-2.4-2                          2.4.56+dfsg-1                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.56+dfsg-1                   all    OpenLDAP common files for libraries
@@ -274,7 +274,7 @@ ii   python3.9                              3.9.0-5                         amd6
 ii   python3.9-minimal                      3.9.0-5                         amd64  Minimal subset of the Python language (version 3.9)
 ii   readline-common                        8.1~rc2-2                       all    GNU readline and history libraries, common files
 ii   rsyslog                                8.2010.0-1                      amd64  reliable system and kernel logging daemon
-ii   runit-helper                           2.10.1                          all    dh-runit implementation detail
+ii   runit-helper                           2.10.2                          all    dh-runit implementation detail
 ii   sed                                    4.7-1                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.12+nmu1                     all    Utilities for sensible alternative selection
 ii   shim-helpers-amd64-signed              1+15+1533136590.3beb971+10      amd64  boot loader to chain-load signed boot loaders (signed by Debian)
