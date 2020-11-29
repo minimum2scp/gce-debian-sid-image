@@ -176,7 +176,7 @@ ii   libnettle8                             3.6-2                           amd6
 ii   libnewt0.52                            0.52.21-4+b2                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.8-2                         amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.41.0-3                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.42.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                         amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-nis                             3.1-4                           amd64  NSS module for using NIS as a naming service
