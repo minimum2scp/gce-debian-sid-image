@@ -246,15 +246,15 @@ ii   media-types                            1.0.1                           all 
 ii   mime-support                           3.66                            all    transitional package
 ii   mokutil                                0.3.0+1538710437.fb6250f-1+b1   amd64  tools for manipulating machine owner keys
 ii   mount                                  2.36.1-2                        amd64  tools for mounting and manipulating filesystems
-ii   nano                                   5.3-1                           amd64  small, friendly text editor inspired by Pico
+ii   nano                                   5.4-1                           amd64  small, friendly text editor inspired by Pico
 ii   ncal                                   12.1.7                          amd64  display a calendar and the date of Easter
 ii   ncurses-base                           6.2+20201114-1                  all    basic terminal type definitions
 ii   ncurses-bin                            6.2+20201114-1                  amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20181103.0eebece-1      amd64  NET-3 networking toolkit
 ii   netbase                                6.2                             all    Basic TCP/IP networking system
-ii   openssh-client                         1:8.4p1-2                       amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:8.4p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:8.4p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:8.4p1-3                       amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:8.4p1-3                       amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:8.4p1-3                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.1h-1                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.77                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.3-4                           amd64  disk partition manipulator
@@ -280,7 +280,7 @@ ii   shim-signed                            1.33+15+1533136590.3beb971-7    amd6
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15+1533136590.3beb971-10        amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sound-theme-freedesktop                0.8-2                           all    freedesktop.org sound theme
-ii   sudo                                   1.9.3p1-1                       amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.9.4-1                         amd64  Provide limited super user privileges to specific users
 ii   systemd                                246.6-5                         amd64  system and service manager
 ii   systemd-sysv                           246.6-5                         amd64  system and service manager - SysV links
 rc   systemd-timesyncd                      246.6-5                         amd64  minimalistic service to synchronize local time with NTP servers
