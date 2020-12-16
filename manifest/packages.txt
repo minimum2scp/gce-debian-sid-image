@@ -49,7 +49,7 @@ ii   google-cloud-sdk                       321.0.0-0                       all 
 ii   google-compute-engine                  1:20201207.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200925.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20201207.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20201117.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20201214.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.20-1                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.20-1                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.20-1                        amd64  GNU privacy guard - Web Key Service client
@@ -266,7 +266,7 @@ ii   perl-base                              5.32.0-6                        amd6
 ii   perl-modules-5.32                      5.32.0-6                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.16-5                      amd64  /proc file system utilities
-ii   publicsuffix                           20200729.1725-1                 all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20201215.0006-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python3                                3.9.0-4                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-crcmod                         1.7+dfsg-2+b4                   amd64  CRC Generator - Python 3.x
 ii   python3-minimal                        3.9.0-4                         amd64  minimal subset of the Python language (default python3 version)
