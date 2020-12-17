@@ -48,7 +48,7 @@ ii   google-cloud-packages-archive-keyring  1.2-347415788                   all 
 ii   google-cloud-sdk                       321.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20201207.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200925.00-g1+deb10          amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20201207.00-g1                amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                     1:20201214.00-g1                amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20201214.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.20-1                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.20-1                        amd64  GNU privacy guard - cryptographic agent
@@ -96,9 +96,9 @@ ii   libblkid1                              2.36.1-2                        amd6
 ii   libbrotli1                             1.0.9-2+b2                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.10.0-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-4                         amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.31-5                          amd64  GNU C Library: Binaries
-ii   libc-l10n                              2.31-5                          all    GNU C Library: localization files
-ii   libc6                                  2.31-5                          amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.31-6                          amd64  GNU C Library: Binaries
+ii   libc-l10n                              2.31-6                          all    GNU C Library: localization files
+ii   libc6                                  2.31-6                          amd64  GNU C Library: Shared libraries
 ii   libcanberra0                           0.30-7                          amd64  simple abstract interface for playing event sounds
 ii   libcap-ng0                             0.7.9-2.2+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.44-1                        amd64  POSIX 1003.1e capabilities (library)
@@ -235,7 +235,7 @@ ii   linux-base                             4.6                             all 
 ii   linux-image-4.19.0-12-cloud-amd64      4.19.152-1                      amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-5.9.0-4-cloud-amd64        5.9.11-1                        amd64  Linux 5.9 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.9.11-1                        amd64  Linux for x86-64 cloud (meta-package)
-ii   locales                                2.31-5                          all    GNU C Library: National Language (locale) data [support]
+ii   locales                                2.31-6                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.17.0-2                        amd64  Log rotation utility
 ii   logsave                                1.45.6-1                        amd64  save the output of a command in a log file
