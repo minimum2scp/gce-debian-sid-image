@@ -114,7 +114,7 @@ ii   libdbus-1-3                            1.12.20-1                       amd6
 ii   libdebconfclient0                      0.255                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.173-1                    amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1110                      1:9.11.19+dfsg-1                amd64  Exported DNS Shared Library
-ii   libedit2                               3.1-20191231-1                  amd64  BSD editline and history libraries
+ii   libedit2                               3.1-20191231-2                  amd64  BSD editline and history libraries
 ii   libefiboot1                            37-6                            amd64  Library to manage UEFI variables
 ii   libefivar1                             37-6                            amd64  Library to manage UEFI variables
 ii   libelf1                                0.182-1                         amd64  library to read and write ELF files
@@ -160,7 +160,7 @@ ii   libldap-2.4-2                          2.4.56+dfsg-1                   amd6
 ii   libldap-common                         2.4.56+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
 ii   libltdl7                               2.4.6-14                        amd64  System independent dlopen wrapper for GNU libtool
-ii   liblz4-1                               1.9.2-2                         amd64  Fast LZ compression algorithm library - runtime
+ii   liblz4-1                               1.9.3-1                         amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.4-1+b1                      amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.39-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
 ii   libmagic1                              1:5.39-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
