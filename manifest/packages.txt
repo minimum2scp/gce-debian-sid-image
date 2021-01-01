@@ -17,13 +17,13 @@ ii   cpio                                   2.13+dfsg-4                     amd6
 ii   cpp                                    4:10.2.0-1                      amd64  GNU C preprocessor (cpp)
 ii   cpp-10                                 10.2.1-3                        amd64  GNU C preprocessor
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
-ii   curl                                   7.72.0-1                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.74.0-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20200708+dd9ef66-5    amd64  POSIX-compliant shell
 ii   dbus                                   1.12.20-1                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.74                          all    Debian configuration management system
 ii   debian-archive-keyring                 2019.1                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.11.2                          amd64  Miscellaneous utilities specific to Debian
-ii   diffutils                              1:3.7-3                         amd64  File comparison utilities
+ii   diffutils                              1:3.7-4                         amd64  File comparison utilities
 ii   dirmngr                                2.2.20-1                        amd64  GNU privacy guard - network certificate management service
 ii   dmidecode                              3.3-1                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.173-1                    amd64  Linux Kernel Device Mapper userspace library
@@ -62,7 +62,7 @@ ii   groff-base                             1.22.4-5                        amd6
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.04-12                         amd64  GRand Unified Bootloader (common files)
 ii   grub-efi-amd64-bin                     2.04-12                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
-ii   grub-efi-amd64-signed                  1+2.04+11                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
+ii   grub-efi-amd64-signed                  1+2.04+12                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
 ii   grub-pc-bin                            2.04-12                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.04-12                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-2                          amd64  GNU compression utilities
@@ -108,8 +108,8 @@ ii   libcbor0                               0.5.0+dfsg-2                    amd6
 ii   libcom-err2                            1.45.6-1                        amd64  common error description library
 ii   libcrypt1                              1:4.4.17-1                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.3.4-1                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.72.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.72.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.74.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.74.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.6                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.20-1                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.256                           amd64  Debian Configuration Management System (C-implementation library)
@@ -136,7 +136,7 @@ ii   libgcrypt20                            1.8.7-2                         amd6
 ii   libgdbm-compat4                        1.18.1-5.1                      amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.18.1-5.1                      amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-1                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.7.0-3                         amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.7.0-5                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-2                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-6                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-4                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -162,7 +162,7 @@ ii   libldap-common                         2.4.56+dfsg-1                   all 
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
 ii   libltdl7                               2.4.6-14                        amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.3-1                         amd64  Fast LZ compression algorithm library - runtime
-ii   liblzma5                               5.2.4-1+b1                      amd64  XZ-format compression library
+ii   liblzma5                               5.2.5-1.0                       amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.39-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
 ii   libmagic1                              1:5.39-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmnl0                                1.0.4-3                         amd64  minimalistic Netlink communication library
@@ -234,8 +234,8 @@ ii   libxxhash0                             0.8.0-1                         amd6
 ii   libzstd1                               1.4.8+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-4.19.0-13-cloud-amd64      4.19.160-2                      amd64  Linux 4.19 for x86-64 cloud (signed)
-ii   linux-image-5.9.0-5-cloud-amd64        5.9.15-1                        amd64  Linux 5.9 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.9.15-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.10.0-1-cloud-amd64       5.10.4-1                        amd64  Linux 5.10 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.10.4-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   locales                                2.31-6                          all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.17.0-2                        amd64  Log rotation utility
@@ -301,5 +301,5 @@ ii   vim-tiny                               2:8.2.1913-1+b2                 amd6
 rc   wget                                   1.20.1-1.1                      amd64  retrieves files from the web
 ii   whiptail                               0.52.21-4+b3                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:8.2.1913-1+b2                 amd64  tool to make (or reverse) a hex dump
-ii   xz-utils                               5.2.4-1+b1                      amd64  XZ-format compression utilities
+ii   xz-utils                               5.2.5-1.0                       amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
