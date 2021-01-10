@@ -33,7 +33,7 @@ ii   efibootmgr                             17-1                            amd6
 ii   etckeeper                              1.18.14-1                       all    store /etc in git, mercurial, brz or darcs
 ii   fdisk                                  2.36.1-4                        amd64  collection of partitioning utilities
 ii   file                                   1:5.39-3                        amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.7.0+git20210106-2             amd64  utilities for finding files--find, xargs
+ii   findutils                              4.8.0-1                         amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10.2.1-5                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-8-base                             8.3.0-6                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
@@ -160,7 +160,7 @@ ii   libksba8                               1.5.0-3                         amd6
 ii   libldap-2.4-2                          2.4.56+dfsg-1                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.56+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
-ii   libltdl7                               2.4.6-14                        amd64  System independent dlopen wrapper for GNU libtool
+ii   libltdl7                               2.4.6-15                        amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.3-1                         amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.5-1.0                       amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.39-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
