@@ -1,7 +1,7 @@
 ii   adduser                                3.118                           all    add and remove users and groups
 ii   apparmor                               2.13.6-3                        amd64  user-space parser utility for AppArmor
-ii   apt                                    2.1.17                          amd64  commandline package manager
-ii   apt-utils                              2.1.17                          amd64  package management related utility programs
+ii   apt                                    2.1.18                          amd64  commandline package manager
+ii   apt-utils                              2.1.18                          amd64  package management related utility programs
 ii   base-files                             11                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.48                          amd64  Debian base system master password and group files
 ii   bash                                   5.1-2                           amd64  GNU Bourne Again SHell
@@ -66,7 +66,7 @@ ii   grub-efi-amd64-signed                  1+2.04+12                       amd6
 ii   grub-pc-bin                            2.04-12                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.04-12                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-2                          amd64  GNU compression utilities
-ii   haveged                                1.9.13-1                        amd64  Linux entropy source using the HAVEGE algorithm
+ii   haveged                                1.9.14-1                        amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23                            amd64  utility to set/show the host name or domain name
 ii   ifupdown                               0.8.36                          amd64  high level tools to configure network interfaces
 ii   init                                   1.60                            amd64  metapackage ensuring an init system is installed
@@ -84,7 +84,7 @@ ii   less                                   551-2                           amd6
 ii   libacl1                                2.2.53-9                        amd64  access control list - shared library
 ii   libapparmor1                           2.13.6-3                        amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2.2                         amd64  package management runtime library
-ii   libapt-pkg6.0                          2.1.17                          amd64  package management runtime library
+ii   libapt-pkg6.0                          2.1.18                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libasound2                             1.2.4-1.1                       amd64  shared library for ALSA applications
 ii   libasound2-data                        1.2.4-1.1                       all    Configuration files and profiles for ALSA drivers
@@ -138,9 +138,9 @@ ii   libgdbm6                               1.18.1-5.1                      amd6
 ii   libgmp10                               2:6.2.1+dfsg-1                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.7.0-5                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-2                          amd64  GnuPG development runtime library
-ii   libgpm2                                1.20.7-6                        amd64  General Purpose Mouse - shared library
+ii   libgpm2                                1.20.7-7                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-4                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhavege2                             1.9.13-1                        amd64  entropy source using the HAVEGE algorithm - shared library
+ii   libhavege2                             1.9.14-1                        amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libhogweed6                            3.6-2                           amd64  low level cryptographic library (public-key cryptos)
 ii   libidn2-0                              2.3.0-4                         amd64  Internationalized domain names (IDNA2008/TR46) library
