@@ -1,7 +1,7 @@
 {
   "variables": {
     "project_id": "",
-    "expected_source_image": "debian-10-buster-v20201216"
+    "expected_source_image": "debian-10-buster-v20210122"
   },
   "builders": [{
     "type": "googlecompute",
