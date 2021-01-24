@@ -11,7 +11,7 @@ ii   bsdutils                               1:2.36.1-6                      amd6
 ii   bzip2                                  1.0.8-4                         amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20210119                        all    Common CA certificates
 ii   calendar                               12.1.7                          amd64  display upcoming dates and provide reminders
-ii   chrony                                 4.0-3                           amd64  Versatile implementation of the Network Time Protocol
+ii   chrony                                 4.0-4                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.32-4+b1                       amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-4                     amd64  GNU cpio -- a program to manage archives of files
 ii   cpp                                    4:10.2.1-1                      amd64  GNU C preprocessor (cpp)
@@ -157,8 +157,8 @@ ii   libkmod2                               28-1                            amd6
 ii   libkrb5-3                              1.18.3-4                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.18.3-4                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.5.0-3                         amd64  X.509 and CMS support library
-ii   libldap-2.4-2                          2.4.56+dfsg-1                   amd64  OpenLDAP libraries
-ii   libldap-common                         2.4.56+dfsg-1                   all    OpenLDAP common files for libraries
+ii   libldap-2.4-2                          2.4.57+dfsg-1                   amd64  OpenLDAP libraries
+ii   libldap-common                         2.4.57+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
 ii   libltdl7                               2.4.6-15                        amd64  System independent dlopen wrapper for GNU libtool
 ii   liblz4-1                               1.9.3-1                         amd64  Fast LZ compression algorithm library - runtime
