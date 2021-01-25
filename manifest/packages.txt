@@ -138,7 +138,7 @@ ii   libgdbm6                               1.19-2                          amd6
 ii   libgmp10                               2:6.2.1+dfsg-1                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.7.0-5                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-2                          amd64  GnuPG development runtime library
-ii   libgpm2                                1.20.7-7                        amd64  General Purpose Mouse - shared library
+ii   libgpm2                                1.20.7-8                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-4                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1                        amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                         amd64  low level cryptographic library (public-key cryptos)
@@ -290,7 +290,7 @@ ii   systemd-sysv                           247.2-5                         amd6
 rc   systemd-timesyncd                      247.2-5                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         2.96-5                          amd64  System-V-like utilities
 ii   tar                                    1.32+dfsg-1                     amd64  GNU version of the tar archiving utility
-ii   tzdata                                 2020f-1                         all    time zone and daylight-saving time data
+ii   tzdata                                 2021a-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   247.2-5                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.36.1-6                        amd64  miscellaneous system utilities
