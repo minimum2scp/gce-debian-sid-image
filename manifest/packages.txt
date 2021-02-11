@@ -6,7 +6,6 @@ ii   base-files                             11                              amd6
 ii   base-passwd                            3.5.49                          amd64  Debian base system master password and group files
 ii   bash                                   5.1-2                           amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.36.1-7                        amd64  extra utilities from 4.4BSD-Lite
-ii   bsdmainutils                           12.1.7                          all    Transitional package for more utilities from FreeBSD
 ii   bsdutils                               1:2.36.1-7                      amd64  basic utilities from 4.4BSD-Lite
 ii   bzip2                                  1.0.8-4                         amd64  high-quality block-sorting file compressor - utilities
 ii   ca-certificates                        20210119                        all    Common CA certificates
