@@ -16,7 +16,7 @@ ii   cpio                                   2.13+dfsg-4                     amd6
 ii   cpp                                    4:10.2.1-1                      amd64  GNU C preprocessor (cpp)
 ii   cpp-10                                 10.2.1-6                        amd64  GNU C preprocessor
 ii   cron                                   3.0pl1-136                      amd64  process scheduling daemon
-ii   curl                                   7.74.0-1                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.74.0-1.1                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20200708+dd9ef66-5    amd64  POSIX-compliant shell
 ii   dbus                                   1.12.20-1                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.74                          all    Debian configuration management system
@@ -107,8 +107,8 @@ ii   libcbor0                               0.5.0+dfsg-2                    amd6
 ii   libcom-err2                            1.46.1-1                        amd64  common error description library
 ii   libcrypt1                              1:4.4.17-1                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.3.4-2                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.74.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.74.0-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.74.0-1.1                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.74.0-1.1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.8                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.20-1                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.256                           amd64  Debian Configuration Management System (C-implementation library)
@@ -135,7 +135,7 @@ ii   libgcrypt20                            1.8.7-2                         amd6
 ii   libgdbm-compat4                        1.19-2                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.19-2                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-1                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.7.0-6                         amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.7.0-7                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.38-2                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-8                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-4                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -289,7 +289,7 @@ ii   systemd                                247.3-1                         amd6
 ii   systemd-sysv                           247.3-1                         amd64  system and service manager - SysV links
 rc   systemd-timesyncd                      247.3-1                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         2.96-5                          amd64  System-V-like utilities
-ii   tar                                    1.32+dfsg-1                     amd64  GNU version of the tar archiving utility
+ii   tar                                    1.33+dfsg-1                     amd64  GNU version of the tar archiving utility
 ii   tzdata                                 2021a-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   247.3-1                         amd64  /dev/ and hotplug management daemon
