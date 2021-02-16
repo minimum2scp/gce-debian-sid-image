@@ -40,8 +40,8 @@ ii   git-man                                1:2.30.0-1                      all 
 ii   gnupg                                  2.2.27-1                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.27-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-1                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-356296700                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       327.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-packages-archive-keyring  1.2-357590951                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-sdk                       328.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20201207.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200925.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20201214.00-g1                amd64  Google Compute Engine Guest Agent
