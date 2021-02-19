@@ -1,7 +1,7 @@
 ii   adduser                                3.118                           all    add and remove users and groups
 ii   apparmor                               2.13.6-9                        amd64  user-space parser utility for AppArmor
-ii   apt                                    2.1.20                          amd64  commandline package manager
-ii   apt-utils                              2.1.20                          amd64  package management related utility programs
+ii   apt                                    2.2.0                           amd64  commandline package manager
+ii   apt-utils                              2.2.0                           amd64  package management related utility programs
 ii   base-files                             11                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.49                          amd64  Debian base system master password and group files
 ii   bash                                   5.1-2                           amd64  GNU Bourne Again SHell
@@ -45,7 +45,7 @@ ii   google-cloud-sdk                       328.0.0-0                       all 
 ii   google-compute-engine                  1:20201207.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20200925.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20201214.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20201229.01-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20210217.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.27-1                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.27-1                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.27-1                        amd64  GNU privacy guard - Web Key Service client
@@ -80,7 +80,7 @@ ii   less                                   551-2                           amd6
 ii   libacl1                                2.2.53-10                       amd64  access control list - shared library
 ii   libapparmor1                           2.13.6-9                        amd64  changehat AppArmor library
 ii   libapt-pkg5.0                          1.8.2.2                         amd64  package management runtime library
-ii   libapt-pkg6.0                          2.1.20                          amd64  package management runtime library
+ii   libapt-pkg6.0                          2.2.0                           amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libasound2                             1.2.4-1.1                       amd64  shared library for ALSA applications
 ii   libasound2-data                        1.2.4-1.1                       all    Configuration files and profiles for ALSA drivers
@@ -237,7 +237,7 @@ ii   logrotate                              3.18.0-1                        amd6
 ii   logsave                                1.46.1-1                        amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                          all    Linux Standard Base init script functionality
 ii   mailcap                                3.68                            all    Debian's mailcap system, and support programs
-ii   man-db                                 2.9.4-1                         amd64  tools for reading manual pages
+ii   man-db                                 2.9.4-2                         amd64  tools for reading manual pages
 ii   mawk                                   1.3.4.20200120-2                amd64  Pattern scanning and text processing language
 ii   media-types                            4.0.0                           all    List of standard media types and their usual file extension
 ii   mime-support                           3.66                            all    transitional package
