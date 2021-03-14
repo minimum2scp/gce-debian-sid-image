@@ -67,8 +67,8 @@ ii   hostname                               3.23                            amd6
 ii   ifupdown                               0.8.36                          amd64  high level tools to configure network interfaces
 ii   init                                   1.60                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.60                            all    helper tools for all init systems
-ii   initramfs-tools                        0.139                           all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.139                           all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.140                           all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.140                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               5.10.0-4                        amd64  networking and traffic control tools
 ii   iptables                               1.8.7-1                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20210202-1                    amd64  Tools to test the reachability of network hosts
