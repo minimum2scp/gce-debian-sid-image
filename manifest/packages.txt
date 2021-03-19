@@ -56,11 +56,11 @@ ii   gpgv                                   2.2.27-1                        amd6
 ii   grep                                   3.6-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-6                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.04-16                         amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.04-16                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-common                            2.04-17                         amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.04-17                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii   grub-efi-amd64-signed                  1+2.04+16                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.04-16                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.04-16                         amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-pc-bin                            2.04-17                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.04-17                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-4                          amd64  GNU compression utilities
 ii   haveged                                1.9.14-1                        amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23                            amd64  utility to set/show the host name or domain name
@@ -105,7 +105,7 @@ ii   libcurl3-gnutls                        7.74.0-1.1                      amd6
 ii   libcurl4                               7.74.0-1.1                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.8                amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.20-2                       amd64  simple interprocess messaging system (library)
-ii   libdebconfclient0                      0.256                           amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.257                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.175-2.1                  amd64  Linux Kernel Device Mapper userspace library
 ii   libdns-export1110                      1:9.11.19+dfsg-2                amd64  Exported DNS Shared Library
 ii   libedit2                               3.1-20191231-2+b1               amd64  BSD editline and history libraries
