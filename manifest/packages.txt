@@ -16,7 +16,7 @@ ii   cron                                   3.0pl1-137                      amd6
 ii   curl                                   7.74.0-1.1                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210120+802ebd4-1    amd64  POSIX-compliant shell
 ii   dbus                                   1.12.20-2                       amd64  simple interprocess messaging system (daemon and utilities)
-ii   debconf                                1.5.75                          all    Debian configuration management system
+ii   debconf                                1.5.76                          all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                        all    GnuPG archive keys of the Debian archive
 ii   debianutils                            4.11.2                          amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.7-5                         amd64  File comparison utilities
@@ -58,7 +58,7 @@ ii   groff-base                             1.22.4-6                        amd6
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.04-17                         amd64  GRand Unified Bootloader (common files)
 ii   grub-efi-amd64-bin                     2.04-17                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
-ii   grub-efi-amd64-signed                  1+2.04+16                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
+ii   grub-efi-amd64-signed                  1+2.04+17                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
 ii   grub-pc-bin                            2.04-17                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.04-17                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-4                          amd64  GNU compression utilities
