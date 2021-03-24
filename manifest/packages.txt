@@ -268,7 +268,7 @@ ii   sensible-utils                         0.0.14                          all 
 ii   shim-helpers-amd64-signed              1+15+1533136590.3beb971+10      amd64  boot loader to chain-load signed boot loaders (signed by Debian)
 ii   shim-signed                            1.33+15+1533136590.3beb971-7    amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all    Secure Boot chain-loading bootloader (common helper scripts)
-ii   shim-unsigned                          15+1533136590.3beb971-10        amd64  boot loader to chain-load signed boot loaders under Secure Boot
+ii   shim-unsigned                          15.3-2                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sudo                                   1.9.5p2-3                       amd64  Provide limited super user privileges to specific users
 ii   systemd                                247.3-3                         amd64  system and service manager
 ii   systemd-sysv                           247.3-3                         amd64  system and service manager - SysV links
