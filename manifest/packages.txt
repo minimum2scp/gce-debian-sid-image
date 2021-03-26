@@ -159,7 +159,7 @@ ii   libmagic1                              1:5.39-3                        amd6
 ii   libmd0                                 1.0.3-3                         amd64  message digest functions from BSD systems - shared library
 ii   libmnl0                                1.0.4-3                         amd64  minimalistic Netlink communication library
 ii   libmount1                              2.36.1-7                        amd64  device mounting library
-ii   libmpdec3                              2.5.1-1                         amd64  library for decimal floating point arithmetic (runtime library)
+ii   libmpdec3                              2.5.1-2                         amd64  library for decimal floating point arithmetic (runtime library)
 ii   libncurses6                            6.2+20201114-2                  amd64  shared libraries for terminal handling
 ii   libncursesw6                           6.2+20201114-2                  amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.8-3                         amd64  Netfilter netlink-conntrack library
@@ -268,7 +268,7 @@ ii   sensible-utils                         0.0.14                          all 
 ii   shim-helpers-amd64-signed              1+15+1533136590.3beb971+10      amd64  boot loader to chain-load signed boot loaders (signed by Debian)
 ii   shim-signed                            1.33+15+1533136590.3beb971-7    amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
 ii   shim-signed-common                     1.33+15+1533136590.3beb971-7    all    Secure Boot chain-loading bootloader (common helper scripts)
-ii   shim-unsigned                          15.3-2                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
+ii   shim-unsigned                          15.3-3                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   sudo                                   1.9.5p2-3                       amd64  Provide limited super user privileges to specific users
 ii   systemd                                247.3-3                         amd64  system and service manager
 ii   systemd-sysv                           247.3-3                         amd64  system and service manager - SysV links
