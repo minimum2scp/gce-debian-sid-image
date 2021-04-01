@@ -91,9 +91,9 @@ ii   libbpf0                                1:0.3-2                         amd6
 ii   libbrotli1                             1.0.9-2+b2                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.11.3-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-4                         amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.31-10                         amd64  GNU C Library: Binaries
-ii   libc-l10n                              2.31-10                         all    GNU C Library: localization files
-ii   libc6                                  2.31-10                         amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.31-11                         amd64  GNU C Library: Binaries
+ii   libc-l10n                              2.31-11                         all    GNU C Library: localization files
+ii   libc6                                  2.31-11                         amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.7.9-2.2+b1                    amd64  An alternate POSIX capabilities library
 ii   libcap2                                1:2.44-1                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.44-1                        amd64  POSIX 1003.1e capabilities (utilities)
@@ -223,7 +223,7 @@ ii   linux-base                             4.6                             all 
 ii   linux-image-4.19.0-14-cloud-amd64      4.19.171-2                      amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-5.10.0-5-cloud-amd64       5.10.26-1                       amd64  Linux 5.10 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.10.26-1                       amd64  Linux for x86-64 cloud (meta-package)
-ii   locales                                2.31-10                         all    GNU C Library: National Language (locale) data [support]
+ii   locales                                2.31-11                         all    GNU C Library: National Language (locale) data [support]
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.18.0-2                        amd64  Log rotation utility
 ii   logsave                                1.46.2-1                        amd64  save the output of a command in a log file
