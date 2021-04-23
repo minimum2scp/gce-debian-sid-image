@@ -79,7 +79,7 @@ ii   krb5-locales                           1.18.3-5                        all 
 ii   less                                   551-2                           amd64  pager program similar to more
 ii   libacl1                                2.2.53-10                       amd64  access control list - shared library
 ii   libapparmor1                           2.13.6-10                       amd64  changehat AppArmor library
-ii   libapt-pkg5.0                          1.8.2.2                         amd64  package management runtime library
+ii   libapt-pkg5.0                          1.8.2.3                         amd64  package management runtime library
 ii   libapt-pkg6.0                          2.2.3                           amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.4-1                         amd64  IPC library for the GnuPG components
