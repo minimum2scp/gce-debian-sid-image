@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.27-2                        all 
 ii   gnupg-l10n                             2.2.27-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-2                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-377947972                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       343.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       344.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20210204.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210429.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210223.01-g1                amd64  Google Compute Engine Guest Agent
