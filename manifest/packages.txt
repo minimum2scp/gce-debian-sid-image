@@ -135,7 +135,7 @@ ii   libgpm2                                1.20.7-8                        amd6
 ii   libgssapi-krb5-2                       1.18.3-5                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1                        amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed4                            3.4.1-1                         amd64  low level cryptographic library (public-key cryptos)
-ii   libhogweed6                            3.7.2-3                         amd64  low level cryptographic library (public-key cryptos)
+ii   libhogweed6                            3.7.3-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libidn2-0                              2.3.0-5                         amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.7-1                         amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.7-1                         amd64  netfilter libip6tc library
@@ -164,7 +164,7 @@ ii   libncurses6                            6.2+20201114-2                  amd6
 ii   libncursesw6                           6.2+20201114-2                  amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.8-3                         amd64  Netfilter netlink-conntrack library
 ii   libnettle6                             3.4.1-1                         amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnettle8                             3.7.2-3                         amd64  low level cryptographic library (symmetric and one-way cryptos)
+ii   libnettle8                             3.7.3-1                         amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.21-4+b3                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
 ii   libnftnl11                             1.1.9-1                         amd64  Netfilter nftables userspace API library
