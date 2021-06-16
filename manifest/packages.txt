@@ -45,7 +45,7 @@ ii   google-cloud-sdk                       345.0.0-0                       all 
 ii   google-compute-engine                  1:20210204.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210429.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210223.01-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20210429.3-g1                 amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20210607.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.27-2                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.27-2                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.27-2                        amd64  GNU privacy guard - Web Key Service client
