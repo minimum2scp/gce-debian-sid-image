@@ -41,7 +41,7 @@ ii   gnupg                                  2.2.27-2                        all 
 ii   gnupg-l10n                             2.2.27-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-2                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-380609520                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       345.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       346.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20210204.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210429.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210223.01-g1                amd64  Google Compute Engine Guest Agent
@@ -58,7 +58,7 @@ ii   groff-base                             1.22.4-6                        amd6
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.04-19                         amd64  GRand Unified Bootloader (common files)
 ii   grub-efi-amd64-bin                     2.04-19                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
-ii   grub-efi-amd64-signed                  1+2.04+18                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
+ii   grub-efi-amd64-signed                  1+2.04+19                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
 ii   grub-pc-bin                            2.04-19                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.04-19                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-4                          amd64  GNU compression utilities
