@@ -220,7 +220,7 @@ ii   libxtables12                           1.8.7-1                         amd6
 ii   libxxhash0                             0.8.0-2                         amd64  shared library for xxhash
 ii   libzstd1                               1.4.8+dfsg-2.1                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
-ii   linux-image-4.19.0-16-cloud-amd64      4.19.181-1                      amd64  Linux 4.19 for x86-64 cloud (signed)
+ii   linux-image-4.19.0-17-cloud-amd64      4.19.194-2                      amd64  Linux 4.19 for x86-64 cloud (signed)
 ii   linux-image-5.10.0-8-cloud-amd64       5.10.46-1                       amd64  Linux 5.10 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.10.46-1                       amd64  Linux for x86-64 cloud (meta-package)
 ii   locales                                2.31-12                         all    GNU C Library: National Language (locale) data [support]
