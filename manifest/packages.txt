@@ -56,11 +56,11 @@ ii   gpgv                                   2.2.27-2                        amd6
 ii   grep                                   3.6-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-6                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.04-19                         amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.04-19                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-common                            2.04-20                         amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.04-20                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii   grub-efi-amd64-signed                  1+2.04+19                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.04-19                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.04-19                         amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-pc-bin                            2.04-20                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.04-20                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.10-4                          amd64  GNU compression utilities
 ii   haveged                                1.9.14-1                        amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23                            amd64  utility to set/show the host name or domain name
@@ -246,7 +246,7 @@ ii   openssh-client                         1:8.4p1-5                       amd6
 ii   openssh-server                         1:8.4p1-5                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:8.4p1-5                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.1k-1                        amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   os-prober                              1.78                            amd64  utility to detect other OSes on a set of drives
+ii   os-prober                              1.79                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-1                           amd64  disk partition manipulator
 ii   passwd                                 1:4.8.1-1                       amd64  change and administer password and group data
 ii   perl                                   5.32.1-4                        amd64  Larry Wall's Practical Extraction and Report Language
