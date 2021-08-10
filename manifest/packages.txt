@@ -40,8 +40,8 @@ ii   git-man                                1:2.32.0-1                      all 
 ii   gnupg                                  2.2.27-2                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.27-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-2                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-388249668                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       351.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-packages-archive-keyring  1.2-389666128                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-sdk                       352.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20210629.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210728.00-g1+deb10          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210629.00-g1                amd64  Google Compute Engine Guest Agent
@@ -180,7 +180,7 @@ ii   libpam0g                               1.4.0-9                         amd6
 ii   libparted2                             3.4-1                           amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.36-2                         amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-13                       amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.32                            5.32.1-4                        amd64  shared Perl library
+ii   libperl5.32                            5.32.1-5                        amd64  shared Perl library
 ii   libpipeline1                           1.5.3-1                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-3                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.18-2                          amd64  lib for parsing cmdline parameters
@@ -249,9 +249,9 @@ ii   openssl                                1.1.1k-1                        amd6
 ii   os-prober                              1.79                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-1                           amd64  disk partition manipulator
 ii   passwd                                 1:4.8.1-1                       amd64  change and administer password and group data
-ii   perl                                   5.32.1-4                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.32.1-4                        amd64  minimal Perl system
-ii   perl-modules-5.32                      5.32.1-4                        all    Core Perl modules
+ii   perl                                   5.32.1-5                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.32.1-5                        amd64  minimal Perl system
+ii   perl-modules-5.32                      5.32.1-5                        all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.17-5                      amd64  /proc file system utilities
 ii   publicsuffix                           20210108.1309-1                 all    accurate, machine-readable list of domain name suffixes
