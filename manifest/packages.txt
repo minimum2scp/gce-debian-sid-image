@@ -2,7 +2,7 @@ ii   adduser                                3.118                           all 
 ii   apparmor                               2.13.6-10                       amd64  user-space parser utility for AppArmor
 ii   apt                                    2.3.8                           amd64  commandline package manager
 ii   apt-utils                              2.3.8                           amd64  package management related utility programs
-ii   base-files                             11.1                            amd64  Debian base system miscellaneous files
+ii   base-files                             12                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.51                          amd64  Debian base system master password and group files
 ii   bash                                   5.1-3+b1                        amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.37.2-1                        amd64  extra utilities from 4.4BSD-Lite
@@ -17,7 +17,7 @@ ii   dash                                   0.5.11+git20210120+802ebd4-1    amd6
 ii   dbus                                   1.12.20-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.77                          all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                        all    GnuPG archive keys of the Debian archive
-ii   debianutils                            5.3-1                           amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            5.4-1                           amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.7-5                         amd64  File comparison utilities
 ii   dirmngr                                2.2.27-2                        amd64  GNU privacy guard - network certificate management service
 ii   dmidecode                              3.3-3                           amd64  SMBIOS/DMI table decoder
@@ -123,7 +123,7 @@ ii   libgdbm-compat4                        1.19-2                          amd6
 ii   libgdbm6                               1.19-2                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-1                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.7.1-5                         amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.42-2                          amd64  GnuPG development runtime library
+ii   libgpg-error0                          1.42-3                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-8                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-6                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1                        amd64  entropy source using the HAVEGE algorithm - shared library
