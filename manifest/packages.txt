@@ -17,7 +17,7 @@ ii   dash                                   0.5.11+git20210120+802ebd4-1    amd6
 ii   dbus                                   1.12.20-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.77                          all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                        all    GnuPG archive keys of the Debian archive
-ii   debianutils                            5.4-2                           amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            5.4-3                           amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.7-5                         amd64  File comparison utilities
 ii   dirmngr                                2.2.27-2                        amd64  GNU privacy guard - network certificate management service
 ii   dmidecode                              3.3-3                           amd64  SMBIOS/DMI table decoder
@@ -39,7 +39,7 @@ ii   gnupg                                  2.2.27-2                        all 
 ii   gnupg-l10n                             2.2.27-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-2                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-392463478                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       353.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       354.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20210629.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210728.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210629.00-g1                amd64  Google Compute Engine Guest Agent
@@ -121,7 +121,7 @@ ii   libgcrypt20                            1.8.7-6                         amd6
 ii   libgdbm-compat4                        1.19-2                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.19-2                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-1                  amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.7.1-5                         amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.7.2-2                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.42-3                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-8                        amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-6                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -171,7 +171,7 @@ ii   libpcre3                               2:8.39-13                       amd6
 ii   libperl5.32                            5.32.1-5                        amd64  shared Perl library
 ii   libpipeline1                           1.5.3-1                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-3                        amd64  PNG library - runtime (version 1.6)
-ii   libpopt0                               1.18-2                          amd64  lib for parsing cmdline parameters
+ii   libpopt0                               1.18-3                          amd64  lib for parsing cmdline parameters
 ii   libprocps8                             2:3.3.17-5                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.21.0-1.2                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.9.2-3                         amd64  interactive high-level object-oriented language (default python3 version)
@@ -192,7 +192,7 @@ ii   libsmartcols1                          2.37.2-1                        amd6
 ii   libsqlite3-0                           3.34.1-3                        amd64  SQLite 3 shared library
 ii   libss2                                 1.46.4-1                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.9.0-3                         amd64  SSH2 client-side library
-ii   libssl1.1                              1.1.1k-1                        amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl1.1                              1.1.1l-1                        amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             11.2.0-3                        amd64  GNU Standard C++ Library v3
 ii   libsystemd0                            247.9-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.16.0-2                        amd64  Manage ASN.1 structures (runtime)
@@ -228,7 +228,7 @@ ii   nvme-cli                               1.12-8                          amd6
 ii   openssh-client                         1:8.4p1-6                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:8.4p1-6                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:8.4p1-6                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                1.1.1k-1                        amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                1.1.1l-1                        amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.79                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-1                           amd64  disk partition manipulator
 ii   passwd                                 1:4.8.1-1                       amd64  change and administer password and group data
