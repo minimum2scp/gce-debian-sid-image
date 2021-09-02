@@ -31,7 +31,7 @@ ii   gcc-10-base                            10.3.0-8                        amd6
 ii   gcc-11-base                            11.2.0-3                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.4.0-2                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
-ii   gdisk                                  1.0.7-1                         amd64  GPT fdisk text-mode partitioning tool
+ii   gdisk                                  1.0.8-2                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.21-4                          amd64  GNU Internationalization utilities for the base system
 ii   git                                    1:2.33.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.33.0-1                      all    fast, scalable, distributed revision control system (manual pages)
@@ -51,7 +51,7 @@ ii   gpg-wks-server                         2.2.27-2                        amd6
 ii   gpgconf                                2.2.27-2                        amd64  GNU privacy guard - core configuration utilities
 ii   gpgsm                                  2.2.27-2                        amd64  GNU privacy guard - S/MIME version
 ii   gpgv                                   2.2.27-2                        amd64  GNU privacy guard - signature verification tool
-ii   grep                                   3.6-1                           amd64  GNU grep, egrep and fgrep
+ii   grep                                   3.7-1                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-6                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.04-20                         amd64  GRand Unified Bootloader (common files)
