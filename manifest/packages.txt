@@ -27,7 +27,7 @@ ii   e2fsprogs                              1.46.4-1                        amd6
 ii   efibootmgr                             17-1                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.16-1                       all    store /etc in git, mercurial, brz or darcs
 ii   findutils                              4.8.0-1                         amd64  utilities for finding files--find, xargs
-ii   gcc-10-base                            10.3.0-8                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-10-base                            10.3.0-9                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-11-base                            11.2.0-3                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.4.0-2                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
@@ -43,7 +43,7 @@ ii   google-cloud-sdk                       355.0.0-0                       all 
 ii   google-compute-engine                  1:20210629.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210728.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210629.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20210723.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20210901.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.27-2                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.27-2                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.27-2                        amd64  GNU privacy guard - Web Key Service client
@@ -67,7 +67,7 @@ ii   init                                   1.60                            amd6
 ii   init-system-helpers                    1.60                            all    helper tools for all init systems
 ii   initramfs-tools                        0.140                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.140                           all    generic modular initramfs generator (core tools)
-ii   iproute2                               5.13.0-2                        amd64  networking and traffic control tools
+ii   iproute2                               5.14.0-1                        amd64  networking and traffic control tools
 ii   iptables                               1.8.7-1                         amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20210202-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.3                       amd64  DHCP client for automatically obtaining an IP address
