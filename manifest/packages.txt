@@ -138,7 +138,7 @@ ii   libklibc                               2.0.8-6.1                       amd6
 ii   libkmod2                               29-1                            amd64  libkmod shared library
 ii   libkrb5-3                              1.18.3-7                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.18.3-7                        amd64  MIT Kerberos runtime libraries - Support library
-ii   libksba8                               1.5.0-3                         amd64  X.509 and CMS support library
+ii   libksba8                               1.6.0-2                         amd64  X.509 and CMS support library
 ii   libldap-2.4-2                          2.4.59+dfsg-1                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.4.59+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                       amd64  log normalizing library
@@ -155,7 +155,7 @@ ii   libnetfilter-conntrack3                1.0.8-3                         amd6
 ii   libnettle8                             3.7.3-1                         amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.21-4+b3                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.1-3+b1                      amd64  Netfilter netlink library
-ii   libnftnl11                             1.1.9-1                         amd64  Netfilter nftables userspace API library
+ii   libnftnl11                             1.2.0-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.43.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                         amd64  Public client interface for NIS(YP) and NIS+
