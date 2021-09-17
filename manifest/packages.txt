@@ -40,7 +40,7 @@ ii   gnupg-l10n                             2.2.27-2                        all 
 ii   gnupg-utils                            2.2.27-2                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-396387261                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       357.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   google-compute-engine                  1:20210824.00-g1                all    Google Compute Engine guest environment.
+ii   google-compute-engine                  1:20210916.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210908.1-g1                 amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20210901.00-g1                amd64  Google Compute Engine OSConfig Agent
@@ -109,7 +109,7 @@ ii   libefivar1                             37-6                            amd6
 ii   libelf1                                0.185-2                         amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-1                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1+b1                   amd64  Helper functions for handling strings (lib)
-ii   libexpat1                              2.4.1-2                         amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.4.1-2+b1                      amd64  XML parsing C library - runtime library
 ii   libext2fs2                             1.46.4-1                        amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           0.99.9-1                        amd64  fast json library for C
 ii   libffi7                                3.3-6                           amd64  Foreign Function Interface library runtime
