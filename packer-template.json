@@ -1,7 +1,7 @@
 {
   "variables": {
     "project_id": "",
-    "expected_source_image": "debian-11-bullseye-v20210915"
+    "expected_source_image": "debian-11-bullseye-v20210916"
   },
   "builders": [{
     "type": "googlecompute",
