@@ -17,7 +17,7 @@ ii   dash                                   0.5.11+git20210120+802ebd4-1    amd6
 ii   dbus                                   1.12.20-2                       amd64  simple interprocess messaging system (daemon and utilities)
 ii   debconf                                1.5.77                          all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                        all    GnuPG archive keys of the Debian archive
-ii   debianutils                            5.4-4                           amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            5.5-1                           amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.7-5                         amd64  File comparison utilities
 ii   dirmngr                                2.2.27-2                        amd64  GNU privacy guard - network certificate management service
 ii   dmidecode                              3.3-3                           amd64  SMBIOS/DMI table decoder
@@ -117,7 +117,7 @@ ii   libfido2-1                             1.8.0-1                         amd6
 ii   libfreetype6                           2.10.4+dfsg-1                   amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-5                         amd64  Filesystem in Userspace (library)
 ii   libgcc-s1                              11.2.0-5                        amd64  GCC support library
-ii   libgcrypt20                            1.9.4-3                         amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.9.4-3+b1                      amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.21-1                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.21-1                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-2                  amd64  Multiprecision arithmetic library
