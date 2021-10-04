@@ -4,7 +4,7 @@ ii   apt                                    2.3.9                           amd6
 ii   apt-utils                              2.3.9                           amd64  package management related utility programs
 ii   base-files                             12                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.52                          amd64  Debian base system master password and group files
-ii   bash                                   5.1-3+b1                        amd64  GNU Bourne Again SHell
+ii   bash                                   5.1-3+b2                        amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.37.2-3                        amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.37.2-3                      amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20210119                        all    Common CA certificates
@@ -183,7 +183,7 @@ ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2  amd6
 ii   libsasl2-2                             2.1.27+dfsg-2.1                 amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.27+dfsg-2.1                 amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.27+dfsg-2.1                 amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.5.2-1                         amd64  high level interface to Linux seccomp filter
+ii   libseccomp2                            2.5.2-2                         amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.1-3                           amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.1-1                           all    Common files for SELinux policy management libraries
 ii   libsemanage1                           3.1-1+b2                        amd64  SELinux policy management library
@@ -211,8 +211,8 @@ ii   libxxhash0                             0.8.0-2                         amd6
 ii   libzstd1                               1.4.8+dfsg-2.1                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                             all    Linux image base package
 ii   linux-image-5.10.0-8-cloud-amd64       5.10.46-5                       amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.14.0-1-cloud-amd64       5.14.6-3                        amd64  Linux 5.14 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.14.6-3                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.14.0-2-cloud-amd64       5.14.9-2                        amd64  Linux 5.14 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.14.9-2                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-1                       amd64  system login tools
 ii   logrotate                              3.18.1-2                        amd64  Log rotation utility
 ii   logsave                                1.46.4-1                        amd64  save the output of a command in a log file
@@ -266,12 +266,12 @@ ii   ucf                                    3.0043                          all 
 ii   udev                                   247.9-4                         amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.37.2-3                        amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.37.2-3                        amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.2.3455-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.2.3455-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.2.3455-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.3455-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.3455-2                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.3455-2                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.3455-2                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.3455-2                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.21-1+b1                       amd64  retrieves files from the web
 ii   whiptail                               0.52.21-5                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.3455-1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.3455-2                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.5-2                         amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                 amd64  compression library - runtime
