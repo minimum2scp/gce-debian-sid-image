@@ -1,7 +1,7 @@
 ii   adduser                                3.118                           all    add and remove users and groups
 ii   apparmor                               3.0.3-4                         amd64  user-space parser utility for AppArmor
-ii   apt                                    2.3.9                           amd64  commandline package manager
-ii   apt-utils                              2.3.9                           amd64  package management related utility programs
+ii   apt                                    2.3.10                          amd64  commandline package manager
+ii   apt-utils                              2.3.10                          amd64  package management related utility programs
 ii   base-files                             12                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.52                          amd64  Debian base system master password and group files
 ii   bash                                   5.1-3+b2                        amd64  GNU Bourne Again SHell
@@ -38,12 +38,12 @@ ii   git-man                                1:2.33.0-1                      all 
 ii   gnupg                                  2.2.27-2                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.27-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-2                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-402333203                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-403995581                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       360.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20210916.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20210908.1-g1                 amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20210901.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20210930.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.27-2                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.27-2                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.27-2                        amd64  GNU privacy guard - Web Key Service client
@@ -76,7 +76,7 @@ ii   kmod                                   29-1                            amd6
 ii   less                                   551-2                           amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.3-4                         amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.3.9                           amd64  package management runtime library
+ii   libapt-pkg6.0                          2.3.10                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-1                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-1                       amd64  extended attribute handling - shared library
