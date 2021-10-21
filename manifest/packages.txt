@@ -1,7 +1,7 @@
 ii   adduser                                3.118                           all    add and remove users and groups
 ii   apparmor                               3.0.3-4                         amd64  user-space parser utility for AppArmor
-ii   apt                                    2.3.10                          amd64  commandline package manager
-ii   apt-utils                              2.3.10                          amd64  package management related utility programs
+ii   apt                                    2.3.11                          amd64  commandline package manager
+ii   apt-utils                              2.3.11                          amd64  package management related utility programs
 ii   base-files                             12                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.52                          amd64  Debian base system master password and group files
 ii   bash                                   5.1-3+b2                        amd64  GNU Bourne Again SHell
@@ -76,7 +76,7 @@ ii   kmod                                   29-1                            amd6
 ii   less                                   551-2                           amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.3-4                         amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.3.10                          amd64  package management runtime library
+ii   libapt-pkg6.0                          2.3.11                          amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.2                  amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-1                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-1                       amd64  extended attribute handling - shared library
@@ -119,8 +119,8 @@ ii   libfreetype6                           2.11.0+dfsg-1                   amd6
 ii   libfuse2                               2.9.9-5                         amd64  Filesystem in Userspace (library)
 ii   libgcc-s1                              11.2.0-9                        amd64  GCC support library
 ii   libgcrypt20                            1.9.4-3+b1                      amd64  LGPL Crypto library - runtime library
-ii   libgdbm-compat4                        1.21-1                          amd64  GNU dbm database routines (legacy support runtime version)
-ii   libgdbm6                               1.21-1                          amd64  GNU dbm database routines (runtime version)
+ii   libgdbm-compat4                        1.22-1                          amd64  GNU dbm database routines (legacy support runtime version)
+ii   libgdbm6                               1.22-1                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-2                  amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.7.2-2                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.42-3                          amd64  GnuPG development runtime library
