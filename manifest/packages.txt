@@ -46,7 +46,7 @@ ii   google-cloud-packages-archive-keyring  1.2-406859217                      a
 ii   google-cloud-sdk                       363.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20210916.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20211015.00-g1                   amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                     1:20211103.01-g1                   amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20210930.00-g1                   amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.27-2                           amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.27-2                           amd64  GNU privacy guard - cryptographic agent
@@ -215,8 +215,8 @@ ii   libxxhash0                             0.8.0-2                            a
 ii   libzstd1                               1.4.8+dfsg-3                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                                all    Linux image base package
 ii   linux-image-5.10.0-9-cloud-amd64       5.10.70-1                          amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.14.0-3-cloud-amd64       5.14.12-1                          amd64  Linux 5.14 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.14.12-1                          amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.14.0-4-cloud-amd64       5.14.16-1                          amd64  Linux 5.14 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.14.16-1                          amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-1.1                        amd64  system login tools
 ii   logrotate                              3.18.1-2                           amd64  Log rotation utility
 ii   logsave                                1.46.4-1                           amd64  save the output of a command in a log file
