@@ -8,21 +8,14 @@ packer {
   }
 }
 
-local "expected_source_image" {
-  expression = "debian-11-bullseye-v20211105"
+variables {
+  project_id = ""
 }
 
-local "image_family" {
-  expression = "debian-sid"
-}
-
-local "image_name" {
-  expression = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
-}
-
-variable "project_id" {
-  type    = string
-  default = ""
+locals {
+  expected_source_image = "debian-11-bullseye-v20211105"
+  image_family          = "debian-sid"
+  image_name            = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
 }
 
 source "googlecompute" "debian-11" {
