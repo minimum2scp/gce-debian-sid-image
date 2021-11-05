@@ -12,6 +12,14 @@ local "expected_source_image" {
   expression = "debian-11-bullseye-v20211105"
 }
 
+local "image_family" {
+  expression = "debian-sid"
+}
+
+local "image_name" {
+  expression = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
+}
+
 variable "project_id" {
   type    = string
   default = ""
@@ -20,8 +28,8 @@ variable "project_id" {
 source "googlecompute" "debian-11" {
   disk_size         = 10
   image_description = "Debian sid (source image: ${local.expected_source_image})"
-  image_family      = "debian-sid"
-  image_name        = "debian-sid-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
+  image_family      = "${local.image_family}"
+  image_name        = "${local.image_name}"
   machine_type      = "e2-micro"
   metadata = {
     block-project-ssh-keys = "TRUE"
