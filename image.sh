@@ -16,7 +16,7 @@ list (){
 }
 
 build (){
-  packer build -var-file=packer-vars.json packer-template.json
+  packer build .
 }
 
 deprecate (){
