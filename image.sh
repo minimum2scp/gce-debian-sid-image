@@ -3,8 +3,8 @@
 set -e
 #set -x
 
-image_project=$(jq -r '.project_id' packer-vars.json)
-image_family=$(jq -r '.builders[0].image_family' packer-template.json)
+image_project=$(echo 'var.project_id' | packer console .)
+image_family=$(echo 'local.image_family' | packer console .)
 
 help (){
   echo "Usage: ${0##*/} [list|build|deprecate]"
@@ -16,7 +16,7 @@ list (){
 }
 
 build (){
-  packer build -var-file=packer-vars.json packer-template.json
+  packer build .
 }
 
 deprecate (){
