@@ -57,7 +57,6 @@ build {
   }
 
   provisioner "shell" {
-    expect_disconnect = false
     inline = [
       "sudo cp -a /etc/chrony/chrony.conf /var/tmp/chrony.conf.google",
       "sudo apt-get update",
@@ -72,7 +71,6 @@ build {
   }
 
   provisioner "shell" {
-    expect_disconnect = false
     inline = [
       "sudo install -m 644 -o root -g root /tmp/sources.list /etc/apt/sources.list",
       "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
@@ -85,7 +83,6 @@ build {
   }
 
   provisioner "shell" {
-    expect_disconnect = false
     inline            = ["python3 /tmp/scripts/mk-manifest.py"]
   }
 
