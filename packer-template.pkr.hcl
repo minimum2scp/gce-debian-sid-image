@@ -29,7 +29,7 @@ source "googlecompute" "debian-11" {
   preemptible             = true
   project_id              = "${var.project_id}"
   source_image_family     = "debian-11"
-  source_image_project_id = "debian-cloud"
+  source_image_project_id = ["debian-cloud"]
   ssh_username            = "packer"
   zone                    = "us-west1-a"
 }
