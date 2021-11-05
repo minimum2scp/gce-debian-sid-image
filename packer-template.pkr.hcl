@@ -1,3 +1,12 @@
+packer {
+  required_plugins {
+    # https://www.packer.io/docs/builders/googlecompute
+    googlecompute = {
+      version = ">= 0.0.1"
+      source = "github.com/hashicorp/googlecompute"
+    }
+  }
+}
 
 variable "expected_source_image" {
   type    = string
