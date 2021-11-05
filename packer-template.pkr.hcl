@@ -3,7 +3,7 @@ packer {
     # https://www.packer.io/docs/builders/googlecompute
     googlecompute = {
       version = ">= 0.0.1"
-      source = "github.com/hashicorp/googlecompute"
+      source  = "github.com/hashicorp/googlecompute"
     }
   }
 }
@@ -65,7 +65,7 @@ build {
 
   provisioner "shell" {
     expect_disconnect = false
-    inline            = [
+    inline = [
       "sudo cp -a /etc/chrony/chrony.conf /var/tmp/chrony.conf.google",
       "sudo apt-get update",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
@@ -80,7 +80,7 @@ build {
 
   provisioner "shell" {
     expect_disconnect = false
-    inline            = [
+    inline = [
       "sudo install -m 644 -o root -g root /tmp/sources.list /etc/apt/sources.list",
       "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
       "sudo apt-get update",
