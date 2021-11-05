@@ -10,8 +10,8 @@ Debian sid image for Google Compute Engine
 ## Build image
 
 ```shell
-cp packer-vars.json.example packer-vars.json
-editor packer-vars.json
+cp packer-template.auto.pkrvars.hcl.example packer-template.auto.pkrvars.hcl
+editor packer-template.auto.pkrvars.hcl
 ./image.sh build
 ```
 
