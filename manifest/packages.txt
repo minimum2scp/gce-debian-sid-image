@@ -71,7 +71,7 @@ ii   init                                   1.60                               a
 ii   init-system-helpers                    1.60                               all    helper tools for all init systems
 ii   initramfs-tools                        0.140                              all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.140                              all    generic modular initramfs generator (core tools)
-ii   iproute2                               5.14.0-1                           amd64  networking and traffic control tools
+ii   iproute2                               5.15.0-1                           amd64  networking and traffic control tools
 ii   iptables                               1.8.7-1                            amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20210202-1                       amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.3                          amd64  DHCP client for automatically obtaining an IP address
@@ -232,9 +232,9 @@ ii   ncurses-bin                            6.2+20210905-1                     a
 ii   net-tools                              1.60+git20181103.0eebece-1         amd64  NET-3 networking toolkit
 ii   netbase                                6.3                                all    Basic TCP/IP networking system
 ii   nvme-cli                               1.12-8                             amd64  userspace tooling to control NVMe drives
-ii   openssh-client                         1:8.4p1-6                          amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:8.4p1-6                          amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:8.4p1-6                          amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:8.7p1-1                          amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:8.7p1-1                          amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:8.7p1-1                          amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.1l-1                           amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.79                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-1                              amd64  disk partition manipulator
