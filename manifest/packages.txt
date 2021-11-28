@@ -4,7 +4,7 @@ ii   apt                                    2.3.13                             a
 ii   apt-utils                              2.3.13                             amd64  package management related utility programs
 ii   base-files                             12                                 amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.52                             amd64  Debian base system master password and group files
-ii   bash                                   5.1-3.1                            amd64  GNU Bourne Again SHell
+ii   bash                                   5.1-5                              amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.37.2-4                           amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.37.2-4                         amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20211016                           all    Common CA certificates
@@ -217,8 +217,8 @@ ii   libxxhash0                             0.8.0-2                            a
 ii   libzstd1                               1.4.8+dfsg-3                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.6                                all    Linux image base package
 ii   linux-image-5.10.0-9-cloud-amd64       5.10.70-1                          amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.15.0-1-cloud-amd64       5.15.3-1                           amd64  Linux 5.15 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.15.3-1                           amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.15.0-2-cloud-amd64       5.15.5-1                           amd64  Linux 5.15 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.15.5-1                           amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.8.1-2                          amd64  system login tools
 ii   logrotate                              3.18.1-2                           amd64  Log rotation utility
 ii   logsave                                1.46.4-1                           amd64  save the output of a command in a log file
