@@ -9,6 +9,7 @@ packer {
 }
 
 variables {
+  machine_type      = "e2-medium"
   project_id        = ""
   skip_create_image = false
 }
@@ -24,7 +25,7 @@ source "googlecompute" "debian-11" {
   image_description = "Debian sid (source image: ${local.expected_source_image})"
   image_family      = "${local.image_family}"
   image_name        = "${local.image_name}"
-  machine_type      = "e2-micro"
+  machine_type      = "${var.machine_type}"
   metadata = {
     block-project-ssh-keys = "TRUE"
   }
