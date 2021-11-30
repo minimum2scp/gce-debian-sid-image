@@ -9,7 +9,8 @@ packer {
 }
 
 variables {
-  project_id = ""
+  project_id        = ""
+  skip_create_image = false
 }
 
 locals {
@@ -29,6 +30,7 @@ source "googlecompute" "debian-11" {
   }
   preemptible             = true
   project_id              = "${var.project_id}"
+  skip_create_image       = var.skip_create_image
   source_image_family     = "debian-11"
   source_image_project_id = ["debian-cloud"]
   ssh_username            = "packer"
