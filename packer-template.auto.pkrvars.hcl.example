@@ -1,1 +1,2 @@
 project_id = "your-project-id"
+# skip_create_image = true
