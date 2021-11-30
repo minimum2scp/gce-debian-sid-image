@@ -1,2 +1,3 @@
 project_id = "your-project-id"
 # skip_create_image = true
+# machine_type = "e2-highcpu-2"
