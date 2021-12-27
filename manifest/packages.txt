@@ -12,7 +12,7 @@ ii   chrony                                 4.1-4                              a
 ii   coreutils                              8.32-4.1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-137                         amd64  process scheduling daemon
-ii   curl                                   7.80.0-2                           amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.80.0-3                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-3  amd64  POSIX-compliant shell
 ii   dbus                                   1.12.20-3                          amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.12.20-3                          amd64  simple interprocess messaging system (command line utilities)
@@ -56,7 +56,7 @@ ii   gpgconf                                2.2.27-3                           a
 ii   gpgsm                                  2.2.27-3                           amd64  GNU privacy guard - S/MIME version
 ii   gpgv                                   2.2.27-3                           amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.7-1                              amd64  GNU grep, egrep and fgrep
-ii   groff-base                             1.22.4-7                           amd64  GNU troff text-formatting system (base system components)
+ii   groff-base                             1.22.4-8                           amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                              amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.06-2                             amd64  GRand Unified Bootloader (common files)
 ii   grub-efi-amd64-bin                     2.06-2                             amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
@@ -75,7 +75,7 @@ ii   iproute2                               5.15.0-1                           a
 ii   iptables                               1.8.7-1                            amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20210202-1                       amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.3                          amd64  DHCP client for automatically obtaining an IP address
-ii   klibc-utils                            2.0.8-6.1                          amd64  small utilities built with klibc for early boot
+ii   klibc-utils                            2.0.9-1                            amd64  small utilities built with klibc for early boot
 ii   kmod                                   29-1                               amd64  tools for managing Linux kernel modules
 ii   less                                   551-2                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
@@ -100,8 +100,8 @@ ii   libcbor0.8                             0.8.0-2                            a
 ii   libcom-err2                            1.46.4-1                           amd64  common error description library
 ii   libcrypt1                              1:4.4.27-1                         amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.4.2-1                          amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.80.0-2                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.80.0-2                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.80.0-3                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.80.0-3                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.8                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.20-3                          amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.261                              amd64  Debian Configuration Management System (C-implementation library)
@@ -139,7 +139,7 @@ ii   libisc-export1105                      1:9.11.19+dfsg-2.1                 a
 ii   libjson-c5                             0.15-2                             amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.18.3-7                           amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                            amd64  Linux Key Management Utilities (library)
-ii   libklibc                               2.0.8-6.1                          amd64  minimal libc subset for use with initramfs
+ii   libklibc                               2.0.9-1                            amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               29-1                               amd64  libkmod shared library
 ii   libkrb5-3                              1.18.3-7                           amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.18.3-7                           amd64  MIT Kerberos runtime libraries - Support library
@@ -214,7 +214,7 @@ ii   libwrap0                               7.6.q-31                           a
 ii   libxtables12                           1.8.7-1                            amd64  netfilter xtables library
 ii   libxxhash0                             0.8.0-2                            amd64  shared library for xxhash
 ii   libzstd1                               1.4.8+dfsg-3                       amd64  fast lossless compression algorithm
-ii   linux-base                             4.6                                all    Linux image base package
+ii   linux-base                             4.7                                all    Linux image base package
 ii   linux-image-5.10.0-9-cloud-amd64       5.10.70-1                          amd64  Linux 5.10 for x86-64 cloud (signed)
 ii   linux-image-5.15.0-2-cloud-amd64       5.15.5-2                           amd64  Linux 5.15 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.15.5-2                           amd64  Linux for x86-64 cloud (meta-package)
@@ -222,7 +222,7 @@ ii   login                                  1:4.8.1-2                          a
 ii   logrotate                              3.18.1-2                           amd64  Log rotation utility
 ii   logsave                                1.46.4-1                           amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                             all    Linux Standard Base init script functionality
-ii   man-db                                 2.9.4-3                            amd64  tools for reading manual pages
+ii   man-db                                 2.9.4-4                            amd64  tools for reading manual pages
 ii   mawk                                   1.3.4.20200120-2                   amd64  Pattern scanning and text processing language
 ii   media-types                            4.0.0                              all    List of standard media types and their usual file extension
 ii   mokutil                                0.4.0-1                            amd64  tools for manipulating machine owner keys
