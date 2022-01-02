@@ -75,7 +75,7 @@ ii   iproute2                               5.15.0-1                           a
 ii   iptables                               1.8.7-1                            amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20210202-1                       amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.3                          amd64  DHCP client for automatically obtaining an IP address
-ii   klibc-utils                            2.0.10-2                           amd64  small utilities built with klibc for early boot
+ii   klibc-utils                            2.0.10-3                           amd64  small utilities built with klibc for early boot
 ii   kmod                                   29-1                               amd64  tools for managing Linux kernel modules
 ii   less                                   590-1                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
@@ -139,7 +139,7 @@ ii   libisc-export1105                      1:9.11.19+dfsg-2.1                 a
 ii   libjson-c5                             0.15-2                             amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.18.3-7                           amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                            amd64  Linux Key Management Utilities (library)
-ii   libklibc                               2.0.10-2                           amd64  minimal libc subset for use with initramfs
+ii   libklibc                               2.0.10-3                           amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               29-1                               amd64  libkmod shared library
 ii   libkrb5-3                              1.18.3-7                           amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.18.3-7                           amd64  MIT Kerberos runtime libraries - Support library
@@ -196,7 +196,7 @@ ii   libsepol2                              3.3-1                              a
 ii   libslang2                              2.3.2-5                            amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.37.2-5                           amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1                           amd64  Network communication, cryptography and signaturing library
-ii   libsqlite3-0                           3.36.0-2                           amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.37.1-1                           amd64  SQLite 3 shared library
 ii   libss2                                 1.46.5-1                           amd64  command-line interface parsing library
 ii   libssh2-1                              1.10.0-2                           amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1m-1                           amd64  Secure Sockets Layer toolkit - shared libraries
