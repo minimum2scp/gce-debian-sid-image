@@ -12,7 +12,7 @@ ii   chrony                                 4.1-4                              a
 ii   coreutils                              8.32-4.1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-137                         amd64  process scheduling daemon
-ii   curl                                   7.80.0-3                           amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.81.0-1                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-3  amd64  POSIX-compliant shell
 ii   dbus                                   1.12.20-3                          amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.12.20-3                          amd64  simple interprocess messaging system (command line utilities)
@@ -100,8 +100,8 @@ ii   libcbor0.8                             0.8.0-2                            a
 ii   libcom-err2                            1.46.5-2                           amd64  common error description library
 ii   libcrypt1                              1:4.4.27-1                         amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.4.2-1                          amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.80.0-3                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.80.0-3                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.81.0-1                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.81.0-1                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.8                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.12.20-3                          amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.261                              amd64  Debian Configuration Management System (C-implementation library)
@@ -126,7 +126,7 @@ ii   libgcrypt20                            1.9.4-5                            a
 ii   libgdbm-compat4                        1.22-1                             amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.22-1                             amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg-3                     amd64  Multiprecision arithmetic library
-ii   libgnutls30                            3.7.2-4                            amd64  GNU TLS library - main runtime library
+ii   libgnutls30                            3.7.2-5                            amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.43-1                             amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-9                           amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-7                           amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
