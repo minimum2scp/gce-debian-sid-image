@@ -129,7 +129,7 @@ ii   libgdbm6                               1.22-1                             a
 ii   libgmp10                               2:6.2.1+dfsg-3                     amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.7.3-4+b1                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.43-3                             amd64  GnuPG development runtime library
-ii   libgpm2                                1.20.7-9                           amd64  General Purpose Mouse - shared library
+ii   libgpm2                                1.20.7-10                          amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.18.3-7                           amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1                           amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6                            3.7.3-1                            amd64  low level cryptographic library (public-key cryptos)
