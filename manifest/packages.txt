@@ -75,7 +75,7 @@ ii   iproute2                               5.16.0-2                           a
 ii   iptables                               1.8.7-1                            amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20210202-1                       amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.1-2.3                          amd64  DHCP client for automatically obtaining an IP address
-ii   klibc-utils                            2.0.10-3                           amd64  small utilities built with klibc for early boot
+ii   klibc-utils                            2.0.10-4                           amd64  small utilities built with klibc for early boot
 ii   kmod                                   29-1                               amd64  tools for managing Linux kernel modules
 ii   less                                   590-1                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
@@ -140,7 +140,7 @@ ii   libisc-export1105                      1:9.11.19+dfsg-2.1                 a
 ii   libjson-c5                             0.15-2                             amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.18.3-7                           amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.1-2                            amd64  Linux Key Management Utilities (library)
-ii   libklibc                               2.0.10-3                           amd64  minimal libc subset for use with initramfs
+ii   libklibc                               2.0.10-4                           amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               29-1                               amd64  libkmod shared library
 ii   libkrb5-3                              1.18.3-7                           amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.18.3-7                           amd64  MIT Kerberos runtime libraries - Support library
@@ -219,8 +219,8 @@ ii   linux-base                             4.8                                a
 ii   linux-image-5.10.0-10-cloud-amd64      5.10.84-1                          amd64  Linux 5.10 for x86-64 cloud (signed)
 ii   linux-image-5.15.0-3-cloud-amd64       5.15.15-1                          amd64  Linux 5.15 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.15.15-1                          amd64  Linux for x86-64 cloud (meta-package)
-ii   login                                  1:4.8.1-2                          amd64  system login tools
-ii   logrotate                              3.19.0-1                           amd64  Log rotation utility
+ii   login                                  1:4.11.1+dfsg1-1                   amd64  system login tools
+ii   logrotate                              3.19.0-2                           amd64  Log rotation utility
 ii   logsave                                1.46.5-2                           amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                             all    Linux Standard Base init script functionality
 ii   man-db                                 2.9.4-4                            amd64  tools for reading manual pages
@@ -240,7 +240,7 @@ ii   openssh-sftp-server                    1:8.7p1-4                          a
 ii   openssl                                1.1.1m-1                           amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.79                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-2                              amd64  disk partition manipulator
-ii   passwd                                 1:4.8.1-2                          amd64  change and administer password and group data
+ii   passwd                                 1:4.11.1+dfsg1-1                   amd64  change and administer password and group data
 ii   perl                                   5.32.1-6                           amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.32.1-6                           amd64  minimal Perl system
 ii   perl-modules-5.32                      5.32.1-6                           all    Core Perl modules
