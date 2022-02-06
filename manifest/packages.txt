@@ -174,7 +174,7 @@ ii   libpam0g                               1.4.0-11                           a
 ii   libparted2                             3.4-2                              amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.39-3                            amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-13                          amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.32                            5.32.1-6                           amd64  shared Perl library
+ii   libperl5.34                            5.34.0-3                           amd64  shared Perl library
 ii   libpipeline1                           1.5.5-1                            amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-3                           amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.18-3                             amd64  lib for parsing cmdline parameters
@@ -241,9 +241,9 @@ ii   openssl                                1.1.1m-1                           a
 ii   os-prober                              1.79                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-2                              amd64  disk partition manipulator
 ii   passwd                                 1:4.11.1+dfsg1-1                   amd64  change and administer password and group data
-ii   perl                                   5.32.1-6                           amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.32.1-6                           amd64  minimal Perl system
-ii   perl-modules-5.32                      5.32.1-6                           all    Core Perl modules
+ii   perl                                   5.34.0-3                           amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.34.0-3                           amd64  minimal Perl system
+ii   perl-modules-5.34                      5.34.0-3                           all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                            amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.17-6                         amd64  /proc file system utilities
 ii   publicsuffix                           20211207.1025-1                    all    accurate, machine-readable list of domain name suffixes
