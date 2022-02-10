@@ -217,13 +217,13 @@ ii   libxxhash0                             0.8.1-1                            a
 ii   libzstd1                               1.4.8+dfsg-3                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.8                                all    Linux image base package
 ii   linux-image-5.10.0-10-cloud-amd64      5.10.84-1                          amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.16.0-1-cloud-amd64       5.16.7-1                           amd64  Linux 5.16 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.16.7-1                           amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.16.0-1-cloud-amd64       5.16.7-2                           amd64  Linux 5.16 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.16.7-2                           amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.11.1+dfsg1-1                   amd64  system login tools
 ii   logrotate                              3.19.0-2                           amd64  Log rotation utility
 ii   logsave                                1.46.5-2                           amd64  save the output of a command in a log file
 ii   lsb-base                               11.1.0                             all    Linux Standard Base init script functionality
-ii   man-db                                 2.10.0-2                           amd64  tools for reading manual pages
+ii   man-db                                 2.10.1-1                           amd64  tools for reading manual pages
 ii   mawk                                   1.3.4.20200120-3+b1                amd64  Pattern scanning and text processing language
 ii   media-types                            5.0.0                              all    List of standard media types and their usual file extension
 ii   mokutil                                0.4.0-1                            amd64  tools for manipulating machine owner keys
