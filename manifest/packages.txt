@@ -271,12 +271,12 @@ ii   ucf                                    3.0043                             a
 ii   udev                                   250.3-2                            amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.37.3-1+b1                        amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.37.3-1+b1                        amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.2.3995-1+b1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim                                    2:8.2.3995-1+b2                    amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:8.2.3995-1                       all    Vi IMproved - Common files
 ii   vim-runtime                            2:8.2.3995-1                       all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.3995-1+b1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim-tiny                               2:8.2.3995-1+b2                    amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.21-1+deb11u1                     amd64  retrieves files from the web
 ii   whiptail                               0.52.21-5+b1                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.3995-1+b1                    amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.3995-1+b2                    amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.5-2                            amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-2                    amd64  compression library - runtime
