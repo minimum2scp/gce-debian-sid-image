@@ -1,5 +1,5 @@
 ii   adduser                                3.118                              all    add and remove users and groups
-ii   apparmor                               3.0.4-1                            amd64  user-space parser utility for AppArmor
+ii   apparmor                               3.0.4-2                            amd64  user-space parser utility for AppArmor
 ii   apt                                    2.4.0                              amd64  commandline package manager
 ii   apt-utils                              2.4.0                              amd64  package management related utility programs
 ii   base-files                             12.2                               amd64  Debian base system miscellaneous files
@@ -30,7 +30,7 @@ ii   dpkg                                   1.21.1                             a
 ii   e2fsprogs                              1.46.5-2                           amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             17-1                               amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.16-1                          all    store /etc in git, mercurial, brz or darcs
-ii   findutils                              4.8.0-1                            amd64  utilities for finding files--find, xargs
+ii   findutils                              4.9.0-2                            amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10.3.0-14                          amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-12-base                            12-20220222-1                      amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.4.0-5                            amd64  GCC, the GNU Compiler Collection (base package)
@@ -43,7 +43,7 @@ ii   gnupg                                  2.2.27-3                           a
 ii   gnupg-l10n                             2.2.27-3                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-3                           amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-430062367                      all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       373.0.0-0                          all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       374.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20211116.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20211116.00-g1                   amd64  Google Compute Engine Guest Agent
@@ -79,7 +79,7 @@ ii   klibc-utils                            2.0.10-4                           a
 ii   kmod                                   29-1                               amd64  tools for managing Linux kernel modules
 ii   less                                   590-1                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
-ii   libapparmor1                           3.0.4-1                            amd64  changehat AppArmor library
+ii   libapparmor1                           3.0.4-2                            amd64  changehat AppArmor library
 ii   libapt-pkg6.0                          2.4.0                              amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.3                     amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-1                            amd64  IPC library for the GnuPG components
@@ -234,9 +234,9 @@ ii   ncurses-bin                            6.3-2                              a
 ii   net-tools                              1.60+git20181103.0eebece-1         amd64  NET-3 networking toolkit
 ii   netbase                                6.3                                all    Basic TCP/IP networking system
 ii   nvme-cli                               1.16-3                             amd64  NVMe management tool
-ii   openssh-client                         1:8.8p1-1                          amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:8.8p1-1                          amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:8.8p1-1                          amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:8.9p1-1                          amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:8.9p1-1                          amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:8.9p1-1                          amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                1.1.1m-1                           amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.79                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.4-2                              amd64  disk partition manipulator
