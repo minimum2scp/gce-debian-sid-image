@@ -13,7 +13,7 @@ ii   coreutils                              8.32-4.1                           a
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-137                         amd64  process scheduling daemon
 ii   curl                                   7.81.0-1                           amd64  command line tool for transferring data with URL syntax
-ii   dash                                   0.5.11+git20210903+057cd650a4ed-4  amd64  POSIX-compliant shell
+ii   dash                                   0.5.11+git20210903+057cd650a4ed-7  amd64  POSIX-compliant shell
 ii   dbus                                   1.14.0-1                           amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.0-1                           amd64  simple interprocess messaging system (command line utilities)
 ii   dbus-daemon                            1.14.0-1                           amd64  simple interprocess messaging system (reference message bus)
@@ -113,7 +113,7 @@ ii   libefivar1                             37-6                               a
 ii   libelf1                                0.186-1                            amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-1                          all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.10-2.1+b1                      amd64  Helper functions for handling strings (lib)
-ii   libexpat1                              2.4.6-1                            amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.4.7-1                            amd64  XML parsing C library - runtime library
 ii   libext2fs2                             1.46.5-2                           amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           0.99.9-1                           amd64  fast json library for C
 ii   libfdisk1                              2.37.3-1+b1                        amd64  fdisk partitioning library
