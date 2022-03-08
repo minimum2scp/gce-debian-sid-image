@@ -1,7 +1,7 @@
 ii   adduser                                3.120                              all    add and remove users and groups
 ii   apparmor                               3.0.4-2                            amd64  user-space parser utility for AppArmor
-ii   apt                                    2.4.0                              amd64  commandline package manager
-ii   apt-utils                              2.4.0                              amd64  package management related utility programs
+ii   apt                                    2.4.1                              amd64  commandline package manager
+ii   apt-utils                              2.4.1                              amd64  package management related utility programs
 ii   base-files                             12.2                               amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.52                             amd64  Debian base system master password and group files
 ii   bash                                   5.1-6                              amd64  GNU Bourne Again SHell
@@ -42,7 +42,7 @@ ii   git-man                                1:2.35.1-1                         a
 ii   gnupg                                  2.2.27-3                           all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.27-3                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.27-3                           amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-431468471                      all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-432978783                      all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       375.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
@@ -80,7 +80,7 @@ ii   kmod                                   29-1                               a
 ii   less                                   590-1                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
 ii   libapparmor1                           3.0.4-2                            amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.4.0                              amd64  package management runtime library
+ii   libapt-pkg6.0                          2.4.1                              amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.3                     amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-1                            amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-1                          amd64  extended attribute handling - shared library
@@ -178,7 +178,7 @@ ii   libperl5.34                            5.34.0-3                           a
 ii   libpipeline1                           1.5.5-1                            amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.37-3                           amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.18-3                             amd64  lib for parsing cmdline parameters
-ii   libprocps8                             2:3.3.17-6                         amd64  library for accessing process information from /proc
+ii   libprocps8                             2:3.3.17-7                         amd64  library for accessing process information from /proc
 ii   libpsl5                                0.21.0-1.2                         amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.9.8-1                            amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.9-minimal                   3.9.10-2                           amd64  Minimal subset of the Python language (version 3.9)
@@ -245,7 +245,7 @@ ii   perl                                   5.34.0-3                           a
 ii   perl-base                              5.34.0-3                           amd64  minimal Perl system
 ii   perl-modules-5.34                      5.34.0-3                           all    Core Perl modules
 ii   pinentry-curses                        1.1.0-4                            amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
-ii   procps                                 2:3.3.17-6                         amd64  /proc file system utilities
+ii   procps                                 2:3.3.17-7                         amd64  /proc file system utilities
 ii   publicsuffix                           20211207.1025-1                    all    accurate, machine-readable list of domain name suffixes
 ii   python3                                3.9.8-1                            amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.9.8-1                            amd64  minimal subset of the Python language (default python3 version)
