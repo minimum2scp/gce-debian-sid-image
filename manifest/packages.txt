@@ -191,7 +191,7 @@ ii   libsasl2-modules-db                    2.1.28+dfsg-2                      a
 ii   libseccomp2                            2.5.3-2                            amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.3-1+b1                           amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.3-1                              all    Common files for SELinux policy management libraries
-ii   libsemanage2                           3.3-1+b1                           amd64  SELinux policy management library
+ii   libsemanage2                           3.3-1+b2                           amd64  SELinux policy management library
 ii   libsepol1                              3.1-1                              amd64  SELinux library for manipulating binary security policies
 ii   libsepol2                              3.3-1                              amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-5                            amd64  S-Lang programming library - runtime version
@@ -217,8 +217,8 @@ ii   libxxhash0                             0.8.1-1                            a
 ii   libzstd1                               1.4.8+dfsg-3                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.8                                all    Linux image base package
 ii   linux-image-5.10.0-11-cloud-amd64      5.10.92-2                          amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.16.0-3-cloud-amd64       5.16.11-1                          amd64  Linux 5.16 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.16.11-1                          amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.16.0-4-cloud-amd64       5.16.12-1                          amd64  Linux 5.16 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.16.12-1                          amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.11.1+dfsg1-2                   amd64  system login tools
 ii   logrotate                              3.19.0-2                           amd64  Log rotation utility
 ii   logsave                                1.46.5-2                           amd64  save the output of a command in a log file
