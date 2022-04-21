@@ -217,8 +217,8 @@ ii   libxxhash0                             0.8.1-1                            a
 ii   libzstd1                               1.5.2+dfsg-1                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.8                                all    Linux image base package
 ii   linux-image-5.10.0-13-cloud-amd64      5.10.106-1                         amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.16.0-6-cloud-amd64       5.16.18-1                          amd64  Linux 5.16 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.16.18-1                          amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.17.0-1-cloud-amd64       5.17.3-1                           amd64  Linux 5.17 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.17.3-1                           amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.11.1+dfsg1-2                   amd64  system login tools
 ii   logrotate                              3.19.0-2                           amd64  Log rotation utility
 ii   logsave                                1.46.5-2                           amd64  save the output of a command in a log file
@@ -271,12 +271,12 @@ ii   udev                                   250.4-1                            a
 ii   util-linux                             2.38-4                             amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.38-4                             amd64  interactive login tools
 ii   uuid-runtime                           2.38-4                             amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:8.2.4659-1                       amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:8.2.4659-1                       all    Vi IMproved - Common files
-ii   vim-runtime                            2:8.2.4659-1                       all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:8.2.4659-1                       amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:8.2.4793-1                       amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:8.2.4793-1                       all    Vi IMproved - Common files
+ii   vim-runtime                            2:8.2.4793-1                       all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:8.2.4793-1                       amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.21-1+deb11u1                     amd64  retrieves files from the web
 ii   whiptail                               0.52.21-5+b1                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:8.2.4659-1                       amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:8.2.4793-1                       amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.5-2.1                          amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-4                    amd64  compression library - runtime
