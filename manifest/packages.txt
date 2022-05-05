@@ -43,7 +43,7 @@ ii   gnupg                                  2.2.35-2                           a
 ii   gnupg-l10n                             2.2.35-2                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.35-2                           amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-445968417                      all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       384.0.0-0                          all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       384.0.1-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20211116.00-g1                   amd64  Google Compute Engine Guest Agent
@@ -145,8 +145,8 @@ ii   libkmod2                               29-1                               a
 ii   libkrb5-3                              1.19.2-2+b1                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.19.2-2+b1                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.0-2                            amd64  X.509 and CMS support library
-ii   libldap-2.5-0                          2.5.11+dfsg-1                      amd64  OpenLDAP libraries
-ii   libldap-common                         2.5.11+dfsg-1                      all    OpenLDAP common files for libraries
+ii   libldap-2.5-0                          2.5.12+dfsg-1                      amd64  OpenLDAP libraries
+ii   libldap-common                         2.5.12+dfsg-1                      all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.5-1.1                          amd64  log normalizing library
 ii   liblz4-1                               1.9.3-2                            amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.5-2.1                          amd64  XZ-format compression library
@@ -253,7 +253,7 @@ ii   python3.10                             3.10.4-3                           a
 ii   python3.10-minimal                     3.10.4-3                           amd64  Minimal subset of the Python language (version 3.10)
 ii   readline-common                        8.1.2-1.2                          all    GNU readline and history libraries, common files
 ii   rsyslog                                8.2204.0-1                         amd64  reliable system and kernel logging daemon
-ii   runit-helper                           2.10.3                             all    dh-runit implementation detail
+ii   runit-helper                           2.13.0                             all    dh-runit implementation detail
 ii   sed                                    4.8-1                              amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.17                             all    Utilities for sensible alternative selection
 ii   shim-helpers-amd64-signed              1+15.4+7                           amd64  boot loader to chain-load signed boot loaders (signed by Debian)
