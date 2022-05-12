@@ -12,7 +12,7 @@ ii   chrony                                 4.2-2                              a
 ii   coreutils                              8.32-4.1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-138                         amd64  process scheduling daemon
-ii   curl                                   7.83.0-1                           amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.83.1-1                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-8  amd64  POSIX-compliant shell
 ii   dbus                                   1.14.0-1                           amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.0-1                           amd64  simple interprocess messaging system (command line utilities)
@@ -47,7 +47,7 @@ ii   google-cloud-sdk                       385.0.0-0                          a
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20211116.00-g1                   amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20220215.00-g1                   amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20220510.00-g1                   amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.35-2                           amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.35-2                           amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.35-2                           amd64  GNU privacy guard - Web Key Service client
@@ -100,8 +100,8 @@ ii   libcbor0.8                             0.8.0-2                            a
 ii   libcom-err2                            1.46.5-2                           amd64  common error description library
 ii   libcrypt1                              1:4.4.27-1.1                       amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.4.3-1                          amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.83.0-1                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.83.0-1                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.83.1-1                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.83.1-1                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.8                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.14.0-1                           amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.262                              amd64  Debian Configuration Management System (C-implementation library)
@@ -215,8 +215,8 @@ ii   libxxhash0                             0.8.1-1                            a
 ii   libzstd1                               1.5.2+dfsg-1                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.8                                all    Linux image base package
 ii   linux-image-5.10.0-13-cloud-amd64      5.10.106-1                         amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-5.17.0-1-cloud-amd64       5.17.3-1                           amd64  Linux 5.17 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                5.17.3-1                           amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-5.17.0-2-cloud-amd64       5.17.6-1                           amd64  Linux 5.17 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                5.17.6-1                           amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.11.1+dfsg1-2                   amd64  system login tools
 ii   logrotate                              3.19.0-2                           amd64  Log rotation utility
 ii   logsave                                1.46.5-2                           amd64  save the output of a command in a log file
