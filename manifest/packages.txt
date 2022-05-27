@@ -237,7 +237,7 @@ ii   openssh-client                         1:9.0p1-1+b1                       a
 ii   openssh-server                         1:9.0p1-1+b1                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:9.0p1-1+b1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.0.3-5                            amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   os-prober                              1.79                               amd64  utility to detect other OSes on a set of drives
+ii   os-prober                              1.80                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.5-1                              amd64  disk partition manipulator
 ii   passwd                                 1:4.11.1+dfsg1-2                   amd64  change and administer password and group data
 ii   perl                                   5.34.0-4                           amd64  Larry Wall's Practical Extraction and Report Language
