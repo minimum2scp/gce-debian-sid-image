@@ -74,7 +74,7 @@ ii   initramfs-tools-core                   0.141                              a
 ii   iproute2                               5.17.0-2                           amd64  networking and traffic control tools
 ii   iptables                               1.8.8-1                            amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20211215-1                       amd64  Tools to test the reachability of network hosts
-ii   isc-dhcp-client                        4.4.3-1                            amd64  DHCP client for automatically obtaining an IP address
+ii   isc-dhcp-client                        4.4.3-2                            amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.10-4                           amd64  small utilities built with klibc for early boot
 ii   kmod                                   29-1+b1                            amd64  tools for managing Linux kernel modules
 ii   less                                   590-1                              amd64  pager program similar to more
