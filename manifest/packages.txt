@@ -11,8 +11,8 @@ ii   ca-certificates                        20211016                           a
 ii   chrony                                 4.2-2                              amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.32-4.1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-143                         amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-143                         all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-144                         amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-144                         all    process scheduling daemon's configuration files
 ii   curl                                   7.83.1-1+b1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-8  amd64  POSIX-compliant shell
 ii   dbus                                   1.14.0-1                           amd64  simple interprocess messaging system (system message bus)
@@ -43,8 +43,8 @@ ii   git-man                                1:2.36.1-1                         a
 ii   gnupg                                  2.2.35-2                           all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.35-2                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.35-2                           amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-453229402                      all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       389.0.0-0                          all    Utilities for the Google Cloud Platform
+ii   google-cloud-packages-archive-keyring  1.2-454642730                      all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-sdk                       390.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20220603.00-g1                   amd64  Google Compute Engine Guest Agent
@@ -200,7 +200,7 @@ ii   libsqlite3-0                           3.38.5-1                           a
 ii   libss2                                 1.46.5-2                           amd64  command-line interface parsing library
 ii   libssh2-1                              1.10.0-3+b1                        amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1o-1                           amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libssl3                                3.0.3-7                            amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3                                3.0.3-8                            amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             12.1.0-2                           amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      251.2-5                            amd64  systemd shared private library
 ii   libsystemd0                            251.2-5                            amd64  systemd utility library
@@ -238,7 +238,7 @@ ii   nvme-cli                               1.16-3                             a
 ii   openssh-client                         1:9.0p1-1+b1                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:9.0p1-1+b1                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:9.0p1-1+b1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.0.3-7                            amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.0.3-8                            amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.80                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.5-1                              amd64  disk partition manipulator
 ii   passwd                                 1:4.11.1+dfsg1-2                   amd64  change and administer password and group data
