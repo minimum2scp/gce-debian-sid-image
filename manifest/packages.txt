@@ -13,7 +13,7 @@ ii   coreutils                              8.32-4.1                           a
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-144                         amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-144                         all    process scheduling daemon's configuration files
-ii   curl                                   7.83.1-1+b1                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.83.1-2                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-8  amd64  POSIX-compliant shell
 ii   dbus                                   1.14.0-1                           amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.0-1                           amd64  simple interprocess messaging system (command line utilities)
@@ -47,7 +47,7 @@ ii   google-cloud-packages-archive-keyring  1.2-454642730                      a
 ii   google-cloud-sdk                       390.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20220603.00-g1                   amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                     1:20220614.00-g1                   amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20220524.00-g1                   amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.35-2                           amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.35-2                           amd64  GNU privacy guard - cryptographic agent
@@ -101,8 +101,8 @@ ii   libcbor0.8                             0.8.0-2                            a
 ii   libcom-err2                            1.46.5-2                           amd64  common error description library
 ii   libcrypt1                              1:4.4.27-1.1                       amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.4.3-1+b1                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.83.1-1+b1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.83.1-1+b1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.83.1-2                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.83.1-2                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.9                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.14.0-1                           amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.263                              amd64  Debian Configuration Management System (C-implementation library)
@@ -192,7 +192,7 @@ ii   libselinux1                            3.4-1                              a
 ii   libsemanage-common                     3.4-1                              all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.4-1                              amd64  SELinux policy management library
 ii   libsepol1                              3.1-1                              amd64  SELinux library for manipulating binary security policies
-ii   libsepol2                              3.4-1                              amd64  SELinux library for manipulating binary security policies
+ii   libsepol2                              3.4-2                              amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.2-5+b1                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.38-4                             amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1                           amd64  Network communication, cryptography and signaturing library
@@ -253,7 +253,7 @@ ii   python3-minimal                        3.10.4-1+b1                        a
 ii   python3.10                             3.10.5-1                           amd64  Interactive high-level object-oriented language (version 3.10)
 ii   python3.10-minimal                     3.10.5-1                           amd64  Minimal subset of the Python language (version 3.10)
 ii   readline-common                        8.1.2-1.2                          all    GNU readline and history libraries, common files
-ii   rsyslog                                8.2204.1-1+b1                      amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2206.0-1                         amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.13.1                             all    dh-runit implementation detail
 ii   sed                                    4.8-1                              amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.17                             all    Utilities for sensible alternative selection
