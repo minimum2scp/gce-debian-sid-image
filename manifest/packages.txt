@@ -13,7 +13,7 @@ ii   coreutils                              8.32-4.1                           a
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-147                         amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-147                         all    process scheduling daemon's configuration files
-ii   curl                                   7.84.0-1                           amd64  command line tool for transferring data with URL syntax
+ii   curl                                   7.84.0-2                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-8  amd64  POSIX-compliant shell
 ii   dbus                                   1.14.0-1                           amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.0-1                           amd64  simple interprocess messaging system (command line utilities)
@@ -43,7 +43,7 @@ ii   git-man                                1:2.36.1-1                         a
 ii   gnupg                                  2.2.35-3                           all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.35-3                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.35-3                           amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-458931944                      all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-460245416                      all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       392.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20210907.00-g1+deb11             amd64  Google Compute Engine OS Login
@@ -101,8 +101,8 @@ ii   libcbor0.8                             0.8.0-2                            a
 ii   libcom-err2                            1.46.5-2                           amd64  common error description library
 ii   libcrypt1                              1:4.4.28-2                         amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.4.3-1+b1                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.84.0-1                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.84.0-1                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        7.84.0-2                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               7.84.0-2                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.10                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.14.0-1                           amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.263                              amd64  Debian Configuration Management System (C-implementation library)
@@ -133,7 +133,7 @@ ii   libgpm2                                1.20.7-10                          a
 ii   libgssapi-krb5-2                       1.19.2-2+b2                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1                           amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6                            3.7.3-1                            amd64  low level cryptographic library (public-key cryptos)
-ii   libidn2-0                              2.3.2-2                            amd64  Internationalized domain names (IDNA2008/TR46) library
+ii   libidn2-0                              2.3.3-1                            amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.8-1                            amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.8-1                            amd64  netfilter libip6tc library
 ii   libjson-c5                             0.16-1                             amd64  JSON manipulation library - shared library
@@ -143,7 +143,7 @@ ii   libklibc                               2.0.10-4                           a
 ii   libkmod2                               30+20220630-1                      amd64  libkmod shared library
 ii   libkrb5-3                              1.19.2-2+b2                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.19.2-2+b2                        amd64  MIT Kerberos runtime libraries - Support library
-ii   libksba8                               1.6.0-2                            amd64  X.509 and CMS support library
+ii   libksba8                               1.6.0-3                            amd64  X.509 and CMS support library
 ii   libldap-2.5-0                          2.5.12+dfsg-2                      amd64  OpenLDAP libraries
 ii   libldap-common                         2.5.12+dfsg-2                      all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.6-4                            amd64  log normalizing library
@@ -257,6 +257,7 @@ ii   rsyslog                                8.2206.0-1                         a
 ii   runit-helper                           2.13.1                             all    dh-runit implementation detail
 ii   sed                                    4.8-1                              amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.17                             all    Utilities for sensible alternative selection
+ii   sgml-base                              1.30                               all    SGML infrastructure and SGML catalog file support
 ii   shim-helpers-amd64-signed              1+15.4+7                           amd64  boot loader to chain-load signed boot loaders (signed by Debian)
 ii   shim-signed                            1.38+15.4-7                        amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
 ii   shim-signed-common                     1.38+15.4-7                        all    Secure Boot chain-loading bootloader (common helper scripts)
