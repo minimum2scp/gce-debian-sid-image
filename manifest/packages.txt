@@ -15,11 +15,11 @@ ii   cron                                   3.0pl1-147                         a
 ii   cron-daemon-common                     3.0pl1-147                         all    process scheduling daemon's configuration files
 ii   curl                                   7.84.0-2                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-8  amd64  POSIX-compliant shell
-ii   dbus                                   1.14.0-1                           amd64  simple interprocess messaging system (system message bus)
-ii   dbus-bin                               1.14.0-1                           amd64  simple interprocess messaging system (command line utilities)
-ii   dbus-daemon                            1.14.0-1                           amd64  simple interprocess messaging system (reference message bus)
-ii   dbus-session-bus-common                1.14.0-1                           all    simple interprocess messaging system (session bus configuration)
-ii   dbus-system-bus-common                 1.14.0-1                           all    simple interprocess messaging system (system bus configuration)
+ii   dbus                                   1.14.0-2                           amd64  simple interprocess messaging system (system message bus)
+ii   dbus-bin                               1.14.0-2                           amd64  simple interprocess messaging system (command line utilities)
+ii   dbus-daemon                            1.14.0-2                           amd64  simple interprocess messaging system (reference message bus)
+ii   dbus-session-bus-common                1.14.0-2                           all    simple interprocess messaging system (session bus configuration)
+ii   dbus-system-bus-common                 1.14.0-2                           all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.79                             all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                           all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.7-0.2                            amd64  Miscellaneous utilities specific to Debian
@@ -104,7 +104,7 @@ ii   libcryptsetup12                        2:2.4.3-1+b1                       a
 ii   libcurl3-gnutls                        7.84.0-2                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.84.0-2                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.10                  amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdbus-1-3                            1.14.0-1                           amd64  simple interprocess messaging system (library)
+ii   libdbus-1-3                            1.14.0-2                           amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.263                              amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.183-2                       amd64  Linux Kernel Device Mapper userspace library
 ii   libedit2                               3.1-20210910-1                     amd64  BSD editline and history libraries
@@ -179,7 +179,7 @@ ii   libpng16-16                            1.6.37-5                           a
 ii   libpopt0                               1.18-3                             amd64  lib for parsing cmdline parameters
 ii   libprocps8                             2:3.3.17-7+b1                      amd64  library for accessing process information from /proc
 ii   libpsl5                                0.21.0-1.2                         amd64  Library for Public Suffix List (shared libraries)
-ii   libpython3-stdlib                      3.10.4-1+b1                        amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3-stdlib                      3.10.5-1                           amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.10-minimal                  3.10.5-1                           amd64  Minimal subset of the Python language (version 3.10)
 ii   libpython3.10-stdlib                   3.10.5-1                           amd64  Interactive high-level object-oriented language (standard library, version 3.10)
 ii   libreadline8                           8.1.2-1.2                          amd64  GNU readline and history libraries, run-time libraries
@@ -248,8 +248,8 @@ ii   perl-modules-5.34                      5.34.0-5                           a
 ii   pinentry-curses                        1.2.0-2                            amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.17-7+b1                      amd64  /proc file system utilities
 ii   publicsuffix                           20220614.1839-1                    all    accurate, machine-readable list of domain name suffixes
-ii   python3                                3.10.4-1+b1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   python3-minimal                        3.10.4-1+b1                        amd64  minimal subset of the Python language (default python3 version)
+ii   python3                                3.10.5-1                           amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3-minimal                        3.10.5-1                           amd64  minimal subset of the Python language (default python3 version)
 ii   python3.10                             3.10.5-1                           amd64  Interactive high-level object-oriented language (version 3.10)
 ii   python3.10-minimal                     3.10.5-1                           amd64  Minimal subset of the Python language (version 3.10)
 ii   readline-common                        8.1.2-1.2                          all    GNU readline and history libraries, common files
