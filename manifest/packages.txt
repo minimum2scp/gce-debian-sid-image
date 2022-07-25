@@ -1,7 +1,7 @@
 ii   adduser                                3.123                              all    add and remove users and groups
 ii   apparmor                               3.0.4-3+b1                         amd64  user-space parser utility for AppArmor
-ii   apt                                    2.5.1                              amd64  commandline package manager
-ii   apt-utils                              2.5.1                              amd64  package management related utility programs
+ii   apt                                    2.5.2                              amd64  commandline package manager
+ii   apt-utils                              2.5.2                              amd64  package management related utility programs
 ii   base-files                             12.2                               amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.5.52                             amd64  Debian base system master password and group files
 ii   bash                                   5.1-6.1                            amd64  GNU Bourne Again SHell
@@ -81,7 +81,7 @@ ii   kmod                                   30+20220630-2                      a
 ii   less                                   590-1                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
 ii   libapparmor1                           3.0.4-3+b1                         amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.5.1                              amd64  package management runtime library
+ii   libapt-pkg6.0                          2.5.2                              amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.3                     amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-4                            amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-1                          amd64  extended attribute handling - shared library
@@ -200,7 +200,7 @@ ii   libsqlite3-0                           3.39.2-1                           a
 ii   libss2                                 1.46.5-2                           amd64  command-line interface parsing library
 ii   libssh2-1                              1.10.0-3+b1                        amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1o-1                           amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libssl3                                3.0.4-2                            amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3                                3.0.5-1                            amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             12.1.0-7                           amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      251.3-1                            amd64  systemd shared private library
 ii   libsystemd0                            251.3-1                            amd64  systemd utility library
@@ -238,7 +238,7 @@ ii   nvme-cli                               1.16-4                             a
 ii   openssh-client                         1:9.0p1-1+b1                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:9.0p1-1+b1                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:9.0p1-1+b1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.0.4-2                            amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.0.5-1                            amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.81                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.5-1                              amd64  disk partition manipulator
 ii   passwd                                 1:4.11.1+dfsg1-2                   amd64  change and administer password and group data
