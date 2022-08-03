@@ -44,7 +44,7 @@ ii   gnupg                                  2.2.35-3                           a
 ii   gnupg-l10n                             2.2.35-3                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.35-3                           amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-464566678                      all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       395.0.0-0                          all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       396.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20220713.00-g1                   amd64  Google Compute Engine Guest Agent
@@ -254,7 +254,7 @@ ii   python3.10                             3.10.5-1                           a
 ii   python3.10-minimal                     3.10.5-1                           amd64  Minimal subset of the Python language (version 3.10)
 ii   readline-common                        8.1.2-1.2                          all    GNU readline and history libraries, common files
 ii   rsyslog                                8.2206.0-1                         amd64  reliable system and kernel logging daemon
-ii   runit-helper                           2.13.1                             all    dh-runit implementation detail
+ii   runit-helper                           2.14.1                             all    dh-runit implementation detail
 ii   sed                                    4.8-1                              amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.17                             all    Utilities for sensible alternative selection
 ii   sgml-base                              1.30                               all    SGML infrastructure and SGML catalog file support
