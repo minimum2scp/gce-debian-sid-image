@@ -8,7 +8,7 @@ ii   bash                                   5.1-6.1+b1                         a
 ii   bsdextrautils                          2.38.1-1                           amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.38.1-1                         amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20211016                           all    Common CA certificates
-ii   chrony                                 4.2-2                              amd64  Versatile implementation of the Network Time Protocol
+ii   chrony                                 4.2-3                              amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              8.32-4.1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7                        amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-149                         amd64  process scheduling daemon
@@ -161,7 +161,7 @@ ii   libnettle8                             3.8.1-2                            a
 ii   libnewt0.52                            0.52.21-5+b2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-2                            amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.3-1                            amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.48.0-1                           amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.48.0-2                           amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                              amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                            amd64  Public client interface for NIS(YP) and NIS+
 ii   libp11-kit0                            0.24.1-1                           amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -273,11 +273,12 @@ ii   udev                                   251.4-1                            a
 ii   util-linux                             2.38.1-1                           amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.38.1-1                           amd64  interactive login tools
 ii   uuid-runtime                           2.38.1-1                           amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.0.0135-1                       amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.0.0135-1                       all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.0.0135-1                       all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.0.0135-1                       amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.0.0229-1                       amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.0.0229-1                       all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.0.0229-1                       all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.0.0229-1                       amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.21-1+deb11u1                     amd64  retrieves files from the web
 ii   whiptail                               0.52.21-5+b2                       amd64  Displays user-friendly dialog boxes from shell scripts
+ii   xxd                                    2:9.0.0229-1                       amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.5-2.1                          amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-4.1                  amd64  compression library - runtime
