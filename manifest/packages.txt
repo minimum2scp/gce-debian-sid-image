@@ -33,7 +33,7 @@ ii   efibootmgr                             17-1                               a
 ii   etckeeper                              1.18.17-1                          all    store /etc in git, mercurial, brz or darcs
 ii   findutils                              4.9.0-3                            amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10.4.0-4                           amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-12-base                            12.1.0-8                           amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-12-base                            12.2.0-1                           amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.5.0-1+b1                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                   all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.9-2                            amd64  GPT fdisk text-mode partitioning tool
@@ -43,8 +43,8 @@ ii   git-man                                1:2.37.2-1                         a
 ii   gnupg                                  2.2.35-3                           all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.35-3                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.35-3                           amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-467701888                      all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       398.0.0-0                          all    Utilities for the Google Cloud Platform
+ii   google-cloud-packages-archive-keyring  1.2-469222909                      all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-sdk                       399.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20220713.00-g1                   amd64  Google Compute Engine Guest Agent
@@ -122,7 +122,7 @@ ii   libffi8                                3.4.2-4                            a
 ii   libfido2-1                             1.11.0-1+b1                        amd64  library for generating and verifying FIDO 2.0 objects
 ii   libfreetype6                           2.12.1+dfsg-3                      amd64  FreeType 2 font engine, shared library files
 ii   libfuse2                               2.9.9-5                            amd64  Filesystem in Userspace (library)
-ii   libgcc-s1                              12.1.0-8                           amd64  GCC support library
+ii   libgcc-s1                              12.2.0-1                           amd64  GCC support library
 ii   libgcrypt20                            1.10.1-2                           amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.23-1+b1                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.23-1+b1                          amd64  GNU dbm database routines (runtime version)
@@ -201,7 +201,7 @@ ii   libss2                                 1.46.5-2                           a
 ii   libssh2-1                              1.10.0-3+b1                        amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1o-1                           amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl3                                3.0.5-2                            amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             12.1.0-8                           amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             12.2.0-1                           amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      251.4-1                            amd64  systemd shared private library
 ii   libsystemd0                            251.4-1                            amd64  systemd utility library
 ii   libtasn1-6                             4.18.0-4                           amd64  Manage ASN.1 structures (runtime)
@@ -217,7 +217,7 @@ ii   libxtables12                           1.8.8-1                            a
 ii   libxxhash0                             0.8.1-1                            amd64  shared library for xxhash
 ii   libzstd1                               1.5.2+dfsg-1                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                                all    Linux image base package
-ii   linux-image-5.10.0-16-cloud-amd64      5.10.127-2                         amd64  Linux 5.10 for x86-64 cloud (signed)
+ii   linux-image-5.10.0-17-cloud-amd64      5.10.136-1                         amd64  Linux 5.10 for x86-64 cloud (signed)
 ii   linux-image-5.18.0-4-cloud-amd64       5.18.16-1                          amd64  Linux 5.18 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                5.18.16-1                          amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.11.1+dfsg1-2                   amd64  system login tools
@@ -273,12 +273,12 @@ ii   udev                                   251.4-1                            a
 ii   util-linux                             2.38.1-1                           amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.38.1-1                           amd64  interactive login tools
 ii   uuid-runtime                           2.38.1-1                           amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.0.0229-1                       amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.0.0229-1                       all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.0.0229-1                       all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.0.0229-1                       amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.0.0242-1                       amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.0.0242-1                       all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.0.0242-1                       all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.0.0242-1                       amd64  Vi IMproved - enhanced vi editor - compact version
 rc   wget                                   1.21-1+deb11u1                     amd64  retrieves files from the web
 ii   whiptail                               0.52.21-5+b2                       amd64  Displays user-friendly dialog boxes from shell scripts
-ii   xxd                                    2:9.0.0229-1                       amd64  tool to make (or reverse) a hex dump
+ii   xxd                                    2:9.0.0242-1                       amd64  tool to make (or reverse) a hex dump
 ii   xz-utils                               5.2.5-2.1                          amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.11.dfsg-4.1                  amd64  compression library - runtime
