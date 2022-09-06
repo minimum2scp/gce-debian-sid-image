@@ -1,4 +1,4 @@
-ii   adduser                                3.128                              all    add and remove users and groups
+ii   adduser                                3.129                              all    add and remove users and groups
 ii   apparmor                               3.0.7-1                            amd64  user-space parser utility for AppArmor
 ii   apt                                    2.5.2                              amd64  commandline package manager
 ii   apt-utils                              2.5.2                              amd64  package management related utility programs
@@ -43,7 +43,7 @@ ii   git-man                                1:2.37.2-1                         a
 ii   gnupg                                  2.2.35-3                           all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.35-3                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.35-3                           amd64  GNU privacy guard - utility programs
-ii   google-cloud-packages-archive-keyring  1.2-469222909                      all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-472299013                      all    Contains GPG signing key for Google Cloud Packages
 ii   google-cloud-sdk                       400.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11             amd64  Google Compute Engine OS Login
@@ -184,9 +184,9 @@ ii   libpython3.10-minimal                  3.10.6-1                           a
 ii   libpython3.10-stdlib                   3.10.6-1                           amd64  Interactive high-level object-oriented language (standard library, version 3.10)
 ii   libreadline8                           8.2~rc2-2                          amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2     amd64  toolkit for RTMP streams (shared library)
-ii   libsasl2-2                             2.1.28+dfsg-7                      amd64  Cyrus SASL - authentication abstraction library
-ii   libsasl2-modules                       2.1.28+dfsg-7                      amd64  Cyrus SASL - pluggable authentication modules
-ii   libsasl2-modules-db                    2.1.28+dfsg-7                      amd64  Cyrus SASL - pluggable authentication modules (DB)
+ii   libsasl2-2                             2.1.28+dfsg-8                      amd64  Cyrus SASL - authentication abstraction library
+ii   libsasl2-modules                       2.1.28+dfsg-8                      amd64  Cyrus SASL - pluggable authentication modules
+ii   libsasl2-modules-db                    2.1.28+dfsg-8                      amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.5.4-1+b1                         amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.4-1+b1                           amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.4-1                              all    Common files for SELinux policy management libraries
@@ -196,7 +196,7 @@ ii   libsepol2                              3.4-2                              a
 ii   libslang2                              2.3.3-1                            amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.38.1-1                           amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1                           amd64  Network communication, cryptography and signaturing library
-ii   libsqlite3-0                           3.39.2-1                           amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.39.3-1                           amd64  SQLite 3 shared library
 ii   libss2                                 1.46.5-2                           amd64  command-line interface parsing library
 ii   libssh2-1                              1.10.0-3+b1                        amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1o-1                           amd64  Secure Sockets Layer toolkit - shared libraries
