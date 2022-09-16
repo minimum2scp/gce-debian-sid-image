@@ -113,7 +113,7 @@ ii   libefivar1                             37-6                               a
 ii   libelf1                                0.187-2                            amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-1                          all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-1                           amd64  Helper functions for handling strings (lib)
-ii   libexpat1                              2.4.8-1                            amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.4.8-2                            amd64  XML parsing C library - runtime library
 ii   libext2fs2                             1.46.6~rc1-1                       amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           0.99.9-2                           amd64  fast json library for C
 ii   libfdisk1                              2.38.1-1                           amd64  fdisk partitioning library
