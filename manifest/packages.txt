@@ -110,7 +110,7 @@ ii   libdevmapper1.02.1                     2:1.02.185-1                       a
 ii   libedit2                               3.1-20210910-1+b1                  amd64  BSD editline and history libraries
 ii   libefiboot1                            37-6                               amd64  Library to manage UEFI variables
 ii   libefivar1                             37-6                               amd64  Library to manage UEFI variables
-ii   libelf1                                0.187-3                            amd64  library to read and write ELF files
+ii   libelf1                                0.187-4                            amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-1                          all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-1                           amd64  Helper functions for handling strings (lib)
 ii   libexpat1                              2.4.9-1                            amd64  XML parsing C library - runtime library
