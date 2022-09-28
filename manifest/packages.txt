@@ -145,8 +145,8 @@ ii   libkmod2                               30+20220630-3                      a
 ii   libkrb5-3                              1.20-1                             amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20-1                             amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.0-3                            amd64  X.509 and CMS support library
-ii   libldap-2.5-0                          2.5.13+dfsg-1                      amd64  OpenLDAP libraries
-ii   libldap-common                         2.5.13+dfsg-1                      all    OpenLDAP common files for libraries
+ii   libldap-2.5-0                          2.5.13+dfsg-2                      amd64  OpenLDAP libraries
+ii   libldap-common                         2.5.13+dfsg-2                      all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.6-4                            amd64  log normalizing library
 ii   liblz4-1                               1.9.4-1                            amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.2.5-2.1                          amd64  XZ-format compression library
