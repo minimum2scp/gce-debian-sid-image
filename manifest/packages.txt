@@ -1,10 +1,10 @@
 ii   adduser                                3.129                              all    add and remove users and groups
 ii   apparmor                               3.0.7-1                            amd64  user-space parser utility for AppArmor
-ii   apt                                    2.5.2                              amd64  commandline package manager
-ii   apt-utils                              2.5.2                              amd64  package management related utility programs
+ii   apt                                    2.5.3                              amd64  commandline package manager
+ii   apt-utils                              2.5.3                              amd64  package management related utility programs
 ii   base-files                             12.2                               amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.1                              amd64  Debian base system master password and group files
-ii   bash                                   5.2~rc2-2                          amd64  GNU Bourne Again SHell
+ii   bash                                   5.2-1                              amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.38.1-1                           amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.38.1-1                         amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20211016                           all    Common CA certificates
@@ -81,7 +81,7 @@ ii   kmod                                   30+20220630-3                      a
 ii   less                                   590-1                              amd64  pager program similar to more
 ii   libacl1                                2.3.1-1                            amd64  access control list - shared library
 ii   libapparmor1                           3.0.7-1                            amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.5.2                              amd64  package management runtime library
+ii   libapt-pkg6.0                          2.5.3                              amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.3                     amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-4                            amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-1                          amd64  extended attribute handling - shared library
@@ -184,7 +184,7 @@ ii   libpsl5                                0.21.0-1.2                         a
 ii   libpython3-stdlib                      3.10.6-1                           amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.10-minimal                  3.10.7-1                           amd64  Minimal subset of the Python language (version 3.10)
 ii   libpython3.10-stdlib                   3.10.7-1                           amd64  Interactive high-level object-oriented language (standard library, version 3.10)
-ii   libreadline8                           8.2~rc2-2                          amd64  GNU readline and history libraries, run-time libraries
+ii   libreadline8                           8.2-1                              amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2     amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg-8                      amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.28+dfsg-8                      amd64  Cyrus SASL - pluggable authentication modules
@@ -255,7 +255,7 @@ ii   python3                                3.10.6-1                           a
 ii   python3-minimal                        3.10.6-1                           amd64  minimal subset of the Python language (default python3 version)
 ii   python3.10                             3.10.7-1                           amd64  Interactive high-level object-oriented language (version 3.10)
 ii   python3.10-minimal                     3.10.7-1                           amd64  Minimal subset of the Python language (version 3.10)
-ii   readline-common                        8.2~rc2-2                          all    GNU readline and history libraries, common files
+ii   readline-common                        8.2-1                              all    GNU readline and history libraries, common files
 ii   rsyslog                                8.2208.0-1                         amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.14.2                             all    dh-runit implementation detail
 ii   sed                                    4.8-1                              amd64  GNU stream editor for filtering/transforming text
@@ -272,7 +272,7 @@ ii   tar                                    1.34+dfsg-1                        a
 ii   tzdata                                 2022d-1                            all    time zone and daylight-saving time data
 ii   ucf                                    3.0043                             all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   251.4-3                            amd64  /dev/ and hotplug management daemon
-ii   usrmerge                               31                                 all    Convert the system to the merged /usr directories scheme
+ii   usrmerge                               32                                 all    Convert the system to the merged /usr directories scheme
 ii   util-linux                             2.38.1-1                           amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.38.1-1                           amd64  interactive login tools
 ii   uuid-runtime                           2.38.1-1                           amd64  runtime components for the Universally Unique ID library
