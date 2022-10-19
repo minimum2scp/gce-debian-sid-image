@@ -134,6 +134,7 @@ ii   libgpm2                                1.20.7-10+b1                       a
 ii   libgssapi-krb5-2                       1.20-1+b1                          amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1+b1                        amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6                            3.8.1-2                            amd64  low level cryptographic library (public-key cryptos)
+ii   libhugetlbfs0                          2.23-5                             amd64  Preload library to back program memory with hugepages
 ii   libidn2-0                              2.3.3-1+b1                         amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.8-1                            amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.8-1                            amd64  netfilter libip6tc library
@@ -166,6 +167,7 @@ ii   libnghttp2-14                          1.50.0-1+b1                        a
 ii   libnpth0                               1.6-3                              amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                            amd64  Public client interface for NIS(YP) and NIS+
 ii   libnumber-compare-perl                 0.03-2                             all    module for performing numeric comparisons in Perl
+ii   libnvme1                               1.1-2                              amd64  NVMe management library (library)
 ii   libp11-kit0                            0.24.1-1                           amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.5.2-5                            amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.5.2-5                            amd64  Pluggable Authentication Modules for PAM - helper binaries
@@ -175,7 +177,7 @@ ii   libpam0g                               1.5.2-5                            a
 ii   libparted2                             3.5-2                              amd64  disk partition manipulator - shared library
 ii   libpcre2-8-0                           10.40-1                            amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-14                          amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
-ii   libperl5.34                            5.34.0-5                           amd64  shared Perl library
+ii   libperl5.36                            5.36.0-4                           amd64  shared Perl library
 ii   libpipeline1                           1.5.6-3                            amd64  Unix process pipeline manipulation library
 ii   libpng16-16                            1.6.38-2                           amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.19+dfsg-1                        amd64  lib for parsing cmdline parameters
@@ -237,7 +239,7 @@ ii   ncurses-base                           6.3+20220423-2                     a
 ii   ncurses-bin                            6.3+20220423-2                     amd64  terminal-related programs and man pages
 ii   net-tools                              1.60+git20181103.0eebece-1         amd64  NET-3 networking toolkit
 ii   netbase                                6.4                                all    Basic TCP/IP networking system
-ii   nvme-cli                               1.16-4+b1                          amd64  NVMe management tool
+ii   nvme-cli                               2.1.2-2                            amd64  NVMe management tool
 ii   openssh-client                         1:9.0p1-1+b2                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:9.0p1-1+b2                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:9.0p1-1+b2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
@@ -245,10 +247,10 @@ ii   openssl                                3.0.5-4                            a
 ii   os-prober                              1.81                               amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.5-2                              amd64  disk partition manipulator
 ii   passwd                                 1:4.12.3+dfsg1-1                   amd64  change and administer password and group data
-ii   perl                                   5.34.0-5                           amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.34.0-5                           amd64  minimal Perl system
-ii   perl-modules-5.34                      5.34.0-5                           all    Core Perl modules
-ii   pinentry-curses                        1.2.0-2                            amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
+ii   perl                                   5.36.0-4                           amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.36.0-4                           amd64  minimal Perl system
+ii   perl-modules-5.36                      5.36.0-4                           all    Core Perl modules
+ii   pinentry-curses                        1.2.1-1                            amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:3.3.17-7+b1                      amd64  /proc file system utilities
 ii   publicsuffix                           20220811.1734-1                    all    accurate, machine-readable list of domain name suffixes
 ii   python3                                3.10.6-1                           amd64  interactive high-level object-oriented language (default python3 version)
