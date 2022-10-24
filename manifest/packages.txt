@@ -118,7 +118,7 @@ ii   libext2fs2                             1.46.6~rc1-1+b1                    a
 ii   libfastjson4                           0.99.9-2                           amd64  fast json library for C
 ii   libfdisk1                              2.38.1-1.1+b1                      amd64  fdisk partitioning library
 ii   libffi7                                3.3-6                              amd64  Foreign Function Interface library runtime
-ii   libffi8                                3.4.3-3                            amd64  Foreign Function Interface library runtime
+ii   libffi8                                3.4.3-4                            amd64  Foreign Function Interface library runtime
 ii   libfido2-1                             1.12.0-1                           amd64  library for generating and verifying FIDO 2.0 objects
 ii   libfile-find-rule-perl                 0.34-2                             all    module to search for files based on rules
 ii   libfreetype6                           2.12.1+dfsg-3                      amd64  FreeType 2 font engine, shared library files
@@ -145,7 +145,7 @@ ii   libklibc                               2.0.11-1                           a
 ii   libkmod2                               30+20220905-1                      amd64  libkmod shared library
 ii   libkrb5-3                              1.20-1+b1                          amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20-1+b1                          amd64  MIT Kerberos runtime libraries - Support library
-ii   libksba8                               1.6.2-2                            amd64  X.509 and CMS support library
+ii   libksba8                               1.6.2-3                            amd64  X.509 and CMS support library
 ii   libldap-2.5-0                          2.5.13+dfsg-2+b1                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.5.13+dfsg-2                      all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.6-4                            amd64  log normalizing library
@@ -175,7 +175,7 @@ ii   libpam-runtime                         1.5.2-5                            a
 ii   libpam-systemd                         251.6-1                            amd64  system and service manager - PAM module
 ii   libpam0g                               1.5.2-5                            amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.5-2                              amd64  disk partition manipulator - shared library
-ii   libpcre2-8-0                           10.40-1                            amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
+ii   libpcre2-8-0                           10.40-2                            amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libpcre3                               2:8.39-14                          amd64  Old Perl 5 Compatible Regular Expression Library - runtime files
 ii   libperl5.36                            5.36.0-4                           amd64  shared Perl library
 ii   libpipeline1                           1.5.6-3                            amd64  Unix process pipeline manipulation library
