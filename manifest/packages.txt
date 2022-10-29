@@ -100,7 +100,7 @@ ii   libcap2-bin                            1:2.44-1                           a
 ii   libcbor0.8                             0.8.0-2+b1                         amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.46.6~rc1-1+b1                    amd64  common error description library
 ii   libcrypt1                              1:4.4.28-2                         amd64  libcrypt shared library
-ii   libcryptsetup12                        2:2.5.0-5                          amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.5.0-6                          amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.86.0-1                           amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.86.0-1                           amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg1-0.10                  amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -223,8 +223,8 @@ ii   libxxhash0                             0.8.1-1                            a
 ii   libzstd1                               1.5.2+dfsg-1                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                                all    Linux image base package
 ii   linux-image-5.10.0-18-cloud-amd64      5.10.140-1                         amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-6.0.0-2-cloud-amd64        6.0.3-1                            amd64  Linux 6.0 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.0.3-1                            amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.0.0-2-cloud-amd64        6.0.5-1                            amd64  Linux 6.0 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.0.5-1                            amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.12.3+dfsg1-2                   amd64  system login tools
 ii   logrotate                              3.20.1-1+b1                        amd64  Log rotation utility
 ii   logsave                                1.46.6~rc1-1+b1                    amd64  save the output of a command in a log file
@@ -271,7 +271,7 @@ ii   systemd                                252~rc3-2                          a
 ii   systemd-sysv                           252~rc3-2                          amd64  system and service manager - SysV links
 ii   sysvinit-utils                         3.05-6                             amd64  System-V-like utilities
 ii   tar                                    1.34+dfsg-1                        amd64  GNU version of the tar archiving utility
-ii   tzdata                                 2022e-1                            all    time zone and daylight-saving time data
+ii   tzdata                                 2022f-1                            all    time zone and daylight-saving time data
 ii   ucf                                    3.0043                             all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   252~rc3-2                          amd64  /dev/ and hotplug management daemon
 ii   usrmerge                               33                                 all    Convert the system to the merged /usr directories scheme
