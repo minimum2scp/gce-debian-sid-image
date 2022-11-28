@@ -11,8 +11,8 @@ ii   ca-certificates                        20211016                           a
 ii   chrony                                 4.3-1+b1                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              9.1-1                              amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7.1                      amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-151                         amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-151                         all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-152                         amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-152                         all    process scheduling daemon's configuration files
 ii   curl                                   7.86.0-2                           amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.11+git20210903+057cd650a4ed-9  amd64  POSIX-compliant shell
 ii   dbus                                   1.14.4-1                           amd64  simple interprocess messaging system (system message bus)
@@ -20,7 +20,7 @@ ii   dbus-bin                               1.14.4-1                           a
 ii   dbus-daemon                            1.14.4-1                           amd64  simple interprocess messaging system (reference message bus)
 ii   dbus-session-bus-common                1.14.4-1                           all    simple interprocess messaging system (session bus configuration)
 ii   dbus-system-bus-common                 1.14.4-1                           all    simple interprocess messaging system (system bus configuration)
-ii   debconf                                1.5.79                             all    Debian configuration management system
+ii   debconf                                1.5.80                             all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                           all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.7-0.4                            amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.8-1                            amd64  File comparison utilities
@@ -74,7 +74,7 @@ ii   initramfs-tools                        0.142                              a
 ii   initramfs-tools-core                   0.142                              all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.0.0-1+b1                         amd64  networking and traffic control tools
 ii   iptables                               1.8.8-1                            amd64  administration tools for packet filtering and NAT
-ii   iputils-ping                           3:20211215-1                       amd64  Tools to test the reachability of network hosts
+ii   iputils-ping                           3:20221126-1                       amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-1                         amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.11-1                           amd64  small utilities built with klibc for early boot
 ii   kmod                                   30+20220905-1                      amd64  tools for managing Linux kernel modules
@@ -223,8 +223,8 @@ ii   libxxhash0                             0.8.1-1                            a
 ii   libzstd1                               1.5.2+dfsg-1                       amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                                all    Linux image base package
 ii   linux-image-5.10.0-19-cloud-amd64      5.10.149-2                         amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-6.0.0-4-cloud-amd64        6.0.8-1                            amd64  Linux 6.0 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.0.8-1                            amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.0.0-5-cloud-amd64        6.0.10-1                           amd64  Linux 6.0 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.0.10-1                           amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.13+dfsg1-1                     amd64  system login tools
 ii   logrotate                              3.20.1-1+b1                        amd64  Log rotation utility
 ii   logsave                                1.46.6~rc1-1+b1                    amd64  save the output of a command in a log file
