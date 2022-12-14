@@ -44,7 +44,7 @@ ii   gnupg                                  2.2.40-1                           a
 ii   gnupg-l10n                             2.2.40-1                           all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1                           amd64  GNU privacy guard - utility programs
 ii   google-cloud-packages-archive-keyring  1.2-494763625                      all    Contains GPG signing key for Google Cloud Packages
-ii   google-cloud-sdk                       411.0.0-0                          all    Utilities for the Google Cloud Platform
+ii   google-cloud-sdk                       412.0.0-0                          all    Utilities for the Google Cloud Platform
 ii   google-compute-engine                  1:20220211.00-g1                   all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11             amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20221109.00-g1                   amd64  Google Compute Engine Guest Agent
@@ -95,8 +95,8 @@ ii   libbz2-1.0                             1.0.8-5+b1                         a
 ii   libc-bin                               2.36-6                             amd64  GNU C Library: Binaries
 ii   libc6                                  2.36-6                             amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.3-1+b2                         amd64  alternate POSIX capabilities library
-ii   libcap2                                1:2.66-1                           amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.66-1                           amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.66-2                           amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.66-2                           amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.8                             0.8.0-2+b1                         amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.46.6~rc1-1+b1                    amd64  common error description library
 ii   libcrypt1                              1:4.4.33-1                         amd64  libcrypt shared library
@@ -149,7 +149,7 @@ ii   libldap-2.5-0                          2.5.13+dfsg-2+b1                   a
 ii   libldap-common                         2.5.13+dfsg-2                      all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.6-4                            amd64  log normalizing library
 ii   liblz4-1                               1.9.4-1                            amd64  Fast LZ compression algorithm library - runtime
-ii   liblzma5                               5.2.9-0.0                          amd64  XZ-format compression library
+ii   liblzma5                               5.2.10-0.0                         amd64  XZ-format compression library
 rc   libmagic1                              1:5.39-3                           amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmd0                                 1.0.4-2                            amd64  message digest functions from BSD systems - shared library
 ii   libmnl0                                1.0.4-3                            amd64  minimalistic Netlink communication library
@@ -283,5 +283,5 @@ ii   vim-tiny                               2:9.0.0813-1+b1                    a
 rc   wget                                   1.21-1+deb11u1                     amd64  retrieves files from the web
 ii   whiptail                               0.52.23-1                          amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xxd                                    2:9.0.0813-1+b1                    amd64  tool to make (or reverse) a hex dump
-ii   xz-utils                               5.2.9-0.0                          amd64  XZ-format compression utilities
+ii   xz-utils                               5.2.10-0.0                         amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.2.13.dfsg-1                    amd64  compression library - runtime
