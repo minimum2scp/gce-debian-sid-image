@@ -23,7 +23,7 @@ ii   dbus-system-bus-common                 1.14.4-1                           a
 ii   debconf                                1.5.80                             all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                           all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.7-0.4                            amd64  Miscellaneous utilities specific to Debian
-ii   diffutils                              1:3.8-2                            amd64  File comparison utilities
+ii   diffutils                              1:3.8-3                            amd64  File comparison utilities
 ii   dirmngr                                2.2.40-1                           amd64  GNU privacy guard - network certificate management service
 ii   dmidecode                              3.4-1                              amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.185-2                       amd64  Linux Kernel Device Mapper userspace library
@@ -144,7 +144,7 @@ ii   libklibc                               2.0.11-1                           a
 ii   libkmod2                               30+20221128-1                      amd64  libkmod shared library
 ii   libkrb5-3                              1.20.1-1                           amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20.1-1                           amd64  MIT Kerberos runtime libraries - Support library
-ii   libksba8                               1.6.2-4                            amd64  X.509 and CMS support library
+ii   libksba8                               1.6.3-2                            amd64  X.509 and CMS support library
 ii   libldap-2.5-0                          2.5.13+dfsg-2+b1                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.5.13+dfsg-2                      all    OpenLDAP common files for libraries
 ii   liblognorm5                            2.0.6-4                            amd64  log normalizing library
