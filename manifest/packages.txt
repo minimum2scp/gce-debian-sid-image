@@ -1,7 +1,7 @@
 ii   adduser                                3.131                           all    add and remove users and groups
 ii   apparmor                               3.0.8-2+b1                      amd64  user-space parser utility for AppArmor
-ii   apt                                    2.5.5                           amd64  commandline package manager
-ii   apt-utils                              2.5.5                           amd64  package management related utility programs
+ii   apt                                    2.5.6                           amd64  commandline package manager
+ii   apt-utils                              2.5.6                           amd64  package management related utility programs
 ii   base-files                             12.3                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.1                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.15-2                        amd64  GNU Bourne Again SHell
@@ -15,11 +15,11 @@ ii   cron                                   3.0pl1-156                      amd6
 ii   cron-daemon-common                     3.0pl1-156                      all    process scheduling daemon's configuration files
 ii   curl                                   7.87.0-2                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-2                        amd64  POSIX-compliant shell
-ii   dbus                                   1.14.4-1                        amd64  simple interprocess messaging system (system message bus)
-ii   dbus-bin                               1.14.4-1                        amd64  simple interprocess messaging system (command line utilities)
-ii   dbus-daemon                            1.14.4-1                        amd64  simple interprocess messaging system (reference message bus)
-ii   dbus-session-bus-common                1.14.4-1                        all    simple interprocess messaging system (session bus configuration)
-ii   dbus-system-bus-common                 1.14.4-1                        all    simple interprocess messaging system (system bus configuration)
+ii   dbus                                   1.14.6-1                        amd64  simple interprocess messaging system (system message bus)
+ii   dbus-bin                               1.14.6-1                        amd64  simple interprocess messaging system (command line utilities)
+ii   dbus-daemon                            1.14.6-1                        amd64  simple interprocess messaging system (reference message bus)
+ii   dbus-session-bus-common                1.14.6-1                        all    simple interprocess messaging system (session bus configuration)
+ii   dbus-system-bus-common                 1.14.6-1                        all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.82                          all    Debian configuration management system
 ii   debian-archive-keyring                 2021.1.1                        all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.7-0.4                         amd64  Miscellaneous utilities specific to Debian
@@ -43,7 +43,7 @@ ii   git-man                                1:2.39.1-0.1                    all 
 ii   gnupg                                  2.2.40-1                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       417.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-cli                       417.0.1-0                       all    Utilities for the Google Cloud Platform
 ii   google-cloud-packages-archive-keyring  1.2-507515698                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20220211.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
@@ -59,11 +59,11 @@ ii   gpgv                                   2.2.40-1                        amd6
 ii   grep                                   3.8-5                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-9                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.06-7                          amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.06-7                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-common                            2.06-8                          amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.06-8                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii   grub-efi-amd64-signed                  1+2.06+7                        amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.06-7                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.06-7                          amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-pc-bin                            2.06-8                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.06-8                          amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.12-1                          amd64  GNU compression utilities
 ii   haveged                                1.9.14-1+b1                     amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23+nmu1                       amd64  utility to set/show the host name or domain name
@@ -81,12 +81,13 @@ ii   kmod                                   30+20221128-1                   amd6
 ii   less                                   590-1.1                         amd64  pager program similar to more
 ii   libacl1                                2.3.1-3                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.8-2+b1                      amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.5.5                           amd64  package management runtime library
+ii   libapt-pkg6.0                          2.5.6                           amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.3                  amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-5                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-4                       amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:3.0.7-1.1                     all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:3.0.7-1.1+b3                  amd64  Dynamic library for security auditing
+ii   libb2-1                                0.98.1-1.1                      amd64  BLAKE2 family of hash functions
 ii   libblkid1                              2.38.1-4                        amd64  block device ID library
 ii   libbpf1                                1:1.1.0-1                       amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.0.9-2+b6                      amd64  library implementing brotli encoder and decoder (shared libraries)
@@ -104,7 +105,7 @@ ii   libcryptsetup12                        2:2.6.0-2                       amd6
 ii   libcurl3-gnutls                        7.87.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.87.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg2-1                  amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdbus-1-3                            1.14.4-1                        amd64  simple interprocess messaging system (library)
+ii   libdbus-1-3                            1.14.6-1                        amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.266                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.185-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   libedit2                               3.1-20221030-2                  amd64  BSD editline and history libraries
@@ -129,6 +130,7 @@ ii   libgdbm-compat4                        1.23-3                          amd6
 ii   libgdbm6                               1.23-3                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg1-1.1               amd64  Multiprecision arithmetic library
 ii   libgnutls30                            3.7.8-4                         amd64  GNU TLS library - main runtime library
+ii   libgomp1                               12.2.0-14                       amd64  GCC OpenMP (GOMP) support library
 ii   libgpg-error0                          1.46-1                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-10+b1                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.20.1-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -182,8 +184,8 @@ ii   libpopt0                               1.19+dfsg-1                     amd6
 ii   libproc2-0                             2:4.0.2-3                       amd64  library for accessing process information from /proc
 ii   libpsl5                                0.21.0-1.2                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.11.1-3                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.11-minimal                  3.11.2-1                        amd64  Minimal subset of the Python language (version 3.11)
-ii   libpython3.11-stdlib                   3.11.2-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.11)
+ii   libpython3.11-minimal                  3.11.2-2                        amd64  Minimal subset of the Python language (version 3.11)
+ii   libpython3.11-stdlib                   3.11.2-2                        amd64  Interactive high-level object-oriented language (standard library, version 3.11)
 ii   libreadline8                           8.2-1.3                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg-10                  amd64  Cyrus SASL - authentication abstraction library
@@ -238,9 +240,9 @@ ii   ncurses-bin                            6.4-2                           amd6
 ii   net-tools                              2.10-0.1                        amd64  NET-3 networking toolkit
 ii   netbase                                6.4                             all    Basic TCP/IP networking system
 ii   nvme-cli                               2.3-2                           amd64  NVMe management tool
-ii   openssh-client                         1:9.1p1-2                       amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:9.1p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:9.1p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:9.2p1-2                       amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:9.2p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:9.2p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.0.8-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.81                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.5-3                           amd64  disk partition manipulator
@@ -253,8 +255,8 @@ ii   procps                                 2:4.0.2-3                       amd6
 ii   publicsuffix                           20221208.1942-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python3                                3.11.1-3                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.11.1-3                        amd64  minimal subset of the Python language (default python3 version)
-ii   python3.11                             3.11.2-1                        amd64  Interactive high-level object-oriented language (version 3.11)
-ii   python3.11-minimal                     3.11.2-1                        amd64  Minimal subset of the Python language (version 3.11)
+ii   python3.11                             3.11.2-2                        amd64  Interactive high-level object-oriented language (version 3.11)
+ii   python3.11-minimal                     3.11.2-2                        amd64  Minimal subset of the Python language (version 3.11)
 ii   readline-common                        8.2-1.3                         all    GNU readline and history libraries, common files
 ii   rsyslog                                8.2212.0-1                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.15.2                          all    dh-runit implementation detail
