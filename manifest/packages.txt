@@ -1,5 +1,5 @@
 ii   adduser                                3.131                           all    add and remove users and groups
-ii   apparmor                               3.0.8-2+b1                      amd64  user-space parser utility for AppArmor
+ii   apparmor                               3.0.8-3                         amd64  user-space parser utility for AppArmor
 ii   apt                                    2.5.6                           amd64  commandline package manager
 ii   apt-utils                              2.5.6                           amd64  package management related utility programs
 ii   base-files                             12.3                            amd64  Debian base system miscellaneous files
@@ -11,8 +11,8 @@ ii   ca-certificates                        20211016                        all 
 ii   chrony                                 4.3-2                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              9.1-1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7.1                   amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-156                      amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-156                      all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-160                      amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-160                      all    process scheduling daemon's configuration files
 ii   curl                                   7.87.0-2                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-2                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.6-1                        amd64  simple interprocess messaging system (system message bus)
@@ -44,7 +44,7 @@ ii   gnupg                                  2.2.40-1                        all 
 ii   gnupg-l10n                             2.2.40-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-cli                       417.0.1-0                       all    Utilities for the Google Cloud Platform
-ii   google-cloud-packages-archive-keyring  1.2-507515698                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-509265634                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20220211.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20221109.00-g1                amd64  Google Compute Engine Guest Agent
@@ -78,9 +78,9 @@ ii   iputils-ping                           3:20221126-1                    amd6
 ii   isc-dhcp-client                        4.4.3-P1-1.1                    amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.12-1                        amd64  small utilities built with klibc for early boot
 ii   kmod                                   30+20221128-1                   amd64  tools for managing Linux kernel modules
-ii   less                                   590-1.1                         amd64  pager program similar to more
+ii   less                                   590-1.2                         amd64  pager program similar to more
 ii   libacl1                                2.3.1-3                         amd64  access control list - shared library
-ii   libapparmor1                           3.0.8-2+b1                      amd64  changehat AppArmor library
+ii   libapparmor1                           3.0.8-3                         amd64  changehat AppArmor library
 ii   libapt-pkg6.0                          2.5.6                           amd64  package management runtime library
 ii   libargon2-1                            0~20171227-0.3                  amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.5-5                         amd64  IPC library for the GnuPG components
@@ -179,7 +179,7 @@ ii   libpipeline1                           1.5.7-1                         amd6
 ii   libpng16-16                            1.6.39-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpopt0                               1.19+dfsg-1                     amd64  lib for parsing cmdline parameters
 ii   libproc2-0                             2:4.0.2-3                       amd64  library for accessing process information from /proc
-ii   libpsl5                                0.21.0-1.2                      amd64  Library for Public Suffix List (shared libraries)
+ii   libpsl5                                0.21.2-1                        amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.11.1-3                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.11-minimal                  3.11.2-4                        amd64  Minimal subset of the Python language (version 3.11)
 ii   libpython3.11-stdlib                   3.11.2-4                        amd64  Interactive high-level object-oriented language (standard library, version 3.11)
@@ -217,7 +217,7 @@ ii   libuuid1                               2.38.1-4                        amd6
 ii   libwrap0                               7.6.q-32                        amd64  Wietse Venema's TCP wrappers library
 ii   libxtables12                           1.8.9-2                         amd64  netfilter xtables library
 ii   libxxhash0                             0.8.1-1                         amd64  shared library for xxhash
-ii   libzstd1                               1.5.4+dfsg2-2                   amd64  fast lossless compression algorithm
+ii   libzstd1                               1.5.4+dfsg2-3                   amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                             all    Linux image base package
 ii   linux-image-5.10.0-21-cloud-amd64      5.10.162-1                      amd64  Linux 5.10 for x86-64 cloud (signed)
 ii   linux-image-6.1.0-4-cloud-amd64        6.1.11-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
@@ -249,7 +249,7 @@ ii   perl-base                              5.36.0-7                        amd6
 ii   perl-modules-5.36                      5.36.0-7                        all    Core Perl modules
 ii   pinentry-curses                        1.2.1-1                         amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   procps                                 2:4.0.2-3                       amd64  /proc file system utilities
-ii   publicsuffix                           20221208.1942-1                 all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20230209.2326-1                 all    accurate, machine-readable list of domain name suffixes
 ii   python3                                3.11.1-3                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-minimal                        3.11.1-3                        amd64  minimal subset of the Python language (default python3 version)
 ii   python3.11                             3.11.2-4                        amd64  Interactive high-level object-oriented language (version 3.11)
