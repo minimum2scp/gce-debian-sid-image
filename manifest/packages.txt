@@ -11,8 +11,8 @@ ii   ca-certificates                        20211016                        all 
 ii   chrony                                 4.3-2                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              9.1-1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7.1                   amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-160                      amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-160                      all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-161                      amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-161                      all    process scheduling daemon's configuration files
 ii   curl                                   7.88.1-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-2                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.6-1                        amd64  simple interprocess messaging system (system message bus)
