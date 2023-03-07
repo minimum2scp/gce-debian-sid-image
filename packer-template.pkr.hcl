@@ -15,7 +15,7 @@ variables {
 }
 
 locals {
-  expected_source_image = "debian-11-bullseye-v20230206"
+  expected_source_image = "debian-11-bullseye-v20230306"
   image_family          = "debian-sid"
   image_name            = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
 }
