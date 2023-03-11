@@ -159,7 +159,7 @@ ii   libnetfilter-conntrack3                1.0.9-3                         amd6
 ii   libnettle8                             3.8.1-2                         amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.23-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-2                         amd64  Netfilter netlink library
-ii   libnftnl11                             1.2.4-2                         amd64  Netfilter nftables userspace API library
+ii   libnftnl11                             1.2.5-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.52.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                         amd64  Public client interface for NIS(YP) and NIS+
