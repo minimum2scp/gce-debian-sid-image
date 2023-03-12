@@ -7,7 +7,7 @@ ii   base-passwd                            3.6.1                           amd6
 ii   bash                                   5.2.15-2+b1                     amd64  GNU Bourne Again SHell
 ii   bsdextrautils                          2.38.1-5                        amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.38.1-5                      amd64  basic utilities from 4.4BSD-Lite
-ii   ca-certificates                        20211016                        all    Common CA certificates
+ii   ca-certificates                        20230311                        all    Common CA certificates
 ii   chrony                                 4.3-2                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              9.1-1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7.1                   amd64  GNU cpio -- a program to manage archives of files
