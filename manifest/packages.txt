@@ -38,13 +38,13 @@ ii   gcc-9-base                             9.5.0-3                         amd6
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.9-2.1                       amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.21-12                         amd64  GNU Internationalization utilities for the base system
-ii   git                                    1:2.39.2-1.1                    amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.39.2-1.1                    all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.40.0-1                      amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.40.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.40-1                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1                        amd64  GNU privacy guard - utility programs
 ii   google-cloud-cli                       422.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   google-cloud-packages-archive-keyring  1.2-516247151                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-518006664                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20220211.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20221109.00-g1                amd64  Google Compute Engine Guest Agent
@@ -220,8 +220,8 @@ ii   libxxhash0                             0.8.1-1                         amd6
 ii   libzstd1                               1.5.4+dfsg2-5                   amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                             all    Linux image base package
 ii   linux-image-5.10.0-21-cloud-amd64      5.10.162-1                      amd64  Linux 5.10 for x86-64 cloud (signed)
-ii   linux-image-6.1.0-6-cloud-amd64        6.1.15-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.1.15-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.1.0-7-cloud-amd64        6.1.20-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.1.20-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.13+dfsg1-1                  amd64  system login tools
 ii   logrotate                              3.21.0-1                        amd64  Log rotation utility
 ii   logsave                                1.47.0-2                        amd64  save the output of a command in a log file
