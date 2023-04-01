@@ -48,7 +48,7 @@ ii   google-cloud-packages-archive-keyring  1.2-519760210                   all 
 ii   google-compute-engine                  1:20230328.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20221109.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20230227.01-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20230330.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.40-1.1                      amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.40-1.1                      amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.40-1.1                      amd64  GNU privacy guard - Web Key Service client
