@@ -54,7 +54,7 @@ ii   gnupg                                  2.2.40-1.1                      all 
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1.1                      amd64  GNU privacy guard - utility programs
 ii   google-cloud-cli                       430.0.0-0                       all    Utilities for the Google Cloud Platform
-ii   google-cloud-packages-archive-keyring  1.2-530339290                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-532145494                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20230403.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20230403.00-g1                amd64  Google Compute Engine Guest Agent
@@ -69,11 +69,11 @@ ii   gpgv                                   2.2.40-1.1                      amd6
 ii   grep                                   3.8-5                           amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.22.4-10                       amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.0.5                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.06-12                         amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.06-12                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-common                            2.06-13                         amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.06-13                         amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii   grub-efi-amd64-signed                  1+2.06+12                       amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.06-12                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.06-12                         amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-pc-bin                            2.06-13                         amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.06-13                         amd64  GRand Unified Bootloader (common files for version 2)
 ii   gsasl-common                           2.2.0-1                         all    GNU SASL platform independent files
 ii   guile-3.0-libs                         3.0.8-2                         amd64  Core Guile libraries
 ii   gzip                                   1.12-1                          amd64  GNU compression utilities
@@ -107,8 +107,8 @@ ii   libbz2-1.0                             1.0.8-5+b1                      amd6
 ii   libc-bin                               2.36-9                          amd64  GNU C Library: Binaries
 ii   libc6                                  2.36-9                          amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.3-1+b3                      amd64  alternate POSIX capabilities library
-ii   libcap2                                1:2.66-3                        amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.66-3                        amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.66-4                        amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.66-4                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.8                             0.8.0-2+b1                      amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.0-2                        amd64  common error description library
 ii   libcrypt1                              1:4.4.33-2                      amd64  libcrypt shared library
