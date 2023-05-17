@@ -1,4 +1,4 @@
-ii   adduser                                3.132                           all    add and remove users and groups
+ii   adduser                                3.133                           all    add and remove users and groups
 ii   apparmor                               3.0.8-3                         amd64  user-space parser utility for AppArmor
 ii   apt                                    2.6.0                           amd64  commandline package manager
 ii   apt-listchanges                        3.24                            all    package change history notification tool
@@ -32,7 +32,7 @@ ii   dirmngr                                2.2.40-1.1                      amd6
 ii   distro-info-data                       0.58                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.4-1                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.185-2                    amd64  Linux Kernel Device Mapper userspace library
-ii   dpkg                                   1.21.21                         amd64  Debian package management system
+ii   dpkg                                   1.21.22                         amd64  Debian package management system
 ii   e2fsprogs                              1.47.0-2                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             17-2                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.20-1                       all    store /etc in git, mercurial, brz or darcs
@@ -53,12 +53,12 @@ ii   git-man                                1:2.40.1-1                      all 
 ii   gnupg                                  2.2.40-1.1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1.1                      amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       430.0.0-0                       all    Utilities for the Google Cloud Platform
+ii   google-cloud-cli                       431.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-cloud-packages-archive-keyring  1.2-532145494                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20230403.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20230403.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20230330.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20230504.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.40-1.1                      amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.40-1.1                      amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.40-1.1                      amd64  GNU privacy guard - Web Key Service client
@@ -149,7 +149,7 @@ ii   libgnutls30                            3.7.9-2                         amd6
 ii   libgpg-error0                          1.46-1                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-10+b1                    amd64  General Purpose Mouse - shared library
 ii   libgsasl18                             2.2.0-1                         amd64  GNU SASL library
-ii   libgssapi-krb5-2                       1.20.1-1+b1                     amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii   libgssapi-krb5-2                       1.20.1-2                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libgssglue1                            0.7-1.1                         amd64  mechanism-switch gssapi library
 ii   libhavege2                             1.9.14-1+b1                     amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6                            3.8.1-2                         amd64  low level cryptographic library (public-key cryptos)
@@ -160,12 +160,12 @@ ii   libip4tc2                              1.8.9-2                         amd6
 ii   libip6tc2                              1.8.9-2                         amd64  netfilter libip6tc library
 ii   libjemalloc2                           5.3.0-1                         amd64  general-purpose scalable concurrent malloc(3) implementation
 ii   libjson-c5                             0.16-2                          amd64  JSON manipulation library - shared library
-ii   libk5crypto3                           1.20.1-1+b1                     amd64  MIT Kerberos runtime libraries - Crypto Library
+ii   libk5crypto3                           1.20.1-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.3-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.12-1                        amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               30+20221128-1                   amd64  libkmod shared library
-ii   libkrb5-3                              1.20.1-1+b1                     amd64  MIT Kerberos runtime libraries
-ii   libkrb5support0                        1.20.1-1+b1                     amd64  MIT Kerberos runtime libraries - Support library
+ii   libkrb5-3                              1.20.1-2                        amd64  MIT Kerberos runtime libraries
+ii   libkrb5support0                        1.20.1-2                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.3-2                         amd64  X.509 and CMS support library
 ii   libldap-2.5-0                          2.5.13+dfsg-5                   amd64  OpenLDAP libraries
 ii   libldap-common                         2.5.13+dfsg-5                   all    OpenLDAP common files for libraries
