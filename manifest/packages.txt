@@ -177,7 +177,7 @@ ii   liblzma5                               5.4.1-0.2                       amd6
 ii   libmagic-mgc                           1:5.44-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
 ii   libmagic1                              1:5.44-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmailutils9                          1:3.15-4                        amd64  GNU Mail abstraction library
-ii   libmariadb3                            1:10.11.3-1                     amd64  MariaDB database client library
+ii   libmariadb3                            1:10.11.4-1                     amd64  MariaDB database client library
 ii   libmaxminddb0                          1.7.1-1                         amd64  IP geolocation database library
 ii   libmd0                                 1.0.4-2                         amd64  message digest functions from BSD systems - shared library
 ii   libmnl0                                1.0.4-3                         amd64  minimalistic Netlink communication library
@@ -235,7 +235,7 @@ ii   libsodium23                            1.0.18-1                        amd6
 ii   libsqlite3-0                           3.40.1-2                        amd64  SQLite 3 shared library
 ii   libss2                                 1.47.0-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.10.0-3+b1                     amd64  SSH2 client-side library
-ii   libssl1.1                              1.1.1n-0+deb11u5                amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl1.1                              1.1.1n-0+deb11u4                amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl3                                3.0.9-1                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             12.2.0-14                       amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      252.6-1                         amd64  systemd shared private library
@@ -270,7 +270,7 @@ ii   mailutils                              1:3.15-4                        amd6
 ii   mailutils-common                       1:3.15-4                        all    common files for GNU mailutils
 ii   man-db                                 2.11.2-2                        amd64  tools for reading manual pages
 ii   manpages                               6.03-2                          all    Manual pages about using a GNU/Linux system
-ii   mariadb-common                         1:10.11.3-1                     all    MariaDB common configuration files
+ii   mariadb-common                         1:10.11.4-1                     all    MariaDB common configuration files
 ii   mawk                                   1.3.4.20200120-3.1              amd64  Pattern scanning and text processing language
 ii   media-types                            10.0.0                          all    List of standard media types and their usual file extension
 ii   mokutil                                0.6.0-2                         amd64  tools for manipulating machine owner keys
