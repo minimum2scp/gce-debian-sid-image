@@ -15,12 +15,12 @@ variables {
 }
 
 locals {
-  expected_source_image = "debian-11-bullseye-v20230509"
+  expected_source_image = "debian-12-bookworm-v20230609"
   image_family          = "debian-sid"
   image_name            = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
 }
 
-source "googlecompute" "debian-11" {
+source "googlecompute" "debian-12" {
   disk_size         = 10
   image_description = "Debian sid (source image: ${local.expected_source_image})"
   image_family      = "${local.image_family}"
@@ -32,14 +32,14 @@ source "googlecompute" "debian-11" {
   preemptible             = true
   project_id              = "${var.project_id}"
   skip_create_image       = var.skip_create_image
-  source_image_family     = "debian-11"
+  source_image_family     = "debian-12"
   source_image_project_id = ["debian-cloud"]
   ssh_username            = "packer"
   zone                    = "us-west1-a"
 }
 
 build {
-  sources = ["source.googlecompute.debian-11"]
+  sources = ["source.googlecompute.debian-12"]
 
   provisioner "shell" {
     inline = [
@@ -81,7 +81,7 @@ build {
       "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y chrony",
       "sudo cp -a /var/tmp/chrony.conf.google /etc/chrony/chrony.conf",
-      "if sudo etckeeper unclean; then sudo etckeeper commit 'chrony: copied original chrony.conf from debian-11 image family'; fi",
+      "if sudo etckeeper unclean; then sudo etckeeper commit 'chrony: copied original chrony.conf from debian-12 image family'; fi",
     ]
   }
 
