@@ -3,7 +3,7 @@ ii   apparmor                               3.0.8-3                         amd6
 ii   apt                                    2.6.1                           amd64  commandline package manager
 ii   apt-listchanges                        3.24                            all    package change history notification tool
 ii   apt-utils                              2.6.1                           amd64  package management related utility programs
-ii   base-files                             12.4                            amd64  Debian base system miscellaneous files
+ii   base-files                             13                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.1                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.15-2+b2                     amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.11-6                        all    programmable completion for the bash shell
@@ -19,11 +19,11 @@ ii   cron                                   3.0pl1-162                      amd6
 ii   cron-daemon-common                     3.0pl1-162                      all    process scheduling daemon's configuration files
 ii   curl                                   7.88.1-10                       amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-2                        amd64  POSIX-compliant shell
-ii   dbus                                   1.14.6-1                        amd64  simple interprocess messaging system (system message bus)
-ii   dbus-bin                               1.14.6-1                        amd64  simple interprocess messaging system (command line utilities)
-ii   dbus-daemon                            1.14.6-1                        amd64  simple interprocess messaging system (reference message bus)
-ii   dbus-session-bus-common                1.14.6-1                        all    simple interprocess messaging system (session bus configuration)
-ii   dbus-system-bus-common                 1.14.6-1                        all    simple interprocess messaging system (system bus configuration)
+ii   dbus                                   1.14.8-1                        amd64  simple interprocess messaging system (system message bus)
+ii   dbus-bin                               1.14.8-1                        amd64  simple interprocess messaging system (command line utilities)
+ii   dbus-daemon                            1.14.8-1                        amd64  simple interprocess messaging system (reference message bus)
+ii   dbus-session-bus-common                1.14.8-1                        all    simple interprocess messaging system (session bus configuration)
+ii   dbus-system-bus-common                 1.14.8-1                        all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.82                          all    Debian configuration management system
 ii   debian-archive-keyring                 2023.3                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.7-0.4                         amd64  Miscellaneous utilities specific to Debian
@@ -37,13 +37,13 @@ ii   e2fsprogs                              1.47.0-2                        amd6
 ii   efibootmgr                             17-2                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.20-1                       all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.1-1                         amd64  display or change Ethernet device settings
-ii   exim4-base                             4.96-15                         amd64  support files for all Exim MTA (v4) packages
-ii   exim4-config                           4.96-15                         all    configuration for the Exim MTA (v4)
-ii   exim4-daemon-light                     4.96-15                         amd64  lightweight Exim MTA (v4) daemon
+ii   exim4-base                             4.96-16                         amd64  support files for all Exim MTA (v4) packages
+ii   exim4-config                           4.96-16                         all    configuration for the Exim MTA (v4)
+ii   exim4-daemon-light                     4.96-16                         amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.44-3                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.9.0-4                         amd64  utilities for finding files--find, xargs
 ii   gcc-10-base                            10.4.0-8                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-12-base                            12.2.0-14                       amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-13-base                            13.1.0-5                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-9-base                             9.5.0-3                         amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.9-2.1                       amd64  GPT fdisk text-mode partitioning tool
@@ -89,7 +89,7 @@ ii   iptables                               1.8.9-2                         amd6
 ii   iputils-ping                           3:20221126-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-2                      amd64  DHCP client for automatically obtaining an IP address
 ii   klibc-utils                            2.0.12-1                        amd64  small utilities built with klibc for early boot
-ii   kmod                                   30+20221128-1                   amd64  tools for managing Linux kernel modules
+ii   kmod                                   30+20230519-1                   amd64  tools for managing Linux kernel modules
 ii   less                                   590-2                           amd64  pager program similar to more
 ii   libacl1                                2.3.1-3                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.8-3                         amd64  changehat AppArmor library
@@ -111,12 +111,12 @@ ii   libcap2                                1:2.66-4                        amd6
 ii   libcap2-bin                            1:2.66-4                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.8                             0.8.0-2+b1                      amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.0-2                        amd64  common error description library
-ii   libcrypt1                              1:4.4.33-2                      amd64  libcrypt shared library
+ii   libcrypt1                              1:4.4.35-1                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.6.1-4                       amd64  disk encryption support - shared library
 ii   libcurl3-gnutls                        7.88.1-10                       amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.88.1-10                       amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg2-1                  amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdbus-1-3                            1.14.6-1                        amd64  simple interprocess messaging system (library)
+ii   libdbus-1-3                            1.14.8-1                        amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.270                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.185-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   libedit2                               3.1-20221030-2                  amd64  BSD editline and history libraries
@@ -139,8 +139,8 @@ ii   libfribidi0                            1.0.8-2.1                       amd6
 ii   libfstrm0                              0.6.1-1                         amd64  Frame Streams (fstrm) library
 ii   libfuse2                               2.9.9-6+b1                      amd64  Filesystem in Userspace (library)
 ii   libgc1                                 1:8.2.4-1                       amd64  conservative garbage collector for C and C++
-ii   libgcc-s1                              12.2.0-14                       amd64  GCC support library
-ii   libgcrypt20                            1.10.1-3                        amd64  LGPL Crypto library - runtime library
+ii   libgcc-s1                              13.1.0-5                        amd64  GCC support library
+ii   libgcrypt20                            1.10.2-2                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.23-3                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.23-3                          amd64  GNU dbm database routines (runtime version)
 ii   libgmp10                               2:6.2.1+dfsg1-1.1               amd64  Multiprecision arithmetic library
@@ -163,7 +163,7 @@ ii   libjson-c5                             0.16-2                          amd6
 ii   libk5crypto3                           1.20.1-2                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.3-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.12-1                        amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               30+20221128-1                   amd64  libkmod shared library
+ii   libkmod2                               30+20230519-1                   amd64  libkmod shared library
 ii   libkrb5-3                              1.20.1-2                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20.1-2                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.3-2                         amd64  X.509 and CMS support library
@@ -189,17 +189,17 @@ ii   libnettle8                             3.8.1-2                         amd6
 ii   libnewt0.52                            0.52.23-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-2                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.5-1                         amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.53.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.54.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                         amd64  Public client interface for NIS(YP) and NIS+
 ii   libntlm0                               1.6-4                           amd64  NTLM authentication library
 ii   libnumber-compare-perl                 0.03-3                          all    module for performing numeric comparisons in Perl
-ii   libnvme1                               1.3-1                           amd64  NVMe management library (library)
+ii   libnvme1                               1.4-3                           amd64  NVMe management library (library)
 ii   libp11-kit0                            0.24.1-2                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-modules                         1.5.2-6                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.5.2-6                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.5.2-6                         all    Runtime support for the PAM library
-ii   libpam-systemd                         252.6-1                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         252.11-1                        amd64  system and service manager - PAM module
 ii   libpam0g                               1.5.2-6                         amd64  Pluggable Authentication Modules library
 ii   libparted2                             3.5-3                           amd64  disk partition manipulator - shared library
 ii   libpcap0.8                             1.10.3-1                        amd64  system interface for user-level packet capture
@@ -237,16 +237,16 @@ ii   libss2                                 1.47.0-2                        amd6
 ii   libssh2-1                              1.10.0-3+b1                     amd64  SSH2 client-side library
 ii   libssl1.1                              1.1.1n-0+deb11u4                amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libssl3                                3.0.9-1                         amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             12.2.0-14                       amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      252.6-1                         amd64  systemd shared private library
-ii   libsystemd0                            252.6-1                         amd64  systemd utility library
+ii   libstdc++6                             13.1.0-5                        amd64  GNU Standard C++ Library v3
+ii   libsystemd-shared                      252.11-1                        amd64  systemd shared private library
+ii   libsystemd0                            252.11-1                        amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-glob-perl                      0.11-3                          all    Perl module for matching globbing patterns against text
 ii   libtinfo6                              6.4-4                           amd64  shared low-level terminfo library for terminal handling
 ii   libtirpc-common                        1.3.3+ds-1                      all    transport-independent RPC library - common files
 ii   libtirpc3                              1.3.3+ds-1                      amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.7-1                         amd64  universal charset detection library - shared library
-ii   libudev1                               252.6-1                         amd64  libudev shared library
+ii   libudev1                               252.11-1                        amd64  libudev shared library
 ii   libunbound8                            1.17.1-2                        amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libutempter0                           1.2.1-3                         amd64  privileged helper for utmp/wtmp updates (runtime)
@@ -281,7 +281,7 @@ ii   ncurses-base                           6.4-4                           all 
 ii   ncurses-bin                            6.4-4                           amd64  terminal-related programs and man pages
 ii   net-tools                              2.10-0.1                        amd64  NET-3 networking toolkit
 ii   netbase                                6.4                             all    Basic TCP/IP networking system
-ii   nvme-cli                               2.4+really2.3-3                 amd64  NVMe management tool
+ii   nvme-cli                               2.4+really2.4-3                 amd64  NVMe management tool
 ii   openssh-client                         1:9.2p1-2                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:9.2p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:9.2p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
@@ -310,7 +310,7 @@ ii   python3-debianbts                      4.0.1                           all 
 ii   python3-httplib2                       0.20.4-3                        all    comprehensive HTTP client library written for Python3
 ii   python3-idna                           3.3-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.11.2-1+b1                     amd64  minimal subset of the Python language (default python3 version)
-ii   python3-pkg-resources                  66.1.1-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  67.8.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pycurl                         7.45.2-3                        amd64  Python bindings to libcurl (Python 3)
 ii   python3-pyparsing                      3.0.9-1                         all    alternative to creating and executing simple grammars - Python 3.x
 ii   python3-pysimplesoap                   1.16.2-5                        all    simple and lightweight SOAP Library (Python 3)
@@ -333,15 +333,15 @@ ii   shim-signed-common                     1.39+15.7-1                     all 
 ii   shim-unsigned                          15.7-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.7.4.4-2                       amd64  multipurpose relay for bidirectional data transfer
 ii   sudo                                   1.9.13p3-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                252.6-1                         amd64  system and service manager
-ii   systemd-sysv                           252.6-1                         amd64  system and service manager - SysV compatibility symlinks
+ii   systemd                                252.11-1                        amd64  system and service manager
+ii   systemd-sysv                           252.11-1                        amd64  system and service manager - SysV compatibility symlinks
 ii   sysvinit-utils                         3.06-4                          amd64  System-V-like utilities
 ii   tar                                    1.34+dfsg-1.2                   amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.3-1                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.2-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2023c-5                         all    time zone and daylight-saving time data
+ii   tzdata                                 2023c-6                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   252.6-1                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   252.11-1                        amd64  /dev/ and hotplug management daemon
 ii   usrmerge                               35                              all    Convert the system to the merged /usr directories scheme
 ii   util-linux                             2.38.1-5+b1                     amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.38.1-5+b1                     amd64  interactive login tools
