@@ -1,0 +1,24 @@
+Types: deb deb-src
+URIs: mirror+file:///etc/apt/mirrors/debian.list
+Suites: stable stable-updates stable-backports
+Components: main contrib non-free non-free-firmware
+
+Types: deb deb-src
+URIs: mirror+file:///etc/apt/mirrors/debian-security.list
+Suites: stable-security
+Components: main contrib non-free non-free-firmware
+
+Types: deb deb-src
+URIs: mirror+file:///etc/apt/mirrors/debian.list
+Suites: testing
+Components: main contrib non-free non-free-firmware
+
+Types: deb deb-src
+URIs: mirror+file:///etc/apt/mirrors/debian.list
+Suites: sid
+Components: main contrib non-free non-free-firmware
+
+Types: deb deb-src
+URIs: mirror+file:///etc/apt/mirrors/debian.list
+Suites: experimental
+Components: main contrib non-free non-free-firmware

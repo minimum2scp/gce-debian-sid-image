@@ -54,6 +54,18 @@ build {
     ]
   }
 
+  provisioner "shell" {
+    inline = [
+      "sha256sum -c << EOS",
+      "1918052cfce2c404000c4d5dd9e4d5508cb5396c6abdc91a5cd9c93e10e4a40f  /etc/apt/mirrors/debian-security.list",
+      "19690961457aafed526efdea57f8bcc562c0e9f1d051981dac80e703cee6444f  /etc/apt/mirrors/debian.list",
+      "8e03753c5b9417ce801b5f747736f2cb8b6e7c02c4cf0f5142591ad93d2563f5  /etc/apt/sources.list",
+      "28330d6e47de49f8a52460fa4dcd30ba06474689340e8cfd9cabb697a2669b19  /etc/apt/sources.list.d/debian.sources",
+      "261e40fc093a2aca99c6140b7598b8c145e23ede80f26e933511863600dd89eb  /etc/apt/sources.list.d/google-cloud.list",
+      "EOS"
+    ]
+  }
+
   provisioner "file" {
     destination = "/tmp"
     source      = "scripts"
@@ -69,13 +81,13 @@ build {
   }
 
   provisioner "file" {
-    destination = "/tmp/sources.list"
-    source      = "sources.list"
+    destination = "/tmp/debian.sources"
+    source      = "debian.sources"
   }
 
   provisioner "shell" {
     inline = [
-      "sudo install -m 644 -o root -g root /tmp/sources.list /etc/apt/sources.list",
+      "sudo install -m 644 -o root -g root /tmp/debian.sources /etc/apt/sources.list.d/debian.sources",
       "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
       "sudo apt-get update",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
