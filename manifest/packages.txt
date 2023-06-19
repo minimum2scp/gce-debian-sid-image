@@ -302,7 +302,7 @@ ii   python3-debian                         0.1.49                          all 
 ii   python3-debianbts                      4.0.1                           all    Python interface to Debian's Bug Tracking System
 ii   python3-httplib2                       0.20.4-3                        all    comprehensive HTTP client library written for Python3
 ii   python3-idna                           3.3-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-markdown-it                    2.1.0-5                         all    Python port of markdown-it and some its associated plugins
+ii   python3-markdown-it                    3.0.0-1                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.11.2-1+b1                     amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netifaces                      0.11.0-2+b1                     amd64  portable network interface information - Python 3.x
