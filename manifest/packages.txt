@@ -54,7 +54,7 @@ ii   gnupg                                  2.2.40-1.1                      all 
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1.1                      amd64  GNU privacy guard - utility programs
 ii   google-cloud-cli                       435.0.1-0                       all    Utilities for the Google Cloud Platform
-ii   google-cloud-packages-archive-keyring  1.2-539688415                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-packages-archive-keyring  1.2-541674016                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20230526.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20230601.00-g1                amd64  Google Compute Engine Guest Agent
@@ -273,9 +273,9 @@ ii   net-tools                              2.10-0.1                        amd6
 ii   netbase                                6.4                             all    Basic TCP/IP networking system
 ii   netplan.io                             0.106-3                         amd64  YAML network configuration abstraction for various backends
 ii   nvme-cli                               2.4+really2.4-3                 amd64  NVMe management tool
-ii   openssh-client                         1:9.2p1-2                       amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:9.2p1-2                       amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:9.2p1-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:9.3p1-1                       amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:9.3p1-1                       amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:9.3p1-1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.0.9-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.81                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-2                           amd64  disk partition manipulator
@@ -302,7 +302,7 @@ ii   python3-debian                         0.1.49                          all 
 ii   python3-debianbts                      4.0.1                           all    Python interface to Debian's Bug Tracking System
 ii   python3-httplib2                       0.20.4-3                        all    comprehensive HTTP client library written for Python3
 ii   python3-idna                           3.3-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-markdown-it                    3.0.0-1                         all    Python port of markdown-it and some its associated plugins
+ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.11.2-1+b1                     amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netifaces                      0.11.0-2+b1                     amd64  portable network interface information - Python 3.x
