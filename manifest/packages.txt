@@ -27,7 +27,7 @@ ii   dbus-session-bus-common                1.14.8-1                        all 
 ii   dbus-system-bus-common                 1.14.8-1                        all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.82                          all    Debian configuration management system
 ii   debian-archive-keyring                 2023.3                          all    GnuPG archive keys of the Debian archive
-ii   debianutils                            5.7-0.4                         amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            5.7-0.5                         amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.8-4                         amd64  File comparison utilities
 ii   dirmngr                                2.2.40-1.1                      amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.58                            all    information about the distributions' releases (data files)
@@ -42,7 +42,7 @@ ii   exim4-base                             4.96-16                         amd6
 ii   exim4-config                           4.96-16                         all    configuration for the Exim MTA (v4)
 ii   exim4-daemon-light                     4.96-16                         amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.44-3                        amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.9.0-4                         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.9.0-5                         amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.3.0-5                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-13-base                            13.1.0-7                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
@@ -123,7 +123,7 @@ ii   libduktape207                          2.7.0-2                         amd6
 ii   libedit2                               3.1-20221030-2                  amd64  BSD editline and history libraries
 ii   libefiboot1                            37-6                            amd64  Library to manage UEFI variables
 ii   libefivar1                             37-6                            amd64  Library to manage UEFI variables
-ii   libelf1                                0.189-2                         amd64  library to read and write ELF files
+ii   libelf1                                0.189-3                         amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-2                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-1                        amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7                         2.1.12-stable-8                 amd64  Asynchronous event notification library
@@ -234,7 +234,7 @@ ii   libssl3                                3.0.9-1                         amd6
 ii   libstdc++6                             13.1.0-7                        amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      253.5-1                         amd64  systemd shared private library
 ii   libsystemd0                            253.5-1                         amd64  systemd utility library
-ii   libtasn1-6                             4.19.0-2                        amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.19.0-3                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-glob-perl                      0.11-3                          all    Perl module for matching globbing patterns against text
 ii   libtinfo6                              6.4+20230625-1                  amd64  shared low-level terminfo library for terminal handling
 ii   libtirpc-common                        1.3.3+ds-1                      all    transport-independent RPC library - common files
