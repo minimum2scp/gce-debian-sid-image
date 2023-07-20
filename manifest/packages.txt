@@ -185,7 +185,7 @@ ii   libnettle8                             3.8.1-2                         amd6
 ii   libnewt0.52                            0.52.23-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-2                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.6-1                         amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.54.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.55.1-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0                               1.6-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-2                         amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-resolve                         254~rc2-3                       amd64  nss module to resolve names via systemd-resolved
@@ -273,9 +273,9 @@ ii   net-tools                              2.10-0.1                        amd6
 ii   netbase                                6.4                             all    Basic TCP/IP networking system
 ii   netplan.io                             0.106.1-6                       amd64  YAML network configuration abstraction for various backends
 ii   nvme-cli                               2.5-1                           amd64  NVMe management tool
-ii   openssh-client                         1:9.3p1-1                       amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:9.3p1-1                       amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:9.3p1-1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:9.3p2-1                       amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:9.3p2-1                       amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:9.3p2-1                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.0.9-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.81                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-3                           amd64  disk partition manipulator
@@ -332,7 +332,7 @@ ii   shim-signed                            1.39+15.7-1                     amd6
 ii   shim-signed-common                     1.39+15.7-1                     all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15.7-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.7.4.4-2                       amd64  multipurpose relay for bidirectional data transfer
-ii   sudo                                   1.9.13p3-3                      amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.9.14p2-1                      amd64  Provide limited super user privileges to specific users
 ii   systemd                                254~rc2-3                       amd64  system and service manager
 ii   systemd-dev                            254~rc2-3                       all    systemd development files
 ii   systemd-resolved                       254~rc2-3                       amd64  systemd DNS resolver
