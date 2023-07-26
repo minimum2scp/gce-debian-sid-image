@@ -180,7 +180,7 @@ ii   libmnl0                                1.0.4-3                         amd6
 ii   libmount1                              2.38.1-6                        amd64  device mounting library
 ii   libncursesw6                           6.4+20230625-2                  amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.9-3                         amd64  Netfilter netlink-conntrack library
-ii   libnetplan0                            0.106.1-6                       amd64  YAML network configuration abstraction runtime library
+ii   libnetplan0                            0.106.1-7                       amd64  YAML network configuration abstraction runtime library
 ii   libnettle8                             3.8.1-2                         amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.23-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-2                         amd64  Netfilter netlink library
@@ -271,7 +271,7 @@ ii   ncurses-base                           6.4+20230625-2                  all 
 ii   ncurses-bin                            6.4+20230625-2                  amd64  terminal-related programs and man pages
 ii   net-tools                              2.10-0.1                        amd64  NET-3 networking toolkit
 ii   netbase                                6.4                             all    Basic TCP/IP networking system
-ii   netplan.io                             0.106.1-6                       amd64  YAML network configuration abstraction for various backends
+ii   netplan.io                             0.106.1-7                       amd64  YAML network configuration abstraction for various backends
 ii   nvme-cli                               2.5-1                           amd64  NVMe management tool
 ii   openssh-client                         1:9.3p2-1                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:9.3p2-1                       amd64  secure shell (SSH) server, for secure access from remote machines
