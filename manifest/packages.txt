@@ -18,7 +18,7 @@ ii   coreutils                              9.1-1                           amd6
 ii   cpio                                   2.13+dfsg-7.1                   amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-163                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-163                      all    process scheduling daemon's configuration files
-ii   curl                                   7.88.1-11                       amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.2.1-1                         amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-6                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.8-2                        amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.8-2                        amd64  simple interprocess messaging system (command line utilities)
@@ -55,7 +55,7 @@ ii   gnupg-l10n                             2.2.40-1.1                      all 
 ii   gnupg-utils                            2.2.40-1.1                      amd64  GNU privacy guard - utility programs
 ii   google-cloud-cli                       441.0.0-0                       all    Utilities for the Google Cloud Platform
 ii   google-cloud-packages-archive-keyring  1.2-552520557                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-compute-engine                  1:20230724.00-g1                all    Google Compute Engine guest environment.
+ii   google-compute-engine                  1:20230801.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20220714.00-g1+deb11          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20230601.00-g1                amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20230504.00-g1                amd64  Google Compute Engine OSConfig Agent
@@ -100,12 +100,12 @@ ii   libattr1                               1:2.5.1-4                       amd6
 ii   libaudit-common                        1:3.1.1-1                       all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:3.1.1-1                       amd64  Dynamic library for security auditing
 ii   libblkid1                              2.39.1-3                        amd64  block device ID library
-ii   libbpf1                                1:1.1.0-1                       amd64  eBPF helper library (shared library)
+ii   libbpf1                                1:1.2.2-2                       amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.0.9-2+b6                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.11.7-4                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-5+b1                      amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.37-6                          amd64  GNU C Library: Binaries
-ii   libc6                                  2.37-6                          amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.37-7                          amd64  GNU C Library: Binaries
+ii   libc6                                  2.37-7                          amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.3-1+b3                      amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.66-4                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-4                        amd64  POSIX 1003.1e capabilities (utilities)
@@ -113,8 +113,8 @@ ii   libcbor0.8                             0.8.0-2+b1                      amd6
 ii   libcom-err2                            1.47.0-2                        amd64  common error description library
 ii   libcrypt1                              1:4.4.36-2                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.6.1-4                       amd64  disk encryption support - shared library
-ii   libcurl3-gnutls                        7.88.1-11                       amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.88.1-11                       amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3-gnutls                        8.2.1-1                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4                               8.2.1-1                         amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg2-1                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.14.8-2                        amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.270                           amd64  Debian Configuration Management System (C-implementation library)
@@ -141,7 +141,7 @@ ii   libgcc-s1                              13.2.0-1                        amd6
 ii   libgcrypt20                            1.10.2-2                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.23-3                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.23-3                          amd64  GNU dbm database routines (runtime version)
-ii   libglib2.0-0                           2.76.4-4                        amd64  GLib library of C routines
+ii   libglib2.0-0                           2.77.1-2                        amd64  GLib library of C routines
 ii   libgmp10                               2:6.3.0+dfsg-2                  amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0                        3.7.9-2                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30                            3.7.9-2                         amd64  GNU TLS library - main runtime library
@@ -216,9 +216,9 @@ ii   libpython3.11-minimal                  3.11.4-1                        amd6
 ii   libpython3.11-stdlib                   3.11.4-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.11)
 ii   libreadline8                           8.2-1.3                         amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2  amd64  toolkit for RTMP streams (shared library)
-ii   libsasl2-2                             2.1.28+dfsg1-2                  amd64  Cyrus SASL - authentication abstraction library
-ii   libsasl2-modules                       2.1.28+dfsg1-2                  amd64  Cyrus SASL - pluggable authentication modules
-ii   libsasl2-modules-db                    2.1.28+dfsg1-2                  amd64  Cyrus SASL - pluggable authentication modules (DB)
+ii   libsasl2-2                             2.1.28+dfsg1-3                  amd64  Cyrus SASL - authentication abstraction library
+ii   libsasl2-modules                       2.1.28+dfsg1-3                  amd64  Cyrus SASL - pluggable authentication modules
+ii   libsasl2-modules-db                    2.1.28+dfsg1-3                  amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.5.4-1+b3                      amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.5-1                           amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.5-1                           all    Common files for SELinux policy management libraries
@@ -262,7 +262,7 @@ ii   logsave                                1.47.0-2                        amd6
 ii   lsb-release                            12.0-2                          all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.11.2-3                        amd64  tools for reading manual pages
 ii   manpages                               6.03-2                          all    Manual pages about using a GNU/Linux system
-ii   mawk                                   1.3.4.20230525-1                amd64  Pattern scanning and text processing language
+ii   mawk                                   1.3.4.20230730-1                amd64  Pattern scanning and text processing language
 ii   media-types                            10.1.0                          all    List of standard media types and their usual file extension
 ii   mokutil                                0.6.0-2                         amd64  tools for manipulating machine owner keys
 ii   mount                                  2.39.1-3                        amd64  tools for mounting and manipulating filesystems
@@ -329,8 +329,8 @@ ii   sed                                    4.9-1                           amd6
 ii   sensible-utils                         0.0.20                          all    Utilities for sensible alternative selection
 ii   sgml-base                              1.31                            all    SGML infrastructure and SGML catalog file support
 ii   shim-helpers-amd64-signed              1+15.7+1                        amd64  boot loader to chain-load signed boot loaders (signed by Debian)
-ii   shim-signed                            1.39+15.7-1                     amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
-ii   shim-signed-common                     1.39+15.7-1                     all    Secure Boot chain-loading bootloader (common helper scripts)
+ii   shim-signed                            1.40+15.7-1                     amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
+ii   shim-signed-common                     1.40+15.7-1                     all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15.7-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.7.4.4-2                       amd64  multipurpose relay for bidirectional data transfer
 ii   sudo                                   1.9.14p2-1                      amd64  Provide limited super user privileges to specific users
