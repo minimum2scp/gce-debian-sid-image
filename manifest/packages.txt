@@ -16,8 +16,8 @@ ii   ca-certificates                        20230311                        all 
 ii   chrony                                 4.4-1                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              9.1-1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7.1                   amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-170                      amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-170                      all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-173                      amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-173                      all    process scheduling daemon's configuration files
 ii   curl                                   8.2.1-1                         amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-6                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.8-2                        amd64  simple interprocess messaging system (system message bus)
@@ -308,7 +308,7 @@ ii   python3-markdown-it                    3.0.0-2                         all 
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.11.4-5+b1                     amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netifaces                      0.11.0-2+b1                     amd64  portable network interface information - Python 3.x
-ii   python3-pkg-resources                  68.0.0-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  68.1.2-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pycurl                         7.45.2-4                        amd64  Python bindings to libcurl (Python 3)
 ii   python3-pygments                       2.15.1+dfsg-1                   all    syntax highlighting package written in Python 3
 ii   python3-pyparsing                      3.1.0-1                         all    alternative to creating and executing simple grammars - Python 3.x
