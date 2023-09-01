@@ -1,7 +1,7 @@
 ii   adduser                                3.137                           all    add and remove users and groups
 ii   apparmor                               3.0.12-1                        amd64  user-space parser utility for AppArmor
 ii   apt                                    2.7.3                           amd64  commandline package manager
-ii   apt-listchanges                        3.24                            all    package change history notification tool
+ii   apt-listchanges                        3.26                            all    package change history notification tool
 ii   apt-utils                              2.7.3                           amd64  package management related utility programs
 ii   base-files                             13                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.1                           amd64  Debian base system master password and group files
@@ -312,7 +312,7 @@ ii   python3-netplan                        0.107-3                         amd6
 ii   python3-pkg-resources                  68.1.2-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pycurl                         7.45.2-5                        amd64  Python bindings to libcurl (Python 3)
 ii   python3-pygments                       2.15.1+dfsg-1                   all    syntax highlighting package written in Python 3
-ii   python3-pyparsing                      3.1.0-1                         all    alternative to creating and executing simple grammars - Python 3.x
+ii   python3-pyparsing                      3.1.1-1                         all    alternative to creating and executing simple grammars - Python 3.x
 ii   python3-pysimplesoap                   1.16.2-5                        all    simple and lightweight SOAP Library (Python 3)
 ii   python3-reportbug                      12.0.0                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.31.0+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
