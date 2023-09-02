@@ -20,11 +20,11 @@ ii   cron                                   3.0pl1-174                      amd6
 ii   cron-daemon-common                     3.0pl1-174                      all    process scheduling daemon's configuration files
 ii   curl                                   8.2.1-2                         amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-6                        amd64  POSIX-compliant shell
-ii   dbus                                   1.14.8-2                        amd64  simple interprocess messaging system (system message bus)
-ii   dbus-bin                               1.14.8-2                        amd64  simple interprocess messaging system (command line utilities)
-ii   dbus-daemon                            1.14.8-2                        amd64  simple interprocess messaging system (reference message bus)
-ii   dbus-session-bus-common                1.14.8-2                        all    simple interprocess messaging system (session bus configuration)
-ii   dbus-system-bus-common                 1.14.8-2                        all    simple interprocess messaging system (system bus configuration)
+ii   dbus                                   1.14.10-1                       amd64  simple interprocess messaging system (system message bus)
+ii   dbus-bin                               1.14.10-1                       amd64  simple interprocess messaging system (command line utilities)
+ii   dbus-daemon                            1.14.10-1                       amd64  simple interprocess messaging system (reference message bus)
+ii   dbus-session-bus-common                1.14.10-1                       all    simple interprocess messaging system (session bus configuration)
+ii   dbus-system-bus-common                 1.14.10-1                       all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.82                          all    Debian configuration management system
 ii   debian-archive-keyring                 2023.4                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.11                            amd64  Miscellaneous utilities specific to Debian
@@ -116,7 +116,7 @@ ii   libcryptsetup12                        2:2.6.1-5                       amd6
 ii   libcurl3-gnutls                        8.2.1-2                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               8.2.1-2                         amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3                               5.3.28+dfsg2-2                  amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdbus-1-3                            1.14.8-2                        amd64  simple interprocess messaging system (library)
+ii   libdbus-1-3                            1.14.10-1                       amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.270                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.185-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   libduktape207                          2.7.0-2                         amd64  embeddable Javascript engine, library
@@ -254,8 +254,8 @@ ii   libyaml-0-2                            0.2.5-1                         amd6
 ii   libzstd1                               1.5.5+dfsg2-1                   amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                             all    Linux image base package
 ii   linux-image-6.1.0-11-cloud-amd64       6.1.38-4                        amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-6.4.0-3-cloud-amd64        6.4.11-1                        amd64  Linux 6.4 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.4.11-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.4.0-4-cloud-amd64        6.4.13-1                        amd64  Linux 6.4 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.4.13-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.13+dfsg1-1+b1               amd64  system login tools
 ii   logrotate                              3.21.0-1                        amd64  Log rotation utility
 ii   logsave                                1.47.0-2                        amd64  save the output of a command in a log file
