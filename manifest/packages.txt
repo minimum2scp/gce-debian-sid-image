@@ -16,8 +16,8 @@ ii   ca-certificates                        20230311                        all 
 ii   chrony                                 4.4-1                           amd64  Versatile implementation of the Network Time Protocol
 ii   coreutils                              9.1-1                           amd64  GNU core utilities
 ii   cpio                                   2.13+dfsg-7.1                   amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-174                      amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-174                      all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-175                      amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-175                      all    process scheduling daemon's configuration files
 ii   curl                                   8.2.1-2                         amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-6                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.10-1                       amd64  simple interprocess messaging system (system message bus)
@@ -41,7 +41,7 @@ ii   ethtool                                1:6.4-1                         amd6
 ii   exim4-base                             4.96-22                         amd64  support files for all Exim MTA (v4) packages
 ii   exim4-config                           4.96-22                         all    configuration for the Exim MTA (v4)
 ii   exim4-daemon-light                     4.96-22                         amd64  lightweight Exim MTA (v4) daemon
-ii   file                                   1:5.44-3                        amd64  Recognize the type of data in a file using "magic" numbers
+ii   file                                   1:5.45-2                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.9.0-5                         amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.3.0-8                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-13-base                            13.2.0-3                        amd64  GCC, the GNU Compiler Collection (base package)
@@ -141,7 +141,7 @@ ii   libgcc-s1                              13.2.0-3                        amd6
 ii   libgcrypt20                            1.10.2-2                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.23-3                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.23-3                          amd64  GNU dbm database routines (runtime version)
-ii   libglib2.0-0                           2.77.2-1                        amd64  GLib library of C routines
+ii   libglib2.0-0                           2.77.3-1                        amd64  GLib library of C routines
 ii   libgmp10                               2:6.3.0+dfsg-2                  amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0                        3.8.1-4                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30                            3.8.1-4                         amd64  GNU TLS library - main runtime library
@@ -172,8 +172,8 @@ ii   liblockfile1                           1.17-1+b1                       amd6
 ii   liblognorm5                            2.0.6-4                         amd64  log normalizing library
 ii   liblz4-1                               1.9.4-1                         amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.4.4-0.1                       amd64  XZ-format compression library
-ii   libmagic-mgc                           1:5.44-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
-ii   libmagic1                              1:5.44-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
+ii   libmagic-mgc                           1:5.45-2                        amd64  File type determination library using "magic" numbers (compiled magic file)
+ii   libmagic1                              1:5.45-2                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmaxminddb0                          1.7.1-1                         amd64  IP geolocation database library
 ii   libmd0                                 1.1.0-1                         amd64  message digest functions from BSD systems - shared library
 ii   libmnl0                                1.0.4-3                         amd64  minimalistic Netlink communication library
@@ -227,7 +227,7 @@ ii   libsepol2                              3.5-1                           amd6
 ii   libslang2                              2.3.3-3                         amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.39.2-1                        amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1                        amd64  Network communication, cryptography and signaturing library
-ii   libsqlite3-0                           3.42.0-1                        amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.43.0-1                        amd64  SQLite 3 shared library
 ii   libss2                                 1.47.0-2                        amd64  command-line interface parsing library
 ii   libssh2-1                              1.11.0-2                        amd64  SSH2 client-side library
 ii   libssl3                                3.0.10-1                        amd64  Secure Sockets Layer toolkit - shared libraries
