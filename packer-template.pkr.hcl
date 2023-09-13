@@ -61,10 +61,9 @@ build {
 
   provisioner "shell" {
     inline = [
-      "sudo cp -a /etc/chrony/chrony.conf /var/tmp/chrony.conf.google",
       "sudo apt-get update",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
-      "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge chrony unattended-upgrades",
+      "sudo DEBIAN_FRONTEND=noninteractive apt-get remove -y --purge unattended-upgrades",
     ]
   }
 
@@ -79,9 +78,6 @@ build {
       "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
       "sudo apt-get update",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
-      "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y chrony",
-      "sudo cp -a /var/tmp/chrony.conf.google /etc/chrony/chrony.conf",
-      "if sudo etckeeper unclean; then sudo etckeeper commit 'chrony: copied original chrony.conf from debian-12 image family'; fi",
     ]
   }
 
