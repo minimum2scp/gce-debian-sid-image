@@ -60,6 +60,7 @@ build {
   }
 
   provisioner "shell" {
+    inline_shebang = "/bin/sh -ex"
     inline = [
       "sudo apt-get update",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends etckeeper",
@@ -73,10 +74,14 @@ build {
   }
 
   provisioner "shell" {
+    inline_shebang = "/bin/sh -ex"
     inline = [
       "sudo install -m 644 -o root -g root /tmp/sources.list /etc/apt/sources.list",
       "sudo DEBIAN_FRONTEND=noninteractive etckeeper commit 'apt: updated to sid'",
       "sudo apt-get update",
+      "sudo apt-mark hold linux-image-cloud-amd64",
+      "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
+      "sudo apt-mark unhold linux-image-cloud-amd64",
       "sudo DEBIAN_FRONTEND=noninteractive apt-get dist-upgrade -y --no-install-recommends --auto-remove --purge",
     ]
   }
