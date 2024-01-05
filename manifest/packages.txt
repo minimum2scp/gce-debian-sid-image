@@ -65,7 +65,7 @@ ii   gpg-wks-server                         2.2.40-1.1                      amd6
 ii   gpgconf                                2.2.40-1.1                      amd64  GNU privacy guard - core configuration utilities
 ii   gpgsm                                  2.2.40-1.1                      amd64  GNU privacy guard - S/MIME version
 ii   gpgv                                   2.2.40-1.1                      amd64  GNU privacy guard - signature verification tool
-ii   grep                                   3.11-3                          amd64  GNU grep, egrep and fgrep
+ii   grep                                   3.11-4                          amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.23.0-3                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.1.1                           amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.12~rc1-12                     amd64  GRand Unified Bootloader (common files)
@@ -86,7 +86,7 @@ ii   iputils-ping                           3:20221126-1                    amd6
 ii   isc-dhcp-client                        4.4.3-P1-4                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-4                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.13-2                        amd64  small utilities built with klibc for early boot
-ii   kmod                                   30+20230601-2.1                 amd64  tools for managing Linux kernel modules
+ii   kmod                                   31-1                            amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.20.1-5                        all    internationalization support for MIT Kerberos
 ii   less                                   590-2                           amd64  pager program similar to more
 ii   libacl1                                2.3.1-4                         amd64  access control list - shared library
@@ -159,7 +159,7 @@ ii   libjson-c5                             0.17-1                          amd6
 ii   libk5crypto3                           1.20.1-5                        amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.3-2                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.13-2                        amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               30+20230601-2.1                 amd64  libkmod shared library
+ii   libkmod2                               31-1                            amd64  libkmod shared library
 ii   libkrb5-3                              1.20.1-5                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20.1-5                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.5-2                         amd64  X.509 and CMS support library
@@ -218,7 +218,7 @@ ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b2  amd6
 ii   libsasl2-2                             2.1.28+dfsg1-4                  amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.28+dfsg1-4                  amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.28+dfsg1-4                  amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.5.4-2+b1                      amd64  high level interface to Linux seccomp filter
+ii   libseccomp2                            2.5.5-1                         amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.5-1+b1                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.5-1                           all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.5-1+b1                        amd64  SELinux policy management library
@@ -258,7 +258,7 @@ ii   linux-image-6.1.0-15-cloud-amd64       6.1.66-1                        amd6
 ii   linux-image-6.6.9-cloud-amd64          6.6.9-1                         amd64  Linux 6.6 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                6.6.9-1                         amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.13+dfsg1-3                  amd64  system login tools
-ii   logrotate                              3.21.0-1                        amd64  Log rotation utility
+ii   logrotate                              3.21.0-2                        amd64  Log rotation utility
 ii   logsave                                1.47.0-2+b1                     amd64  save the output of a command in a log file
 ii   lsb-release                            12.0-2                          all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.12.0-1                        amd64  tools for reading manual pages
