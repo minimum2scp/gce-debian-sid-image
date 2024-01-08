@@ -28,13 +28,12 @@ ii   debconf                                1.5.83                          all 
 ii   debian-archive-keyring                 2023.4                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.16                            amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.10-1                        amd64  File comparison utilities
-ii   dirmngr                                2.2.40-1.1                      amd64  GNU privacy guard - network certificate management service
+ii   dirmngr                                2.2.40-1.1+b1                   amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.60                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.5-3                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.185-3                    amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.22.2                          amd64  Debian package management system
 ii   e2fsprogs                              1.47.0-2+b1                     amd64  ext2/ext3/ext4 file system utilities
-ii   efibootmgr                             18-1                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.20-1.1                     all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.6-1                         amd64  display or change Ethernet device settings
 ii   exim4-base                             4.97-4                          amd64  support files for all Exim MTA (v4) packages
@@ -51,30 +50,26 @@ ii   git                                    1:2.43.0-1                      amd6
 ii   git-man                                1:2.43.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.40-1.1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
-ii   gnupg-utils                            2.2.40-1.1                      amd64  GNU privacy guard - utility programs
+ii   gnupg-utils                            2.2.40-1.1+b1                   amd64  GNU privacy guard - utility programs
 ii   google-cloud-cli                       458.0.1-0                       amd64  Utilities for the Google Cloud Platform
 ii   google-cloud-packages-archive-keyring  1.2-594944280                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20230801.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20231004.00-g1+deb12          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20231115.00-g1                amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20231207.01-g1                amd64  Google Compute Engine OSConfig Agent
-ii   gpg                                    2.2.40-1.1                      amd64  GNU Privacy Guard -- minimalist public key operations
-ii   gpg-agent                              2.2.40-1.1                      amd64  GNU privacy guard - cryptographic agent
-ii   gpg-wks-client                         2.2.40-1.1                      amd64  GNU privacy guard - Web Key Service client
-ii   gpg-wks-server                         2.2.40-1.1                      amd64  GNU privacy guard - Web Key Service server
-ii   gpgconf                                2.2.40-1.1                      amd64  GNU privacy guard - core configuration utilities
-ii   gpgsm                                  2.2.40-1.1                      amd64  GNU privacy guard - S/MIME version
-ii   gpgv                                   2.2.40-1.1                      amd64  GNU privacy guard - signature verification tool
+ii   gpg                                    2.2.40-1.1+b1                   amd64  GNU Privacy Guard -- minimalist public key operations
+ii   gpg-agent                              2.2.40-1.1+b1                   amd64  GNU privacy guard - cryptographic agent
+ii   gpg-wks-client                         2.2.40-1.1+b1                   amd64  GNU privacy guard - Web Key Service client
+ii   gpg-wks-server                         2.2.40-1.1+b1                   amd64  GNU privacy guard - Web Key Service server
+ii   gpgconf                                2.2.40-1.1+b1                   amd64  GNU privacy guard - core configuration utilities
+ii   gpgsm                                  2.2.40-1.1+b1                   amd64  GNU privacy guard - S/MIME version
+ii   gpgv                                   2.2.40-1.1+b1                   amd64  GNU privacy guard - signature verification tool
 ii   grep                                   3.11-4                          amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.23.0-3                        amd64  GNU troff text-formatting system (base system components)
-ii   grub-cloud-amd64                       0.1.1                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.12~rc1-12                     amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.12~rc1-12                     amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
-ii   grub-efi-amd64-signed                  1+2.12~rc1+12                   amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.12~rc1-12                     amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.12~rc1-12                     amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-common                            2.12~rc1-12+b1                  amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-signed                  1+2.06+13+deb12u1               amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
 ii   gzip                                   1.12-1                          amd64  GNU compression utilities
-ii   haveged                                1.9.14-1+b1                     amd64  Linux entropy source using the HAVEGE algorithm
+ii   haveged                                1.9.14-1+b2                     amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23+nmu1                       amd64  utility to set/show the host name or domain name
 ii   init                                   1.66                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.66                            all    helper tools for all init systems
@@ -100,7 +95,7 @@ ii   libaudit1                              1:3.1.2-1                       amd6
 ii   libblkid1                              2.39.3-6                        amd64  block device ID library
 ii   libbpf1                                1:1.3.0-2                       amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.1.0-2+b3                      amd64  library implementing brotli encoder and decoder (shared libraries)
-ii   libbsd0                                0.11.7-4                        amd64  utility functions from BSD systems - shared library
+ii   libbsd0                                0.11.8-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-5+b2                      amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.37-13                         amd64  GNU C Library: Binaries
 ii   libc6                                  2.37-13                         amd64  GNU C Library: Shared libraries
@@ -145,9 +140,9 @@ ii   libgmp10                               2:6.3.0+dfsg-2                  amd6
 ii   libgnutls-dane0                        3.8.2-1                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30                            3.8.2-1                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.47-3                          amd64  GnuPG development runtime library
-ii   libgpm2                                1.20.7-10+b1                    amd64  General Purpose Mouse - shared library
+ii   libgpm2                                1.20.7-10+b2                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.20.1-5                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhavege2                             1.9.14-1+b1                     amd64  entropy source using the HAVEGE algorithm - shared library
+ii   libhavege2                             1.9.14-1+b2                     amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6                            3.9.1-2                         amd64  low level cryptographic library (public-key cryptos)
 ii   libicu72                               72.1-4                          amd64  International Components for Unicode
 ii   libidn12                               1.41-1                          amd64  GNU Libidn library, implementation of IETF IDN specifications
@@ -265,7 +260,6 @@ ii   man-db                                 2.12.0-1                        amd6
 ii   manpages                               6.05.01-1                       all    Manual pages about using a GNU/Linux system
 ii   mawk                                   1.3.4.20231126-1                amd64  Pattern scanning and text processing language
 ii   media-types                            10.1.0                          all    List of standard media types and their usual file extension
-ii   mokutil                                0.6.0-2                         amd64  tools for manipulating machine owner keys
 ii   mount                                  2.39.3-6                        amd64  tools for mounting and manipulating filesystems
 ii   nano                                   7.2-1                           amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.4+20231209-1                  all    basic terminal type definitions
@@ -331,10 +325,6 @@ ii   screen                                 4.9.1-1                         amd6
 ii   sed                                    4.9-2                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.20                          all    Utilities for sensible alternative selection
 ii   sgml-base                              1.31                            all    SGML infrastructure and SGML catalog file support
-ii   shim-helpers-amd64-signed              1+15.7+1                        amd64  boot loader to chain-load signed boot loaders (signed by Debian)
-ii   shim-signed                            1.40+15.7-1                     amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
-ii   shim-signed-common                     1.40+15.7-1                     all    Secure Boot chain-loading bootloader (common helper scripts)
-ii   shim-unsigned                          15.7-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.8.0.0-4                       amd64  multipurpose relay for bidirectional data transfer
 ii   sudo                                   1.9.15p5-1                      amd64  Provide limited super user privileges to specific users
 ii   systemd                                255.2-4                         amd64  system and service manager
