@@ -364,5 +364,5 @@ ii   wget                                   1.21.4-1+b1                     amd6
 ii   whiptail                               0.52.24-1+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xml-core                               0.19                            all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.4.5-0.3                       amd64  XZ-format compression utilities
-ii   zlib1g                                 1:1.3.dfsg-3                    amd64  compression library - runtime
+ii   zlib1g                                 1:1.3.dfsg-3+b1                 amd64  compression library - runtime
 ii   zstd                                   1.5.5+dfsg2-2                   amd64  fast lossless compression algorithm -- CLI tool
