@@ -1,8 +1,8 @@
 ii   adduser                                3.137                           all    add and remove users and groups
 ii   apparmor                               3.0.12-1+b2                     amd64  user-space parser utility for AppArmor
-ii   apt                                    2.7.9                           amd64  commandline package manager
+ii   apt                                    2.7.10                          amd64  commandline package manager
 ii   apt-listchanges                        3.27                            all    package change history notification tool
-ii   apt-utils                              2.7.9                           amd64  package management related utility programs
+ii   apt-utils                              2.7.10                          amd64  package management related utility programs
 ii   base-files                             13                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.3                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.21-2                        amd64  GNU Bourne Again SHell
@@ -91,7 +91,7 @@ ii   krb5-locales                           1.20.1-5                        all 
 ii   less                                   590-2                           amd64  pager program similar to more
 ii   libacl1                                2.3.1-6                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.12-1+b2                     amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.7.9                           amd64  package management runtime library
+ii   libapt-pkg6.0                          2.7.10                          amd64  package management runtime library
 ii   libargon2-1                            0~20190702+dfsg-4+b1            amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.6-1                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.1-5                       amd64  extended attribute handling - shared library
