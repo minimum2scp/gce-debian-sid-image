@@ -321,7 +321,7 @@ ii   python3-reportbug                      12.0.0                          all 
 ii   python3-requests                       2.31.0+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.3.1-2                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
 ii   python3-six                            1.16.0-4                        all    Python 2 and 3 compatibility library
-ii   python3-urllib3                        1.26.18-1                       all    HTTP library with thread-safe connection pooling for Python3
+ii   python3-urllib3                        1.26.18-2                       all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.1-2                         amd64  YAML parser and emitter for Python3
 ii   python3.11                             3.11.7-2                        amd64  Interactive high-level object-oriented language (version 3.11)
 ii   python3.11-minimal                     3.11.7-2                        amd64  Minimal subset of the Python language (version 3.11)
