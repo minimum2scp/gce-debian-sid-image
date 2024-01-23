@@ -52,8 +52,8 @@ ii   git-man                                1:2.43.0-1                      all 
 ii   gnupg                                  2.2.40-1.1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1.1+b1                   amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       460.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-packages-archive-keyring  1.2-598633882                   all    Contains GPG signing key for Google Cloud Packages
+ii   google-cloud-cli                       461.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-packages-archive-keyring  1.2-600496378                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20240109.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20231004.00-g1+deb12          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20240109.00-g1                amd64  Google Compute Engine Guest Agent
@@ -80,7 +80,7 @@ ii   init                                   1.66                            amd6
 ii   init-system-helpers                    1.66                            all    helper tools for all init systems
 ii   initramfs-tools                        0.142                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.142                           all    generic modular initramfs generator (core tools)
-ii   iproute2                               6.7.0-1                         amd64  networking and traffic control tools
+ii   iproute2                               6.7.0-2                         amd64  networking and traffic control tools
 ii   iptables                               1.8.10-3                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20221126-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-4                      amd64  DHCP client for automatically obtaining an IP address
