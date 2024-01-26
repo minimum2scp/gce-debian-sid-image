@@ -24,7 +24,7 @@ ii   dbus-bin                               1.14.10-4                       amd6
 ii   dbus-daemon                            1.14.10-4                       amd64  simple interprocess messaging system (reference message bus)
 ii   dbus-session-bus-common                1.14.10-4                       all    simple interprocess messaging system (session bus configuration)
 ii   dbus-system-bus-common                 1.14.10-4                       all    simple interprocess messaging system (system bus configuration)
-ii   debconf                                1.5.84                          all    Debian configuration management system
+ii   debconf                                1.5.85                          all    Debian configuration management system
 ii   debian-archive-keyring                 2023.4                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.16                            amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.10-1                        amd64  File comparison utilities
@@ -302,7 +302,7 @@ ii   python3-cffi-backend                   1.16.0-2+b1                     amd6
 ii   python3-chardet                        5.2.0+dfsg-1                    all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.3.2-1                         all    charset, encoding and language detection (Python 3)
 ii   python3-dbus                           1.3.2-5+b1                      amd64  simple interprocess messaging system (Python 3 interface)
-ii   python3-debconf                        1.5.84                          all    interact with debconf from Python 3
+ii   python3-debconf                        1.5.85                          all    interact with debconf from Python 3
 ii   python3-debian                         0.1.49                          all    Python 3 modules to work with Debian-related data formats
 ii   python3-debianbts                      4.0.2                           all    Python interface to Debian's Bug Tracking System
 ii   python3-httplib2                       0.20.4-3                        all    comprehensive HTTP client library written for Python3
@@ -344,7 +344,7 @@ ii   systemd-dev                            255.3-1                         all 
 ii   systemd-resolved                       255.3-1                         amd64  systemd DNS resolver
 ii   systemd-sysv                           255.3-1                         amd64  system and service manager - SysV compatibility symlinks
 ii   systemd-timesyncd                      255.3-1                         amd64  minimalistic service to synchronize local time with NTP servers
-ii   sysvinit-utils                         3.08-5                          amd64  System-V-like utilities
+ii   sysvinit-utils                         3.08-6                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.4-3                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
