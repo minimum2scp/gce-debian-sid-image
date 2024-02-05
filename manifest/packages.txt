@@ -331,7 +331,7 @@ ii   rsyslog                                8.2312.0-3                      amd6
 ii   runit-helper                           2.16.2                          all    dh-runit implementation detail
 ii   screen                                 4.9.1-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                           amd64  GNU stream editor for filtering/transforming text
-ii   sensible-utils                         0.0.20                          all    Utilities for sensible alternative selection
+ii   sensible-utils                         0.0.22                          all    Utilities for sensible alternative selection
 ii   sgml-base                              1.31                            all    SGML infrastructure and SGML catalog file support
 ii   shim-helpers-amd64-signed              1+15.7+1                        amd64  boot loader to chain-load signed boot loaders (signed by Debian)
 ii   shim-signed                            1.40+15.7-1                     amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
