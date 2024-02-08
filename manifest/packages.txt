@@ -52,7 +52,7 @@ ii   git-man                                1:2.43.0-1                      all 
 ii   gnupg                                  2.2.40-1.1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1.1+b1                   amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       462.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli                       463.0.0-0                       amd64  Utilities for the Google Cloud Platform
 ii   google-cloud-packages-archive-keyring  1.2-604357420                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20240109.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20231004.00-g1+deb12          amd64  Google Compute Engine OS Login
@@ -104,7 +104,7 @@ ii   libbsd0                                0.11.8-1                        amd6
 ii   libbz2-1.0                             1.0.8-5+b2                      amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.37-15                         amd64  GNU C Library: Binaries
 ii   libc6                                  2.37-15                         amd64  GNU C Library: Shared libraries
-ii   libcap-ng0                             0.8.4-1                         amd64  alternate POSIX capabilities library
+ii   libcap-ng0                             0.8.4-2                         amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.66-5                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-5                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.10                            0.10.2-1.1                      amd64  library for parsing and generating CBOR (RFC 7049)
