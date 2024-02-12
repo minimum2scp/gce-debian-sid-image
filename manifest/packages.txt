@@ -82,7 +82,7 @@ ii   initramfs-tools                        0.142                           all 
 ii   initramfs-tools-core                   0.142                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.7.0-2                         amd64  networking and traffic control tools
 ii   iptables                               1.8.10-3                        amd64  administration tools for packet filtering and NAT
-ii   iputils-ping                           3:20221126-1                    amd64  Tools to test the reachability of network hosts
+ii   iputils-ping                           3:20240117-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-4                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-4                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.13-2+b1                     amd64  small utilities built with klibc for early boot
