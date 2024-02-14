@@ -1,8 +1,8 @@
 ii   adduser                                3.137                           all    add and remove users and groups
 ii   apparmor                               3.0.12-1+b2                     amd64  user-space parser utility for AppArmor
-ii   apt                                    2.7.10                          amd64  commandline package manager
+ii   apt                                    2.7.11                          amd64  commandline package manager
 ii   apt-listchanges                        3.27                            all    package change history notification tool
-ii   apt-utils                              2.7.10                          amd64  package management related utility programs
+ii   apt-utils                              2.7.11                          amd64  package management related utility programs
 ii   base-files                             13                              amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.3                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.21-2                        amd64  GNU Bourne Again SHell
@@ -24,7 +24,7 @@ ii   dbus-bin                               1.14.10-4                       amd6
 ii   dbus-daemon                            1.14.10-4                       amd64  simple interprocess messaging system (reference message bus)
 ii   dbus-session-bus-common                1.14.10-4                       all    simple interprocess messaging system (session bus configuration)
 ii   dbus-system-bus-common                 1.14.10-4                       all    simple interprocess messaging system (system bus configuration)
-ii   debconf                                1.5.85                          all    Debian configuration management system
+ii   debconf                                1.5.86                          all    Debian configuration management system
 ii   debian-archive-keyring                 2023.4                          all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.16                            amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.10-1                        amd64  File comparison utilities
@@ -52,7 +52,7 @@ ii   git-man                                1:2.43.0-1                      all 
 ii   gnupg                                  2.2.40-1.1                      all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.40-1.1                      all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.40-1.1+b1                   amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       463.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli                       464.0.0-0                       amd64  Utilities for the Google Cloud Platform
 ii   google-cloud-packages-archive-keyring  1.2-606291679                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20240109.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20231004.00-g1+deb12          amd64  Google Compute Engine OS Login
@@ -86,12 +86,12 @@ ii   iputils-ping                           3:20240117-1                    amd6
 ii   isc-dhcp-client                        4.4.3-P1-4                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-4                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.13-2+b1                     amd64  small utilities built with klibc for early boot
-ii   kmod                                   31+20240202-1                   amd64  tools for managing Linux kernel modules
+ii   kmod                                   31+20240202-2                   amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.20.1-5                        all    internationalization support for MIT Kerberos
 ii   less                                   590-2                           amd64  pager program similar to more
 ii   libacl1                                2.3.2-1                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.12-1+b2                     amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.7.10                          amd64  package management runtime library
+ii   libapt-pkg6.0                          2.7.11                          amd64  package management runtime library
 ii   libargon2-1                            0~20190702+dfsg-4+b1            amd64  memory-hard hashing function - runtime library
 ii   libassuan0                             2.5.6-1                         amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.2-1                       amd64  extended attribute handling - shared library
@@ -159,7 +159,7 @@ ii   libjson-c5                             0.17-1+b1                       amd6
 ii   libk5crypto3                           1.20.1-5+b1                     amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.3-3                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.13-2+b1                     amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               31+20240202-1                   amd64  libkmod shared library
+ii   libkmod2                               31+20240202-2                   amd64  libkmod shared library
 ii   libkrb5-3                              1.20.1-5+b1                     amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20.1-5+b1                     amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.5-2                         amd64  X.509 and CMS support library
@@ -241,7 +241,7 @@ ii   libtirpc-common                        1.3.4+ds-1                      all 
 ii   libtirpc3                              1.3.4+ds-1                      amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b1                      amd64  universal charset detection library - shared library
 ii   libudev1                               255.3-2                         amd64  libudev shared library
-ii   libunbound8                            1.18.0-2+b1                     amd64  library implementing DNS resolution and validation
+ii   libunbound8                            1.19.1-1                        amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libunistring5                          1.1-2                           amd64  Unicode string library for C
 ii   liburcu8                               0.14.0-3                        amd64  userspace RCU (read-copy-update) library
@@ -255,9 +255,9 @@ ii   libxxhash0                             0.8.2-2+b1                      amd6
 ii   libyaml-0-2                            0.2.5-1                         amd64  Fast YAML 1.1 parser and emitter library
 ii   libzstd1                               1.5.5+dfsg2-2                   amd64  fast lossless compression algorithm
 ii   linux-base                             4.9                             all    Linux image base package
-ii   linux-image-6.1.0-17-cloud-amd64       6.1.69-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-6.6.13-cloud-amd64         6.6.13-1                        amd64  Linux 6.6 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.6.13-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.1.0-18-cloud-amd64       6.1.76-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
+ii   linux-image-6.6.15-cloud-amd64         6.6.15-2                        amd64  Linux 6.6 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.6.15-2                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.13+dfsg1-3+b1               amd64  system login tools
 ii   logrotate                              3.21.0-2                        amd64  Log rotation utility
 ii   logsave                                1.47.0-2+b1                     amd64  save the output of a command in a log file
@@ -302,7 +302,7 @@ ii   python3-cffi-backend                   1.16.0-2+b1                     amd6
 ii   python3-chardet                        5.2.0+dfsg-1                    all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.3.2-1                         all    charset, encoding and language detection (Python 3)
 ii   python3-dbus                           1.3.2-5+b1                      amd64  simple interprocess messaging system (Python 3 interface)
-ii   python3-debconf                        1.5.85                          all    interact with debconf from Python 3
+ii   python3-debconf                        1.5.86                          all    interact with debconf from Python 3
 ii   python3-debian                         0.1.49                          all    Python 3 modules to work with Debian-related data formats
 ii   python3-debianbts                      4.0.2                           all    Python interface to Debian's Bug Tracking System
 ii   python3-httplib2                       0.20.4-3                        all    comprehensive HTTP client library written for Python3
