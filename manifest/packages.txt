@@ -7,8 +7,8 @@ ii   base-files                             13                              amd6
 ii   base-passwd                            3.6.3                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.21-2                        amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.11-8                        all    programmable completion for the bash shell
-ii   bind9-host                             1:9.19.19-1                     amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.19.19-1                     amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.19.21-1                     amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.19.21-1                     amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.39.3-6                        amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.39.3-6                      amd64  basic utilities from 4.4BSD-Lite
