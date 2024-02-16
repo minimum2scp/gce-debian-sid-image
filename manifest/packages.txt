@@ -107,7 +107,7 @@ ii   libc6                                  2.37-15                         amd6
 ii   libcap-ng0                             0.8.4-2                         amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.66-5                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-5                        amd64  POSIX 1003.1e capabilities (utilities)
-ii   libcbor0.10                            0.10.2-1.1                      amd64  library for parsing and generating CBOR (RFC 7049)
+ii   libcbor0.10                            0.10.2-1.2                      amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.0-2+b1                     amd64  common error description library
 ii   libcrypt1                              1:4.4.36-4                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.6.1-6+b1                    amd64  disk encryption support - shared library
@@ -140,7 +140,7 @@ ii   libgcc-s1                              14-20240201-3                   amd6
 ii   libgcrypt20                            1.10.3-2                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4                        1.23-5+b1                       amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6                               1.23-5+b1                       amd64  GNU dbm database routines (runtime version)
-ii   libglib2.0-0                           2.78.3-2                        amd64  GLib library of C routines
+ii   libglib2.0-0                           2.78.4-1                        amd64  GLib library of C routines
 ii   libgmp10                               2:6.3.0+dfsg-2+b1               amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0                        3.8.3-1                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30                            3.8.3-1                         amd64  GNU TLS library - main runtime library
