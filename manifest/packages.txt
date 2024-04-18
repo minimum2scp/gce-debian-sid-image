@@ -315,7 +315,7 @@ ii   python3-packaging                      24.0-1                          all 
 ii   python3-pkg-resources                  68.1.2-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pycurl                         7.45.3-2                        amd64  Python bindings to libcurl (Python 3)
 ii   python3-pygments                       2.17.2+dfsg-1                   all    syntax highlighting package written in Python 3
-ii   python3-pyparsing                      3.1.1-1                         all    alternative to creating and executing simple grammars - Python 3.x
+ii   python3-pyparsing                      3.1.2-1                         all    alternative to creating and executing simple grammars - Python 3.x
 ii   python3-pysimplesoap                   1.16.2-7                        all    simple and lightweight SOAP Library (Python 3)
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.31.0+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
@@ -344,7 +344,7 @@ ii   systemd-dev                            255.4-1                         all 
 ii   systemd-resolved                       255.4-1+b1                      amd64  systemd DNS resolver
 ii   systemd-sysv                           255.4-1+b1                      amd64  system and service manager - SysV compatibility symlinks
 ii   systemd-timesyncd                      255.4-1+b1                      amd64  minimalistic service to synchronize local time with NTP servers
-ii   sysvinit-utils                         3.08-7                          amd64  System-V-like utilities
+ii   sysvinit-utils                         3.09-1                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.4-3+b1                     amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
