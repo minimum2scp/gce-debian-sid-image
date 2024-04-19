@@ -101,8 +101,8 @@ ii   libbpf1                                1:1.3.0-2+b1                    amd6
 ii   libbrotli1                             1.1.0-2+b3                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-5.1                       amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.37-17                         amd64  GNU C Library: Binaries
-ii   libc6                                  2.37-17                         amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.37-18                         amd64  GNU C Library: Binaries
+ii   libc6                                  2.37-18                         amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-1                         amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.66-5                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-5                        amd64  POSIX 1003.1e capabilities (utilities)
@@ -183,7 +183,7 @@ ii   libnettle8t64                          3.9.1-2.2                       amd6
 ii   libnewt0.52                            0.52.24-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.6-2                         amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.61.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.61.0-1+b1                     amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0t64                            1.6-3.1                         amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b2                      amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-resolve                         255.4-1+b1                      amd64  nss module to resolve names via systemd-resolved
