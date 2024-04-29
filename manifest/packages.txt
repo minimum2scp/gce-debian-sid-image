@@ -6,7 +6,7 @@ ii   apt-utils                              2.9.2                           amd6
 ii   base-files                             13.1                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.3                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.21-2                        amd64  GNU Bourne Again SHell
-ii   bash-completion                        1:2.11-8                        all    programmable completion for the bash shell
+ii   bash-completion                        1:2.12.0-1                      all    programmable completion for the bash shell
 ii   bind9-host                             1:9.19.21-1+b1                  amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.19.21-1+b1                  amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
@@ -270,7 +270,7 @@ ii   mount                                  2.40-8                          amd6
 ii   nano                                   7.2-2                           amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.4+20240414-1                  all    basic terminal type definitions
 ii   ncurses-bin                            6.4+20240414-1                  amd64  terminal-related programs and man pages
-ii   net-tools                              2.10-0.1                        amd64  NET-3 networking toolkit
+ii   net-tools                              2.10-1.1                        amd64  NET-3 networking toolkit
 ii   netbase                                6.4                             all    Basic TCP/IP networking system
 ii   netplan-generator                      1.0-2                           amd64  Declarative network configuration systemd-generator
 ii   netplan.io                             1.0-2                           amd64  Declarative network configuration for various backends
@@ -346,7 +346,7 @@ ii   systemd-sysv                           255.5-1                         amd6
 ii   systemd-timesyncd                      255.5-1                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.09-1                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
-ii   tcpdump                                4.99.4-3+b1                     amd64  command-line network traffic analyzer
+ii   tcpdump                                4.99.4-4                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2024a-3                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
