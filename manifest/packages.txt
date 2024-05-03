@@ -6,7 +6,7 @@ ii   apt-utils                              2.9.2                           amd6
 ii   base-files                             13.1                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.3                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.21-2                        amd64  GNU Bourne Again SHell
-ii   bash-completion                        1:2.12.0-1                      all    programmable completion for the bash shell
+ii   bash-completion                        1:2.13.0-1                      all    programmable completion for the bash shell
 ii   bind9-host                             1:9.19.21-1+b1                  amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.19.21-1+b1                  amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
@@ -89,7 +89,7 @@ ii   klibc-utils                            2.0.13-4                        amd6
 ii   kmod                                   32-1                            amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.20.1-6                        all    internationalization support for MIT Kerberos
 ii   less                                   643-1                           amd64  pager program similar to more
-ii   libacl1                                2.3.2-1                         amd64  access control list - shared library
+ii   libacl1                                2.3.2-2                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.13-2                        amd64  changehat AppArmor library
 ii   libapt-pkg6.0t64                       2.9.2                           amd64  package management runtime library
 ii   libassuan0                             2.5.6-1+b1                      amd64  IPC library for the GnuPG components
@@ -348,7 +348,7 @@ ii   sysvinit-utils                         3.09-1                          amd6
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.4-4                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2024a-3                         all    time zone and daylight-saving time data
+ii   tzdata                                 2024a-4                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   255.5-1                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39                              all    Transitional package to assert a merged-/usr system
