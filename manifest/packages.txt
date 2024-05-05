@@ -139,7 +139,7 @@ ii   libgcc-s1                              14-20240429-1                   amd6
 ii   libgcrypt20                            1.10.3-2+b1                     amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.23-5.1+b1                     amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.23-5.1+b1                     amd64  GNU dbm database routines (runtime version)
-ii   libglib2.0-0t64                        2.78.4-7                        amd64  GLib library of C routines
+ii   libglib2.0-0t64                        2.80.0-9                        amd64  GLib library of C routines
 ii   libgmp10                               2:6.3.0+dfsg-2+b1               amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.5-2                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.5-2                         amd64  GNU TLS library - main runtime library
