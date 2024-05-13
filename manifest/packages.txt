@@ -246,7 +246,7 @@ ii   libunistring5                          1.2-1                           amd6
 ii   liburcu8t64                            0.14.0-3.1                      amd64  userspace RCU (read-copy-update) library
 ii   libutempter0                           1.2.1-3+b1                      amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.40-8                          amd64  Universally Unique ID library
-ii   libuv1t64                              1.48.0-1.1                      amd64  asynchronous event notification library - runtime library
+ii   libuv1t64                              1.48.0-3                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-33                        amd64  Wietse Venema's TCP wrappers library
 ii   libxml2                                2.9.14+dfsg-1.3+b3              amd64  GNOME XML library
 ii   libxtables12                           1.8.10-3                        amd64  netfilter xtables library
