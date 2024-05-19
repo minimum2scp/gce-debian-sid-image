@@ -18,7 +18,7 @@ ii   cpio                                   2.15+dfsg-1                     amd6
 ii   cron                                   3.0pl1-189                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-189                      all    process scheduling daemon's configuration files
 ii   curl                                   8.7.1-5                         amd64  command line tool for transferring data with URL syntax
-ii   dash                                   0.5.12-6                        amd64  POSIX-compliant shell
+ii   dash                                   0.5.12-7                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.10-4+b1                    amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.10-4+b1                    amd64  simple interprocess messaging system (command line utilities)
 ii   dbus-daemon                            1.14.10-4+b1                    amd64  simple interprocess messaging system (reference message bus)
