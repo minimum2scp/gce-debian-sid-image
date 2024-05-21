@@ -33,7 +33,7 @@ ii   distro-info-data                       0.62                            all 
 ii   dmidecode                              3.5-3                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.196-1+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.22.6                          amd64  Debian package management system
-ii   e2fsprogs                              1.47.1~rc2-1                    amd64  ext2/ext3/ext4 file system utilities
+ii   e2fsprogs                              1.47.1-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-1+b1                         amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.21-1                       all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.7-1                         amd64  display or change Ethernet device settings
@@ -108,7 +108,7 @@ ii   libcap-ng0                             0.8.5-1                         amd6
 ii   libcap2                                1:2.66-5                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-5                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.10                            0.10.2-1.2                      amd64  library for parsing and generating CBOR (RFC 7049)
-ii   libcom-err2                            1.47.1~rc2-1                    amd64  common error description library
+ii   libcom-err2                            1.47.1-1                        amd64  common error description library
 ii   libcrypt1                              1:4.4.36-4                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.2-2                       amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.7.1-5                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
@@ -126,7 +126,7 @@ ii   liberror-perl                          0.17029-2                       all 
 ii   libestr0                               0.1.11-1+b1                     amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10                amd64  Asynchronous event notification library
 ii   libexpat1                              2.6.2-1                         amd64  XML parsing C library - runtime library
-ii   libext2fs2t64                          1.47.1~rc2-1                    amd64  ext2/ext3/ext4 file system libraries
+ii   libext2fs2t64                          1.47.1-1                        amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           1.2304.0-1+b1                   amd64  fast json library for C
 ii   libfdisk1                              2.40.1-1                        amd64  fdisk partitioning library
 ii   libffi8                                3.4.6-1                         amd64  Foreign Function Interface library runtime
@@ -228,7 +228,7 @@ ii   libslang2                              2.3.3-5                         amd6
 ii   libsmartcols1                          2.40.1-1                        amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1+b1                     amd64  Network communication, cryptography and signaturing library
 ii   libsqlite3-0                           3.45.3-1                        amd64  SQLite 3 shared library
-ii   libss2                                 1.47.1~rc2-1                    amd64  command-line interface parsing library
+ii   libss2                                 1.47.1-1                        amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.0-4.1+b2                   amd64  SSH2 client-side library
 ii   libssl3t64                             3.2.1-3                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.1.0-1                        amd64  GNU Standard C++ Library v3
@@ -260,7 +260,7 @@ ii   linux-image-6.8.9-cloud-amd64          6.8.9-1                         amd6
 ii   linux-image-cloud-amd64                6.8.9-1                         amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.13+dfsg1-4                  amd64  system login tools
 ii   logrotate                              3.21.0-2                        amd64  Log rotation utility
-ii   logsave                                1.47.1~rc2-1                    amd64  save the output of a command in a log file
+ii   logsave                                1.47.1-1                        amd64  save the output of a command in a log file
 ii   lsb-release                            12.0-2                          all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.12.1-1                        amd64  tools for reading manual pages
 ii   manpages                               6.7-2                           all    Manual pages about using a GNU/Linux system
