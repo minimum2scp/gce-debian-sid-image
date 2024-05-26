@@ -1,8 +1,8 @@
 ii   adduser                                3.137                           all    add and remove users and groups
 ii   apparmor                               3.0.13-2                        amd64  user-space parser utility for AppArmor
-ii   apt                                    2.9.3                           amd64  commandline package manager
+ii   apt                                    2.9.4                           amd64  commandline package manager
 ii   apt-listchanges                        3.27                            all    package change history notification tool
-ii   apt-utils                              2.9.3                           amd64  package management related utility programs
+ii   apt-utils                              2.9.4                           amd64  package management related utility programs
 ii   base-files                             13.2                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.3                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.21-2+b1                     amd64  GNU Bourne Again SHell
@@ -36,7 +36,7 @@ ii   dpkg                                   1.22.6                          amd6
 ii   e2fsprogs                              1.47.1-1                        amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-1+b1                         amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.21-1                       all    store /etc in git, mercurial, brz or darcs
-ii   ethtool                                1:6.7-1                         amd64  display or change Ethernet device settings
+ii   ethtool                                1:6.9-1                         amd64  display or change Ethernet device settings
 ii   exim4-base                             4.97-8                          amd64  support files for all Exim MTA (v4) packages
 ii   exim4-config                           4.97-8                          all    configuration for the Exim MTA (v4)
 ii   exim4-daemon-light                     4.97-8                          amd64  lightweight Exim MTA (v4) daemon
@@ -87,18 +87,18 @@ ii   iputils-ping                           3:20240117-1                    amd6
 ii   isc-dhcp-client                        4.4.3-P1-5                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-5                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.13-4                        amd64  small utilities built with klibc for early boot
-ii   kmod                                   32-1                            amd64  tools for managing Linux kernel modules
+ii   kmod                                   32+20240327-1                   amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.20.1-6                        all    internationalization support for MIT Kerberos
 ii   less                                   643-1                           amd64  pager program similar to more
 ii   libacl1                                2.3.2-2                         amd64  access control list - shared library
 ii   libapparmor1                           3.0.13-2                        amd64  changehat AppArmor library
-ii   libapt-pkg6.0t64                       2.9.3                           amd64  package management runtime library
+ii   libapt-pkg6.0t64                       2.9.4                           amd64  package management runtime library
 ii   libassuan0                             2.5.6-1+b1                      amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.2-1                       amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:3.1.2-2.1                     all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:3.1.2-2.1                     amd64  Dynamic library for security auditing
 ii   libblkid1                              2.40.1-1                        amd64  block device ID library
-ii   libbpf1                                1:1.4.1-1                       amd64  eBPF helper library (shared library)
+ii   libbpf1                                1:1.4.2-1                       amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.1.0-2+b3                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-5.1                       amd64  high-quality block-sorting file compressor library - runtime
@@ -159,7 +159,7 @@ ii   libjson-c5                             0.17-1+b1                       amd6
 ii   libk5crypto3                           1.20.1-6+b1                     amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.3-3                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.13-4                        amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               32-1                            amd64  libkmod shared library
+ii   libkmod2                               32+20240327-1                   amd64  libkmod shared library
 ii   libkrb5-3                              1.20.1-6+b1                     amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20.1-6+b1                     amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.6-1                         amd64  X.509 and CMS support library
@@ -249,7 +249,7 @@ ii   libutempter0                           1.2.1-3+b1                      amd6
 ii   libuuid1                               2.40.1-1                        amd64  Universally Unique ID library
 ii   libuv1t64                              1.48.0-4                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-33                        amd64  Wietse Venema's TCP wrappers library
-ii   libxml2                                2.12.7+dfsg-1                   amd64  GNOME XML library
+ii   libxml2                                2.12.7+dfsg-2                   amd64  GNOME XML library
 ii   libxtables12                           1.8.10-3                        amd64  netfilter xtables library
 ii   libxxhash0                             0.8.2-2+b1                      amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-1+b1                      amd64  Fast YAML 1.1 parser and emitter library
