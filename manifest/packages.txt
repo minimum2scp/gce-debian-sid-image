@@ -41,7 +41,7 @@ ii   exim4-base                             4.97-8                          amd6
 ii   exim4-config                           4.97-8                          all    configuration for the Exim MTA (v4)
 ii   exim4-daemon-light                     4.97-8                          amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.45-3                        amd64  Recognize the type of data in a file using "magic" numbers
-ii   findutils                              4.9.0-6                         amd64  utilities for finding files--find, xargs
+ii   findutils                              4.10.0-2                        amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.3.0-17                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-14-base                            14.1.0-1                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
@@ -184,7 +184,7 @@ ii   libnettle8t64                          3.9.1-2.2                       amd6
 ii   libnewt0.52                            0.52.24-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.6-2+b1                      amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.61.0-1+b1                     amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.62.1-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnpth0t64                            1.6-3.1                         amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b2                      amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-resolve                         256~rc4-1                       amd64  nss module to resolve names via systemd-resolved
@@ -263,7 +263,7 @@ ii   logrotate                              3.21.0-2                        amd6
 ii   logsave                                1.47.1-1                        amd64  save the output of a command in a log file
 ii   lsb-release                            12.0-2                          all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.12.1-2                        amd64  tools for reading manual pages
-ii   manpages                               6.8-1                           all    Manual pages about using a GNU/Linux system
+ii   manpages                               6.8-2                           all    Manual pages about using a GNU/Linux system
 ii   mawk                                   1.3.4.20240123-1                amd64  Pattern scanning and text processing language
 ii   media-types                            10.1.0                          all    List of standard media types and their usual file extension
 ii   mokutil                                0.6.0-2+b1                      amd64  tools for manipulating machine owner keys
