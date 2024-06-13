@@ -87,7 +87,7 @@ ii   iputils-ping                           3:20240117-1                    amd6
 ii   isc-dhcp-client                        4.4.3-P1-5                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-5                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.13-4                        amd64  small utilities built with klibc for early boot
-ii   kmod                                   32+20240327-1                   amd64  tools for managing Linux kernel modules
+ii   kmod                                   32+20240611-1                   amd64  tools for managing Linux kernel modules
 ii   krb5-locales                           1.20.1-6                        all    internationalization support for MIT Kerberos
 ii   less                                   643-1                           amd64  pager program similar to more
 ii   libacl1                                2.3.2-2                         amd64  access control list - shared library
@@ -159,12 +159,12 @@ ii   libjson-c5                             0.17-1+b1                       amd6
 ii   libk5crypto3                           1.20.1-6+b1                     amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                           1.6.3-3                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.13-4                        amd64  minimal libc subset for use with initramfs
-ii   libkmod2                               32+20240327-1                   amd64  libkmod shared library
+ii   libkmod2                               32+20240611-1                   amd64  libkmod shared library
 ii   libkrb5-3                              1.20.1-6+b1                     amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.20.1-6+b1                     amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.6-1                         amd64  X.509 and CMS support library
-ii   libldap-2.5-0                          2.5.17+dfsg-1                   amd64  OpenLDAP libraries
-ii   libldap-common                         2.5.17+dfsg-1                   all    OpenLDAP common files for libraries
+ii   libldap-2.5-0                          2.5.18+dfsg-1                   amd64  OpenLDAP libraries
+ii   libldap-common                         2.5.18+dfsg-1                   all    OpenLDAP common files for libraries
 ii   liblmdb0                               0.9.31-1+b1                     amd64  Lightning Memory-Mapped Database shared library
 ii   liblockfile-bin                        1.17-1+b1                       amd64  support binaries for and cli utilities based on liblockfile
 ii   liblockfile1                           1.17-1+b1                       amd64  NFS-safe locking library
@@ -314,10 +314,9 @@ ii   python3-netplan                        1.0-3                           amd6
 ii   python3-pkg-resources                  68.1.2-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pygments                       2.18.0+dfsg-1                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
-ii   python3-requests                       2.31.0+dfsg-2                   all    elegant and simple HTTP library for Python3, built for human beings
+ii   python3-requests                       2.32.3+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.7.1-1                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
-ii   python3-six                            1.16.0-6                        all    Python 2 and 3 compatibility library
-ii   python3-urllib3                        1.26.18-2                       all    HTTP library with thread-safe connection pooling for Python3
+ii   python3-urllib3                        2.0.7-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.1-2                         amd64  YAML parser and emitter for Python3
 ii   python3.11                             3.11.9-1                        amd64  Interactive high-level object-oriented language (version 3.11)
 ii   python3.11-minimal                     3.11.9-1                        amd64  Minimal subset of the Python language (version 3.11)
