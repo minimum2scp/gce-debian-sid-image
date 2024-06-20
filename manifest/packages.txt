@@ -43,7 +43,7 @@ ii   exim4-daemon-light                     4.97-8                          amd6
 ii   file                                   1:5.45-3                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-2                        amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.3.0-17                       amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-14-base                            14.1.0-1                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-14-base                            14.1.0-2                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-1                        amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.21-15                         amd64  GNU Internationalization utilities for the base system
@@ -137,7 +137,7 @@ ii   libfile-find-rule-perl                 0.34-3                          all 
 ii   libfreetype6                           2.13.2+dfsg-1+b4                amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b2                      amd64  Frame Streams (fstrm) library
 ii   libfuse3-3                             3.14.0-5                        amd64  Filesystem in Userspace (library) (3.x version)
-ii   libgcc-s1                              14.1.0-1                        amd64  GCC support library
+ii   libgcc-s1                              14.1.0-2                        amd64  GCC support library
 ii   libgcrypt20                            1.10.3-3                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.23-6                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.23-6                          amd64  GNU dbm database routines (runtime version)
@@ -202,7 +202,7 @@ ii   libpam-systemd                         256.1-1                         amd6
 ii   libpam0g                               1.5.3-7                         amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-4                           amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.4-5                        amd64  system interface for user-level packet capture
-ii   libpci3                                1:3.12.0-1                      amd64  PCI utilities (shared library)
+ii   libpci3                                1:3.13.0-1                      amd64  PCI utilities (shared library)
 ii   libpcre2-8-0                           10.42-4+b1                      amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libperl5.36                            5.36.0-7+deb12u1                amd64  shared Perl library
 ii   libperl5.38t64                         5.38.2-5                        amd64  shared Perl library
@@ -234,7 +234,7 @@ ii   libsqlite3-0                           3.46.0-1                        amd6
 ii   libss2                                 1.47.1-1                        amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.0-5                        amd64  SSH2 client-side library
 ii   libssl3t64                             3.2.2-1                         amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             14.1.0-1                        amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             14.1.0-2                        amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      256.1-1                         amd64  systemd shared private library
 ii   libsystemd0                            256.1-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-3+b2                     amd64  Manage ASN.1 structures (runtime)
@@ -250,7 +250,7 @@ ii   libunistring5                          1.2-1                           amd6
 ii   liburcu8t64                            0.14.0-4                        amd64  userspace RCU (read-copy-update) library
 ii   libutempter0                           1.2.1-3+b1                      amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.40.1-8.1                      amd64  Universally Unique ID library
-ii   libuv1t64                              1.48.0-4                        amd64  asynchronous event notification library - runtime library
+ii   libuv1t64                              1.48.0-5                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-33                        amd64  Wietse Venema's TCP wrappers library
 ii   libxml2                                2.12.7+dfsg-3                   amd64  GNOME XML library
 ii   libxtables12                           1.8.10-4                        amd64  netfilter xtables library
@@ -288,7 +288,7 @@ ii   os-prober                              1.82                            amd6
 ii   parted                                 3.6-4                           amd64  disk partition manipulator
 ii   passwd                                 1:4.13+dfsg1-5                  amd64  change and administer password and group data
 ii   pci.ids                                0.0~2024.05.31-1                all    PCI ID Repository
-ii   pciutils                               1:3.12.0-1                      amd64  PCI utilities
+ii   pciutils                               1:3.13.0-1                      amd64  PCI utilities
 ii   perl                                   5.38.2-5                        amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.38.2-5                        amd64  minimal Perl system
 ii   perl-modules-5.36                      5.36.0-7+deb12u1                all    Core Perl modules
@@ -356,10 +356,10 @@ ii   usrmerge                               39                              all 
 ii   util-linux                             2.40.1-8.1                      amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.40.1-8.1                      amd64  interactive login tools
 ii   uuid-runtime                           2.40.1-8.1                      amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.1.0377-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.1.0377-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.1.0377-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.1.0377-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.1.0496-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.1.0496-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.1.0496-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.1.0496-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.24.5-1                        amd64  retrieves files from the web
 ii   whiptail                               0.52.24-2                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-1                          amd64  tool to manage well known user directories
