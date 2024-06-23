@@ -151,7 +151,7 @@ ii   libgpg-error0                          1.49-2                          amd6
 ii   libgpm2                                1.20.7-11                       amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.21.2-1                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1+b2                     amd64  entropy source using the HAVEGE algorithm - shared library
-ii   libhogweed6t64                         3.9.1-2.2                       amd64  low level cryptographic library (public-key cryptos)
+ii   libhogweed6t64                         3.10-1                          amd64  low level cryptographic library (public-key cryptos)
 ii   libicu72                               72.1-4+b1                       amd64  International Components for Unicode
 ii   libidn12                               1.42-2                          amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.3.7-2                         amd64  Internationalized domain names (IDNA2008/TR46) library
@@ -183,7 +183,7 @@ ii   libmount1                              2.40.1-8.1                      amd6
 ii   libncursesw6                           6.5-2                           amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.9-6+b1                      amd64  Netfilter netlink-conntrack library
 ii   libnetplan1                            1.0-4                           amd64  Declarative network configuration runtime library
-ii   libnettle8t64                          3.9.1-2.2                       amd64  low level cryptographic library (symmetric and one-way cryptos)
+ii   libnettle8t64                          3.10-1                          amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.24-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.6-2+b1                      amd64  Netfilter nftables userspace API library
@@ -261,7 +261,7 @@ ii   linux-base                             4.9                             all 
 ii   linux-image-6.1.0-21-cloud-amd64       6.1.90-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
 ii   linux-image-6.8.12-cloud-amd64         6.8.12-1                        amd64  Linux 6.8 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                6.8.12-1                        amd64  Linux for x86-64 cloud (meta-package)
-ii   login                                  1:4.13+dfsg1-5                  amd64  system login tools
+ii   login                                  1:4.15.2-1                      amd64  system login tools
 ii   logrotate                              3.21.0-2                        amd64  Log rotation utility
 ii   logsave                                1.47.1-1                        amd64  save the output of a command in a log file
 ii   lsb-release                            12.1-1                          all    Linux Standard Base version reporting utility (minimal implementation)
@@ -286,7 +286,7 @@ ii   openssh-sftp-server                    1:9.7p1-5                       amd6
 ii   openssl                                3.2.2-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.82                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-4                           amd64  disk partition manipulator
-ii   passwd                                 1:4.13+dfsg1-5                  amd64  change and administer password and group data
+ii   passwd                                 1:4.15.2-1                      amd64  change and administer password and group data
 ii   pci.ids                                0.0~2024.05.31-1                all    PCI ID Repository
 ii   pciutils                               1:3.13.0-1                      amd64  PCI utilities
 ii   perl                                   5.38.2-5                        amd64  Larry Wall's Practical Extraction and Report Language
