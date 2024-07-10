@@ -71,11 +71,12 @@ ii   gpgv                                   2.2.43-7                        amd6
 ii   grep                                   3.11-4                          amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.23.0-5                        amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.1.1                           amd64  GRand Unified Bootloader (cloud setup)
-ii   grub-common                            2.12-2                          amd64  GRand Unified Bootloader (common files)
-ii   grub-efi-amd64-bin                     2.12-2                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
-ii   grub-efi-amd64-signed                  1+2.12+2                        amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
-ii   grub-pc-bin                            2.12-2                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
-ii   grub2-common                           2.12-2                          amd64  GRand Unified Bootloader (common files for version 2)
+ii   grub-common                            2.12-4                          amd64  GRand Unified Bootloader (common files)
+ii   grub-efi-amd64-bin                     2.12-4                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
+ii   grub-efi-amd64-signed                  1+2.12+4                        amd64  GRand Unified Bootloader, version 2 (amd64 UEFI signed by Debian)
+ii   grub-efi-amd64-unsigned                2.12-4                          amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 images)
+ii   grub-pc-bin                            2.12-4                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
+ii   grub2-common                           2.12-4                          amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.12-1.1                        amd64  GNU compression utilities
 ii   haveged                                1.9.14-1+b2                     amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23+nmu2                       amd64  utility to set/show the host name or domain name
@@ -138,7 +139,7 @@ ii   libfreetype6                           2.13.2+dfsg-1+b4                amd6
 ii   libfstrm0                              0.6.1-1+b2                      amd64  Frame Streams (fstrm) library
 ii   libfuse3-3                             3.14.0-6                        amd64  Filesystem in Userspace (library) (3.x version)
 ii   libgcc-s1                              14.1.0-3                        amd64  GCC support library
-ii   libgcrypt20                            1.10.3-3                        amd64  LGPL Crypto library - runtime library
+ii   libgcrypt20                            1.11.0-2                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.23-6                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.23-6                          amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-1.0-1                  1.80.1-3+b1                     amd64  Library for handling GObject introspection data (runtime library)
@@ -319,7 +320,7 @@ ii   python3-mdurl                          0.1.2-1                         all 
 ii   python3-minimal                        3.12.3-1                        amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netifaces                      0.11.0-2+b2                     amd64  portable network interface information - Python 3.x
 ii   python3-netplan                        1.0.1-1                         amd64  Declarative network configuration Python bindings
-ii   python3-pkg-resources                  68.1.2-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  68.1.2-4                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pygments                       2.18.0+dfsg-1                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
