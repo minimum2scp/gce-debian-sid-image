@@ -15,7 +15,7 @@ variables {
 }
 
 locals {
-  expected_source_image = "debian-12-bookworm-v20240701"
+  expected_source_image = "debian-12-bookworm-v20240709"
   image_family          = "debian-sid"
   image_name            = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
 }
