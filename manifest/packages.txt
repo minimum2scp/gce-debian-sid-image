@@ -1,5 +1,5 @@
 ii   adduser                                3.137                           all    add and remove users and groups
-ii   apparmor                               3.1.7-1                         amd64  user-space parser utility for AppArmor
+ii   apparmor                               3.1.7-1+b1                      amd64  user-space parser utility for AppArmor
 ii   apt                                    2.9.6                           amd64  commandline package manager
 ii   apt-listchanges                        3.27                            all    package change history notification tool
 ii   apt-utils                              2.9.6                           amd64  package management related utility programs
@@ -94,20 +94,20 @@ ii   kmod                                   32+20240611-1                   amd6
 ii   krb5-locales                           1.21.3-3                        all    internationalization support for MIT Kerberos
 ii   less                                   643-1                           amd64  pager program similar to more
 ii   libacl1                                2.3.2-2                         amd64  access control list - shared library
-ii   libapparmor1                           3.1.7-1                         amd64  changehat AppArmor library
+ii   libapparmor1                           3.1.7-1+b1                      amd64  changehat AppArmor library
 ii   libapt-pkg6.0t64                       2.9.6                           amd64  package management runtime library
 ii   libassuan0                             2.5.6-1+b1                      amd64  IPC library for the GnuPG components
 ii   libattr1                               1:2.5.2-1                       amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:3.1.2-4                       all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:3.1.2-4                       amd64  Dynamic library for security auditing
+ii   libaudit1                              1:3.1.2-4+b1                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.40.2-1                        amd64  block device ID library
 ii   libbpf1                                1:1.4.3-1                       amd64  eBPF helper library (shared library)
-ii   libbrotli1                             1.1.0-2+b3                      amd64  library implementing brotli encoder and decoder (shared libraries)
+ii   libbrotli1                             1.1.0-2+b4                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-5.1                       amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.38-14                         amd64  GNU C Library: Binaries
 ii   libc6                                  2.38-14                         amd64  GNU C Library: Shared libraries
-ii   libcap-ng0                             0.8.5-1                         amd64  alternate POSIX capabilities library
+ii   libcap-ng0                             0.8.5-1+b1                      amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.66-5                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-5                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.10                            0.10.2-1.2                      amd64  library for parsing and generating CBOR (RFC 7049)
@@ -124,7 +124,7 @@ ii   libduktape207                          2.7.0-2+b1                      amd6
 ii   libedit2                               3.1-20240517-1                  amd64  BSD editline and history libraries
 ii   libefiboot1t64                         38-3.1                          amd64  Library to manage UEFI variables
 ii   libefivar1t64                          38-3.1                          amd64  Library to manage UEFI variables
-ii   libelf1t64                             0.191-1+b1                      amd64  library to read and write ELF files
+ii   libelf1t64                             0.191-2                         amd64  library to read and write ELF files
 ii   liberror-perl                          0.17029-2                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-1+b1                     amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10                amd64  Asynchronous event notification library
@@ -185,7 +185,7 @@ ii   libncursesw6                           6.5-2                           amd6
 ii   libnetfilter-conntrack3                1.0.9-6+b1                      amd64  Netfilter netlink-conntrack library
 ii   libnetplan1                            1.0.1-1                         amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10-1                          amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.24-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.24-2+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.6-2+b1                      amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.62.1-2                        amd64  library implementing HTTP/2 protocol (shared library)
@@ -227,7 +227,7 @@ ii   libsasl2-2                             2.1.28+dfsg1-6                  amd6
 ii   libsasl2-modules                       2.1.28+dfsg1-6                  amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.28+dfsg1-6                  amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.5.5-1+b1                      amd64  high level interface to Linux seccomp filter
-ii   libselinux1                            3.5-2+b2                        amd64  SELinux runtime shared libraries
+ii   libselinux1                            3.5-2+b3                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.5-1                           all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.5-1+b4                        amd64  SELinux policy management library
 ii   libsepol2                              3.5-2+b1                        amd64  SELinux library for manipulating binary security policies
@@ -256,7 +256,7 @@ ii   libutempter0                           1.2.1-3+b1                      amd6
 ii   libuuid1                               2.40.2-1                        amd64  Universally Unique ID library
 ii   libuv1t64                              1.48.0-5                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-33                        amd64  Wietse Venema's TCP wrappers library
-ii   libxml2                                2.12.7+dfsg-3                   amd64  GNOME XML library
+ii   libxml2                                2.12.7+dfsg-3+b1                amd64  GNOME XML library
 ii   libxtables12                           1.8.10-4                        amd64  netfilter xtables library
 ii   libxxhash0                             0.8.2-2+b1                      amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-1+b1                      amd64  Fast YAML 1.1 parser and emitter library
@@ -304,35 +304,35 @@ ii   psmisc                                 23.7-1                          amd6
 ii   publicsuffix                           20231001.0357-0.1               all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      2.9.0                           all    Python interface to libapt-pkg (locales)
 ii   python3                                3.12.3-1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   python3-apt                            2.9.0                           amd64  Python 3 interface to libapt-pkg
+ii   python3-apt                            2.9.0+b1                        amd64  Python 3 interface to libapt-pkg
 ii   python3-certifi                        2024.6.2-1                      all    root certificates for validating SSL certs and verifying TLS hosts (python3)
-ii   python3-cffi-backend                   1.16.0-2+b2                     amd64  Foreign Function Interface for Python 3 calling C code - runtime
+ii   python3-cffi-backend                   1.16.0-2+b3                     amd64  Foreign Function Interface for Python 3 calling C code - runtime
 ii   python3-chardet                        5.2.0+dfsg-1                    all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.3.2-1                         all    charset, encoding and language detection (Python 3)
-ii   python3-dbus                           1.3.2-5+b2                      amd64  simple interprocess messaging system (Python 3 interface)
+ii   python3-dbus                           1.3.2-5+b3                      amd64  simple interprocess messaging system (Python 3 interface)
 ii   python3-debconf                        1.5.87                          all    interact with debconf from Python 3
 ii   python3-debian                         0.1.49                          all    Python 3 modules to work with Debian-related data formats
 ii   python3-debianbts                      4.1.1                           all    Python interface to Debian's Bug Tracking System
-ii   python3-gi                             3.48.2-1                        amd64  Python 3 bindings for gobject-introspection libraries
+ii   python3-gi                             3.48.2-1+b1                     amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.6-2.1                         all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.12.3-1                        amd64  minimal subset of the Python language (default python3 version)
-ii   python3-netifaces                      0.11.0-2+b2                     amd64  portable network interface information - Python 3.x
+ii   python3-netifaces                      0.11.0-2+b3                     amd64  portable network interface information - Python 3.x
 ii   python3-netplan                        1.0.1-1                         amd64  Declarative network configuration Python bindings
-ii   python3-pkg-resources                  68.1.2-4                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  70.3.0-2                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pygments                       2.18.0+dfsg-1                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.7.1-1                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
 ii   python3-urllib3                        2.0.7-2                         all    HTTP library with thread-safe connection pooling for Python3
-ii   python3-yaml                           6.0.1-2                         amd64  YAML parser and emitter for Python3
+ii   python3-yaml                           6.0.1-2+b1                      amd64  YAML parser and emitter for Python3
 ii   python3.12                             3.12.4-1                        amd64  Interactive high-level object-oriented language (version 3.12)
 ii   python3.12-minimal                     3.12.4-1                        amd64  Minimal subset of the Python language (version 3.12)
 ii   readline-common                        8.2-4                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.0.1                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2406.0-1                      amd64  reliable system and kernel logging daemon
-ii   runit-helper                           2.16.2                          all    dh-runit implementation detail
+ii   runit-helper                           2.16.3                          all    dh-runit implementation detail
 ii   screen                                 4.9.1-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                           amd64  GNU stream editor for filtering/transforming text
 ii   sensible-utils                         0.0.24                          all    Utilities for sensible alternative selection
@@ -365,7 +365,7 @@ ii   vim-common                             2:9.1.0496-1                    all 
 ii   vim-runtime                            2:9.1.0496-1                    all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:9.1.0496-1+b1                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.24.5-1                        amd64  retrieves files from the web
-ii   whiptail                               0.52.24-2                       amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.24-2+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-1                          amd64  tool to manage well known user directories
 ii   xml-core                               0.19                            all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.6.2-2                         amd64  XZ-format compression utilities
