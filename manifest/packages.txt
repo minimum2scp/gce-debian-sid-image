@@ -43,9 +43,9 @@ ii   exim4-daemon-light                     4.98-1                          amd6
 ii   file                                   1:5.45-3                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-2                        amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.4.0-2                        amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-14-base                            14.1.0-4                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-14-base                            14.1.0-5                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
-ii   gdisk                                  1.0.10-1                        amd64  GPT fdisk text-mode partitioning tool
+ii   gdisk                                  1.0.10-2                        amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.22.5-1                        amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.80.1-3+b1                     amd64  Introspection data for GIRepository library
 ii   gir1.2-glib-2.0                        2.80.4-1                        amd64  Introspection data for GLib, GObject, Gio and GModule
@@ -84,7 +84,7 @@ ii   init                                   1.66                            amd6
 ii   init-system-helpers                    1.66                            all    helper tools for all init systems
 ii   initramfs-tools                        0.142                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.142                           all    generic modular initramfs generator (core tools)
-ii   iproute2                               6.9.0-1                         amd64  networking and traffic control tools
+ii   iproute2                               6.10.0-1                        amd64  networking and traffic control tools
 ii   iptables                               1.8.10-4                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240117-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-5                      amd64  DHCP client for automatically obtaining an IP address
@@ -138,7 +138,7 @@ ii   libfile-find-rule-perl                 0.34-3                          all 
 ii   libfreetype6                           2.13.2+dfsg-1+b4                amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b2                      amd64  Frame Streams (fstrm) library
 ii   libfuse3-3                             3.14.0-6                        amd64  Filesystem in Userspace (library) (3.x version)
-ii   libgcc-s1                              14.1.0-4                        amd64  GCC support library
+ii   libgcc-s1                              14.1.0-5                        amd64  GCC support library
 ii   libgcrypt20                            1.11.0-2                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.23-6                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.23-6                          amd64  GNU dbm database routines (runtime version)
@@ -238,7 +238,7 @@ ii   libsqlite3-0                           3.46.0-1                        amd6
 ii   libss2                                 1.47.1-1                        amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.0-5                        amd64  SSH2 client-side library
 ii   libssl3t64                             3.2.2-1                         amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             14.1.0-4                        amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             14.1.0-5                        amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      256.2-1                         amd64  systemd shared private library
 ii   libsystemd0                            256.2-1                         amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-3+b2                     amd64  Manage ASN.1 structures (runtime)
@@ -271,7 +271,7 @@ ii   logsave                                1.47.1-1                        amd6
 ii   lsb-release                            12.1-1                          all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.12.1-2                        amd64  tools for reading manual pages
 ii   manpages                               6.8-2                           all    Manual pages about using a GNU/Linux system
-ii   mawk                                   1.3.4.20240622-1                amd64  Pattern scanning and text processing language
+ii   mawk                                   1.3.4.20240622-2                amd64  Pattern scanning and text processing language
 ii   media-types                            10.1.0                          all    List of standard media types and their usual file extension
 ii   mokutil                                0.6.0-2+b1                      amd64  tools for manipulating machine owner keys
 ii   mount                                  2.40.2-1                        amd64  tools for mounting and manipulating filesystems
