@@ -5,7 +5,7 @@ ii   apt-listchanges                        3.27                            all 
 ii   apt-utils                              2.9.7                           amd64  package management related utility programs
 ii   base-files                             13.5                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.4                           amd64  Debian base system master password and group files
-ii   bash                                   5.2.21-2.1                      amd64  GNU Bourne Again SHell
+ii   bash                                   5.2.21-2.1+b1                   amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.14.0-1                      all    programmable completion for the bash shell
 ii   bind9-host                             1:9.20.0-2                      amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.20.0-2                      amd64  Shared Libraries used by BIND 9
@@ -196,7 +196,7 @@ ii   libngtcp2-16                           1.6.0-1                         amd6
 ii   libngtcp2-crypto-gnutls8               1.6.0-1                         amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.6-3.1                         amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b2                      amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      256.4-2                         amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      256.4-3                         amd64  nss module providing fallback resolution for the current hostname
 ii   libnumber-compare-perl                 0.03-3                          all    module for performing numeric comparisons in Perl
 ii   libnvme1t64                            1.10-1                          amd64  NVMe management library (library)
 ii   libp11-kit0                            0.25.5-2                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -204,7 +204,7 @@ ii   libpam-cap                             1:2.66-5                        amd6
 ii   libpam-modules                         1.5.3-7                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.5.3-7                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.5.3-7                         all    Runtime support for the PAM library
-ii   libpam-systemd                         256.4-2                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         256.4-3                         amd64  system and service manager - PAM module
 ii   libpam0g                               1.5.3-7                         amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-4                           amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.4-5                        amd64  system interface for user-level packet capture
@@ -229,7 +229,7 @@ ii   libsasl2-2                             2.1.28+dfsg1-7                  amd6
 ii   libsasl2-modules                       2.1.28+dfsg1-7                  amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.28+dfsg1-7                  amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.5.5-1+b1                      amd64  high level interface to Linux seccomp filter
-ii   libselinux1                            3.5-2+b3                        amd64  SELinux runtime shared libraries
+ii   libselinux1                            3.5-2+b4                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.5-1                           all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.5-1+b4                        amd64  SELinux policy management library
 ii   libsepol2                              3.7-1                           amd64  SELinux library for manipulating binary security policies
@@ -241,15 +241,15 @@ ii   libss2                                 1.47.1-1                        amd6
 ii   libssh2-1t64                           1.11.0-7                        amd64  SSH2 client-side library
 ii   libssl3t64                             3.3.1-2                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-2                        amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      256.4-2                         amd64  systemd shared private library
-ii   libsystemd0                            256.4-2                         amd64  systemd utility library
+ii   libsystemd-shared                      256.4-3                         amd64  systemd shared private library
+ii   libsystemd0                            256.4-3                         amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-3+b2                     amd64  Manage ASN.1 structures (runtime)
 ii   libtext-glob-perl                      0.11-3                          all    Perl module for matching globbing patterns against text
 ii   libtinfo6                              6.5-2                           amd64  shared low-level terminfo library for terminal handling
 ii   libtirpc-common                        1.3.4+ds-1.3                    all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.4+ds-1.3                    amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b1                      amd64  universal charset detection library - shared library
-ii   libudev1                               256.4-2                         amd64  libudev shared library
+ii   libudev1                               256.4-3                         amd64  libudev shared library
 ii   libunbound8                            1.20.0-1+b1                     amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libunistring5                          1.2-1                           amd64  Unicode string library for C
@@ -309,7 +309,7 @@ ii   python-apt-common                      2.9.0                           all 
 ii   python3                                3.12.5-1                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            2.9.0+b1                        amd64  Python 3 interface to libapt-pkg
 ii   python3-certifi                        2024.6.2-1                      all    root certificates for validating SSL certs and verifying TLS hosts (python3)
-ii   python3-cffi-backend                   1.16.0-2+b3                     amd64  Foreign Function Interface for Python 3 calling C code - runtime
+ii   python3-cffi-backend                   1.17.0-1                        amd64  Foreign Function Interface for Python 3 calling C code - runtime
 ii   python3-chardet                        5.2.0+dfsg-1                    all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.3.2-2                         amd64  charset, encoding and language detection (Python 3)
 ii   python3-dbus                           1.3.2-5+b3                      amd64  simple interprocess messaging system (Python 3 interface)
@@ -347,17 +347,17 @@ ii   shim-signed-common                     1.44+15.8-1                     all 
 ii   shim-unsigned                          15.8-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.8.0.0-4+b1                    amd64  multipurpose relay for bidirectional data transfer
 ii   sudo                                   1.9.15p5-3+b1                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                256.4-2                         amd64  system and service manager
-ii   systemd-resolved                       256.4-2                         amd64  systemd DNS resolver
-ii   systemd-sysv                           256.4-2                         amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      256.4-2                         amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                256.4-3                         amd64  system and service manager
+ii   systemd-resolved                       256.4-3                         amd64  systemd DNS resolver
+ii   systemd-sysv                           256.4-3                         amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      256.4-3                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.10-1                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.4-4                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2024a-4                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   256.4-2                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   256.4-3                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39                              all    Transitional package to assert a merged-/usr system
 ii   usrmerge                               39                              all    Convert the system to the merged /usr directories scheme
 ii   util-linux                             2.40.2-6                        amd64  miscellaneous system utilities
