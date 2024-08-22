@@ -7,8 +7,8 @@ ii   base-files                             13.5                            amd6
 ii   base-passwd                            3.6.4                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.32-1                        amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.14.0-1                      all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.0-2                      amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.0-2                      amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.1-1                      amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.1-1                      amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.40.2-7                        amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.40.2-7                      amd64  basic utilities from 4.4BSD-Lite
@@ -83,9 +83,9 @@ ii   haveged                                1.9.14-1+b2                     amd6
 ii   hostname                               3.23+nmu2                       amd64  utility to set/show the host name or domain name
 ii   init                                   1.66                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.66                            all    helper tools for all init systems
-ii   initramfs-tools                        0.143.1                         all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.143.1                         all    generic modular initramfs generator (core tools)
-ii   iproute2                               6.10.0-1                        amd64  networking and traffic control tools
+ii   initramfs-tools                        0.144                           all    generic modular initramfs generator (automation)
+ii   initramfs-tools-core                   0.144                           all    generic modular initramfs generator (core tools)
+ii   iproute2                               6.10.0-2                        amd64  networking and traffic control tools
 ii   iptables                               1.8.10-4                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240117-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-5                      amd64  DHCP client for automatically obtaining an IP address
@@ -169,8 +169,8 @@ ii   libkmod2                               33+20240816-2                   amd6
 ii   libkrb5-3                              1.21.3-3                        amd64  MIT Kerberos runtime libraries
 ii   libkrb5support0                        1.21.3-3                        amd64  MIT Kerberos runtime libraries - Support library
 ii   libksba8                               1.6.7-2                         amd64  X.509 and CMS support library
-ii   libldap-2.5-0                          2.5.18+dfsg-2                   amd64  OpenLDAP libraries
-ii   libldap-common                         2.5.18+dfsg-2                   all    OpenLDAP common files for libraries
+ii   libldap-2.5-0                          2.5.18+dfsg-3                   amd64  OpenLDAP libraries
+ii   libldap-common                         2.5.18+dfsg-3                   all    OpenLDAP common files for libraries
 ii   liblmdb0                               0.9.31-1+b1                     amd64  Lightning Memory-Mapped Database shared library
 ii   liblockfile-bin                        1.17-1+b1                       amd64  support binaries for and cli utilities based on liblockfile
 ii   liblockfile1                           1.17-1+b1                       amd64  NFS-safe locking library
@@ -221,15 +221,15 @@ ii   libproc2-0                             2:4.0.4-5                       amd6
 ii   libprotobuf-c1                         1.4.1-1+b2                      amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1                      amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.12.5-1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.12-minimal                  3.12.5-1                        amd64  Minimal subset of the Python language (version 3.12)
-ii   libpython3.12-stdlib                   3.12.5-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
+ii   libpython3.12-minimal                  3.12.5-3                        amd64  Minimal subset of the Python language (version 3.12)
+ii   libpython3.12-stdlib                   3.12.5-3                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
 ii   libreadline8t64                        8.2-5                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b4  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-7                  amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.28+dfsg1-7                  amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.28+dfsg1-7                  amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.5.5-1+b1                      amd64  high level interface to Linux seccomp filter
-ii   libselinux1                            3.5-2+b4                        amd64  SELinux runtime shared libraries
+ii   libselinux1                            3.7-1+b1                        amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.5-1                           all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.5-1+b4                        amd64  SELinux policy management library
 ii   libsepol2                              3.7-1                           amd64  SELinux library for manipulating binary security policies
@@ -274,7 +274,7 @@ ii   logsave                                1.47.1-1                        amd6
 ii   lsb-release                            12.1-1                          all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.12.1-3                        amd64  tools for reading manual pages
 ii   manpages                               6.8-2                           all    Manual pages about using a GNU/Linux system
-ii   mawk                                   1.3.4.20240622-2                amd64  Pattern scanning and text processing language
+ii   mawk                                   1.3.4.20240819-2                amd64  Pattern scanning and text processing language
 ii   media-types                            10.1.0                          all    List of standard media types and their usual file extension
 ii   mokutil                                0.6.0-2+b1                      amd64  tools for manipulating machine owner keys
 ii   mount                                  2.40.2-7                        amd64  tools for mounting and manipulating filesystems
@@ -309,6 +309,7 @@ ii   publicsuffix                           20231001.0357-0.1               all 
 ii   python-apt-common                      2.9.0                           all    Python interface to libapt-pkg (locales)
 ii   python3                                3.12.5-1                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            2.9.0+b1                        amd64  Python 3 interface to libapt-pkg
+ii   python3-autocommand                    2.2.2-3                         all    library to generate argparse parsers from function signatures
 ii   python3-certifi                        2024.6.2-1                      all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-cffi-backend                   1.17.0-1                        amd64  Foreign Function Interface for Python 3 calling C code - runtime
 ii   python3-chardet                        5.2.0+dfsg-1                    all    Universal Character Encoding Detector (Python3)
@@ -319,20 +320,26 @@ ii   python3-debian                         0.1.49                          all 
 ii   python3-debianbts                      4.1.1                           all    Python interface to Debian's Bug Tracking System
 ii   python3-gi                             3.48.2-1+b1                     amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.6-2.1                         all    Python IDNA2008 (RFC 5891) handling (Python 3)
+ii   python3-inflect                        7.3.1-1                         all    Generate plurals, singular nouns, ordinals, indefinite articles (Python 3)
+ii   python3-jaraco.context                 6.0.0-1                         all    jaraco contextlib extensions
+ii   python3-jaraco.functools               4.0.2-1                         all    additional functools in the spirit of stdlib's functools
 ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.12.5-1                        amd64  minimal subset of the Python language (default python3 version)
+ii   python3-more-itertools                 10.3.0-1                        all    library with routines for operating on iterables, beyond itertools (Python 3)
 ii   python3-netifaces                      0.11.0-2+b3                     amd64  portable network interface information - Python 3.x
 ii   python3-netplan                        1.1-1                           amd64  Declarative network configuration Python bindings
-ii   python3-pkg-resources                  72.2.0-1                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  73.0.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pygments                       2.18.0+dfsg-1                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.7.1-1                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
+ii   python3-typeguard                      4.3.0-1                         all    Run-time type checker for Python
+ii   python3-typing-extensions              4.12.2-2                        all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.0.7-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1                         amd64  YAML parser and emitter for Python3
-ii   python3.12                             3.12.5-1                        amd64  Interactive high-level object-oriented language (version 3.12)
-ii   python3.12-minimal                     3.12.5-1                        amd64  Minimal subset of the Python language (version 3.12)
+ii   python3.12                             3.12.5-3                        amd64  Interactive high-level object-oriented language (version 3.12)
+ii   python3.12-minimal                     3.12.5-3                        amd64  Minimal subset of the Python language (version 3.12)
 ii   readline-common                        8.2-5                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.0.1                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2408.0-1                      amd64  reliable system and kernel logging daemon
