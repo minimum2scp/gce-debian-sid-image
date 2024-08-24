@@ -361,7 +361,7 @@ ii   systemd-sysv                           256.5-1                         amd6
 ii   systemd-timesyncd                      256.5-1                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.10-1                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
-ii   tcpdump                                4.99.4-4                        amd64  command-line network traffic analyzer
+ii   tcpdump                                4.99.4-5                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2024a-4                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
