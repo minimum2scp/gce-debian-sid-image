@@ -196,7 +196,7 @@ ii   libngtcp2-16                           1.6.0-1                         amd6
 ii   libngtcp2-crypto-gnutls8               1.6.0-1                         amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.6-3.1                         amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b2                      amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      256.5-1                         amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      256.5-2                         amd64  nss module providing fallback resolution for the current hostname
 ii   libnumber-compare-perl                 0.03-3                          all    module for performing numeric comparisons in Perl
 ii   libnvme1t64                            1.10-1                          amd64  NVMe management library (library)
 ii   libp11-kit0                            0.25.5-2                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -204,10 +204,10 @@ ii   libpam-cap                             1:2.66-5                        amd6
 ii   libpam-modules                         1.5.3-7                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.5.3-7                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.5.3-7                         all    Runtime support for the PAM library
-ii   libpam-systemd                         256.5-1                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         256.5-2                         amd64  system and service manager - PAM module
 ii   libpam0g                               1.5.3-7                         amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-4                           amd64  disk partition manipulator - shared library
-ii   libpcap0.8t64                          1.10.4-5                        amd64  system interface for user-level packet capture
+ii   libpcap0.8t64                          1.10.5-1                        amd64  system interface for user-level packet capture
 ii   libpci3                                1:3.13.0-1                      amd64  PCI utilities (shared library)
 ii   libpcre2-8-0                           10.42-4+b1                      amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libperl5.36                            5.36.0-7+deb12u1                amd64  shared Perl library
@@ -241,15 +241,15 @@ ii   libss2                                 1.47.1-1                        amd6
 ii   libssh2-1t64                           1.11.0-7                        amd64  SSH2 client-side library
 ii   libssl3t64                             3.3.1-7                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-4                        amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      256.5-1                         amd64  systemd shared private library
-ii   libsystemd0                            256.5-1                         amd64  systemd utility library
+ii   libsystemd-shared                      256.5-2                         amd64  systemd shared private library
+ii   libsystemd0                            256.5-2                         amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-3+b2                     amd64  Manage ASN.1 structures (runtime)
 ii   libtext-glob-perl                      0.11-3                          all    Perl module for matching globbing patterns against text
 ii   libtinfo6                              6.5-2                           amd64  shared low-level terminfo library for terminal handling
 ii   libtirpc-common                        1.3.4+ds-1.3                    all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.4+ds-1.3                    amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b1                      amd64  universal charset detection library - shared library
-ii   libudev1                               256.5-1                         amd64  libudev shared library
+ii   libudev1                               256.5-2                         amd64  libudev shared library
 ii   libunbound8                            1.20.0-1+b1                     amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libunistring5                          1.2-1                           amd64  Unicode string library for C
@@ -265,8 +265,8 @@ ii   libyaml-0-2                            0.2.5-1+b1                      amd6
 ii   libzstd1                               1.5.6+dfsg-1                    amd64  fast lossless compression algorithm
 ii   linux-base                             4.10.1                          all    Linux image base package
 ii   linux-image-6.1.0-23-cloud-amd64       6.1.99-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-6.10.6-cloud-amd64         6.10.6-1                        amd64  Linux 6.10 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.10.6-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.10.7-cloud-amd64         6.10.7-1                        amd64  Linux 6.10 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.10.7-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.16.0-2+really2.40.2-7       amd64  system login tools
 ii   login.defs                             1:4.16.0-4                      all    system user management configuration
 ii   logrotate                              3.22.0-1                        amd64  Log rotation utility
@@ -326,7 +326,7 @@ ii   python3-jaraco.functools               4.0.2-1                         all 
 ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.12.5-1                        amd64  minimal subset of the Python language (default python3 version)
-ii   python3-more-itertools                 10.3.0-1                        all    library with routines for operating on iterables, beyond itertools (Python 3)
+ii   python3-more-itertools                 10.4.0-1                        all    library with routines for operating on iterables, beyond itertools (Python 3)
 ii   python3-netifaces                      0.11.0-2+b3                     amd64  portable network interface information - Python 3.x
 ii   python3-netplan                        1.1-1                           amd64  Declarative network configuration Python bindings
 ii   python3-pkg-resources                  73.0.1-1                        all    Package Discovery and Resource Access using pkg_resources
@@ -355,17 +355,17 @@ ii   shim-signed-common                     1.44+15.8-1                     all 
 ii   shim-unsigned                          15.8-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.8.0.1-2                       amd64  multipurpose relay for bidirectional data transfer
 ii   sudo                                   1.9.15p5-3+b1                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                256.5-1                         amd64  system and service manager
-ii   systemd-resolved                       256.5-1                         amd64  systemd DNS resolver
-ii   systemd-sysv                           256.5-1                         amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      256.5-1                         amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                256.5-2                         amd64  system and service manager
+ii   systemd-resolved                       256.5-2                         amd64  systemd DNS resolver
+ii   systemd-sysv                           256.5-2                         amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      256.5-2                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.10-1                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
-ii   tcpdump                                4.99.4-5                        amd64  command-line network traffic analyzer
+ii   tcpdump                                4.99.5-1                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2024a-4                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   256.5-1                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   256.5-2                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39                              all    Transitional package to assert a merged-/usr system
 ii   usrmerge                               39                              all    Convert the system to the merged /usr directories scheme
 ii   util-linux                             2.40.2-7                        amd64  miscellaneous system utilities
