@@ -17,7 +17,7 @@ ii   coreutils                              9.4-3.1                         amd6
 ii   cpio                                   2.15+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-189                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-189                      all    process scheduling daemon's configuration files
-ii   curl                                   8.10.0-2                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.10.1-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-9                        amd64  POSIX-compliant shell
 ii   dbus                                   1.14.10-4+b1                    amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.14.10-4+b1                    amd64  simple interprocess messaging system (command line utilities)
@@ -55,13 +55,13 @@ ii   git-man                                1:2.45.2-1                      all 
 ii   gnupg                                  2.2.43-8                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.43-8                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.43-8+b1                     amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       492.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             492.0.0-0                       amd64  anthoscli
+ii   google-cloud-cli                       493.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             493.0.0-0                       amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20240607.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20240808.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20240822.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20240912.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.43-8+b1                     amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.43-8+b1                     amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.43-8+b1                     amd64  GNU privacy guard - Web Key Service client
@@ -81,8 +81,8 @@ ii   grub2-common                           2.12-5                          amd6
 ii   gzip                                   1.12-1.1                        amd64  GNU compression utilities
 ii   haveged                                1.9.14-1+b2                     amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.23+nmu2                       amd64  utility to set/show the host name or domain name
-ii   init                                   1.66                            amd64  metapackage ensuring an init system is installed
-ii   init-system-helpers                    1.66                            all    helper tools for all init systems
+ii   init                                   1.67                            amd64  metapackage ensuring an init system is installed
+ii   init-system-helpers                    1.67                            all    helper tools for all init systems
 ii   initramfs-tools                        0.145                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.145                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.10.0-2                        amd64  networking and traffic control tools
@@ -116,8 +116,8 @@ ii   libcbor0.10                            0.10.2-2                        amd6
 ii   libcom-err2                            1.47.1-1                        amd64  common error description library
 ii   libcrypt1                              1:4.4.36-5                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.5-1                       amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.10.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.10.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.10.1-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.10.1-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-7                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.14.10-4+b1                    amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.272                           amd64  Debian Configuration Management System (C-implementation library)
@@ -150,7 +150,7 @@ ii   libglib2.0-data                        2.82.0-1                        all 
 ii   libgmp10                               2:6.3.0+dfsg-2+b1               amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.6-2                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.6-2                         amd64  GNU TLS library - main runtime library
-ii   libgpg-error0                          1.50-3                          amd64  GnuPG development runtime library
+ii   libgpg-error0                          1.50-4                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-11                       amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.21.3-3                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.14-1+b2                     amd64  entropy source using the HAVEGE algorithm - shared library
@@ -213,14 +213,14 @@ ii   libpcre2-8-0                           10.42-4+b1                      amd6
 ii   libperl5.36                            5.36.0-7+deb12u1                amd64  shared Perl library
 ii   libperl5.38t64                         5.38.2-5                        amd64  shared Perl library
 ii   libpipeline1                           1.5.8-1                         amd64  Unix process pipeline manipulation library
-ii   libpng16-16t64                         1.6.43-5                        amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16t64                         1.6.44-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpolkit-agent-1-0                    125-2                           amd64  polkit Authentication Agent API
 ii   libpolkit-gobject-1-0                  125-2                           amd64  polkit Authorization API
 ii   libpopt0                               1.19+dfsg-1+b1                  amd64  lib for parsing cmdline parameters
 ii   libproc2-0                             2:4.0.4-5                       amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.4.1-1+b2                      amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1                      amd64  Library for Public Suffix List (shared libraries)
-ii   libpython3-stdlib                      3.12.5-1+b1                     amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3-stdlib                      3.12.6-1                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.12-minimal                  3.12.6-1                        amd64  Minimal subset of the Python language (version 3.12)
 ii   libpython3.12-stdlib                   3.12.6-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
 ii   libreadline8t64                        8.2-5                           amd64  GNU readline and history libraries, run-time libraries
@@ -295,7 +295,7 @@ ii   openssl-provider-legacy                3.3.2-1                         amd6
 ii   os-prober                              1.83                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-4                           amd64  disk partition manipulator
 ii   passwd                                 1:4.16.0-4                      amd64  change and administer password and group data
-ii   pci.ids                                0.0~2024.06.23-1                all    PCI ID Repository
+ii   pci.ids                                0.0~2024.09.12-1                all    PCI ID Repository
 ii   pciutils                               1:3.13.0-1                      amd64  PCI utilities
 ii   perl                                   5.38.2-5                        amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.38.2-5                        amd64  minimal Perl system
@@ -307,7 +307,7 @@ ii   procps                                 2:4.0.4-5                       amd6
 ii   psmisc                                 23.7-1                          amd64  utilities that use the proc file system
 ii   publicsuffix                           20231001.0357-0.1               all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      2.9.0                           all    Python interface to libapt-pkg (locales)
-ii   python3                                3.12.5-1+b1                     amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3                                3.12.6-1                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            2.9.0+b1                        amd64  Python 3 interface to libapt-pkg
 ii   python3-autocommand                    2.2.2-3                         all    library to generate argparse parsers from function signatures
 ii   python3-certifi                        2024.8.30-1                     all    root certificates for validating SSL certs and verifying TLS hosts (python3)
@@ -325,7 +325,7 @@ ii   python3-jaraco.context                 6.0.0-1                         all 
 ii   python3-jaraco.functools               4.0.2-1                         all    additional functools in the spirit of stdlib's functools
 ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
-ii   python3-minimal                        3.12.5-1+b1                     amd64  minimal subset of the Python language (default python3 version)
+ii   python3-minimal                        3.12.6-1                        amd64  minimal subset of the Python language (default python3 version)
 ii   python3-more-itertools                 10.4.0-1                        all    library with routines for operating on iterables, beyond itertools (Python 3)
 ii   python3-netifaces                      0.11.0-2+b3                     amd64  portable network interface information - Python 3.x
 ii   python3-netplan                        1.1-1                           amd64  Declarative network configuration Python bindings
