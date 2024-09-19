@@ -181,7 +181,7 @@ ii   libmagic-mgc                           1:5.45-3                        amd6
 ii   libmagic1t64                           1:5.45-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmaxminddb0                          1.11.0-1                        amd64  IP geolocation database library
 ii   libmd0                                 1.1.0-2                         amd64  message digest functions from BSD systems - shared library
-ii   libmnl0                                1.0.5-2+b1                      amd64  minimalistic Netlink communication library
+ii   libmnl0                                1.0.5-3                         amd64  minimalistic Netlink communication library
 ii   libmount1                              2.40.2-8                        amd64  device mounting library
 ii   libncursesw6                           6.5-2                           amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.0.9-6+b1                      amd64  Netfilter netlink-conntrack library
@@ -362,7 +362,7 @@ ii   systemd-timesyncd                      256.6-1                         amd6
 ii   sysvinit-utils                         3.10-2                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-1                        amd64  command-line network traffic analyzer
-ii   traceroute                             1:2.1.5-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
+ii   traceroute                             1:2.1.6-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2024a-4                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   256.6-1                         amd64  /dev/ and hotplug management daemon
