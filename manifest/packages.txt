@@ -87,7 +87,7 @@ ii   initramfs-tools                        0.145                           all 
 ii   initramfs-tools-core                   0.145                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.10.0-2                        amd64  networking and traffic control tools
 ii   iptables                               1.8.10-4                        amd64  administration tools for packet filtering and NAT
-ii   iputils-ping                           3:20240117-1                    amd64  Tools to test the reachability of network hosts
+ii   iputils-ping                           3:20240905-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-5                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-5                      amd64  common manpages relevant to all of the isc-dhcp packages
 ii   klibc-utils                            2.0.13-4                        amd64  small utilities built with klibc for early boot
@@ -107,8 +107,8 @@ ii   libbpf1                                1:1.4.6-1                       amd6
 ii   libbrotli1                             1.1.0-2+b4                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-1                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6                         amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.40-2                          amd64  GNU C Library: Binaries
-ii   libc6                                  2.40-2                          amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.40-3                          amd64  GNU C Library: Binaries
+ii   libc6                                  2.40-3                          amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-2                         amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.66-5                        amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.66-5                        amd64  POSIX 1003.1e capabilities (utilities)
