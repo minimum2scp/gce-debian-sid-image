@@ -61,7 +61,7 @@ ii   google-cloud-packages-archive-keyring  1.2-629101324                   all 
 ii   google-compute-engine                  1:20240607.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20240808.00-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20240912.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20240926.03-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.44-1                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.44-1                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.44-1                        amd64  GNU privacy guard - Web Key Service client
@@ -105,7 +105,7 @@ ii   libaudit1                              1:4.0.1-1                       amd6
 ii   libblkid1                              2.40.2-9                        amd64  block device ID library
 ii   libbpf1                                1:1.4.6-1                       amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.1.0-2+b4                      amd64  library implementing brotli encoder and decoder (shared libraries)
-ii   libbsd0                                0.12.2-1                        amd64  utility functions from BSD systems - shared library
+ii   libbsd0                                0.12.2-2                        amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6                         amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.40-3                          amd64  GNU C Library: Binaries
 ii   libc6                                  2.40-3                          amd64  GNU C Library: Shared libraries
@@ -189,7 +189,7 @@ ii   libnetplan1                            1.1-1                           amd6
 ii   libnettle8t64                          3.10-1                          amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.24-2+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
-ii   libnftnl11                             1.2.7-1                         amd64  Netfilter nftables userspace API library
+ii   libnftnl11                             1.2.8-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.63.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnghttp3-9                           1.4.0-1                         amd64  HTTP/3 library with QUIC and QPACK (library)
 ii   libngtcp2-16                           1.6.0-1                         amd64  implementation of QUIC protocol (library)
@@ -363,7 +363,7 @@ ii   sysvinit-utils                         3.10-2                          amd6
 ii   tar                                    1.35+dfsg-3                     amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-1                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2024a-4                         all    time zone and daylight-saving time data
+ii   tzdata                                 2024b-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0043+nmu1                     all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   256.6-1                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39                              all    Transitional package to assert a merged-/usr system
