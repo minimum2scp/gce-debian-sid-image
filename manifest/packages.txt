@@ -371,10 +371,10 @@ ii   usrmerge                               39                              all 
 ii   util-linux                             2.40.2-9                        amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.40.2-9                        amd64  interactive login tools
 ii   uuid-runtime                           2.40.2-9                        amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.1.0709-2                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.1.0709-2                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.1.0709-2                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.1.0709-2                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.1.0777-1                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.1.0777-1                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.1.0777-1                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.1.0777-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.24.5-2+b1                     amd64  retrieves files from the web
 ii   whiptail                               0.52.24-2+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-1                          amd64  tool to manage well known user directories
