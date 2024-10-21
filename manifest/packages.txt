@@ -163,7 +163,7 @@ ii   libip6tc2                              1.8.10-4                        amd6
 ii   libjemalloc2                           5.3.0-2+b1                      amd64  general-purpose scalable concurrent malloc(3) implementation
 ii   libjson-c5                             0.18+ds-1                       amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.21.3-3                        amd64  MIT Kerberos runtime libraries - Crypto Library
-ii   libkeyutils1                           1.6.3-3                         amd64  Linux Key Management Utilities (library)
+ii   libkeyutils1                           1.6.3-3.1                       amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.13-4                        amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               33+20240816-2                   amd64  libkmod shared library
 ii   libkrb5-3                              1.21.3-3                        amd64  MIT Kerberos runtime libraries
