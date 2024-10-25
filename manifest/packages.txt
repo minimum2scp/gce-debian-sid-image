@@ -165,7 +165,7 @@ ii   libjemalloc2                           5.3.0-2+b1                      amd6
 ii   libjq1                                 1.7.1-3                         amd64  lightweight and flexible command-line JSON processor - shared library
 ii   libjson-c5                             0.18+ds-1                       amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.21.3-3                        amd64  MIT Kerberos runtime libraries - Crypto Library
-ii   libkeyutils1                           1.6.3-3.1                       amd64  Linux Key Management Utilities (library)
+ii   libkeyutils1                           1.6.3-4                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.13-4                        amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               33+20240816-2                   amd64  libkmod shared library
 ii   libkrb5-3                              1.21.3-3                        amd64  MIT Kerberos runtime libraries
@@ -178,7 +178,7 @@ ii   liblockfile-bin                        1.17-1+b2                       amd6
 ii   liblockfile1                           1.17-1+b2                       amd64  NFS-safe locking library
 ii   liblognorm5                            2.0.6-4+b1                      amd64  log normalizing library
 ii   liblz4-1                               1.9.4-3                         amd64  Fast LZ compression algorithm library - runtime
-ii   liblzma5                               5.6.2-2                         amd64  XZ-format compression library
+ii   liblzma5                               5.6.3-1                         amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.45-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
 ii   libmagic1t64                           1:5.45-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmaxminddb0                          1.11.0-1                        amd64  IP geolocation database library
@@ -331,7 +331,7 @@ ii   python3-mdurl                          0.1.2-1                         all 
 ii   python3-minimal                        3.12.6-1                        amd64  minimal subset of the Python language (default python3 version)
 ii   python3-more-itertools                 10.5.0-1                        all    library with routines for operating on iterables, beyond itertools (Python 3)
 ii   python3-netplan                        1.1.1-1                         amd64  Declarative network configuration Python bindings
-ii   python3-pkg-resources                  74.1.2-2                        all    Package Discovery and Resource Access using pkg_resources
+ii   python3-pkg-resources                  75.2.0-1                        all    Package Discovery and Resource Access using pkg_resources
 ii   python3-pygments                       2.18.0+dfsg-1                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
@@ -381,6 +381,6 @@ ii   wget                                   1.24.5-2+b1                     amd6
 ii   whiptail                               0.52.24-2+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-1                          amd64  tool to manage well known user directories
 ii   xml-core                               0.19                            all    XML infrastructure and XML catalog file support
-ii   xz-utils                               5.6.2-2                         amd64  XZ-format compression utilities
+ii   xz-utils                               5.6.3-1                         amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.3.dfsg+really1.3.1-1        amd64  compression library - runtime
 ii   zstd                                   1.5.6+dfsg-1                    amd64  fast lossless compression algorithm -- CLI tool
