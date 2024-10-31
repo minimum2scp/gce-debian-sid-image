@@ -219,7 +219,7 @@ ii   libpipeline1                           1.5.8-1                         amd6
 ii   libpng16-16t64                         1.6.44-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpolkit-agent-1-0                    125-2                           amd64  polkit Authentication Agent API
 ii   libpolkit-gobject-1-0                  125-2                           amd64  polkit Authorization API
-ii   libpopt0                               1.19+dfsg-1+b2                  amd64  lib for parsing cmdline parameters
+ii   libpopt0                               1.19+dfsg-2                     amd64  lib for parsing cmdline parameters
 ii   libproc2-0                             2:4.0.4-6                       amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.4.1-1+b3                      amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
@@ -336,7 +336,7 @@ ii   python3-pygments                       2.18.0+dfsg-1                   all 
 ii   python3-reportbug                      13.0.1                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-1                   all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.7.1-1                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
-ii   python3-typeguard                      4.3.0-1                         all    Run-time type checker for Python
+ii   python3-typeguard                      4.4.0-1                         all    Run-time type checker for Python
 ii   python3-typing-extensions              4.12.2-2                        all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.0.7-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1                         amd64  YAML parser and emitter for Python3
