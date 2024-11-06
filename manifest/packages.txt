@@ -6,7 +6,7 @@ ii   apt-utils                              2.9.10                          amd6
 ii   base-files                             13.5                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.5                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.32-1+b2                     amd64  GNU Bourne Again SHell
-ii   bash-completion                        1:2.14.0-1                      all    programmable completion for the bash shell
+ii   bash-completion                        1:2.14.0-2                      all    programmable completion for the bash shell
 ii   bind9-host                             1:9.20.2-1                      amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.20.2-1                      amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
@@ -224,8 +224,8 @@ ii   libproc2-0                             2:4.0.4-6                       amd6
 ii   libprotobuf-c1                         1.4.1-1+b3                      amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.12.6-1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.12-minimal                  3.12.7-1                        amd64  Minimal subset of the Python language (version 3.12)
-ii   libpython3.12-stdlib                   3.12.7-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
+ii   libpython3.12-minimal                  3.12.7-2                        amd64  Minimal subset of the Python language (version 3.12)
+ii   libpython3.12-stdlib                   3.12.7-2                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
 ii   libreadline8t64                        8.2-5                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b5  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-8                  amd64  Cyrus SASL - authentication abstraction library
@@ -268,8 +268,8 @@ ii   libyaml-0-2                            0.2.5-1+b2                      amd6
 ii   libzstd1                               1.5.6+dfsg-1+b1                 amd64  fast lossless compression algorithm
 ii   linux-base                             4.10.1                          all    Linux image base package
 ii   linux-image-6.1.0-26-cloud-amd64       6.1.112-1                       amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-6.11.5-cloud-amd64         6.11.5-1                        amd64  Linux 6.11 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.11.5-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.11.6-cloud-amd64         6.11.6-1                        amd64  Linux 6.11 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.11.6-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.16.0-2+really2.40.2-10      amd64  system login tools
 ii   login.defs                             1:4.16.0-4                      all    system user management configuration
 ii   logrotate                              3.22.0-1                        amd64  Log rotation utility
@@ -340,8 +340,8 @@ ii   python3-typeguard                      4.4.1-1                         all 
 ii   python3-typing-extensions              4.12.2-2                        all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.0.7-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1                         amd64  YAML parser and emitter for Python3
-ii   python3.12                             3.12.7-1                        amd64  Interactive high-level object-oriented language (version 3.12)
-ii   python3.12-minimal                     3.12.7-1                        amd64  Minimal subset of the Python language (version 3.12)
+ii   python3.12                             3.12.7-2                        amd64  Interactive high-level object-oriented language (version 3.12)
+ii   python3.12-minimal                     3.12.7-2                        amd64  Minimal subset of the Python language (version 3.12)
 ii   readline-common                        8.2-5                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.0.1                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2410.0-1                      amd64  reliable system and kernel logging daemon
