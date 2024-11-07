@@ -55,8 +55,8 @@ ii   git-man                                1:2.45.2-1.1                    all 
 ii   gnupg                                  2.2.45-2                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.45-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.45-2                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       499.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             499.0.0-0                       amd64  anthoscli
+ii   google-cloud-cli                       500.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             500.0.0-0                       amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20241021.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
@@ -214,7 +214,7 @@ ii   libpcap0.8t64                          1.10.5-1                        amd6
 ii   libpci3                                1:3.13.0-1+b1                   amd64  PCI utilities (shared library)
 ii   libpcre2-8-0                           10.42-4+b2                      amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libperl5.36                            5.36.0-7+deb12u1                amd64  shared Perl library
-ii   libperl5.40                            5.40.0-6                        amd64  shared Perl library
+ii   libperl5.40                            5.40.0-7                        amd64  shared Perl library
 ii   libpipeline1                           1.5.8-1                         amd64  Unix process pipeline manipulation library
 ii   libpng16-16t64                         1.6.44-2                        amd64  PNG library - runtime (version 1.6)
 ii   libpolkit-agent-1-0                    125-2                           amd64  polkit Authentication Agent API
@@ -259,7 +259,7 @@ ii   libunistring5                          1.2-1+b1                        amd6
 ii   liburcu8t64                            0.14.1-1                        amd64  userspace RCU (read-copy-update) library
 ii   libutempter0                           1.2.1-3+b2                      amd64  privileged helper for utmp/wtmp updates (runtime)
 ii   libuuid1                               2.40.2-10                       amd64  Universally Unique ID library
-ii   libuv1t64                              1.48.0-6                        amd64  asynchronous event notification library - runtime library
+ii   libuv1t64                              1.48.0-7                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-33+b1                     amd64  Wietse Venema's TCP wrappers library
 ii   libxml2                                2.12.7+dfsg+really2.9.14-0.1    amd64  GNOME XML library
 ii   libxtables12                           1.8.10-4+b1                     amd64  netfilter xtables library
@@ -300,10 +300,10 @@ ii   parted                                 3.6-4+b1                        amd6
 ii   passwd                                 1:4.16.0-4                      amd64  change and administer password and group data
 ii   pci.ids                                0.0~2024.10.24-1                all    PCI ID Repository
 ii   pciutils                               1:3.13.0-1+b1                   amd64  PCI utilities
-ii   perl                                   5.40.0-6                        amd64  Larry Wall's Practical Extraction and Report Language
-ii   perl-base                              5.40.0-6                        amd64  minimal Perl system
+ii   perl                                   5.40.0-7                        amd64  Larry Wall's Practical Extraction and Report Language
+ii   perl-base                              5.40.0-7                        amd64  minimal Perl system
 ii   perl-modules-5.36                      5.36.0-7+deb12u1                all    Core Perl modules
-ii   perl-modules-5.40                      5.40.0-6                        all    Core Perl modules
+ii   perl-modules-5.40                      5.40.0-7                        all    Core Perl modules
 ii   pinentry-curses                        1.2.1-4+b1                      amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   polkitd                                125-2                           amd64  framework for managing administrative policies and privileges
 ii   procps                                 2:4.0.4-6                       amd64  /proc file system utilities
