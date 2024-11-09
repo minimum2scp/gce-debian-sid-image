@@ -50,8 +50,8 @@ ii   gdisk                                  1.0.10-2                        amd6
 ii   gettext-base                           0.22.5-2                        amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.82.0-2                        amd64  Introspection data for GIRepository library
 ii   gir1.2-glib-2.0                        2.82.2-2                        amd64  Introspection data for GLib, GObject, Gio and GModule
-ii   git                                    1:2.45.2-1.1                    amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.45.2-1.1                    all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.45.2-1.2                    amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.45.2-1.2                    all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.45-2                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.45-2                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.45-2                        amd64  GNU privacy guard - utility programs
@@ -86,7 +86,7 @@ ii   init-system-helpers                    1.67                            all 
 ii   initramfs-tools                        0.145                           all    generic modular initramfs generator (automation)
 ii   initramfs-tools-core                   0.145                           all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.11.0-1                        amd64  networking and traffic control tools
-ii   iptables                               1.8.10-4+b1                     amd64  administration tools for packet filtering and NAT
+ii   iptables                               1.8.11-1                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240905-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-5                      amd64  DHCP client for automatically obtaining an IP address
 ii   isc-dhcp-common                        4.4.3-P1-5                      amd64  common manpages relevant to all of the isc-dhcp packages
@@ -131,7 +131,7 @@ ii   libelf1t64                             0.192-4                         amd6
 ii   liberror-perl                          0.17029-2                       all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-1+b2                     amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10+b1             amd64  Asynchronous event notification library
-ii   libexpat1                              2.6.3-2                         amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.6.4-1                         amd64  XML parsing C library - runtime library
 ii   libext2fs2t64                          1.47.1-1+b1                     amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           1.2304.0-2                      amd64  fast json library for C
 ii   libffi8                                3.4.6-1                         amd64  Foreign Function Interface library runtime
@@ -159,8 +159,8 @@ ii   libhogweed6t64                         3.10-1+b1                       amd6
 ii   libicu72                               72.1-5+b1                       amd64  International Components for Unicode
 ii   libidn12                               1.42-2+b1                       amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.3.7-2+b1                      amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc2                              1.8.10-4+b1                     amd64  netfilter libip4tc library
-ii   libip6tc2                              1.8.10-4+b1                     amd64  netfilter libip6tc library
+ii   libip4tc2                              1.8.11-1                        amd64  netfilter libip4tc library
+ii   libip6tc2                              1.8.11-1                        amd64  netfilter libip6tc library
 ii   libjemalloc2                           5.3.0-2+b2                      amd64  general-purpose scalable concurrent malloc(3) implementation
 ii   libjq1                                 1.7.1-3+b1                      amd64  lightweight and flexible command-line JSON processor - shared library
 ii   libjson-c5                             0.18+ds-1                       amd64  JSON manipulation library - shared library
@@ -224,8 +224,8 @@ ii   libproc2-0                             2:4.0.4-6                       amd6
 ii   libprotobuf-c1                         1.4.1-1+b3                      amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.12.6-1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.12-minimal                  3.12.7-2                        amd64  Minimal subset of the Python language (version 3.12)
-ii   libpython3.12-stdlib                   3.12.7-2                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
+ii   libpython3.12-minimal                  3.12.7-3                        amd64  Minimal subset of the Python language (version 3.12)
+ii   libpython3.12-stdlib                   3.12.7-3                        amd64  Interactive high-level object-oriented language (standard library, version 3.12)
 ii   libreadline8t64                        8.2-5                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b5  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-8                  amd64  Cyrus SASL - authentication abstraction library
@@ -262,7 +262,7 @@ ii   libuuid1                               2.40.2-10                       amd6
 ii   libuv1t64                              1.48.0-7                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-33+b1                     amd64  Wietse Venema's TCP wrappers library
 ii   libxml2                                2.12.7+dfsg+really2.9.14-0.1    amd64  GNOME XML library
-ii   libxtables12                           1.8.10-4+b1                     amd64  netfilter xtables library
+ii   libxtables12                           1.8.11-1                        amd64  netfilter xtables library
 ii   libxxhash0                             0.8.2-2+b2                      amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-1+b2                      amd64  Fast YAML 1.1 parser and emitter library
 ii   libzstd1                               1.5.6+dfsg-1+b1                 amd64  fast lossless compression algorithm
@@ -340,8 +340,8 @@ ii   python3-typeguard                      4.4.1-1                         all 
 ii   python3-typing-extensions              4.12.2-2                        all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.0.7-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1                         amd64  YAML parser and emitter for Python3
-ii   python3.12                             3.12.7-2                        amd64  Interactive high-level object-oriented language (version 3.12)
-ii   python3.12-minimal                     3.12.7-2                        amd64  Minimal subset of the Python language (version 3.12)
+ii   python3.12                             3.12.7-3                        amd64  Interactive high-level object-oriented language (version 3.12)
+ii   python3.12-minimal                     3.12.7-3                        amd64  Minimal subset of the Python language (version 3.12)
 ii   readline-common                        8.2-5                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.0.1                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2410.0-1                      amd64  reliable system and kernel logging daemon
