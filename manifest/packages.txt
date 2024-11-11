@@ -79,7 +79,7 @@ ii   grub-efi-amd64-unsigned                2.12-5                          amd6
 ii   grub-pc-bin                            2.12-5                          amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.12-5                          amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.12-1.1                        amd64  GNU compression utilities
-ii   haveged                                1.9.14-1+b3                     amd64  Linux entropy source using the HAVEGE algorithm
+ii   haveged                                1.9.19-2                        amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.25                            amd64  utility to set/show the host name or domain name
 ii   init                                   1.67                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.67                            all    helper tools for all init systems
@@ -149,12 +149,12 @@ ii   libgirepository-1.0-1                  1.82.0-2                        amd6
 ii   libglib2.0-0t64                        2.82.2-2                        amd64  GLib library of C routines
 ii   libglib2.0-data                        2.82.2-2                        all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-2+b2               amd64  Multiprecision arithmetic library
-ii   libgnutls-dane0t64                     3.8.6-2+b1                      amd64  GNU TLS library - DANE security support
-ii   libgnutls30t64                         3.8.6-2+b1                      amd64  GNU TLS library - main runtime library
+ii   libgnutls-dane0t64                     3.8.8-2                         amd64  GNU TLS library - DANE security support
+ii   libgnutls30t64                         3.8.8-2                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.50-4                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-11+b1                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.21.3-3                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhavege2                             1.9.14-1+b3                     amd64  entropy source using the HAVEGE algorithm - shared library
+ii   libhavege2                             1.9.19-2                        amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6t64                         3.10-1+b1                       amd64  low level cryptographic library (public-key cryptos)
 ii   libicu72                               72.1-5+b1                       amd64  International Components for Unicode
 ii   libidn12                               1.42-2+b1                       amd64  GNU Libidn library, implementation of IETF IDN specifications
@@ -268,8 +268,8 @@ ii   libyaml-0-2                            0.2.5-1+b2                      amd6
 ii   libzstd1                               1.5.6+dfsg-1+b1                 amd64  fast lossless compression algorithm
 ii   linux-base                             4.10.1                          all    Linux image base package
 ii   linux-image-6.1.0-26-cloud-amd64       6.1.112-1                       amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-6.11.6-cloud-amd64         6.11.6-1                        amd64  Linux 6.11 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.11.6-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.11.7-cloud-amd64         6.11.7-1                        amd64  Linux 6.11 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.11.7-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.16.0-2+really2.40.2-10      amd64  system login tools
 ii   login.defs                             1:4.16.0-4                      all    system user management configuration
 ii   logrotate                              3.22.0-1                        amd64  Log rotation utility
@@ -314,7 +314,7 @@ ii   python3                                3.12.6-1                        amd6
 ii   python3-apt                            2.9.0+b1                        amd64  Python 3 interface to libapt-pkg
 ii   python3-autocommand                    2.2.2-3                         all    library to generate argparse parsers from function signatures
 ii   python3-certifi                        2024.8.30+dfsg-1                all    root certificates for validating SSL certs and verifying TLS hosts (python3)
-ii   python3-cffi-backend                   1.17.1-1                        amd64  Foreign Function Interface for Python 3 calling C code - runtime
+ii   python3-cffi-backend                   1.17.1-2                        amd64  Foreign Function Interface for Python 3 calling C code - runtime
 ii   python3-chardet                        5.2.0+dfsg-1                    all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.4.0-1                         amd64  charset, encoding and language detection (Python 3)
 ii   python3-dbus                           1.3.2-5+b3                      amd64  simple interprocess messaging system (Python 3 interface)
