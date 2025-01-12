@@ -6,7 +6,7 @@ ii   apt-utils                              2.9.21                           amd
 ii   base-files                             13.6                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.6                            amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1                         amd64  GNU Bourne Again SHell
-ii   bash-completion                        1:2.16.0-1                       all    programmable completion for the bash shell
+ii   bash-completion                        1:2.16.0-2                       all    programmable completion for the bash shell
 ii   bind9-host                             1:9.20.4-3                       amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.20.4-3                       amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1            amd64  simple mail user agent
@@ -44,7 +44,7 @@ ii   exim4-daemon-light                     4.98-3                           amd
 ii   file                                   1:5.45-3+b1                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                         amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.4.0-4                         amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-14-base                            14.2.0-12                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-14-base                            14.2.0-13                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                 all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.22.5-4                         amd64  GNU Internationalization utilities for the base system
@@ -99,7 +99,7 @@ ii   libacl1                                2.3.2-2+b1                       amd
 ii   libapparmor1                           3.1.7-1+b3                       amd64  changehat AppArmor library
 ii   libapt-pkg6.0t64                       2.9.21                           amd64  package management runtime library
 ii   libassuan9                             3.0.1-2                          amd64  IPC library for the GnuPG components
-ii   libatomic1                             14.2.0-12                        amd64  support library providing __atomic built-in functions
+ii   libatomic1                             14.2.0-13                        amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-2                        amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:4.0.2-2                        all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:4.0.2-2                        amd64  Dynamic library for security auditing
@@ -140,7 +140,7 @@ ii   libfile-fcntllock-perl                 0.22-4+b4                        amd
 ii   libfreetype6                           2.13.3+dfsg-1                    amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b3                       amd64  Frame Streams (fstrm) library
 ii   libfuse3-3                             3.14.0-10                        amd64  Filesystem in Userspace (library) (3.x version)
-ii   libgcc-s1                              14.2.0-12                        amd64  GCC support library
+ii   libgcc-s1                              14.2.0-13                        amd64  GCC support library
 ii   libgcrypt20                            1.11.0-7                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.24-2                           amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                           amd64  GNU dbm database routines (runtime version)
@@ -240,7 +240,7 @@ ii   libsqlite3-0                           3.46.1-1                         amd
 ii   libss2                                 1.47.2-1                         amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                         amd64  SSH2 client-side library
 ii   libssl3t64                             3.4.0-2                          amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             14.2.0-12                        amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             14.2.0-13                        amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      257.2-1                          amd64  systemd shared private library
 ii   libsystemd0                            257.2-1                          amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-3+b3                      amd64  Manage ASN.1 structures (runtime)
