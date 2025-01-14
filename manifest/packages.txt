@@ -55,12 +55,12 @@ ii   git-man                                1:2.47.1-1                       all
 ii   gnupg                                  2.2.46-1                         all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.46-1                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.46-1                         amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       505.0.0-0                        amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             505.0.0-0                        amd64  anthoscli
+ii   google-cloud-cli                       506.0.0-0                        amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             506.0.0-0                        amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                    all    Contains GPG signing key for Google Cloud Packages
-ii   google-compute-engine                  1:20241121.00-g1                 all    Google Compute Engine guest environment.
+ii   google-compute-engine                  1:20241205.00-g1                 all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12           amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20241011.01-g1                 amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                     1:20241209.01-g1                 amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20240926.03-g1                 amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.46-1                         amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.46-1                         amd64  GNU privacy guard - cryptographic agent
@@ -214,8 +214,8 @@ ii   libpcre2-8-0                           10.44-5                          amd
 ii   libperl5.40                            5.40.0-8                         amd64  shared Perl library
 ii   libpipeline1                           1.5.8-1                          amd64  Unix process pipeline manipulation library
 ii   libpng16-16t64                         1.6.45-1                         amd64  PNG library - runtime (version 1.6)
-ii   libpolkit-agent-1-0                    125-2                            amd64  polkit Authentication Agent API
-ii   libpolkit-gobject-1-0                  125-2                            amd64  polkit Authorization API
+ii   libpolkit-agent-1-0                    126-1                            amd64  polkit Authentication Agent API
+ii   libpolkit-gobject-1-0                  126-1                            amd64  polkit Authorization API
 ii   libpopt0                               1.19+dfsg-2                      amd64  lib for parsing cmdline parameters
 ii   libproc2-0                             2:4.0.4-6                        amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.4.1-1+b3                       amd64  Protocol Buffers C shared library (protobuf-c)
@@ -300,17 +300,16 @@ ii   perl                                   5.40.0-8                         amd
 ii   perl-base                              5.40.0-8                         amd64  minimal Perl system
 ii   perl-modules-5.40                      5.40.0-8                         all    Core Perl modules
 ii   pinentry-curses                        1.3.1-2                          amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
-ii   polkitd                                125-2                            amd64  framework for managing administrative policies and privileges
+ii   polkitd                                126-1                            amd64  framework for managing administrative policies and privileges
 ii   procps                                 2:4.0.4-6                        amd64  /proc file system utilities
 ii   psmisc                                 23.7-1                           amd64  utilities that use the proc file system
 ii   publicsuffix                           20241206.1516-0.1                all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      2.9.6                            all    Python interface to libapt-pkg (locales)
 ii   python3                                3.13.1-2                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            2.9.6+b1                         amd64  Python 3 interface to libapt-pkg
-ii   python3-autocommand                    2.2.2-3                          all    library to generate argparse parsers from function signatures
 ii   python3-certifi                        2024.12.14+ds-1                  all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-cffi-backend                   1.17.1-2+b1                      amd64  Foreign Function Interface for Python 3 calling C code - runtime
-ii   python3-chardet                        5.2.0+dfsg-1                     all    Universal Character Encoding Detector (Python3)
+ii   python3-chardet                        5.2.0+dfsg-2                     all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.4.0-1+b1                       amd64  charset, encoding and language detection (Python 3)
 ii   python3-dbus                           1.3.2-5+b4                       amd64  simple interprocess messaging system (Python 3 interface)
 ii   python3-debconf                        1.5.89                           all    interact with debconf from Python 3
@@ -318,20 +317,14 @@ ii   python3-debian                         0.1.49                           all
 ii   python3-debianbts                      4.1.1                            all    Python interface to Debian's Bug Tracking System
 ii   python3-gi                             3.50.0-3+b1                      amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.8-2                            all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-inflect                        7.3.1-2                          all    Generate plurals, singular nouns, ordinals, indefinite articles (Python 3)
-ii   python3-jaraco.context                 6.0.0-1                          all    jaraco contextlib extensions
-ii   python3-jaraco.functools               4.1.0-1                          all    additional functools in the spirit of stdlib's functools
 ii   python3-markdown-it                    3.0.0-2                          all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                          all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.13.1-2                         amd64  minimal subset of the Python language (default python3 version)
-ii   python3-more-itertools                 10.5.0-1                         all    library with routines for operating on iterables, beyond itertools (Python 3)
 ii   python3-netplan                        1.1.1-1                          amd64  Declarative network configuration Python bindings
-ii   python3-pkg-resources                  75.6.0-1                         all    Package Discovery and Resource Access using pkg_resources
-ii   python3-pygments                       2.18.0+dfsg-1                    all    syntax highlighting package written in Python 3
+ii   python3-pygments                       2.18.0+dfsg-2                    all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.0.2                           all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-1                    all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.9.4-1                         all    render rich text, tables, progress bars, syntax highlighting, markdown and more
-ii   python3-typeguard                      4.4.1-1                          all    Run-time type checker for Python
 ii   python3-typing-extensions              4.12.2-2                         all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.2.3-4                          all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b1                       amd64  YAML parser and emitter for Python3
@@ -361,7 +354,7 @@ ii   sysvinit-utils                         3.13-1                           amd
 ii   tar                                    1.35+dfsg-3.1                    amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-1                         amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                        amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2024b-5                          all    time zone and daylight-saving time data
+ii   tzdata                                 2024b-6                          all    time zone and daylight-saving time data
 ii   ucf                                    3.0046                           all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   257.2-1                          amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                          all    Transitional package to assert a merged-/usr system
