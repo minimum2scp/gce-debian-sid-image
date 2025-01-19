@@ -1,8 +1,8 @@
 ii   adduser                                3.137                            all    add and remove users and groups
 ii   apparmor                               3.1.7-1+b3                       amd64  user-space parser utility for AppArmor
-ii   apt                                    2.9.22                           amd64  commandline package manager
+ii   apt                                    2.9.23                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
-ii   apt-utils                              2.9.22                           amd64  package management related utility programs
+ii   apt-utils                              2.9.23                           amd64  package management related utility programs
 ii   base-files                             13.6                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.6                            amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1                         amd64  GNU Bourne Again SHell
@@ -97,7 +97,7 @@ ii   krb5-locales                           1.21.3-4                         all
 ii   less                                   643-1                            amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                       amd64  access control list - shared library
 ii   libapparmor1                           3.1.7-1+b3                       amd64  changehat AppArmor library
-ii   libapt-pkg6.0t64                       2.9.22                           amd64  package management runtime library
+ii   libapt-pkg6.0t64                       2.9.23                           amd64  package management runtime library
 ii   libassuan9                             3.0.1-2                          amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-14                        amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-2                        amd64  extended attribute handling - shared library
@@ -124,7 +124,7 @@ ii   libdbus-1-3                            1.16.0-1                         amd
 ii   libdebconfclient0                      0.277                            amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.201-1                     amd64  Linux Kernel Device Mapper userspace library
 ii   libduktape207                          2.7.0-2+b2                       amd64  embeddable Javascript engine, library
-ii   libedit2                               3.1-20240808-1                   amd64  BSD editline and history libraries
+ii   libedit2                               3.1-20250104-1                   amd64  BSD editline and history libraries
 ii   libefiboot1t64                         38-3.1+b1                        amd64  Library to manage UEFI variables
 ii   libefivar1t64                          38-3.1+b1                        amd64  Library to manage UEFI variables
 ii   libelf1t64                             0.192-4                          amd64  library to read and write ELF files
@@ -198,7 +198,7 @@ ii   libngtcp2-16                           1.9.1-1                          amd
 ii   libngtcp2-crypto-gnutls8               1.9.1-1                          amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.8-2                            amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                       amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      257.2-1                          amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      257.2-2                          amd64  nss module providing fallback resolution for the current hostname
 ii   libnvme1t64                            1.11.1-1+b1                      amd64  NVMe management library (library)
 ii   libonig5                               6.9.9-1+b1                       amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                         amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -206,7 +206,7 @@ ii   libpam-cap                             1:2.66-5+b1                      amd
 ii   libpam-modules                         1.5.3-7+b1                       amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.5.3-7+b1                       amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.5.3-7                          all    Runtime support for the PAM library
-ii   libpam-systemd                         257.2-1                          amd64  system and service manager - PAM module
+ii   libpam-systemd                         257.2-2                          amd64  system and service manager - PAM module
 ii   libpam0g                               1.5.3-7+b1                       amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-4+b1                         amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.5-1                         amd64  system interface for user-level packet capture
@@ -215,8 +215,8 @@ ii   libpcre2-8-0                           10.44-5                          amd
 ii   libperl5.40                            5.40.0-8                         amd64  shared Perl library
 ii   libpipeline1                           1.5.8-1                          amd64  Unix process pipeline manipulation library
 ii   libpng16-16t64                         1.6.45-1                         amd64  PNG library - runtime (version 1.6)
-ii   libpolkit-agent-1-0                    126-1                            amd64  polkit Authentication Agent API
-ii   libpolkit-gobject-1-0                  126-1                            amd64  polkit Authorization API
+ii   libpolkit-agent-1-0                    126-2                            amd64  polkit Authentication Agent API
+ii   libpolkit-gobject-1-0                  126-2                            amd64  polkit Authorization API
 ii   libpopt0                               1.19+dfsg-2                      amd64  lib for parsing cmdline parameters
 ii   libproc2-0                             2:4.0.4-6                        amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.4.1-1+b3                       amd64  Protocol Buffers C shared library (protobuf-c)
@@ -242,8 +242,8 @@ ii   libss2                                 1.47.2-1                         amd
 ii   libssh2-1t64                           1.11.1-1                         amd64  SSH2 client-side library
 ii   libssl3t64                             3.4.0-2                          amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-14                        amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      257.2-1                          amd64  systemd shared private library
-ii   libsystemd0                            257.2-1                          amd64  systemd utility library
+ii   libsystemd-shared                      257.2-2                          amd64  systemd shared private library
+ii   libsystemd0                            257.2-2                          amd64  systemd utility library
 ii   libtasn1-6                             4.19.0-3+b3                      amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                       amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                          all    internationalized substitute of Text::Wrap
@@ -251,7 +251,7 @@ ii   libtinfo6                              6.5-2+b1                         amd
 ii   libtirpc-common                        1.3.4+ds-1.3                     all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.4+ds-1.3+b1                  amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b2                       amd64  universal charset detection library - shared library
-ii   libudev1                               257.2-1                          amd64  libudev shared library
+ii   libudev1                               257.2-2                          amd64  libudev shared library
 ii   libunbound8                            1.22.0-1+b1                      amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                            amd64  Unicode string library for C
 ii   libunistring5                          1.3-1                            amd64  Unicode string library for C
@@ -297,13 +297,13 @@ ii   openssl-provider-legacy                3.4.0-2                          amd
 ii   os-prober                              1.83                             amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-4+b1                         amd64  disk partition manipulator
 ii   passwd                                 1:4.16.0-7                       amd64  change and administer password and group data
-ii   pci.ids                                0.0~2024.11.25-1                 all    PCI ID Repository
+ii   pci.ids                                0.0~2025.01.13-1                 all    PCI ID Repository
 ii   pciutils                               1:3.13.0-1+b1                    amd64  PCI utilities
 ii   perl                                   5.40.0-8                         amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.40.0-8                         amd64  minimal Perl system
 ii   perl-modules-5.40                      5.40.0-8                         all    Core Perl modules
 ii   pinentry-curses                        1.3.1-2                          amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
-ii   polkitd                                126-1                            amd64  framework for managing administrative policies and privileges
+ii   polkitd                                126-2                            amd64  framework for managing administrative policies and privileges
 ii   procps                                 2:4.0.4-6                        amd64  /proc file system utilities
 ii   psmisc                                 23.7-1                           amd64  utilities that use the proc file system
 ii   publicsuffix                           20241206.1516-0.1                all    accurate, machine-readable list of domain name suffixes
@@ -318,7 +318,7 @@ ii   python3-dbus                           1.3.2-5+b4                       amd
 ii   python3-debconf                        1.5.89                           all    interact with debconf from Python 3
 ii   python3-debian                         0.1.49                           all    Python 3 modules to work with Debian-related data formats
 ii   python3-debianbts                      4.1.1                            all    Python interface to Debian's Bug Tracking System
-ii   python3-gi                             3.50.0-3+b1                      amd64  Python 3 bindings for gobject-introspection libraries
+ii   python3-gi                             3.50.0-4                         amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.8-2                            all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-markdown-it                    3.0.0-2                          all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                          all    Python port of the JavaScript mdurl package
@@ -329,7 +329,7 @@ ii   python3-reportbug                      13.0.2                           all
 ii   python3-requests                       2.32.3+dfsg-1                    all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.9.4-1                         all    render rich text, tables, progress bars, syntax highlighting, markdown and more
 ii   python3-typing-extensions              4.12.2-2                         all    Backported and Experimental Type Hints for Python
-ii   python3-urllib3                        2.2.3-4                          all    HTTP library with thread-safe connection pooling for Python3
+ii   python3-urllib3                        2.3.0-1                          all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b1                       amd64  YAML parser and emitter for Python3
 ii   python3.13                             3.13.1-3                         amd64  Interactive high-level object-oriented language (version 3.13)
 ii   python3.13-minimal                     3.13.1-3                         amd64  Minimal subset of the Python language (version 3.13)
@@ -349,17 +349,17 @@ ii   shim-unsigned                          15.8-1                           amd
 ii   socat                                  1.8.0.2-1                        amd64  multipurpose relay for bidirectional data transfer
 ii   sqv                                    1.2.1-5                          amd64  Simple OpenPGP signature verification program
 ii   sudo                                   1.9.16p1-1+b1                    amd64  Provide limited super user privileges to specific users
-ii   systemd                                257.2-1                          amd64  system and service manager
-ii   systemd-resolved                       257.2-1                          amd64  systemd DNS resolver
-ii   systemd-sysv                           257.2-1                          amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      257.2-1                          amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                257.2-2                          amd64  system and service manager
+ii   systemd-resolved                       257.2-2                          amd64  systemd DNS resolver
+ii   systemd-sysv                           257.2-2                          amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      257.2-2                          amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.13-1                           amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3.1                    amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-1                         amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                        amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2024b-6                          all    time zone and daylight-saving time data
+ii   tzdata                                 2025a-1                          all    time zone and daylight-saving time data
 ii   ucf                                    3.0048                           all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   257.2-1                          amd64  /dev/ and hotplug management daemon
+ii   udev                                   257.2-2                          amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                          all    Transitional package to assert a merged-/usr system
 ii   util-linux                             2.40.4-1                         amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.40.4-1                         amd64  interactive login tools
