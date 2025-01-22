@@ -1,14 +1,14 @@
 ii   adduser                                3.137                            all    add and remove users and groups
 ii   apparmor                               3.1.7-1+b3                       amd64  user-space parser utility for AppArmor
-ii   apt                                    2.9.23                           amd64  commandline package manager
+ii   apt                                    2.9.24                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
-ii   apt-utils                              2.9.23                           amd64  package management related utility programs
+ii   apt-utils                              2.9.24                           amd64  package management related utility programs
 ii   base-files                             13.6                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.6                            amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1                         amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-6                       all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.4-3                       amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.4-3                       amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.4-4                       amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.4-4                       amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1            amd64  simple mail user agent
 ii   bsdextrautils                          2.40.4-1                         amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.40.4-1                       amd64  basic utilities from 4.4BSD-Lite
@@ -50,8 +50,8 @@ ii   gdisk                                  1.0.10-2                         amd
 ii   gettext-base                           0.23.1-1                         amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.82.0-4                         amd64  Introspection data for GIRepository library
 ii   gir1.2-glib-2.0                        2.82.4-2                         amd64  Introspection data for GLib, GObject, Gio and GModule
-ii   git                                    1:2.47.1-1                       amd64  fast, scalable, distributed revision control system
-ii   git-man                                1:2.47.1-1                       all    fast, scalable, distributed revision control system (manual pages)
+ii   git                                    1:2.47.2-0.1                     amd64  fast, scalable, distributed revision control system
+ii   git-man                                1:2.47.2-0.1                     all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.46-1                         all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.46-1                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.46-1+b1                      amd64  GNU privacy guard - utility programs
@@ -60,8 +60,8 @@ ii   google-cloud-cli-anthoscli             506.0.0-0                        amd
 ii   google-cloud-packages-archive-keyring  1.2-629101324                    all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20250107.00-g1                 all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12           amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20241209.01-g1                 amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20240926.03-g1                 amd64  Google Compute Engine OSConfig Agent
+ii   google-guest-agent                     1:20250116.00-g1                 amd64  Google Compute Engine Guest Agent
+ii   google-osconfig-agent                  1:20250115.01-g1                 amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.46-1+b1                      amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.46-1+b1                      amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.46-1+b1                      amd64  GNU privacy guard - Web Key Service client
@@ -97,7 +97,7 @@ ii   krb5-locales                           1.21.3-4                         all
 ii   less                                   643-1                            amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                       amd64  access control list - shared library
 ii   libapparmor1                           3.1.7-1+b3                       amd64  changehat AppArmor library
-ii   libapt-pkg6.0t64                       2.9.23                           amd64  package management runtime library
+ii   libapt-pkg6.0t64                       2.9.24                           amd64  package management runtime library
 ii   libassuan9                             3.0.1-2                          amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-14                        amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-2                        amd64  extended attribute handling - shared library
