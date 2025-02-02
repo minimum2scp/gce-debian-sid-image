@@ -214,16 +214,16 @@ ii   libpci3                                1:3.13.0-1+b1                    amd
 ii   libpcre2-8-0                           10.44-5                          amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libperl5.40                            5.40.0-8                         amd64  shared Perl library
 ii   libpipeline1                           1.5.8-1                          amd64  Unix process pipeline manipulation library
-ii   libpng16-16t64                         1.6.46-2                         amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16t64                         1.6.46-4                         amd64  PNG library - runtime (version 1.6)
 ii   libpolkit-agent-1-0                    126-2                            amd64  polkit Authentication Agent API
 ii   libpolkit-gobject-1-0                  126-2                            amd64  polkit Authorization API
 ii   libpopt0                               1.19+dfsg-2                      amd64  lib for parsing cmdline parameters
 ii   libproc2-0                             2:4.0.4-7                        amd64  library for accessing process information from /proc
-ii   libprotobuf-c1                         1.4.1-1+b3                       amd64  Protocol Buffers C shared library (protobuf-c)
+ii   libprotobuf-c1                         1.5.1-1                          amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                    amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.13.1-2                         amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.13-minimal                  3.13.1-3                         amd64  Minimal subset of the Python language (version 3.13)
-ii   libpython3.13-stdlib                   3.13.1-3                         amd64  Interactive high-level object-oriented language (standard library, version 3.13)
+ii   libpython3.13-minimal                  3.13.1-3+b1                      amd64  Minimal subset of the Python language (version 3.13)
+ii   libpython3.13-stdlib                   3.13.1-3+b1                      amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.2-6                            amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b5   amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-8+b1                amd64  Cyrus SASL - authentication abstraction library
@@ -234,7 +234,7 @@ ii   libselinux1                            3.7-3.1                          amd
 ii   libsemanage-common                     3.7-2.1                          all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.7-2.1                          amd64  SELinux policy management library
 ii   libsepol2                              3.7-1                            amd64  SELinux library for manipulating binary security policies
-ii   libslang2                              2.3.3-5+b1                       amd64  S-Lang programming library - runtime version
+ii   libslang2                              2.3.3-5+b2                       amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.40.4-2                         amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1+b2                      amd64  Network communication, cryptography and signaturing library
 ii   libsqlite3-0                           3.46.1-1                         amd64  SQLite 3 shared library
@@ -331,8 +331,8 @@ ii   python3-rich                           13.9.4-1                         all
 ii   python3-typing-extensions              4.12.2-2                         all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.3.0-1                          all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b1                       amd64  YAML parser and emitter for Python3
-ii   python3.13                             3.13.1-3                         amd64  Interactive high-level object-oriented language (version 3.13)
-ii   python3.13-minimal                     3.13.1-3                         amd64  Minimal subset of the Python language (version 3.13)
+ii   python3.13                             3.13.1-3+b1                      amd64  Interactive high-level object-oriented language (version 3.13)
+ii   python3.13-minimal                     3.13.1-3+b1                      amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.2-6                            all    GNU readline and history libraries, common files
 ii   reportbug                              13.0.2                           all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2412.0-1                       amd64  reliable system and kernel logging daemon
