@@ -1,8 +1,8 @@
 ii   adduser                                3.137                            all    add and remove users and groups
 ii   apparmor                               3.1.7-1+b3                       amd64  user-space parser utility for AppArmor
-ii   apt                                    2.9.27                           amd64  commandline package manager
+ii   apt                                    2.9.28                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
-ii   apt-utils                              2.9.27                           amd64  package management related utility programs
+ii   apt-utils                              2.9.28                           amd64  package management related utility programs
 ii   base-files                             13.6                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.6                            amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1                         amd64  GNU Bourne Again SHell
@@ -33,7 +33,7 @@ ii   distro-info-data                       0.63                             all
 ii   dmidecode                              3.6-2                            amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.201-1                     amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.22.15                          amd64  Debian package management system
-ii   dracut-install                         105-3                            amd64  dracut is an event driven initramfs infrastructure (dracut-install)
+ii   dracut-install                         106-1                            amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-1                         amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-2                             amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.22-1                        all    store /etc in git, mercurial, brz or darcs
@@ -97,7 +97,7 @@ ii   krb5-locales                           1.21.3-4                         all
 ii   less                                   643-1                            amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                       amd64  access control list - shared library
 ii   libapparmor1                           3.1.7-1+b3                       amd64  changehat AppArmor library
-ii   libapt-pkg6.0t64                       2.9.27                           amd64  package management runtime library
+ii   libapt-pkg6.0t64                       2.9.28                           amd64  package management runtime library
 ii   libassuan9                             3.0.1-2                          amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-16                        amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-2                        amd64  extended attribute handling - shared library
