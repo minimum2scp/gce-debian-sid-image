@@ -1,8 +1,8 @@
 ii   adduser                                3.137                            all    add and remove users and groups
 ii   apparmor                               3.1.7-2                          amd64  user-space parser utility for AppArmor
-ii   apt                                    2.9.28                           amd64  commandline package manager
+ii   apt                                    2.9.29                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
-ii   apt-utils                              2.9.28                           amd64  package management related utility programs
+ii   apt-utils                              2.9.29                           amd64  package management related utility programs
 ii   base-files                             13.6                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.6                            amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1                         amd64  GNU Bourne Again SHell
@@ -17,7 +17,7 @@ ii   coreutils                              9.5-1+b1                         amd
 ii   cpio                                   2.15+dfsg-2                      amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-192                       amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-192                       all    process scheduling daemon's configuration files
-ii   curl                                   8.12.0+git20250209.89ed161+ds-1  amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.12.1-2                         amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                        amd64  POSIX-compliant shell
 ii   dbus                                   1.16.0-1                         amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.0-1                         amd64  simple interprocess messaging system (command line utilities)
@@ -97,7 +97,7 @@ ii   krb5-locales                           1.21.3-4                         all
 ii   less                                   643-1                            amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                       amd64  access control list - shared library
 ii   libapparmor1                           3.1.7-2                          amd64  changehat AppArmor library
-ii   libapt-pkg6.0t64                       2.9.28                           amd64  package management runtime library
+ii   libapt-pkg6.0t64                       2.9.29                           amd64  package management runtime library
 ii   libassuan9                             3.0.1-2                          amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-17                        amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-2                        amd64  extended attribute handling - shared library
@@ -117,7 +117,7 @@ ii   libcbor0.10                            0.10.2-2                         amd
 ii   libcom-err2                            1.47.2-1                         amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                       amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.5-1                        amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.12.0+git20250209.89ed161+ds-1  amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3t64-gnutls                     8.12.1-2                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.88.1-10+deb12u8                amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.0-1                         amd64  simple interprocess messaging system (library)
@@ -231,8 +231,8 @@ ii   libsasl2-modules                       2.1.28+dfsg1-8+b1                amd
 ii   libsasl2-modules-db                    2.1.28+dfsg1-8+b1                amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.5.5-2                          amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.8-3                            amd64  SELinux runtime shared libraries
-ii   libsemanage-common                     3.7-2.1                          all    Common files for SELinux policy management libraries
-ii   libsemanage2                           3.7-2.1+b1                       amd64  SELinux policy management library
+ii   libsemanage-common                     3.8-1                            all    Common files for SELinux policy management libraries
+ii   libsemanage2                           3.8-1                            amd64  SELinux policy management library
 ii   libsepol2                              3.8-1                            amd64  SELinux library for manipulating binary security policies
 ii   libslang2                              2.3.3-5+b2                       amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.40.4-3                         amd64  smart column output alignment library
@@ -244,7 +244,7 @@ ii   libssl3t64                             3.4.1-1                          amd
 ii   libstdc++6                             14.2.0-17                        amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      257.3-1                          amd64  systemd shared private library
 ii   libsystemd0                            257.3-1                          amd64  systemd utility library
-ii   libtasn1-6                             4.20.0-1                         amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.20.0-2                         amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                       amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                          all    internationalized substitute of Text::Wrap
 ii   libtinfo6                              6.5+20250125-2                   amd64  shared low-level terminfo library for terminal handling
@@ -305,7 +305,7 @@ ii   perl-modules-5.40                      5.40.0-8                         all
 ii   pinentry-curses                        1.3.1-2                          amd64  curses-based PIN or pass-phrase entry dialog for GnuPG
 ii   polkitd                                126-2                            amd64  framework for managing administrative policies and privileges
 ii   procps                                 2:4.0.4-7                        amd64  /proc file system utilities
-ii   psmisc                                 23.7-1                           amd64  utilities that use the proc file system
+ii   psmisc                                 23.7-2                           amd64  utilities that use the proc file system
 ii   publicsuffix                           20250108.1153-0.1                all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      2.9.8                            all    Python interface to libapt-pkg (locales)
 ii   python3                                3.13.1-2                         amd64  interactive high-level object-oriented language (default python3 version)
