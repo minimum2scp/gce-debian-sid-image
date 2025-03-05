@@ -1,9 +1,9 @@
-ii   adduser                                3.143                            all    add and remove users and groups
-ii   apparmor                               4.1.0~beta5-2+b1                 amd64  user-space parser utility for AppArmor
+ii   adduser                                3.144                            all    add and remove users and groups
+ii   apparmor                               4.1.0~beta5-3                    amd64  user-space parser utility for AppArmor
 ii   apt                                    2.9.31                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
 ii   apt-utils                              2.9.31                           amd64  package management related utility programs
-ii   base-files                             13.6                             amd64  Debian base system miscellaneous files
+ii   base-files                             13.7                             amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.6                            amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1.1                       amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                       all    programmable completion for the bash shell
@@ -55,13 +55,13 @@ ii   git-man                                1:2.47.2-0.1                     all
 ii   gnupg                                  2.2.46-2                         all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.2.46-2                         all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.2.46-2                         amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       512.0.0-0                        amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             512.0.0-0                        amd64  anthoscli
+ii   google-cloud-cli                       513.0.0-0                        amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             513.0.0-0                        amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                    all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20250207.00-g1                 all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12           amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20250204.01-g1                 amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20250115.01-g1                 amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20250206.01-g1                 amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.2.46-2                         amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.2.46-2                         amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.2.46-2                         amd64  GNU privacy guard - Web Key Service client
@@ -96,7 +96,7 @@ ii   kmod                                   34-3                             amd
 ii   krb5-locales                           1.21.3-4                         all    internationalization support for MIT Kerberos
 ii   less                                   643-1                            amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                       amd64  access control list - shared library
-ii   libapparmor1                           4.1.0~beta5-2+b1                 amd64  changehat AppArmor library
+ii   libapparmor1                           4.1.0~beta5-3                    amd64  changehat AppArmor library
 ii   libapt-pkg6.0                          2.6.1                            amd64  package management runtime library
 ii   libapt-pkg7.0                          2.9.31                           amd64  package management runtime library
 ii   libassuan9                             3.0.2-2                          amd64  IPC library for the GnuPG components
@@ -222,7 +222,7 @@ ii   libpopt0                               1.19+dfsg-2                      amd
 ii   libproc2-0                             2:4.0.4-7                        amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.5.1-1                          amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                    amd64  Library for Public Suffix List (shared libraries)
-ii   libpython3-stdlib                      3.13.2-1                         amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3-stdlib                      3.13.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.13-minimal                  3.13.2-1                         amd64  Minimal subset of the Python language (version 3.13)
 ii   libpython3.13-stdlib                   3.13.2-1                         amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.2-6                            amd64  GNU readline and history libraries, run-time libraries
@@ -309,7 +309,7 @@ ii   procps                                 2:4.0.4-7                        amd
 ii   psmisc                                 23.7-2                           amd64  utilities that use the proc file system
 ii   publicsuffix                           20250108.1153-0.1                all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      2.9.9                            all    Python interface to libapt-pkg (locales)
-ii   python3                                3.13.2-1                         amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3                                3.13.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            2.9.9+b1                         amd64  Python 3 interface to libapt-pkg
 ii   python3-certifi                        2025.1.31+ds-1                   all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-cffi-backend                   1.17.1-2+b2                      amd64  Foreign Function Interface for Python 3 calling C code - runtime
@@ -323,7 +323,7 @@ ii   python3-gi                             3.50.0-4+b1                      amd
 ii   python3-idna                           3.10-1                           all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-markdown-it                    3.0.0-2                          all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                          all    Python port of the JavaScript mdurl package
-ii   python3-minimal                        3.13.2-1                         amd64  minimal subset of the Python language (default python3 version)
+ii   python3-minimal                        3.13.2-2                         amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-3                          amd64  Declarative network configuration Python bindings
 ii   python3-pygments                       2.18.0+dfsg-2                    all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.1.0                           all    Python modules for interacting with bug tracking systems
