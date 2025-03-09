@@ -1,4 +1,4 @@
-ii   adduser                                3.144                            all    add and remove users and groups
+ii   adduser                                3.145                            all    add and remove users and groups
 ii   apparmor                               4.1.0~beta5-3                    amd64  user-space parser utility for AppArmor
 ii   apt                                    2.9.31                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
@@ -19,11 +19,11 @@ ii   cron                                   3.0pl1-194                       amd
 ii   cron-daemon-common                     3.0pl1-194                       all    process scheduling daemon's configuration files
 ii   curl                                   8.12.1-3                         amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                        amd64  POSIX-compliant shell
-ii   dbus                                   1.16.2-1                         amd64  simple interprocess messaging system (system message bus)
-ii   dbus-bin                               1.16.2-1                         amd64  simple interprocess messaging system (command line utilities)
-ii   dbus-daemon                            1.16.2-1                         amd64  simple interprocess messaging system (reference message bus)
-ii   dbus-session-bus-common                1.16.2-1                         all    simple interprocess messaging system (session bus configuration)
-ii   dbus-system-bus-common                 1.16.2-1                         all    simple interprocess messaging system (system bus configuration)
+ii   dbus                                   1.16.2-2                         amd64  simple interprocess messaging system (system message bus)
+ii   dbus-bin                               1.16.2-2                         amd64  simple interprocess messaging system (command line utilities)
+ii   dbus-daemon                            1.16.2-2                         amd64  simple interprocess messaging system (reference message bus)
+ii   dbus-session-bus-common                1.16.2-2                         all    simple interprocess messaging system (session bus configuration)
+ii   dbus-system-bus-common                 1.16.2-2                         all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.90                           all    Debian configuration management system
 ii   debian-archive-keyring                 2023.4                           all    GnuPG archive keys of the Debian archive
 ii   debianutils                            5.21                             amd64  Miscellaneous utilities specific to Debian
@@ -48,7 +48,7 @@ ii   gcc-14-base                            14.2.0-17                        amd
 ii   gce-disk-expand                        1:20200716.00-g1                 all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-1                         amd64  GNU Internationalization utilities for the base system
-ii   gir1.2-girepository-2.0                1.83.2-2                         amd64  Introspection data for GIRepository library
+ii   gir1.2-girepository-2.0                1.83.4-1                         amd64  Introspection data for GIRepository library
 ii   gir1.2-glib-2.0                        2.83.5-1                         amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.47.2-0.1                     amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.47.2-0.1                     all    fast, scalable, distributed revision control system (manual pages)
@@ -121,7 +121,7 @@ ii   libcryptsetup12                        2:2.7.5-1                        amd
 ii   libcurl3t64-gnutls                     8.12.1-3                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.88.1-10+deb12u8                amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                   amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdbus-1-3                            1.16.2-1                         amd64  simple interprocess messaging system (library)
+ii   libdbus-1-3                            1.16.2-2                         amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.277                            amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.205-1                     amd64  Linux Kernel Device Mapper userspace library
 ii   libduktape207                          2.7.0-2+b2                       amd64  embeddable Javascript engine, library
@@ -130,7 +130,7 @@ ii   libefiboot1t64                         38-3.1+b1                        amd
 ii   libefivar1t64                          38-3.1+b1                        amd64  Library to manage UEFI variables
 ii   libelf1t64                             0.192-4                          amd64  library to read and write ELF files
 ii   liberror-perl                          0.17030-1                        all    Perl module for error/exception handling in an OO-ish way
-ii   libestr0                               0.1.11-1+b2                      amd64  Helper functions for handling strings (lib)
+ii   libestr0                               0.1.11-2                         amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10+b1              amd64  Asynchronous event notification library
 ii   libexpat1                              2.6.4-1                          amd64  XML parsing C library - runtime library
 ii   libext2fs2t64                          1.47.2-1                         amd64  ext2/ext3/ext4 file system libraries
@@ -145,7 +145,7 @@ ii   libgcc-s1                              14.2.0-17                        amd
 ii   libgcrypt20                            1.11.0-7                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.24-2                           amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                           amd64  GNU dbm database routines (runtime version)
-ii   libgirepository-1.0-1                  1.83.2-2                         amd64  Library for handling GObject introspection data (runtime library)
+ii   libgirepository-1.0-1                  1.83.4-1                         amd64  Library for handling GObject introspection data (runtime library)
 ii   libglib2.0-0t64                        2.83.5-1                         amd64  GLib library of C routines
 ii   libglib2.0-data                        2.83.5-1                         all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3                   amd64  Multiprecision arithmetic library
@@ -177,7 +177,7 @@ ii   libldap2                               2.6.9+dfsg-1                     amd
 ii   liblmdb0                               0.9.31-1+b2                      amd64  Lightning Memory-Mapped Database shared library
 ii   liblockfile-bin                        1.17-2                           amd64  support binaries for and cli utilities based on liblockfile
 ii   liblockfile1                           1.17-2                           amd64  NFS-safe locking library
-ii   liblognorm5                            2.0.6-4+b3                       amd64  log normalizing library
+ii   liblognorm5                            2.0.6-5                          amd64  log normalizing library
 ii   liblz4-1                               1.10.0-4                         amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.6.4-1                          amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.45-3+b1                      amd64  File type determination library using "magic" numbers (compiled magic file)
@@ -238,7 +238,7 @@ ii   libsepol2                              3.8-1                            amd
 ii   libslang2                              2.3.3-5+b2                       amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.40.4-5                         amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1+b2                      amd64  Network communication, cryptography and signaturing library
-ii   libsqlite3-0                           3.46.1-1                         amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.46.1-2                         amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-1                         amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                         amd64  SSH2 client-side library
 ii   libssl3t64                             3.4.1-1                          amd64  Secure Sockets Layer toolkit - shared libraries
