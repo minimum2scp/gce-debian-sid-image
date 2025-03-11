@@ -49,7 +49,7 @@ ii   gce-disk-expand                        1:20200716.00-g1                 all
 ii   gdisk                                  1.0.10-2                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-1                         amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.83.4-1                         amd64  Introspection data for GIRepository library
-ii   gir1.2-glib-2.0                        2.83.5-1                         amd64  Introspection data for GLib, GObject, Gio and GModule
+ii   gir1.2-glib-2.0                        2.84.0-1                         amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.47.2-0.1                     amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.47.2-0.1                     all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.46-4                         all    GNU privacy guard - a free PGP replacement
@@ -146,8 +146,8 @@ ii   libgcrypt20                            1.11.0-7                         amd
 ii   libgdbm-compat4t64                     1.24-2                           amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                           amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-1.0-1                  1.83.4-1                         amd64  Library for handling GObject introspection data (runtime library)
-ii   libglib2.0-0t64                        2.83.5-1                         amd64  GLib library of C routines
-ii   libglib2.0-data                        2.83.5-1                         all    Common files for GLib library
+ii   libglib2.0-0t64                        2.84.0-1                         amd64  GLib library of C routines
+ii   libglib2.0-data                        2.84.0-1                         all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3                   amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.9-2                          amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.9-2                          amd64  GNU TLS library - main runtime library
