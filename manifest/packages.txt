@@ -109,8 +109,8 @@ ii   libbpf1                                1:1.5.0-2                        amd
 ii   libbrotli1                             1.1.0-2+b7                       amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-2                         amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6                          amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.41-4                           amd64  GNU C Library: Binaries
-ii   libc6                                  2.41-4                           amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.41-5                           amd64  GNU C Library: Binaries
+ii   libc6                                  2.41-5                           amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-4+b1                       amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.75-2                         amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.75-2                         amd64  POSIX 1003.1e capabilities (utilities)
@@ -119,7 +119,7 @@ ii   libcom-err2                            1.47.2-1                         amd
 ii   libcrypt1                              1:4.4.38-1                       amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.5-1                        amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.12.1-3                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4                               7.88.1-10+deb12u8                amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl4                               7.88.1-10+deb12u12               amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                         amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.277                            amd64  Debian Configuration Management System (C-implementation library)
@@ -132,7 +132,7 @@ ii   libelf1t64                             0.192-4                          amd
 ii   liberror-perl                          0.17030-1                        all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-2                         amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10+b1              amd64  Asynchronous event notification library
-ii   libexpat1                              2.6.4-1                          amd64  XML parsing C library - runtime library
+ii   libexpat1                              2.7.0-1                          amd64  XML parsing C library - runtime library
 ii   libext2fs2t64                          1.47.2-1                         amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           1.2304.0-2                       amd64  fast json library for C
 ii   libffi8                                3.4.7-1                          amd64  Foreign Function Interface library runtime
@@ -158,7 +158,7 @@ ii   libhavege2                             1.9.19-10                        amd
 ii   libhogweed6t64                         3.10.1-1                         amd64  low level cryptographic library (public-key cryptos)
 ii   libicu76                               76.1-3                           amd64  International Components for Unicode
 ii   libidn12                               1.42-3                           amd64  GNU Libidn library, implementation of IETF IDN specifications
-ii   libidn2-0                              2.3.8-1                          amd64  Internationalized domain names (IDNA2008/TR46) library
+ii   libidn2-0                              2.3.8-2                          amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.11-2                         amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.11-2                         amd64  netfilter libip6tc library
 ii   libjemalloc2                           5.3.0-3                          amd64  general-purpose scalable concurrent malloc(3) implementation
