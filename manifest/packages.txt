@@ -1,5 +1,5 @@
 ii   adduser                                3.145                            all    add and remove users and groups
-ii   apparmor                               4.1.0~beta5-3                    amd64  user-space parser utility for AppArmor
+ii   apparmor                               4.1.0~beta5-4                    amd64  user-space parser utility for AppArmor
 ii   apt                                    2.9.33                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                              all    package change history notification tool
 ii   apt-utils                              2.9.33                           amd64  package management related utility programs
@@ -17,7 +17,7 @@ ii   coreutils                              9.5-1+b1                         amd
 ii   cpio                                   2.15+dfsg-2                      amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-194                       amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-194                       all    process scheduling daemon's configuration files
-ii   curl                                   8.12.1-3                         amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.13.0~rc2-1                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                        amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                         amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                         amd64  simple interprocess messaging system (command line utilities)
@@ -48,7 +48,7 @@ ii   gcc-14-base                            14.2.0-19                        amd
 ii   gce-disk-expand                        1:20200716.00-g1                 all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                         amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-1                         amd64  GNU Internationalization utilities for the base system
-ii   gir1.2-girepository-2.0                1.83.4-1                         amd64  Introspection data for GIRepository library
+ii   gir1.2-girepository-2.0                1.84.0-1                         amd64  Introspection data for GIRepository library
 ii   gir1.2-glib-2.0                        2.84.0-2                         amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.49.0-1                       amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.49.0-1                       all    fast, scalable, distributed revision control system (manual pages)
@@ -96,7 +96,7 @@ ii   kmod                                   34.1-2                           amd
 ii   krb5-locales                           1.21.3-5                         all    internationalization support for MIT Kerberos
 ii   less                                   643-1                            amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                       amd64  access control list - shared library
-ii   libapparmor1                           4.1.0~beta5-3                    amd64  changehat AppArmor library
+ii   libapparmor1                           4.1.0~beta5-4                    amd64  changehat AppArmor library
 ii   libapt-pkg6.0                          2.6.1                            amd64  package management runtime library
 ii   libapt-pkg7.0                          2.9.33                           amd64  package management runtime library
 ii   libassuan9                             3.0.2-2                          amd64  IPC library for the GnuPG components
@@ -118,7 +118,7 @@ ii   libcbor0.10                            0.10.2-2                         amd
 ii   libcom-err2                            1.47.2-1+b1                      amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                       amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.5-1                        amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.12.1-3                         amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3t64-gnutls                     8.13.0~rc2-1                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.88.1-10+deb12u12               amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                   amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                         amd64  simple interprocess messaging system (library)
@@ -145,7 +145,7 @@ ii   libgcc-s1                              14.2.0-19                        amd
 ii   libgcrypt20                            1.11.0-7                         amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.24-2                           amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                           amd64  GNU dbm database routines (runtime version)
-ii   libgirepository-1.0-1                  1.83.4-1                         amd64  Library for handling GObject introspection data (runtime library)
+ii   libgirepository-1.0-1                  1.84.0-1                         amd64  Library for handling GObject introspection data (runtime library)
 ii   libglib2.0-0t64                        2.84.0-2                         amd64  GLib library of C routines
 ii   libglib2.0-data                        2.84.0-2                         all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3                   amd64  Multiprecision arithmetic library
@@ -249,8 +249,8 @@ ii   libtasn1-6                             4.20.0-2                         amd
 ii   libtext-charwidth-perl                 0.04-11+b4                       amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                          all    internationalized substitute of Text::Wrap
 ii   libtinfo6                              6.5+20250216-2                   amd64  shared low-level terminfo library for terminal handling
-ii   libtirpc-common                        1.3.4+ds-1.3                     all    transport-independent RPC library - common files
-ii   libtirpc3t64                           1.3.4+ds-1.3+b1                  amd64  transport-independent RPC library
+ii   libtirpc-common                        1.3.6+ds-1                       all    transport-independent RPC library - common files
+ii   libtirpc3t64                           1.3.6+ds-1                       amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b2                       amd64  universal charset detection library - shared library
 ii   libudev1                               257.4-3                          amd64  libudev shared library
 ii   libunbound8                            1.22.0-1+b1                      amd64  library implementing DNS resolution and validation
@@ -268,8 +268,8 @@ ii   libyaml-0-2                            0.2.5-2                          amd
 ii   libzstd1                               1.5.7+dfsg-1                     amd64  fast lossless compression algorithm
 ii   linux-base                             4.11                             all    Linux image base package
 ii   linux-image-6.1.0-31-cloud-amd64       6.1.128-1                        amd64  Linux 6.1 for x86-64 cloud (signed)
-ii   linux-image-6.12.17-cloud-amd64        6.12.17-1                        amd64  Linux 6.12 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.12.17-1                        amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.12.19-cloud-amd64        6.12.19-1                        amd64  Linux 6.12 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.12.19-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.16.0-2+really2.40.4-5        amd64  system login tools
 ii   login.defs                             1:4.17.3-2                       all    system user management configuration
 ii   logrotate                              3.22.0-1                         amd64  Log rotation utility
@@ -307,7 +307,7 @@ ii   pinentry-curses                        1.3.1-2                          amd
 ii   polkitd                                126-2                            amd64  framework for managing administrative policies and privileges
 ii   procps                                 2:4.0.4-7                        amd64  /proc file system utilities
 ii   psmisc                                 23.7-2                           amd64  utilities that use the proc file system
-ii   publicsuffix                           20250108.1153-0.1                all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20250306.2152-0.1                all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      2.9.9                            all    Python interface to libapt-pkg (locales)
 ii   python3                                3.13.2-2                         amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            2.9.9+b1                         amd64  Python 3 interface to libapt-pkg
