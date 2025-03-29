@@ -1,11 +1,11 @@
-ii   adduser                                3.149                           all    add and remove users and groups
+ii   adduser                                3.150                           all    add and remove users and groups
 ii   apparmor                               4.1.0~beta5-5                   amd64  user-space parser utility for AppArmor
 ii   apt                                    2.9.35                          amd64  commandline package manager
 ii   apt-listchanges                        4.8                             all    package change history notification tool
 ii   apt-utils                              2.9.35                          amd64  package management related utility programs
 ii   base-files                             13.7                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
-ii   bash                                   5.2.37-1.1+b1                   amd64  GNU Bourne Again SHell
+ii   bash                                   5.2.37-1.1+b2                   amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
 ii   bind9-host                             1:9.20.7-1                      amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.20.7-1                      amd64  Shared Libraries used by BIND 9
@@ -38,10 +38,10 @@ ii   e2fsprogs                              1.47.2-1+b1                     amd6
 ii   efibootmgr                             18-2                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.22-1                       all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.11-1                        amd64  display or change Ethernet device settings
-ii   exim4-base                             4.98.1-2                        amd64  support files for all Exim MTA (v4) packages
-ii   exim4-config                           4.98.1-2                        all    configuration for the Exim MTA (v4)
-ii   exim4-daemon-light                     4.98.1-2                        amd64  lightweight Exim MTA (v4) daemon
-ii   file                                   1:5.46-3                        amd64  Recognize the type of data in a file using "magic" numbers
+ii   exim4-base                             4.98.2-1                        amd64  support files for all Exim MTA (v4) packages
+ii   exim4-config                           4.98.2-1                        all    configuration for the Exim MTA (v4)
+ii   exim4-daemon-light                     4.98.2-1                        amd64  lightweight Exim MTA (v4) daemon
+ii   file                                   1:5.46-4                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                        amd64  utilities for finding files--find, xargs
 ii   gcc-12-base                            12.4.0-5                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-14-base                            14.2.0-19                       amd64  GCC, the GNU Compiler Collection (base package)
@@ -179,8 +179,8 @@ ii   liblockfile1                           1.17-2                          amd6
 ii   liblognorm5                            2.0.6-5                         amd64  log normalizing library
 ii   liblz4-1                               1.10.0-4                        amd64  Fast LZ compression algorithm library - runtime
 ii   liblzma5                               5.6.4-1                         amd64  XZ-format compression library
-ii   libmagic-mgc                           1:5.46-3                        amd64  File type determination library using "magic" numbers (compiled magic file)
-ii   libmagic1t64                           1:5.46-3                        amd64  Recognize the type of data in a file using "magic" numbers - library
+ii   libmagic-mgc                           1:5.46-4                        amd64  File type determination library using "magic" numbers (compiled magic file)
+ii   libmagic1t64                           1:5.46-4                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmaxminddb0                          1.12.2-1                        amd64  IP geolocation database library
 ii   libmd0                                 1.1.0-2+b1                      amd64  message digest functions from BSD systems - shared library
 ii   libmnl0                                1.0.5-3                         amd64  minimalistic Netlink communication library
@@ -198,7 +198,7 @@ ii   libngtcp2-16                           1.11.0-1                        amd6
 ii   libngtcp2-crypto-gnutls8               1.11.0-1                        amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.8-2                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                      amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      257.4-5                         amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      257.4-6                         amd64  nss module providing fallback resolution for the current hostname
 ii   libnvme1t64                            1.12-2                          amd64  NVMe management library (library)
 ii   libonig5                               6.9.9-1+b1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -206,7 +206,7 @@ ii   libpam-cap                             1:2.75-4                        amd6
 ii   libpam-modules                         1.7.0-3                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.7.0-3                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.7.0-3                         all    Runtime support for the PAM library
-ii   libpam-systemd                         257.4-5                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         257.4-6                         amd64  system and service manager - PAM module
 ii   libpam0g                               1.7.0-3                         amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-5                           amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.5-2                        amd64  system interface for user-level packet capture
@@ -242,8 +242,8 @@ ii   libss2                                 1.47.2-1+b1                     amd6
 ii   libssh2-1t64                           1.11.1-1                        amd64  SSH2 client-side library
 ii   libssl3t64                             3.4.1-1                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-19                       amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      257.4-5                         amd64  systemd shared private library
-ii   libsystemd0                            257.4-5                         amd64  systemd utility library
+ii   libsystemd-shared                      257.4-6                         amd64  systemd shared private library
+ii   libsystemd0                            257.4-6                         amd64  systemd utility library
 ii   libtasn1-6                             4.20.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                      amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                         all    internationalized substitute of Text::Wrap
@@ -251,7 +251,7 @@ ii   libtinfo6                              6.5+20250216-2                  amd6
 ii   libtirpc-common                        1.3.6+ds-1                      all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.6+ds-1                      amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b2                      amd64  universal charset detection library - shared library
-ii   libudev1                               257.4-5                         amd64  libudev shared library
+ii   libudev1                               257.4-6                         amd64  libudev shared library
 ii   libunbound8                            1.22.0-1+b1                     amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libunistring5                          1.3-2                           amd64  Unicode string library for C
@@ -349,16 +349,16 @@ ii   shim-unsigned                          15.8-1                          amd6
 ii   socat                                  1.8.0.2-1                       amd64  multipurpose relay for bidirectional data transfer
 ii   sqv                                    1.2.1-6+b1                      amd64  Simple OpenPGP signature verification program
 ii   sudo                                   1.9.16p2-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                257.4-5                         amd64  system and service manager
-ii   systemd-sysv                           257.4-5                         amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      257.4-5                         amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                257.4-6                         amd64  system and service manager
+ii   systemd-sysv                           257.4-6                         amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      257.4-6                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.14-4                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3.1                   amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-2                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2025b-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0050                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   257.4-5                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   257.4-6                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                         all    Transitional package to assert a merged-/usr system
 ii   util-linux                             2.40.4-5                        amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.40.4-5                        amd64  interactive login tools
