@@ -17,7 +17,7 @@ ii   coreutils                              9.5-1+b1                        amd6
 ii   cpio                                   2.15+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-194                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-194                      all    process scheduling daemon's configuration files
-ii   curl                                   8.13.0~rc3-1                    amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.13.0-1                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                       amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                        amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                        amd64  simple interprocess messaging system (command line utilities)
@@ -118,7 +118,7 @@ ii   libcbor0.10                            0.10.2-2                        amd6
 ii   libcom-err2                            1.47.2-1+b1                     amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.5-1                       amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.13.0~rc3-1                    amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl3t64-gnutls                     8.13.0-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4                               7.88.1-10+deb12u12              amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                        amd64  simple interprocess messaging system (library)
@@ -189,7 +189,7 @@ ii   libncursesw6                           6.5+20250216-2                  amd6
 ii   libnetfilter-conntrack3                1.1.0-1                         amd64  Netfilter netlink-conntrack library
 ii   libnetplan1                            1.1.2-4                         amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10.1-1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.24-4+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.25-1                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.8-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.64.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
@@ -198,7 +198,7 @@ ii   libngtcp2-16                           1.11.0-1                        amd6
 ii   libngtcp2-crypto-gnutls8               1.11.0-1                        amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.8-2                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                      amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      257.4-7                         amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      257.4-9                         amd64  nss module providing fallback resolution for the current hostname
 ii   libnvme1t64                            1.12-2                          amd64  NVMe management library (library)
 ii   libonig5                               6.9.9-1+b1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -206,7 +206,7 @@ ii   libpam-cap                             1:2.75-4                        amd6
 ii   libpam-modules                         1.7.0-3                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.7.0-3                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.7.0-3                         all    Runtime support for the PAM library
-ii   libpam-systemd                         257.4-7                         amd64  system and service manager - PAM module
+ii   libpam-systemd                         257.4-9                         amd64  system and service manager - PAM module
 ii   libpam0g                               1.7.0-3                         amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-5                           amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.5-2                        amd64  system interface for user-level packet capture
@@ -242,8 +242,8 @@ ii   libss2                                 1.47.2-1+b1                     amd6
 ii   libssh2-1t64                           1.11.1-1                        amd64  SSH2 client-side library
 ii   libssl3t64                             3.4.1-1                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-19                       amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      257.4-7                         amd64  systemd shared private library
-ii   libsystemd0                            257.4-7                         amd64  systemd utility library
+ii   libsystemd-shared                      257.4-9                         amd64  systemd shared private library
+ii   libsystemd0                            257.4-9                         amd64  systemd utility library
 ii   libtasn1-6                             4.20.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                      amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                         all    internationalized substitute of Text::Wrap
@@ -251,7 +251,7 @@ ii   libtinfo6                              6.5+20250216-2                  amd6
 ii   libtirpc-common                        1.3.6+ds-1                      all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.6+ds-1                      amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-1+b2                      amd64  universal charset detection library - shared library
-ii   libudev1                               257.4-7                         amd64  libudev shared library
+ii   libudev1                               257.4-9                         amd64  libudev shared library
 ii   libunbound8                            1.22.0-1+b1                     amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libunistring5                          1.3-2                           amd64  Unicode string library for C
@@ -349,16 +349,17 @@ ii   shim-unsigned                          15.8-1                          amd6
 ii   socat                                  1.8.0.2-1                       amd64  multipurpose relay for bidirectional data transfer
 ii   sqv                                    1.3.0-1                         amd64  Simple OpenPGP signature verification program
 ii   sudo                                   1.9.16p2-1                      amd64  Provide limited super user privileges to specific users
-ii   systemd                                257.4-7                         amd64  system and service manager
-ii   systemd-sysv                           257.4-7                         amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      257.4-7                         amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                257.4-9                         amd64  system and service manager
+ii   systemd-resolved                       257.4-9                         amd64  systemd DNS resolver
+ii   systemd-sysv                           257.4-9                         amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      257.4-9                         amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.14-4                          amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3.1                   amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-2                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2025b-1                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0051                          all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   257.4-7                         amd64  /dev/ and hotplug management daemon
+ii   udev                                   257.4-9                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                         all    Transitional package to assert a merged-/usr system
 ii   util-linux                             2.40.4-5                        amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.40.4-5                        amd64  interactive login tools
@@ -368,7 +369,7 @@ ii   vim-common                             2:9.1.1230-1                    all 
 ii   vim-runtime                            2:9.1.1230-1                    all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:9.1.1230-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.25.0-2                        amd64  retrieves files from the web
-ii   whiptail                               0.52.24-4+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.25-1                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-2                          amd64  tool to manage well known user directories
 ii   xml-core                               0.19                            all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.6.4-1                         amd64  XZ-format compression utilities
