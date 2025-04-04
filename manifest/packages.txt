@@ -13,7 +13,7 @@ ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd6
 ii   bsdextrautils                          2.41-3                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-3                        amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20241223                        all    Common CA certificates
-ii   coreutils                              9.5-1+b1                        amd64  GNU core utilities
+ii   coreutils                              9.6-1                           amd64  GNU core utilities
 ii   cpio                                   2.15+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-195                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-195                      all    process scheduling daemon's configuration files
@@ -179,7 +179,7 @@ ii   liblockfile-bin                        1.17-2                          amd6
 ii   liblockfile1                           1.17-2                          amd64  NFS-safe locking library
 ii   liblognorm5                            2.0.6-5                         amd64  log normalizing library
 ii   liblz4-1                               1.10.0-4                        amd64  Fast LZ compression algorithm library - runtime
-ii   liblzma5                               5.6.4-1                         amd64  XZ-format compression library
+ii   liblzma5                               5.8.1-1                         amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.46-4                        amd64  File type determination library using "magic" numbers (compiled magic file)
 ii   libmagic1t64                           1:5.46-4                        amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmaxminddb0                          1.12.2-1                        amd64  IP geolocation database library
@@ -373,6 +373,6 @@ ii   wget                                   1.25.0-2                        amd6
 ii   whiptail                               0.52.25-1                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-2                          amd64  tool to manage well known user directories
 ii   xml-core                               0.19                            all    XML infrastructure and XML catalog file support
-ii   xz-utils                               5.6.4-1                         amd64  XZ-format compression utilities
+ii   xz-utils                               5.8.1-1                         amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.3.dfsg+really1.3.1-1+b1     amd64  compression library - runtime
 ii   zstd                                   1.5.7+dfsg-1                    amd64  fast lossless compression algorithm -- CLI tool
