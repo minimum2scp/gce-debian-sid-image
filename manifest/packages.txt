@@ -1,8 +1,8 @@
 ii   adduser                                3.150                           all    add and remove users and groups
 ii   apparmor                               4.1.0~beta5-6                   amd64  user-space parser utility for AppArmor
-ii   apt                                    2.9.35                          amd64  commandline package manager
+ii   apt                                    3.0.0                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                             all    package change history notification tool
-ii   apt-utils                              2.9.35                          amd64  package management related utility programs
+ii   apt-utils                              3.0.0                           amd64  package management related utility programs
 ii   base-files                             13.7                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-1.1+b2                   amd64  GNU Bourne Again SHell
@@ -13,7 +13,7 @@ ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd6
 ii   bsdextrautils                          2.41-3                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-3                        amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20241223                        all    Common CA certificates
-ii   coreutils                              9.6-1                           amd64  GNU core utilities
+ii   coreutils                              9.6-2                           amd64  GNU core utilities
 ii   cpio                                   2.15+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-195                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-195                      all    process scheduling daemon's configuration files
@@ -49,7 +49,7 @@ ii   gce-disk-expand                        1:20200716.00-g1                all 
 ii   gdisk                                  1.0.10-2                        amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-1                        amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.84.0-1                        amd64  Introspection data for GIRepository library
-ii   gir1.2-glib-2.0                        2.84.0-2                        amd64  Introspection data for GLib, GObject, Gio and GModule
+ii   gir1.2-glib-2.0                        2.84.1-1                        amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.49.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.49.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.2.46-6                        all    GNU privacy guard - a free PGP replacement
@@ -98,7 +98,7 @@ ii   less                                   643-1                           amd6
 ii   libacl1                                2.3.2-2+b1                      amd64  access control list - shared library
 ii   libapparmor1                           4.1.0~beta5-6                   amd64  changehat AppArmor library
 ii   libapt-pkg6.0                          2.6.1                           amd64  package management runtime library
-ii   libapt-pkg7.0                          2.9.35                          amd64  package management runtime library
+ii   libapt-pkg7.0                          3.0.0                           amd64  package management runtime library
 ii   libassuan9                             3.0.2-2                         amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-19                       amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                       amd64  extended attribute handling - shared library
@@ -146,8 +146,8 @@ ii   libgcrypt20                            1.11.0-7                        amd6
 ii   libgdbm-compat4t64                     1.24-2                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                          amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-1.0-1                  1.84.0-1                        amd64  Library for handling GObject introspection data (runtime library)
-ii   libglib2.0-0t64                        2.84.0-2                        amd64  GLib library of C routines
-ii   libglib2.0-data                        2.84.0-2                        all    Common files for GLib library
+ii   libglib2.0-0t64                        2.84.1-1                        amd64  GLib library of C routines
+ii   libglib2.0-data                        2.84.1-1                        all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3                  amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.9-2                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.9-2                         amd64  GNU TLS library - main runtime library
@@ -164,7 +164,7 @@ ii   libjemalloc2                           5.3.0-3                         amd6
 ii   libjq1                                 1.7.1-3+b1                      amd64  lightweight and flexible command-line JSON processor - shared library
 ii   libjson-c5                             0.18+ds-1                       amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.21.3-5                        amd64  MIT Kerberos runtime libraries - Crypto Library
-ii   libkeyutils1                           1.6.3-4                         amd64  Linux Key Management Utilities (library)
+ii   libkeyutils1                           1.6.3-5                         amd64  Linux Key Management Utilities (library)
 ii   libklibc                               2.0.14-1                        amd64  minimal libc subset for use with initramfs
 ii   libkmod2                               34.2-1                          amd64  libkmod shared library
 ii   libkrb5-3                              1.21.3-5                        amd64  MIT Kerberos runtime libraries
@@ -271,7 +271,7 @@ ii   linux-image-6.1.0-31-cloud-amd64       6.1.128-1                       amd6
 ii   linux-image-6.12.21-cloud-amd64        6.12.21-1                       amd64  Linux 6.12 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                6.12.21-1                       amd64  Linux for x86-64 cloud (meta-package)
 ii   login                                  1:4.16.0-2+really2.41-3         amd64  system login tools
-ii   login.defs                             1:4.17.3-3                      all    system user management configuration
+ii   login.defs                             1:4.17.4-1                      all    system user management configuration
 ii   logrotate                              3.22.0-1                        amd64  Log rotation utility
 ii   logsave                                1.47.2-1+b1                     amd64  save the output of a command in a log file
 ii   lsb-release                            12.1-1                          all    Linux Standard Base version reporting utility (minimal implementation)
@@ -297,7 +297,7 @@ ii   openssl                                3.4.1-1                         amd6
 ii   openssl-provider-legacy                3.4.1-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-5                           amd64  disk partition manipulator
-ii   passwd                                 1:4.17.3-3                      amd64  change and administer password and group data
+ii   passwd                                 1:4.17.4-1                      amd64  change and administer password and group data
 ii   pci.ids                                0.0~2025.03.09-1                all    PCI ID Repository
 ii   pciutils                               1:3.13.0-2                      amd64  PCI utilities
 ii   perl                                   5.40.1-2                        amd64  Larry Wall's Practical Extraction and Report Language
