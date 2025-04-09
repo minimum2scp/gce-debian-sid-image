@@ -37,7 +37,7 @@ ii   dracut-install                         106-5                           amd6
 ii   e2fsprogs                              1.47.2-1+b1                     amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-2                            amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.22-2                       all    store /etc in git, mercurial, brz or darcs
-ii   ethtool                                1:6.11-1                        amd64  display or change Ethernet device settings
+ii   ethtool                                1:6.14-1                        amd64  display or change Ethernet device settings
 ii   exim4-base                             4.98.2-1                        amd64  support files for all Exim MTA (v4) packages
 ii   exim4-config                           4.98.2-1                        all    configuration for the Exim MTA (v4)
 ii   exim4-daemon-light                     4.98.2-1                        amd64  lightweight Exim MTA (v4) daemon
@@ -223,8 +223,8 @@ ii   libproc2-0                             2:4.0.4-7                       amd6
 ii   libprotobuf-c1                         1.5.1-1                         amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.13.2-2                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.13-minimal                  3.13.2-3                        amd64  Minimal subset of the Python language (version 3.13)
-ii   libpython3.13-stdlib                   3.13.2-3                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
+ii   libpython3.13-minimal                  3.13.3-1                        amd64  Minimal subset of the Python language (version 3.13)
+ii   libpython3.13-stdlib                   3.13.3-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.2-6                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b5  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-9                  amd64  Cyrus SASL - authentication abstraction library
@@ -241,7 +241,7 @@ ii   libsodium23                            1.0.18-1+b2                     amd6
 ii   libsqlite3-0                           3.46.1-2                        amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-1+b1                     amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                        amd64  SSH2 client-side library
-ii   libssl3t64                             3.4.1-1                         amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3t64                             3.5.0-1                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-19                       amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      257.5-2                         amd64  systemd shared private library
 ii   libsystemd0                            257.5-2                         amd64  systemd utility library
@@ -293,8 +293,8 @@ ii   nvme-cli                               2.12-2                          amd6
 ii   openssh-client                         1:9.9p2-2                       amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:9.9p2-2                       amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:9.9p2-2                       amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.4.1-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   openssl-provider-legacy                3.4.1-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.5.0-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl-provider-legacy                3.5.0-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-5                           amd64  disk partition manipulator
 ii   passwd                                 1:4.17.4-1                      amd64  change and administer password and group data
@@ -332,8 +332,8 @@ ii   python3-rich                           13.9.4-1                        all 
 ii   python3-typing-extensions              4.13.1-1                        all    Backported and Experimental Type Hints for Python
 ii   python3-urllib3                        2.3.0-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b2                      amd64  YAML parser and emitter for Python3
-ii   python3.13                             3.13.2-3                        amd64  Interactive high-level object-oriented language (version 3.13)
-ii   python3.13-minimal                     3.13.2-3                        amd64  Minimal subset of the Python language (version 3.13)
+ii   python3.13                             3.13.3-1                        amd64  Interactive high-level object-oriented language (version 3.13)
+ii   python3.13-minimal                     3.13.3-1                        amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.2-6                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.1.0                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2502.0-1                      amd64  reliable system and kernel logging daemon
