@@ -7,8 +7,8 @@ ii   base-files                             13.7                            amd6
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-2                        amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.7-1                      amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.7-1                      amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.8-1                      amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.8-1                      amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.41-4                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-4                        amd64  basic utilities from 4.4BSD-Lite
@@ -140,7 +140,7 @@ ii   libfido2-1                             1.15.0-1+b1                     amd6
 ii   libfile-fcntllock-perl                 0.22-4+b4                       amd64  Perl module for file locking with fcntl(2)
 ii   libfreetype6                           2.13.3+dfsg-1                   amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b3                      amd64  Frame Streams (fstrm) library
-ii   libfuse3-4                             3.17.1-1                        amd64  Filesystem in Userspace (library) (3.x version)
+ii   libfuse3-4                             3.17.1+git250416-1              amd64  Filesystem in Userspace (library) (3.x version)
 ii   libgcc-s1                              14.2.0-19                       amd64  GCC support library
 ii   libgcrypt20                            1.11.0-7                        amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.24-2                          amd64  GNU dbm database routines (legacy support runtime version)
@@ -187,12 +187,12 @@ ii   libmnl0                                1.0.5-3                         amd6
 ii   libmount1                              2.41-4                          amd64  device mounting library
 ii   libncursesw6                           6.5+20250216-2                  amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.1.0-1                         amd64  Netfilter netlink-conntrack library
-ii   libnetplan1                            1.1.2-6                         amd64  Declarative network configuration runtime library
+ii   libnetplan1                            1.1.2-7                         amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10.1-1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.25-1                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                         amd64  Netfilter netlink library
 ii   libnftnl11                             1.2.9-1                         amd64  Netfilter nftables userspace API library
-ii   libnghttp2-14                          1.64.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
+ii   libnghttp2-14                          1.64.0-1.1                      amd64  library implementing HTTP/2 protocol (shared library)
 ii   libnghttp3-9                           1.8.0-1                         amd64  HTTP/3 library with QUIC and QPACK (library)
 ii   libngtcp2-16                           1.11.0-1                        amd64  implementation of QUIC protocol (library)
 ii   libngtcp2-crypto-gnutls8               1.11.0-1                        amd64  implementation of QUIC protocol (library)
@@ -286,8 +286,8 @@ ii   ncurses-base                           6.5+20250216-2                  all 
 ii   ncurses-bin                            6.5+20250216-2                  amd64  terminal-related programs and man pages
 ii   net-tools                              2.10-1.1                        amd64  NET-3 networking toolkit
 ii   netbase                                6.5                             all    Basic TCP/IP networking system
-ii   netplan-generator                      1.1.2-6                         amd64  Declarative network configuration for various backends at boot
-ii   netplan.io                             1.1.2-6                         amd64  Declarative network configuration for various backends at runtime
+ii   netplan-generator                      1.1.2-7                         amd64  Declarative network configuration for various backends at boot
+ii   netplan.io                             1.1.2-7                         amd64  Declarative network configuration for various backends at runtime
 ii   networkd-dispatcher                    2.2.4-1.1                       all    Dispatcher service for systemd-networkd connection status changes
 ii   nvme-cli                               2.13-1                          amd64  NVMe management tool
 ii   openssh-client                         1:10.0p1-2                      amd64  secure shell (SSH) client, for secure access to remote machines
@@ -324,7 +324,7 @@ ii   python3-idna                           3.10-1                          all 
 ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.13.3-1                        amd64  minimal subset of the Python language (default python3 version)
-ii   python3-netplan                        1.1.2-6                         amd64  Declarative network configuration Python bindings
+ii   python3-netplan                        1.1.2-7                         amd64  Declarative network configuration Python bindings
 ii   python3-pygments                       2.18.0+dfsg-2                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.1.0                          all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.3+dfsg-5                   all    elegant and simple HTTP library for Python3, built for human beings
