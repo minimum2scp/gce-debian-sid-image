@@ -7,8 +7,8 @@ ii   base-files                             13.7                            amd6
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-2                        amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.8-1                      amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.8-1                      amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.8-5                      amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.8-5                      amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.41-4                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-4                        amd64  basic utilities from 4.4BSD-Lite
@@ -88,8 +88,8 @@ ii   initramfs-tools-core                   0.147                           all 
 ii   iproute2                               6.14.0-3                        amd64  networking and traffic control tools
 ii   iptables                               1.8.11-2                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240905-1                    amd64  Tools to test the reachability of network hosts
-ii   isc-dhcp-client                        4.4.3-P1-6                      amd64  DHCP client for automatically obtaining an IP address (deprecated)
-ii   isc-dhcp-common                        4.4.3-P1-6                      amd64  common manpages relevant to all of the isc-dhcp packages (deprecated)
+ii   isc-dhcp-client                        4.4.3-P1-7                      amd64  DHCP client for automatically obtaining an IP address (deprecated)
+ii   isc-dhcp-common                        4.4.3-P1-7                      amd64  common manpages relevant to all of the isc-dhcp packages (deprecated)
 ii   jq                                     1.7.1-5                         amd64  lightweight and flexible command-line JSON processor
 ii   klibc-utils                            2.0.14-1                        amd64  small utilities built with klibc for early boot
 ii   kmod                                   34.2-1                          amd64  tools for managing Linux kernel modules
