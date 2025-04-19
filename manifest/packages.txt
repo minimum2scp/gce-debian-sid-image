@@ -7,12 +7,12 @@ ii   base-files                             13.7                            amd6
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-2                        amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.8-5                      amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.8-5                      amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.8-6                      amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.8-6                      amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.41-4                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-4                        amd64  basic utilities from 4.4BSD-Lite
-ii   ca-certificates                        20241223                        all    Common CA certificates
+ii   ca-certificates                        20250419                        all    Common CA certificates
 ii   coreutils                              9.7-1                           amd64  GNU core utilities
 ii   cpio                                   2.15+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-196                      amd64  process scheduling daemon
@@ -336,7 +336,7 @@ ii   python3.13                             3.13.3-2                        amd6
 ii   python3.13-minimal                     3.13.3-2                        amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.2-6                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.1.0                          all    reports bugs in the Debian distribution
-ii   rsyslog                                8.2502.0-5                      amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2502.0-6                      amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.16.4                          all    dh-runit implementation detail
 ii   screen                                 4.9.1-1                         amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                           amd64  GNU stream editor for filtering/transforming text
