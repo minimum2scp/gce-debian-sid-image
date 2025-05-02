@@ -199,7 +199,7 @@ ii   libngtcp2-crypto-gnutls8               1.11.0-1                        amd6
 ii   libnpth0t64                            1.8-3                           amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                      amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-myhostname                      257.5-2                         amd64  nss module providing fallback resolution for the current hostname
-ii   libnvme1t64                            1.13-1                          amd64  NVMe management library (library)
+ii   libnvme1t64                            1.13-2                          amd64  NVMe management library (library)
 ii   libonig5                               6.9.9-1+b1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-cap                             1:2.75-7                        amd64  POSIX 1003.1e capabilities (PAM module)
@@ -289,7 +289,7 @@ ii   netbase                                6.5                             all 
 ii   netplan-generator                      1.1.2-7                         amd64  Declarative network configuration for various backends at boot
 ii   netplan.io                             1.1.2-7                         amd64  Declarative network configuration for various backends at runtime
 ii   networkd-dispatcher                    2.2.4-1.1                       all    Dispatcher service for systemd-networkd connection status changes
-ii   nvme-cli                               2.13-1                          amd64  NVMe management tool
+ii   nvme-cli                               2.13-2                          amd64  NVMe management tool
 ii   openssh-client                         1:10.0p1-2                      amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:10.0p1-2                      amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:10.0p1-2                      amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
