@@ -7,8 +7,8 @@ ii   base-files                             13.8                            amd6
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-2+b2                     amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.8-6                      amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.8-6                      amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.9-1                      amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.9-1                      amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.41-5                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-5                        amd64  basic utilities from 4.4BSD-Lite
@@ -222,8 +222,8 @@ ii   libproc2-0                             2:4.0.4-8                       amd6
 ii   libprotobuf-c1                         1.5.1-1                         amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.13.3-1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.13-minimal                  3.13.3-3                        amd64  Minimal subset of the Python language (version 3.13)
-ii   libpython3.13-stdlib                   3.13.3-3                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
+ii   libpython3.13-minimal                  3.13.3-4                        amd64  Minimal subset of the Python language (version 3.13)
+ii   libpython3.13-stdlib                   3.13.3-4                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.2-6                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b5  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-9                  amd64  Cyrus SASL - authentication abstraction library
@@ -320,7 +320,8 @@ ii   python3-debian                         1.0.1                           all 
 ii   python3-debianbts                      4.1.1                           all    Python interface to Debian's Bug Tracking System
 ii   python3-gi                             3.50.0-4+b1                     amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.10-1                          all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-markdown-it                    3.0.0-2                         all    Python port of markdown-it and some its associated plugins
+ii   python3-linkify-it                     2.0.3-1                         all    links recognition library with FULL unicode support
+ii   python3-markdown-it                    3.0.0-3                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.13.3-1                        amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-7                         amd64  Declarative network configuration Python bindings
@@ -329,10 +330,11 @@ ii   python3-reportbug                      13.1.0                          all 
 ii   python3-requests                       2.32.3+dfsg-5                   all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-rich                           13.9.4-1                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
 ii   python3-typing-extensions              4.13.2-1                        all    Backported and Experimental Type Hints for Python
+ii   python3-uc-micro                       1.0.3-1                         all    python port of uc.micro
 ii   python3-urllib3                        2.3.0-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b2                      amd64  YAML parser and emitter for Python3
-ii   python3.13                             3.13.3-3                        amd64  Interactive high-level object-oriented language (version 3.13)
-ii   python3.13-minimal                     3.13.3-3                        amd64  Minimal subset of the Python language (version 3.13)
+ii   python3.13                             3.13.3-4                        amd64  Interactive high-level object-oriented language (version 3.13)
+ii   python3.13-minimal                     3.13.3-4                        amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.2-6                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.1.0                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2504.0-1                      amd64  reliable system and kernel logging daemon
