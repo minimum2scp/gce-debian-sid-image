@@ -49,14 +49,14 @@ ii   gce-disk-expand                        1:20200716.00-g1                all 
 ii   gdisk                                  1.0.10-2                        amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-2                        amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.84.0-1                        amd64  Introspection data for GIRepository library
-ii   gir1.2-glib-2.0                        2.84.1-3                        amd64  Introspection data for GLib, GObject, Gio and GModule
+ii   gir1.2-glib-2.0                        2.84.2-1                        amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.49.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.49.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.4.7-19                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.4.7-19                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.4.7-19                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       523.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             523.0.0-0                       amd64  anthoscli
+ii   google-cloud-cli                       523.0.1-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             523.0.1-0                       amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20250501.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
@@ -146,8 +146,8 @@ ii   libgcrypt20                            1.11.0-7                        amd6
 ii   libgdbm-compat4t64                     1.24-2                          amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                          amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-1.0-1                  1.84.0-1                        amd64  Library for handling GObject introspection data (runtime library)
-ii   libglib2.0-0t64                        2.84.1-3                        amd64  GLib library of C routines
-ii   libglib2.0-data                        2.84.1-3                        all    Common files for GLib library
+ii   libglib2.0-0t64                        2.84.2-1                        amd64  GLib library of C routines
+ii   libglib2.0-data                        2.84.2-1                        all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3                  amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.9-2                         amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.9-2                         amd64  GNU TLS library - main runtime library
@@ -283,7 +283,7 @@ ii   mount                                  2.41-5                          amd6
 ii   nano                                   8.4-1                           amd64  small, friendly text editor inspired by Pico
 ii   ncurses-base                           6.5+20250216-2                  all    basic terminal type definitions
 ii   ncurses-bin                            6.5+20250216-2                  amd64  terminal-related programs and man pages
-ii   net-tools                              2.10-1.2                        amd64  NET-3 networking toolkit
+ii   net-tools                              2.10-1.3                        amd64  NET-3 networking toolkit
 ii   netbase                                6.5                             all    Basic TCP/IP networking system
 ii   netplan-generator                      1.1.2-7                         amd64  Declarative network configuration for various backends at boot
 ii   netplan.io                             1.1.2-7                         amd64  Declarative network configuration for various backends at runtime
@@ -366,10 +366,10 @@ ii   usr-is-merged                          39+nmu2                         all 
 ii   util-linux                             2.41-5                          amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.41-5                          amd64  interactive login tools
 ii   uuid-runtime                           2.41-5                          amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.1.1230-1                    amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.1.1230-1                    all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.1.1230-1                    all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.1.1230-1                    amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.1.1230-2                    amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.1.1230-2                    all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.1.1230-2                    all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.1.1230-2                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.25.0-2                        amd64  retrieves files from the web
 ii   whiptail                               0.52.25-1                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-2                          amd64  tool to manage well known user directories
