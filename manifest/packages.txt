@@ -1,8 +1,8 @@
 ii   adduser                                3.152                           all    add and remove users and groups
 ii   apparmor                               4.1.0-1                         amd64  user-space parser utility for AppArmor
-ii   apt                                    3.0.1                           amd64  commandline package manager
+ii   apt                                    3.0.2                           amd64  commandline package manager
 ii   apt-listchanges                        4.8                             all    package change history notification tool
-ii   apt-utils                              3.0.1                           amd64  package management related utility programs
+ii   apt-utils                              3.0.2                           amd64  package management related utility programs
 ii   base-files                             13.8                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-2+b2                     amd64  GNU Bourne Again SHell
@@ -98,7 +98,7 @@ ii   less                                   668-1                           amd6
 ii   libacl1                                2.3.2-2+b1                      amd64  access control list - shared library
 ii   libapparmor1                           4.1.0-1                         amd64  changehat AppArmor library
 ii   libapt-pkg6.0                          2.6.1                           amd64  package management runtime library
-ii   libapt-pkg7.0                          3.0.1                           amd64  package management runtime library
+ii   libapt-pkg7.0                          3.0.2                           amd64  package management runtime library
 ii   libassuan9                             3.0.2-2                         amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-19                       amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                       amd64  extended attribute handling - shared library
@@ -265,7 +265,7 @@ ii   libxtables12                           1.8.11-2                        amd6
 ii   libxxhash0                             0.8.3-2                         amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2                         amd64  Fast YAML 1.1 parser and emitter library
 ii   libzstd1                               1.5.7+dfsg-1                    amd64  fast lossless compression algorithm
-ii   linux-base                             4.11                            all    Linux image base package
+ii   linux-base                             4.12                            all    Linux image base package
 ii   linux-image-6.1.0-34-cloud-amd64       6.1.135-1                       amd64  Linux 6.1 for x86-64 cloud (signed)
 ii   linux-image-6.12.29-cloud-amd64        6.12.29-1                       amd64  Linux 6.12 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                6.12.29-1                       amd64  Linux for x86-64 cloud (meta-package)
