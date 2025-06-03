@@ -55,13 +55,13 @@ ii   git-man                                1:2.49.0-2                      all 
 ii   gnupg                                  2.4.7-21                        all    GNU privacy guard - a free PGP replacement
 ii   gnupg-l10n                             2.4.7-21                        all    GNU privacy guard - localization files
 ii   gnupg-utils                            2.4.7-21                        amd64  GNU privacy guard - utility programs
-ii   google-cloud-cli                       524.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             524.0.0-0                       amd64  anthoscli
+ii   google-cloud-cli                       525.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             525.0.0-0                       amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20250501.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20250506.01-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20250416.02-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20250520.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.4.7-21                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.4.7-21                        amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.4.7-21                        amd64  GNU privacy guard - Web Key Service client
@@ -83,8 +83,9 @@ ii   haveged                                1.9.19-12                       amd6
 ii   hostname                               3.25                            amd64  utility to set/show the host name or domain name
 ii   init                                   1.68                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.68                            all    helper tools for all init systems
-ii   initramfs-tools                        0.147                           all    generic modular initramfs generator (automation)
-ii   initramfs-tools-core                   0.147                           all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.148.1                         all    generic modular initramfs generator (automation)
+ii   initramfs-tools-bin                    0.148.1                         amd64  generic modular initramfs generator (binary tools)
+ii   initramfs-tools-core                   0.148.1                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.15.0-1                        amd64  networking and traffic control tools
 ii   iptables                               1.8.11-2                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240905-3                    amd64  Tools to test the reachability of network hosts
@@ -112,8 +113,8 @@ ii   libbz2-1.0                             1.0.8-6                         amd6
 ii   libc-bin                               2.41-8                          amd64  GNU C Library: Binaries
 ii   libc6                                  2.41-8                          amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-4+b1                      amd64  alternate POSIX capabilities library
-ii   libcap2                                1:2.75-7                        amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.75-7                        amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.75-8                        amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.75-8                        amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.10                            0.10.2-2                        amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.2-1+b1                     amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                      amd64  libcrypt shared library
@@ -202,7 +203,7 @@ ii   libnss-myhostname                      257.6-1                         amd6
 ii   libnvme1t64                            1.13-2                          amd64  NVMe management library (library)
 ii   libonig5                               6.9.9-1+b1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
-ii   libpam-cap                             1:2.75-7                        amd64  POSIX 1003.1e capabilities (PAM module)
+ii   libpam-cap                             1:2.75-8                        amd64  POSIX 1003.1e capabilities (PAM module)
 ii   libpam-modules                         1.7.0-3                         amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.7.0-3                         amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.7.0-3                         all    Runtime support for the PAM library
