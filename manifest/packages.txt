@@ -26,7 +26,7 @@ ii   dbus-session-bus-common                1.16.2-2                        all 
 ii   dbus-system-bus-common                 1.16.2-2                        all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.91                          all    Debian configuration management system
 ii   debian-archive-keyring                 2025.1                          all    OpenPGP archive certificates of the Debian archive
-ii   debianutils                            5.22                            amd64  Miscellaneous utilities specific to Debian
+ii   debianutils                            5.23.1                          amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.10-4                        amd64  File comparison utilities
 ii   dirmngr                                2.4.7-21                        amd64  GNU privacy guard - network certificate management service
 ii   distro-info-data                       0.64                            all    information about the distributions' releases (data files)
