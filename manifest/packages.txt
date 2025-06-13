@@ -60,7 +60,7 @@ ii   google-cloud-cli-anthoscli             526.0.1-0                       amd6
 ii   google-cloud-packages-archive-keyring  1.2-629101324                   all    Contains GPG signing key for Google Cloud Packages
 ii   google-compute-engine                  1:20250501.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20250605.00-g1                amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                     1:20250611.00-g1                amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20250520.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.4.7-21                        amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.4.7-21                        amd64  GNU privacy guard - cryptographic agent
@@ -83,9 +83,9 @@ ii   haveged                                1.9.19-12                       amd6
 ii   hostname                               3.25                            amd64  utility to set/show the host name or domain name
 ii   init                                   1.68                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.68                            all    helper tools for all init systems
-ii   initramfs-tools                        0.148.1                         all    generic modular initramfs generator (automation)
-ii   initramfs-tools-bin                    0.148.1                         amd64  generic modular initramfs generator (binary tools)
-ii   initramfs-tools-core                   0.148.1                         all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.148.2                         all    generic modular initramfs generator (automation)
+ii   initramfs-tools-bin                    0.148.2                         amd64  generic modular initramfs generator (binary tools)
+ii   initramfs-tools-core                   0.148.2                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.15.0-1                        amd64  networking and traffic control tools
 ii   iptables                               1.8.11-2                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240905-3                    amd64  Tools to test the reachability of network hosts
@@ -223,8 +223,8 @@ ii   libproc2-0                             2:4.0.4-8                       amd6
 ii   libprotobuf-c1                         1.5.1-1                         amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
 ii   libpython3-stdlib                      3.13.4-1                        amd64  interactive high-level object-oriented language (default python3 version)
-ii   libpython3.13-minimal                  3.13.4-1                        amd64  Minimal subset of the Python language (version 3.13)
-ii   libpython3.13-stdlib                   3.13.4-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
+ii   libpython3.13-minimal                  3.13.5-1                        amd64  Minimal subset of the Python language (version 3.13)
+ii   libpython3.13-stdlib                   3.13.5-1                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.2-6                           amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-2+b5  amd64  toolkit for RTMP streams (shared library)
 ii   libsasl2-2                             2.1.28+dfsg1-9                  amd64  Cyrus SASL - authentication abstraction library
@@ -334,8 +334,8 @@ ii   python3-typing-extensions              4.13.2-1                        all 
 ii   python3-uc-micro                       1.0.3-1                         all    python port of uc.micro
 ii   python3-urllib3                        2.3.0-2                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b2                      amd64  YAML parser and emitter for Python3
-ii   python3.13                             3.13.4-1                        amd64  Interactive high-level object-oriented language (version 3.13)
-ii   python3.13-minimal                     3.13.4-1                        amd64  Minimal subset of the Python language (version 3.13)
+ii   python3.13                             3.13.5-1                        amd64  Interactive high-level object-oriented language (version 3.13)
+ii   python3.13-minimal                     3.13.5-1                        amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.2-6                           all    GNU readline and history libraries, common files
 ii   reportbug                              13.2.0                          all    reports bugs in the Debian distribution
 ii   rsyslog                                8.2504.0-1                      amd64  reliable system and kernel logging daemon
