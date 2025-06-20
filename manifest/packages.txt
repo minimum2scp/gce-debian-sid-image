@@ -7,8 +7,8 @@ ii   base-files                             13.8                            amd6
 ii   base-passwd                            3.6.7                           amd64  Debian base system master password and group files
 ii   bash                                   5.2.37-2+b2                     amd64  GNU Bourne Again SHell
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
-ii   bind9-host                             1:9.20.9-2                      amd64  DNS Lookup Utility
-ii   bind9-libs                             1:9.20.9-2                      amd64  Shared Libraries used by BIND 9
+ii   bind9-host                             1:9.20.10-1                     amd64  DNS Lookup Utility
+ii   bind9-libs                             1:9.20.10-1                     amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
 ii   bsdextrautils                          2.41-5                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-5                        amd64  basic utilities from 4.4BSD-Lite
@@ -17,7 +17,7 @@ ii   coreutils                              9.7-3                           amd6
 ii   cpio                                   2.15+dfsg-2                     amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-197                      amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-197                      all    process scheduling daemon's configuration files
-ii   curl                                   8.14.1-1                        amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.14.1-2                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                       amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                        amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                        amd64  simple interprocess messaging system (command line utilities)
@@ -119,8 +119,8 @@ ii   libcbor0.10                            0.10.2-2                        amd6
 ii   libcom-err2                            1.47.2-3                        amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                      amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.7.5-2                       amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.14.1-1                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.14.1-1                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.14.1-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.14.1-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                        amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.278                           amd64  Debian Configuration Management System (C-implementation library)
@@ -298,7 +298,7 @@ ii   openssl-provider-legacy                3.5.0-2                         amd6
 ii   os-prober                              1.83                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-5                           amd64  disk partition manipulator
 ii   passwd                                 1:4.17.4-2                      amd64  change and administer password and group data
-ii   pci.ids                                0.0~2025.04.15-1                all    PCI ID Repository
+ii   pci.ids                                0.0~2025.06.09-1                all    PCI ID Repository
 ii   pciutils                               1:3.13.0-2                      amd64  PCI utilities
 ii   perl                                   5.40.1-3                        amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.40.1-3                        amd64  minimal Perl system
