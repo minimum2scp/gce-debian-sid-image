@@ -360,7 +360,7 @@ ii   sysvinit-utils                         3.14-4                          amd6
 ii   tar                                    1.35+dfsg-3.1                   amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-2                        amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                       amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2025b-3                         all    time zone and daylight-saving time data
+ii   tzdata                                 2025b-4                         all    time zone and daylight-saving time data
 ii   ucf                                    3.0052                          all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   257.7-1                         amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                         all    Transitional package to assert a merged-/usr system
