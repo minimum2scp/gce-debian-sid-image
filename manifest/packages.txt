@@ -83,9 +83,9 @@ ii   haveged                                1.9.19-12                       amd6
 ii   hostname                               3.25                            amd64  utility to set/show the host name or domain name
 ii   init                                   1.68                            amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.68                            all    helper tools for all init systems
-ii   initramfs-tools                        0.148.2                         all    generic modular initramfs generator (automation)
-ii   initramfs-tools-bin                    0.148.2                         amd64  generic modular initramfs generator (binary tools)
-ii   initramfs-tools-core                   0.148.2                         all    generic modular initramfs generator (core tools)
+ii   initramfs-tools                        0.148.3                         all    generic modular initramfs generator (automation)
+ii   initramfs-tools-bin                    0.148.3                         amd64  generic modular initramfs generator (binary tools)
+ii   initramfs-tools-core                   0.148.3                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.15.0-1                        amd64  networking and traffic control tools
 ii   iptables                               1.8.11-2                        amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                           3:20240905-3                    amd64  Tools to test the reachability of network hosts
@@ -103,8 +103,8 @@ ii   libapt-pkg7.0                          3.0.3                           amd6
 ii   libassuan9                             3.0.2-2                         amd64  IPC library for the GnuPG components
 ii   libatomic1                             14.2.0-19                       amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                       amd64  extended attribute handling - shared library
-ii   libaudit-common                        1:4.0.2-2                       all    Dynamic library for security auditing - common files
-ii   libaudit1                              1:4.0.2-2+b2                    amd64  Dynamic library for security auditing
+ii   libaudit-common                        1:4.0.5-1                       all    Dynamic library for security auditing - common files
+ii   libaudit1                              1:4.0.5-1                       amd64  Dynamic library for security auditing
 ii   libblkid1                              2.41-5                          amd64  block device ID library
 ii   libbpf1                                1:1.5.0-3                       amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.1.0-2+b7                      amd64  library implementing brotli encoder and decoder (shared libraries)
@@ -204,11 +204,11 @@ ii   libnvme1t64                            1.13-2                          amd6
 ii   libonig5                               6.9.9-1+b1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                        amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-cap                             1:2.75-9                        amd64  POSIX 1003.1e capabilities (PAM module)
-ii   libpam-modules                         1.7.0-3                         amd64  Pluggable Authentication Modules for PAM
-ii   libpam-modules-bin                     1.7.0-3                         amd64  Pluggable Authentication Modules for PAM - helper binaries
-ii   libpam-runtime                         1.7.0-3                         all    Runtime support for the PAM library
+ii   libpam-modules                         1.7.0-5                         amd64  Pluggable Authentication Modules for PAM
+ii   libpam-modules-bin                     1.7.0-5                         amd64  Pluggable Authentication Modules for PAM - helper binaries
+ii   libpam-runtime                         1.7.0-5                         all    Runtime support for the PAM library
 ii   libpam-systemd                         257.7-1                         amd64  system and service manager - PAM module
-ii   libpam0g                               1.7.0-3                         amd64  Pluggable Authentication Modules library
+ii   libpam0g                               1.7.0-5                         amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-5                           amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.5-2                        amd64  system interface for user-level packet capture
 ii   libpci3                                1:3.13.0-2                      amd64  PCI utilities (shared library)
@@ -222,7 +222,7 @@ ii   libpopt0                               1.19+dfsg-2                     amd6
 ii   libproc2-0                             2:4.0.4-8                       amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.5.1-1                         amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                   amd64  Library for Public Suffix List (shared libraries)
-ii   libpython3-stdlib                      3.13.4-1                        amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3-stdlib                      3.13.5-1                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.13-minimal                  3.13.5-2                        amd64  Minimal subset of the Python language (version 3.13)
 ii   libpython3.13-stdlib                   3.13.5-2                        amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.2-6                           amd64  GNU readline and history libraries, run-time libraries
@@ -309,7 +309,7 @@ ii   procps                                 2:4.0.4-8                       amd6
 ii   psmisc                                 23.7-2                          amd64  utilities that use the proc file system
 ii   publicsuffix                           20250328.1952-0.1               all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      3.0.0                           all    Python interface to libapt-pkg (locales)
-ii   python3                                3.13.4-1                        amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3                                3.13.5-1                        amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            3.0.0                           amd64  Python 3 interface to libapt-pkg
 ii   python3-certifi                        2025.1.31+ds-1                  all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-cffi-backend                   1.17.1-3                        amd64  Foreign Function Interface for Python 3 calling C code - runtime
@@ -324,7 +324,7 @@ ii   python3-idna                           3.10-1                          all 
 ii   python3-linkify-it                     2.0.3-1                         all    links recognition library with FULL unicode support
 ii   python3-markdown-it                    3.0.0-3                         all    Python port of markdown-it and some its associated plugins
 ii   python3-mdurl                          0.1.2-1                         all    Python port of the JavaScript mdurl package
-ii   python3-minimal                        3.13.4-1                        amd64  minimal subset of the Python language (default python3 version)
+ii   python3-minimal                        3.13.5-1                        amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-7                         amd64  Declarative network configuration Python bindings
 ii   python3-pygments                       2.18.0+dfsg-2                   all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.2.0                          all    Python modules for interacting with bug tracking systems
