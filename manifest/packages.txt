@@ -150,8 +150,8 @@ ii   libgirepository-1.0-1                  1.84.0-1                        amd6
 ii   libglib2.0-0t64                        2.84.3-1                        amd64  GLib library of C routines
 ii   libglib2.0-data                        2.84.3-1                        all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3                  amd64  Multiprecision arithmetic library
-ii   libgnutls-dane0t64                     3.8.9-2                         amd64  GNU TLS library - DANE security support
-ii   libgnutls30t64                         3.8.9-2                         amd64  GNU TLS library - main runtime library
+ii   libgnutls-dane0t64                     3.8.9-3                         amd64  GNU TLS library - DANE security support
+ii   libgnutls30t64                         3.8.9-3                         amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.51-4                          amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-11+b2                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.21.3-5                        amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
