@@ -9,7 +9,7 @@ ii   bash                                   5.2.37-2+b3                     amd6
 ii   bash-completion                        1:2.16.0-7                      all    programmable completion for the bash shell
 ii   bind9-host                             1:9.20.10-1                     amd64  DNS Lookup Utility
 ii   bind9-libs                             1:9.20.10-1                     amd64  Shared Libraries used by BIND 9
-ii   bsd-mailx                              8.1.2-0.20220412cvs-1           amd64  simple mail user agent
+ii   bsd-mailx                              8.1.2-0.20220412cvs-1.1         amd64  simple mail user agent
 ii   bsdextrautils                          2.41-5                          amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                               1:2.41-5                        amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20250419                        all    Common CA certificates
@@ -43,7 +43,7 @@ ii   exim4-config                           4.98.2-1                        all 
 ii   exim4-daemon-light                     4.98.2-1                        amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.46-5                        amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                        amd64  utilities for finding files--find, xargs
-ii   gcc-12-base                            12.4.0-8                        amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-12-base                            12.5.0-1                        amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-14-base                            14.2.0-19                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                        amd64  GPT fdisk text-mode partitioning tool
@@ -241,7 +241,7 @@ ii   libsodium23                            1.0.18-1+b2                     amd6
 ii   libsqlite3-0                           3.46.1-6                        amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-3+b1                     amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                        amd64  SSH2 client-side library
-ii   libssl3t64                             3.5.0-2                         amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3t64                             3.5.1-1                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             14.2.0-19                       amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      257.7-1                         amd64  systemd shared private library
 ii   libsystemd0                            257.7-1                         amd64  systemd utility library
@@ -293,8 +293,8 @@ ii   nvme-cli                               2.13-2                          amd6
 ii   openssh-client                         1:10.0p1-5                      amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:10.0p1-5                      amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:10.0p1-5                      amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.5.0-2                         amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   openssl-provider-legacy                3.5.0-2                         amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.5.1-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl-provider-legacy                3.5.1-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-5                           amd64  disk partition manipulator
 ii   passwd                                 1:4.17.4-2                      amd64  change and administer password and group data
@@ -332,7 +332,7 @@ ii   python3-requests                       2.32.3+dfsg-5                   all 
 ii   python3-rich                           13.9.4-1                        all    render rich text, tables, progress bars, syntax highlighting, markdown and more
 ii   python3-typing-extensions              4.13.2-1                        all    Backported and Experimental Type Hints for Python
 ii   python3-uc-micro                       1.0.3-1                         all    python port of uc.micro
-ii   python3-urllib3                        2.3.0-2                         all    HTTP library with thread-safe connection pooling for Python3
+ii   python3-urllib3                        2.3.0-3                         all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-1+b2                      amd64  YAML parser and emitter for Python3
 ii   python3.13                             3.13.5-2                        amd64  Interactive high-level object-oriented language (version 3.13)
 ii   python3.13-minimal                     3.13.5-2                        amd64  Minimal subset of the Python language (version 3.13)
