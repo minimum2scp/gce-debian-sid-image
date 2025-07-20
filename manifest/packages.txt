@@ -123,7 +123,7 @@ ii   libcurl3t64-gnutls                     8.14.1-2                        amd6
 ii   libcurl4t64                            8.14.1-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9                  amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                        amd64  simple interprocess messaging system (library)
-ii   libdebconfclient0                      0.279                           amd64  Debian Configuration Management System (C-implementation library)
+ii   libdebconfclient0                      0.280                           amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.205-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   libduktape207                          2.7.0-2+b2                      amd64  embeddable Javascript engine, library
 ii   libedit2                               3.1-20250104-1                  amd64  BSD editline and history libraries
