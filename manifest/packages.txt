@@ -29,7 +29,7 @@ ii   debian-archive-keyring                 2025.1                          all 
 ii   debianutils                            5.23.1                          amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.10-4                        amd64  File comparison utilities
 ii   dirmngr                                2.4.7-21+b1                     amd64  GNU privacy guard - network certificate management service
-ii   distro-info-data                       0.64                            all    information about the distributions' releases (data files)
+ii   distro-info-data                       0.66                            all    information about the distributions' releases (data files)
 ii   dmidecode                              3.6-2                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.205-2                    amd64  Linux Kernel Device Mapper userspace library
 ii   dpkg                                   1.22.21                         amd64  Debian package management system
