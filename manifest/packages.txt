@@ -88,7 +88,7 @@ ii   initramfs-tools-bin                    0.148.3                         amd6
 ii   initramfs-tools-core                   0.148.3                         all    generic modular initramfs generator (core tools)
 ii   iproute2                               6.15.0-1                        amd64  networking and traffic control tools
 ii   iptables                               1.8.11-2                        amd64  administration tools for packet filtering and NAT
-ii   iputils-ping                           3:20240905-3                    amd64  Tools to test the reachability of network hosts
+ii   iputils-ping                           3:20250605-1                    amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                        4.4.3-P1-8                      amd64  DHCP client for automatically obtaining an IP address (deprecated)
 ii   isc-dhcp-common                        4.4.3-P1-8                      amd64  common manpages relevant to all of the isc-dhcp packages (deprecated)
 ii   jq                                     1.8.1-3                         amd64  lightweight and flexible command-line JSON processor
