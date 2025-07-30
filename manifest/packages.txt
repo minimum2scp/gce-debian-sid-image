@@ -346,8 +346,8 @@ ii   sensible-utils                         0.0.25                          all 
 ii   sgml-base                              1.31+nmu1                       all    SGML infrastructure and SGML catalog file support
 ii   shared-mime-info                       2.4-5+b2                        amd64  FreeDesktop.org shared MIME database and spec
 ii   shim-helpers-amd64-signed              1+15.8+1                        amd64  boot loader to chain-load signed boot loaders (signed by Debian)
-ii   shim-signed                            1.46+15.8-1                     amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
-ii   shim-signed-common                     1.46+15.8-1                     all    Secure Boot chain-loading bootloader (common helper scripts)
+ii   shim-signed                            1.47+15.8-1                     amd64  Secure Boot chain-loading bootloader (Microsoft-signed binary)
+ii   shim-signed-common                     1.47+15.8-1                     all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15.8-1                          amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.8.0.3-1                       amd64  multipurpose relay for bidirectional data transfer
 ii   sqv                                    1.3.0-3                         amd64  OpenPGP signature verification program from Sequoia
