@@ -58,7 +58,7 @@ ii   gnupg-utils                            2.4.7-21+b3                     amd6
 ii   google-cloud-cli                       533.0.0-0                       amd64  Utilities for the Google Cloud Platform
 ii   google-cloud-cli-anthoscli             533.0.0-0                       amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                   all    Contains GPG signing key for Google Cloud Packages
-ii   google-compute-engine                  1:20250731.00-g1                all    Google Compute Engine guest environment.
+ii   google-compute-engine                  1:20250805.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20250611.00-g1                amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20250725.01-g1                amd64  Google Compute Engine OSConfig Agent
