@@ -256,7 +256,7 @@ ii   libudev1                               257.7-1                         amd6
 ii   libunbound8                            1.22.0-2                        amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                           amd64  Unicode string library for C
 ii   libunistring5                          1.3-2                           amd64  Unicode string library for C
-ii   liburcu8t64                            0.15.2-2                        amd64  userspace RCU (read-copy-update) library
+ii   liburcu8t64                            0.15.3-1                        amd64  userspace RCU (read-copy-update) library
 ii   libuuid1                               2.41-5                          amd64  Universally Unique ID library
 ii   libuv1t64                              1.50.0-2                        amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-36                        amd64  Wietse Venema's TCP wrappers library
