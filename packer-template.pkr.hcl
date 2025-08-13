@@ -54,11 +54,6 @@ build {
     ]
   }
 
-  provisioner "file" {
-    destination = "/tmp"
-    source      = "scripts"
-  }
-
   provisioner "shell" {
     inline_shebang = "/bin/sh -ex"
     inline = [
@@ -86,8 +81,14 @@ build {
     ]
   }
 
+  provisioner "file" {
+    destination = "/tmp"
+    source      = "scripts"
+  }
+
   provisioner "shell" {
-    inline            = ["python3 /tmp/scripts/mk-manifest.py"]
+    inline_shebang = "/bin/sh -ex"
+    inline         = [ "python3 /tmp/scripts/mk-manifest.py" ]
   }
 
   provisioner "file" {
