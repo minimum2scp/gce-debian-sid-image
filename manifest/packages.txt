@@ -81,8 +81,8 @@ ii   grub2-common                           2.12-9                       amd64  
 ii   gzip                                   1.13-1                       amd64  GNU compression utilities
 ii   haveged                                1.9.19-12                    amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.25                         amd64  utility to set/show the host name or domain name
-ii   init                                   1.68                         amd64  metapackage ensuring an init system is installed
-ii   init-system-helpers                    1.68                         all    helper tools for all init systems
+ii   init                                   1.69                         amd64  metapackage ensuring an init system is installed
+ii   init-system-helpers                    1.69                         all    helper tools for all init systems
 ii   initramfs-tools                        0.150                        all    generic modular initramfs generator (automation)
 ii   initramfs-tools-bin                    0.150                        amd64  generic modular initramfs generator (binary tools)
 ii   initramfs-tools-core                   0.150                        all    generic modular initramfs generator (core tools)
@@ -106,7 +106,7 @@ ii   libattr1                               1:2.5.2-3                    amd64  
 ii   libaudit-common                        1:4.0.5-1                    all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:4.0.5-1                    amd64  Dynamic library for security auditing
 ii   libblkid1                              2.41.1-1                     amd64  block device ID library
-ii   libbpf1                                1:1.5.0-3                    amd64  eBPF helper library (shared library)
+ii   libbpf1                                1:1.6.1-1                    amd64  eBPF helper library (shared library)
 ii   libbrotli1                             1.1.0-2+b7                   amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-2                     amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6                      amd64  high-quality block-sorting file compressor library - runtime
@@ -141,7 +141,7 @@ ii   libfido2-1                             1.16.0-2                     amd64  
 ii   libfile-fcntllock-perl                 0.22-4+b4                    amd64  Perl module for file locking with fcntl(2)
 ii   libfreetype6                           2.13.3+dfsg-1                amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b3                   amd64  Frame Streams (fstrm) library
-ii   libfuse3-4                             3.17.2-3                     amd64  Filesystem in Userspace (library) (3.x version)
+ii   libfuse3-4                             3.17.3-1                     amd64  Filesystem in Userspace (library) (3.x version)
 ii   libgcc-s1                              15.2.0-1                     amd64  GCC support library
 ii   libgcrypt20                            1.11.2-2                     amd64  LGPL Crypto library - runtime library
 ii   libgdbm-compat4t64                     1.24-2                       amd64  GNU dbm database routines (legacy support runtime version)
@@ -157,8 +157,8 @@ ii   libgpm2                                1.20.7-11+b2                 amd64  
 ii   libgssapi-krb5-2                       1.21.3-5                     amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.19-12                    amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6t64                         3.10.1-1                     amd64  low level cryptographic library (public-key cryptos)
-ii   libidn12                               1.43-1                       amd64  GNU Libidn library, implementation of IETF IDN specifications
-ii   libidn2-0                              2.3.8-2                      amd64  Internationalized domain names (IDNA2008/TR46) library
+ii   libidn12                               1.43-2                       amd64  GNU Libidn library, implementation of IETF IDN specifications
+ii   libidn2-0                              2.3.8-3                      amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.11-2                     amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.11-2                     amd64  netfilter libip6tc library
 ii   libjemalloc2                           5.3.0-3                      amd64  general-purpose scalable concurrent malloc(3) implementation
