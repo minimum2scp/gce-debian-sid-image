@@ -49,7 +49,7 @@ ii   gce-disk-expand                        1:20200716.00-g1             all    
 ii   gdisk                                  1.0.10-2                     amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-2+b1                  amd64  GNU Internationalization utilities for the base system
 ii   gir1.2-girepository-2.0                1.84.0-1                     amd64  Introspection data for GIRepository library
-ii   gir1.2-glib-2.0                        2.84.4-2                     amd64  Introspection data for GLib, GObject, Gio and GModule
+ii   gir1.2-glib-2.0                        2.84.4-3                     amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.50.1-0.1                 amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.50.1-0.1                 all    fast, scalable, distributed revision control system (manual pages)
 ii   gnupg                                  2.4.8-2                      all    GNU privacy guard - a free PGP replacement
@@ -147,8 +147,8 @@ ii   libgcrypt20                            1.11.2-2                     amd64  
 ii   libgdbm-compat4t64                     1.24-2                       amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.24-2                       amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-1.0-1                  1.84.0-1                     amd64  Library for handling GObject introspection data (runtime library)
-ii   libglib2.0-0t64                        2.84.4-2                     amd64  GLib library of C routines
-ii   libglib2.0-data                        2.84.4-2                     all    Common files for GLib library
+ii   libglib2.0-0t64                        2.84.4-3                     amd64  GLib library of C routines
+ii   libglib2.0-data                        2.84.4-3                     all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-3               amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.10-2                     amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.10-2                     amd64  GNU TLS library - main runtime library
@@ -338,7 +338,7 @@ ii   python3.13                             3.13.6-1                     amd64  
 ii   python3.13-minimal                     3.13.6-1                     amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.2-6                        all    GNU readline and history libraries, common files
 ii   reportbug                              13.2.0                       all    reports bugs in the Debian distribution
-ii   rsyslog                                8.2506.0-2                   amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2506.0-3                   amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.16.4                       all    dh-runit implementation detail
 ii   screen                                 4.9.1-3                      amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                        amd64  GNU stream editor for filtering/transforming text
@@ -351,7 +351,7 @@ ii   shim-signed-common                     1.47+15.8-1                  all    
 ii   shim-unsigned                          15.8-1                       amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.8.0.3-1                    amd64  multipurpose relay for bidirectional data transfer
 ii   sqv                                    1.3.0-3                      amd64  OpenPGP signature verification program from Sequoia
-ii   sudo                                   1.9.16p2-3                   amd64  Provide limited super user privileges to specific users
+ii   sudo                                   1.9.17p2-1                   amd64  Provide limited super user privileges to specific users
 ii   systemd                                258~rc2-2                    amd64  system and service manager
 ii   systemd-resolved                       258~rc2-2                    amd64  systemd DNS resolver
 ii   systemd-sysv                           258~rc2-2                    amd64  system and service manager - SysV compatibility symlinks
