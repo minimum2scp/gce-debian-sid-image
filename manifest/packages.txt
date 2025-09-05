@@ -17,7 +17,7 @@ ii   coreutils                              9.7-3                        amd64  
 ii   cpio                                   2.15+dfsg-2                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-198                   amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-198                   all    process scheduling daemon's configuration files
-ii   curl                                   8.16.0~rc2-2                 amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.16.0~rc3-1                 amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                    amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                     amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                     amd64  simple interprocess messaging system (command line utilities)
@@ -119,8 +119,8 @@ ii   libcbor0.10                            0.10.2-2                     amd64  
 ii   libcom-err2                            1.47.2-3+b3                  amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                   amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.8.1-1                    amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.16.0~rc2-2                 amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.16.0~rc2-2                 amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.16.0~rc3-1                 amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.16.0~rc3-1                 amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9               amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                     amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.280                        amd64  Debian Configuration Management System (C-implementation library)
@@ -129,14 +129,14 @@ ii   libduktape207                          2.7.0-2+b2                   amd64  
 ii   libedit2                               3.1-20250104-1               amd64  BSD editline and history libraries
 ii   libefiboot1t64                         39-2                         amd64  Library to manage UEFI variables
 ii   libefivar1t64                          39-2                         amd64  Library to manage UEFI variables
-ii   libelf1t64                             0.192-4                      amd64  library to read and write ELF files
+ii   libelf1t64                             0.193-2                      amd64  library to read and write ELF files
 ii   liberror-perl                          0.17030-1                    all    Perl module for error/exception handling in an OO-ish way
 ii   libestr0                               0.1.11-2                     amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10+b1          amd64  Asynchronous event notification library
 ii   libexpat1                              2.7.1-2                      amd64  XML parsing C library - runtime library
 ii   libext2fs2t64                          1.47.2-3+b3                  amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           1.2304.0-2                   amd64  fast json library for C
-ii   libffi8                                3.4.8-2                      amd64  Foreign Function Interface library runtime
+ii   libffi8                                3.5.2-2                      amd64  Foreign Function Interface library runtime
 ii   libfido2-1                             1.16.0-2                     amd64  library for generating and verifying FIDO 2.0 objects
 ii   libfile-fcntllock-perl                 0.22-4+b4                    amd64  Perl module for file locking with fcntl(2)
 ii   libfreetype6                           2.13.3+dfsg-1                amd64  FreeType 2 font engine, shared library files
@@ -149,7 +149,7 @@ ii   libgdbm6t64                            1.26-1                       amd64  
 ii   libgirepository-1.0-1                  1.84.0-1                     amd64  Library for handling GObject introspection data (runtime library)
 ii   libglib2.0-0t64                        2.84.4-3                     amd64  GLib library of C routines
 ii   libglib2.0-data                        2.84.4-3                     all    Common files for GLib library
-ii   libgmp10                               2:6.3.0+dfsg-4               amd64  Multiprecision arithmetic library
+ii   libgmp10                               2:6.3.0+dfsg-5               amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.10-2                     amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.10-2                     amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.55-2                       amd64  GnuPG development runtime library
@@ -179,7 +179,7 @@ ii   liblockfile-bin                        1.17-2                       amd64  
 ii   liblockfile1                           1.17-2                       amd64  NFS-safe locking library
 ii   liblognorm5                            2.0.6-5                      amd64  log normalizing library
 ii   liblz4-1                               1.10.0-4                     amd64  Fast LZ compression algorithm library - runtime
-ii   liblzma5                               5.8.1-1                      amd64  XZ-format compression library
+ii   liblzma5                               5.8.1-1.1                    amd64  XZ-format compression library
 ii   libmagic-mgc                           1:5.46-5                     amd64  File type determination library using "magic" numbers (compiled magic file)
 ii   libmagic1t64                           1:5.46-5                     amd64  Recognize the type of data in a file using "magic" numbers - library
 ii   libmaxminddb0                          1.12.2-1                     amd64  IP geolocation database library
@@ -199,7 +199,7 @@ ii   libngtcp2-16                           1.11.0-1                     amd64  
 ii   libngtcp2-crypto-gnutls8               1.11.0-1                     amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.8-3                        amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                   amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      258~rc3-1                    amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      258~rc4-1                    amd64  nss module providing fallback resolution for the current hostname
 ii   libnvme1t64                            1.15-2                       amd64  NVMe management library (library)
 ii   libonig5                               6.9.9-1+b1                   amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -207,7 +207,7 @@ ii   libpam-cap                             1:2.75-10+b1                 amd64  
 ii   libpam-modules                         1.7.0-5                      amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.7.0-5                      amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.7.0-5                      all    Runtime support for the PAM library
-ii   libpam-systemd                         258~rc3-1                    amd64  system and service manager - PAM module
+ii   libpam-systemd                         258~rc4-1                    amd64  system and service manager - PAM module
 ii   libpam0g                               1.7.0-5                      amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-6                        amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.5-2                     amd64  system interface for user-level packet capture
@@ -243,8 +243,8 @@ ii   libss2                                 1.47.2-3+b3                  amd64  
 ii   libssh2-1t64                           1.11.1-1                     amd64  SSH2 client-side library
 ii   libssl3t64                             3.5.2-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             15.2.0-3                     amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      258~rc3-1                    amd64  systemd shared private library
-ii   libsystemd0                            258~rc3-1                    amd64  systemd utility library
+ii   libsystemd-shared                      258~rc4-1                    amd64  systemd shared private library
+ii   libsystemd0                            258~rc4-1                    amd64  systemd utility library
 ii   libtasn1-6                             4.20.0-2                     amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                   amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                      all    internationalized substitute of Text::Wrap
@@ -252,7 +252,7 @@ ii   libtinfo6                              6.5+20250216-2               amd64  
 ii   libtirpc-common                        1.3.6+ds-1                   all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.6+ds-1                   amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-2                      amd64  universal charset detection library - shared library
-ii   libudev1                               258~rc3-1                    amd64  libudev shared library
+ii   libudev1                               258~rc4-1                    amd64  libudev shared library
 ii   libunbound8                            1.23.1-1                     amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                        amd64  Unicode string library for C
 ii   libunistring5                          1.3-2                        amd64  Unicode string library for C
@@ -265,7 +265,7 @@ ii   libxml2-16                             2.14.5+dfsg-0.2              amd64  
 ii   libxtables12                           1.8.11-2                     amd64  netfilter xtables library
 ii   libxxhash0                             0.8.3-2                      amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2                      amd64  Fast YAML 1.1 parser and emitter library
-ii   libzstd1                               1.5.7+dfsg-1                 amd64  fast lossless compression algorithm
+ii   libzstd1                               1.5.7+dfsg-1.1               amd64  fast lossless compression algorithm
 ii   linux-base                             4.14                         all    Linux image base package
 ii   linux-image-6.1.0-37-cloud-amd64       6.1.140-1                    amd64  Linux 6.1 for x86-64 cloud (signed)
 ii   linux-image-6.16.3+deb14-cloud-amd64   6.16.3-1                     amd64  Linux 6.16 for x86-64 cloud (signed)
@@ -352,17 +352,17 @@ ii   shim-unsigned                          15.8-1                       amd64  
 ii   socat                                  1.8.0.3-1                    amd64  multipurpose relay for bidirectional data transfer
 ii   sqv                                    1.3.0-3                      amd64  OpenPGP signature verification program from Sequoia
 ii   sudo                                   1.9.17p2-1                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                258~rc3-1                    amd64  system and service manager
-ii   systemd-resolved                       258~rc3-1                    amd64  systemd DNS resolver
-ii   systemd-sysv                           258~rc3-1                    amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      258~rc3-1                    amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                258~rc4-1                    amd64  system and service manager
+ii   systemd-resolved                       258~rc4-1                    amd64  systemd DNS resolver
+ii   systemd-sysv                           258~rc4-1                    amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      258~rc4-1                    amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.14-4                       amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3.1                amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-2                     amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                    amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2025b-5                      all    time zone and daylight-saving time data
 ii   ucf                                    3.0052                       all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   258~rc3-1                    amd64  /dev/ and hotplug management daemon
+ii   udev                                   258~rc4-1                    amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                      all    Transitional package to assert a merged-/usr system
 ii   util-linux                             2.41.1-2                     amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.41.1-2                     amd64  interactive login tools
@@ -375,6 +375,6 @@ ii   wget                                   1.25.0-2                     amd64  
 ii   whiptail                               0.52.25-1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.18-3                       amd64  tool to manage well known user directories
 ii   xml-core                               0.19                         all    XML infrastructure and XML catalog file support
-ii   xz-utils                               5.8.1-1                      amd64  XZ-format compression utilities
+ii   xz-utils                               5.8.1-1.1                    amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.3.dfsg+really1.3.1-1+b1  amd64  compression library - runtime
-ii   zstd                                   1.5.7+dfsg-1                 amd64  fast lossless compression algorithm -- CLI tool
+ii   zstd                                   1.5.7+dfsg-1.1               amd64  fast lossless compression algorithm -- CLI tool
