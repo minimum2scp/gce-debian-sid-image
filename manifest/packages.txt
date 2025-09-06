@@ -153,7 +153,7 @@ ii   libgmp10                               2:6.3.0+dfsg-5               amd64  
 ii   libgnutls-dane0t64                     3.8.10-2                     amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.10-2                     amd64  GNU TLS library - main runtime library
 ii   libgpg-error0                          1.55-2                       amd64  GnuPG development runtime library
-ii   libgpm2                                1.20.7-11+b2                 amd64  General Purpose Mouse - shared library
+ii   libgpm2                                1.20.7-12                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.21.3-5                     amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.19-12                    amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6t64                         3.10.1-1                     amd64  low level cryptographic library (public-key cryptos)
