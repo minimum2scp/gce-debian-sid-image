@@ -199,7 +199,7 @@ ii   libngtcp2-16                           1.15.1-1                     amd64  
 ii   libngtcp2-crypto-gnutls8               1.15.1-1                     amd64  implementation of QUIC protocol (library)
 ii   libnpth0t64                            1.8-3                        amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                   amd64  Public client interface for NIS(YP) and NIS+
-ii   libnss-myhostname                      258~rc4-1                    amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-myhostname                      258-1                        amd64  nss module providing fallback resolution for the current hostname
 ii   libnvme1t64                            1.15-2                       amd64  NVMe management library (library)
 ii   libonig5                               6.9.10-1                     amd64  regular expressions library
 ii   libp11-kit0                            0.25.5-3                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -207,7 +207,7 @@ ii   libpam-cap                             1:2.75-10+b1                 amd64  
 ii   libpam-modules                         1.7.0-5                      amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.7.0-5                      amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.7.0-5                      all    Runtime support for the PAM library
-ii   libpam-systemd                         258~rc4-1                    amd64  system and service manager - PAM module
+ii   libpam-systemd                         258-1                        amd64  system and service manager - PAM module
 ii   libpam0g                               1.7.0-5                      amd64  Pluggable Authentication Modules library
 ii   libparted2t64                          3.6-6                        amd64  disk partition manipulator - shared library
 ii   libpcap0.8t64                          1.10.5-2                     amd64  system interface for user-level packet capture
@@ -241,10 +241,10 @@ ii   libsodium23                            1.0.18-1+b2                  amd64  
 ii   libsqlite3-0                           3.46.1-8                     amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-3+b3                  amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                     amd64  SSH2 client-side library
-ii   libssl3t64                             3.5.2-1                      amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3t64                             3.5.3-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             15.2.0-4                     amd64  GNU Standard C++ Library v3
-ii   libsystemd-shared                      258~rc4-1                    amd64  systemd shared private library
-ii   libsystemd0                            258~rc4-1                    amd64  systemd utility library
+ii   libsystemd-shared                      258-1                        amd64  systemd shared private library
+ii   libsystemd0                            258-1                        amd64  systemd utility library
 ii   libtasn1-6                             4.20.0-2                     amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                   amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                      all    internationalized substitute of Text::Wrap
@@ -252,7 +252,7 @@ ii   libtinfo6                              6.5+20250216-2               amd64  
 ii   libtirpc-common                        1.3.6+ds-1                   all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.6+ds-1                   amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-2                      amd64  universal charset detection library - shared library
-ii   libudev1                               258~rc4-1                    amd64  libudev shared library
+ii   libudev1                               258-1                        amd64  libudev shared library
 ii   libunbound8                            1.23.1-1                     amd64  library implementing DNS resolution and validation
 ii   libunistring2                          1.0-2                        amd64  Unicode string library for C
 ii   libunistring5                          1.3-2                        amd64  Unicode string library for C
@@ -293,8 +293,8 @@ ii   nvme-cli                               2.15-2                       amd64  
 ii   openssh-client                         1:10.0p1-8                   amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:10.0p1-8                   amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:10.0p1-8                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.5.2-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   openssl-provider-legacy                3.5.2-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.5.3-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl-provider-legacy                3.5.3-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                         amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6                        amd64  disk partition manipulator
 ii   passwd                                 1:4.18.0-1                   amd64  change and administer password and group data
@@ -354,17 +354,17 @@ ii   socat                                  1.8.0.3-1                    amd64  
 ii   sqv                                    1.3.0-3                      amd64  OpenPGP signature verification program from Sequoia
 ii   ssh-import-id                          5.10-3                       all    securely retrieve an SSH public key and install it locally
 ii   sudo                                   1.9.17p2-1                   amd64  Provide limited super user privileges to specific users
-ii   systemd                                258~rc4-1                    amd64  system and service manager
-ii   systemd-resolved                       258~rc4-1                    amd64  systemd DNS resolver
-ii   systemd-sysv                           258~rc4-1                    amd64  system and service manager - SysV compatibility symlinks
-ii   systemd-timesyncd                      258~rc4-1                    amd64  minimalistic service to synchronize local time with NTP servers
+ii   systemd                                258-1                        amd64  system and service manager
+ii   systemd-resolved                       258-1                        amd64  systemd DNS resolver
+ii   systemd-sysv                           258-1                        amd64  system and service manager - SysV compatibility symlinks
+ii   systemd-timesyncd                      258-1                        amd64  minimalistic service to synchronize local time with NTP servers
 ii   sysvinit-utils                         3.14-4                       amd64  System-V-like utilities
 ii   tar                                    1.35+dfsg-3.1                amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-2                     amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                    amd64  Traces the route taken by packets over an IPv4/IPv6 network
 ii   tzdata                                 2025b-5                      all    time zone and daylight-saving time data
 ii   ucf                                    3.0052                       all    Update Configuration File(s): preserve user changes to config files
-ii   udev                                   258~rc4-1                    amd64  /dev/ and hotplug management daemon
+ii   udev                                   258-1                        amd64  /dev/ and hotplug management daemon
 ii   usr-is-merged                          39+nmu2                      all    Transitional package to assert a merged-/usr system
 ii   util-linux                             2.41.1-3                     amd64  miscellaneous system utilities
 ii   util-linux-extra                       2.41.1-3                     amd64  interactive login tools
