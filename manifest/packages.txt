@@ -32,6 +32,7 @@ ii   dirmngr                                2.4.8-3                      amd64  
 ii   distro-info-data                       0.66                         all    information about the distributions' releases (data files)
 ii   dmidecode                              3.6-2                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.205-2                 amd64  Linux Kernel Device Mapper userspace library
+ii   dosfstools                             4.2-1.2                      amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.22.21                      amd64  Debian package management system
 ii   dracut-install                         108-3                        amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b3                  amd64  ext2/ext3/ext4 file system utilities
@@ -43,8 +44,9 @@ ii   exim4-config                           4.98.2-2                     all    
 ii   exim4-daemon-light                     4.98.2-2                     amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.46-5                     amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                     amd64  utilities for finding files--find, xargs
-ii   gcc-12-base                            12.5.0-6                     amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-14-base                            14.3.0-8                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-15-base                            15.2.0-4                     amd64  GCC, the GNU Compiler Collection (base package)
+ii   gce-configs-trixie                     1:20250905.00-g1             all    Google Compute Engine guest environment configs for
 ii   gce-disk-expand                        1:20200716.00-g1             all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                     amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.1-2+b1                  amd64  GNU Internationalization utilities for the base system
@@ -58,14 +60,13 @@ ii   gnupg-utils                            2.4.8-3                      amd64  
 ii   google-cloud-cli                       539.0.0-0                    amd64  Utilities for the Google Cloud Platform
 ii   google-cloud-cli-anthoscli             539.0.0-0                    amd64  anthoscli
 ii   google-cloud-packages-archive-keyring  1.2-629101324                all    Contains GPG signing key for Google Cloud Packages
-ii   google-compute-engine                  1:20250805.00-g1             all    Google Compute Engine guest environment.
-ii   google-compute-engine-oslogin          1:20240701.00-g1+deb12       amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20250611.00-g1             amd64  Google Compute Engine Guest Agent
+ii   google-compute-engine                  1:20250709.00-g1             all    Google Compute Engine guest environment.
+ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13       amd64  Google Compute Engine OS Login
+ii   google-guest-agent                     1:20250918.01-g1             amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20250819.00-g1             amd64  Google Compute Engine OSConfig Agent
 ii   gpg                                    2.4.8-3                      amd64  GNU Privacy Guard -- minimalist public key operations
 ii   gpg-agent                              2.4.8-3                      amd64  GNU privacy guard - cryptographic agent
 ii   gpg-wks-client                         2.4.8-3                      amd64  GNU privacy guard - Web Key Service client
-ii   gpg-wks-server                         2.4.8-3                      amd64  GNU privacy guard - Web Key Service server
 ii   gpgconf                                2.4.8-3                      amd64  GNU privacy guard - core configuration utilities
 ii   gpgsm                                  2.4.8-3                      amd64  GNU privacy guard - S/MIME version
 ii   gpgv                                   2.4.8-3                      amd64  GNU privacy guard - signature verification tool
@@ -98,7 +99,6 @@ ii   krb5-locales                           1.21.3-5                     all    
 ii   less                                   668-1                        amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                   amd64  access control list - shared library
 ii   libapparmor1                           4.1.0-1                      amd64  changehat AppArmor library
-ii   libapt-pkg6.0                          2.6.1                        amd64  package management runtime library
 ii   libapt-pkg7.0                          3.1.5                        amd64  package management runtime library
 ii   libassuan9                             3.0.2-2                      amd64  IPC library for the GnuPG components
 ii   libatomic1                             15.2.0-4                     amd64  support library providing __atomic built-in functions
@@ -152,6 +152,7 @@ ii   libglib2.0-data                        2.84.4-3                     all    
 ii   libgmp10                               2:6.3.0+dfsg-5               amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.10-2                     amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.10-2                     amd64  GNU TLS library - main runtime library
+ii   libgpg-error-l10n                      1.55-2                       all    library of error values and messages in GnuPG (localization files)
 ii   libgpg-error0                          1.55-2                       amd64  GnuPG development runtime library
 ii   libgpm2                                1.20.7-12                    amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.21.3-5                     amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
@@ -200,6 +201,7 @@ ii   libngtcp2-crypto-gnutls8               1.15.1-1                     amd64  
 ii   libnpth0t64                            1.8-3                        amd64  replacement for GNU Pth using system threads
 ii   libnsl2                                1.3.0-3+b3                   amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-myhostname                      258-1                        amd64  nss module providing fallback resolution for the current hostname
+ii   libnss-resolve                         258-1                        amd64  nss module to resolve names via systemd-resolved
 ii   libnvme1t64                            1.15-2                       amd64  NVMe management library (library)
 ii   libonig5                               6.9.10-1                     amd64  regular expressions library
 ii   libp11-kit0                            0.25.9-2                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
@@ -254,7 +256,6 @@ ii   libtirpc3t64                           1.3.6+ds-1                   amd64  
 ii   libuchardet0                           0.0.8-2                      amd64  universal charset detection library - shared library
 ii   libudev1                               258-1                        amd64  libudev shared library
 ii   libunbound8                            1.24.0-1                     amd64  library implementing DNS resolution and validation
-ii   libunistring2                          1.0-2                        amd64  Unicode string library for C
 ii   libunistring5                          1.3-2                        amd64  Unicode string library for C
 ii   liburcu8t64                            0.15.3-1                     amd64  userspace RCU (read-copy-update) library
 ii   libuuid1                               2.41.1-3                     amd64  Universally Unique ID library
@@ -267,9 +268,10 @@ ii   libxxhash0                             0.8.3-2                      amd64  
 ii   libyaml-0-2                            0.2.5-2                      amd64  Fast YAML 1.1 parser and emitter library
 ii   libzstd1                               1.5.7+dfsg-1.1               amd64  fast lossless compression algorithm
 ii   linux-base                             4.14                         all    Linux image base package
-ii   linux-image-6.1.0-39-cloud-amd64       6.1.148-1                    amd64  Linux 6.1 for x86-64 cloud (signed)
+ii   linux-image-6.12.43+deb13-cloud-amd64  6.12.43-1                    amd64  Linux 6.12 for x86-64 cloud (signed)
 ii   linux-image-6.16.8+deb14-cloud-amd64   6.16.8-1                     amd64  Linux 6.16 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                6.16.8-1                     amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-sysctl-defaults                  4.14                         all    default sysctl configuration for Linux
 ii   login                                  1:4.16.0-2+really2.41.1-3    amd64  system login tools
 ii   login.defs                             1:4.18.0-1                   all    system user management configuration
 ii   logrotate                              3.22.0-1                     amd64  Log rotation utility
@@ -322,17 +324,10 @@ ii   python3-debianbts                      4.1.1                        all    
 ii   python3-distro                         1.9.0-1                      all    Linux OS platform information API
 ii   python3-gi                             3.50.0-6                     amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.10-1                       all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-linkify-it                     2.0.3-1                      all    links recognition library with FULL unicode support
-ii   python3-markdown-it                    3.0.0-3                      all    Python port of markdown-it and some its associated plugins
-ii   python3-mdurl                          0.1.2-1                      all    Python port of the JavaScript mdurl package
 ii   python3-minimal                        3.13.7-1                     amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-7                      amd64  Declarative network configuration Python bindings
-ii   python3-pygments                       2.18.0+dfsg-2                all    syntax highlighting package written in Python 3
 ii   python3-reportbug                      13.2.0                       all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.5+dfsg-1                all    elegant and simple HTTP library for Python3, built for human beings
-ii   python3-rich                           13.9.4-1                     all    render rich text, tables, progress bars, syntax highlighting, markdown and more
-ii   python3-typing-extensions              4.15.0-1                     all    Backported and Experimental Type Hints for Python
-ii   python3-uc-micro                       1.0.3-1                      all    python port of uc.micro
 ii   python3-urllib3                        2.5.0-1                      all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.2-2                      amd64  YAML parser and emitter for Python3
 ii   python3.13                             3.13.7-1                     amd64  Interactive high-level object-oriented language (version 3.13)
@@ -355,6 +350,7 @@ ii   sqv                                    1.3.0-3                      amd64  
 ii   ssh-import-id                          5.10-3                       all    securely retrieve an SSH public key and install it locally
 ii   sudo                                   1.9.17p2-1                   amd64  Provide limited super user privileges to specific users
 ii   systemd                                258-1                        amd64  system and service manager
+ii   systemd-cryptsetup                     258-1                        amd64  Provides cryptsetup, integritysetup and veritysetup utilities
 ii   systemd-resolved                       258-1                        amd64  systemd DNS resolver
 ii   systemd-sysv                           258-1                        amd64  system and service manager - SysV compatibility symlinks
 ii   systemd-timesyncd                      258-1                        amd64  minimalistic service to synchronize local time with NTP servers
@@ -365,9 +361,7 @@ ii   traceroute                             1:2.1.6-1                    amd64  
 ii   tzdata                                 2025b-5                      all    time zone and daylight-saving time data
 ii   ucf                                    3.0052                       all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   258-1                        amd64  /dev/ and hotplug management daemon
-ii   usr-is-merged                          39+nmu2                      all    Transitional package to assert a merged-/usr system
 ii   util-linux                             2.41.1-3                     amd64  miscellaneous system utilities
-ii   util-linux-extra                       2.41.1-3                     amd64  interactive login tools
 ii   uuid-runtime                           2.41.1-3                     amd64  runtime components for the Universally Unique ID library
 ii   vim                                    2:9.1.1230-2                 amd64  Vi IMproved - enhanced vi editor
 ii   vim-common                             2:9.1.1230-2                 all    Vi IMproved - Common files
