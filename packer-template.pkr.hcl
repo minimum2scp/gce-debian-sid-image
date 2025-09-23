@@ -15,12 +15,12 @@ variables {
 }
 
 locals {
-  expected_source_image = "debian-12-bookworm-v20250910"
+  expected_source_image = "debian-13-trixie-v20250909"
   image_family          = "debian-sid"
   image_name            = "${local.image_family}-v${formatdate("YYYYMMDD-hhmmss", timestamp())}"
 }
 
-source "googlecompute" "debian-12" {
+source "googlecompute" "debian-13" {
   disk_size         = 10
   image_description = "Debian sid (source image: ${local.expected_source_image})"
   image_family      = "${local.image_family}"
@@ -32,14 +32,14 @@ source "googlecompute" "debian-12" {
   preemptible             = true
   project_id              = "${var.project_id}"
   skip_create_image       = var.skip_create_image
-  source_image_family     = "debian-12"
+  source_image_family     = "debian-13"
   source_image_project_id = ["debian-cloud"]
   ssh_username            = "packer"
   zone                    = "us-west1-a"
 }
 
 build {
-  sources = ["source.googlecompute.debian-12"]
+  sources = ["source.googlecompute.debian-13"]
 
   provisioner "shell" {
     inline = [
