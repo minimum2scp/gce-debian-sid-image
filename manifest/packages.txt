@@ -1,8 +1,8 @@
 ii   adduser                                3.153                        all    add and remove users and groups
 ii   apparmor                               4.1.0-1                      amd64  user-space parser utility for AppArmor
-ii   apt                                    3.1.5                        amd64  commandline package manager
+ii   apt                                    3.1.6                        amd64  commandline package manager
 ii   apt-listchanges                        4.8                          all    package change history notification tool
-ii   apt-utils                              3.1.5                        amd64  package management related utility programs
+ii   apt-utils                              3.1.6                        amd64  package management related utility programs
 ii   base-files                             14                           amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.7                        amd64  Debian base system master password and group files
 ii   bash                                   5.3-1                        amd64  GNU Bourne Again SHell
@@ -88,7 +88,7 @@ ii   krb5-locales                           1.21.3-5                     all    
 ii   less                                   668-1                        amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                   amd64  access control list - shared library
 ii   libapparmor1                           4.1.0-1                      amd64  changehat AppArmor library
-ii   libapt-pkg7.0                          3.1.5                        amd64  package management runtime library
+ii   libapt-pkg7.0                          3.1.6                        amd64  package management runtime library
 ii   libatomic1                             15.2.0-4                     amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                    amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:4.1.2-1                    all    Dynamic library for security auditing - common files
