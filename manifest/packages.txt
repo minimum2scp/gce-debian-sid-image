@@ -57,7 +57,7 @@ ii   google-cloud-cli                       541.0.0-0                    amd64  
 ii   google-cloud-cli-anthoscli             541.0.0-0                    amd64  anthoscli
 ii   google-compute-engine                  1:20250709.00-g1             all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13       amd64  Google Compute Engine OS Login
-ii   google-guest-agent                     1:20250918.01-g1             amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                     1:20250930.01-g1             amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20250819.00-g1             amd64  Google Compute Engine OSConfig Agent
 ii   grep                                   3.12-1                       amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.23.0-9                     amd64  GNU troff text-formatting system (base system components)
@@ -226,7 +226,7 @@ ii   libsodium23                            1.0.18-1+b2                  amd64  
 ii   libsqlite3-0                           3.46.1-8                     amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-3+b3                  amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                     amd64  SSH2 client-side library
-ii   libssl3t64                             3.5.3-1                      amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3t64                             3.5.4-1                      amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             15.2.0-4                     amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      258-1                        amd64  systemd shared private library
 ii   libsystemd0                            258-1                        amd64  systemd utility library
@@ -278,8 +278,8 @@ ii   nvme-cli                               2.15-2                       amd64  
 ii   openssh-client                         1:10.0p1-8                   amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:10.0p1-8                   amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:10.0p1-8                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.5.3-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   openssl-provider-legacy                3.5.3-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl-provider-legacy                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                         amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6                        amd64  disk partition manipulator
 ii   passwd                                 1:4.18.0-1                   amd64  change and administer password and group data
