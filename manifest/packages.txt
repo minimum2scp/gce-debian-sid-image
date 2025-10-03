@@ -1,8 +1,8 @@
 ii   adduser                                3.153                        all    add and remove users and groups
 ii   apparmor                               4.1.0-1                      amd64  user-space parser utility for AppArmor
-ii   apt                                    3.1.6                        amd64  commandline package manager
+ii   apt                                    3.1.7                        amd64  commandline package manager
 ii   apt-listchanges                        4.8                          all    package change history notification tool
-ii   apt-utils                              3.1.6                        amd64  package management related utility programs
+ii   apt-utils                              3.1.7                        amd64  package management related utility programs
 ii   base-files                             14                           amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.7                        amd64  Debian base system master password and group files
 ii   bash                                   5.3-1                        amd64  GNU Bourne Again SHell
@@ -17,7 +17,7 @@ ii   coreutils                              9.7-3                        amd64  
 ii   cpio                                   2.15+dfsg-2                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-199                   amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-199                   all    process scheduling daemon's configuration files
-ii   curl                                   8.16.0-1                     amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.16.0-2                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                    amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                     amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                     amd64  simple interprocess messaging system (command line utilities)
@@ -88,7 +88,7 @@ ii   krb5-locales                           1.21.3-5                     all    
 ii   less                                   668-1                        amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                   amd64  access control list - shared library
 ii   libapparmor1                           4.1.0-1                      amd64  changehat AppArmor library
-ii   libapt-pkg7.0                          3.1.6                        amd64  package management runtime library
+ii   libapt-pkg7.0                          3.1.7                        amd64  package management runtime library
 ii   libatomic1                             15.2.0-4                     amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                    amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:4.1.2-1                    all    Dynamic library for security auditing - common files
@@ -107,8 +107,8 @@ ii   libcbor0.10                            0.10.2-2                     amd64  
 ii   libcom-err2                            1.47.2-3+b3                  amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                   amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.8.1-1                    amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.16.0-1                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.16.0-1                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.16.0-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.16.0-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-9               amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                     amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.280                        amd64  Debian Configuration Management System (C-implementation library)
@@ -179,9 +179,10 @@ ii   libnewt0.52                            0.52.25-1                    amd64  
 ii   libnfnetlink0                          1.0.2-3                      amd64  Netfilter netlink library
 ii   libnftnl11                             1.3.0-1                      amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.64.0-1.1+b1                amd64  library implementing HTTP/2 protocol (shared library)
-ii   libnghttp3-9                           1.11.0-1                     amd64  HTTP/3 library with QUIC and QPACK (library)
-ii   libngtcp2-16                           1.15.1-1                     amd64  implementation of QUIC protocol (library)
-ii   libngtcp2-crypto-gnutls8               1.15.1-1                     amd64  implementation of QUIC protocol (library)
+ii   libnghttp3-9                           1.12.0-1                     amd64  HTTP/3 mapping over QUIC and QPACK (library)
+ii   libngtcp2-16                           1.16.0-1                     amd64  QUIC protocol library
+ii   libngtcp2-crypto-gnutls8               1.16.0-1                     amd64  crypto helper library for with GnuTLS backend
+ii   libngtcp2-crypto-ossl0                 1.16.0-1                     amd64  crypto helper library for with OpenSSL backend
 ii   libnsl2                                1.3.0-3+b3                   amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-myhostname                      258-1                        amd64  nss module providing fallback resolution for the current hostname
 ii   libnss-resolve                         258-1                        amd64  nss module to resolve names via systemd-resolved
