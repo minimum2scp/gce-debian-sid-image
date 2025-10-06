@@ -15,8 +15,8 @@ ii   bsdutils                               1:2.41.2-3                   amd64  
 ii   ca-certificates                        20250419                     all    Common CA certificates
 ii   coreutils                              9.7-3                        amd64  GNU core utilities
 ii   cpio                                   2.15+dfsg-2                  amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-199                   amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-199                   all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-200                   amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-200                   all    process scheduling daemon's configuration files
 ii   curl                                   8.16.0-2                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                    amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                     amd64  simple interprocess messaging system (system message bus)
@@ -246,11 +246,11 @@ ii   libuuid1                               2.41.2-3                     amd64  
 ii   libuv1t64                              1.51.0-2                     amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-36                     amd64  Wietse Venema's TCP wrappers library
 ii   libwtmpdb0                             0.74.0-2                     amd64  wtmp database shared library
-ii   libxml2-16                             2.14.5+dfsg-0.2              amd64  GNOME XML library
+ii   libxml2-16                             2.14.6+dfsg-0.1              amd64  GNOME XML library
 ii   libxtables12                           1.8.11-2                     amd64  netfilter xtables library
 ii   libxxhash0                             0.8.3-2                      amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2                      amd64  Fast YAML 1.1 parser and emitter library
-ii   libzstd1                               1.5.7+dfsg-1.1               amd64  fast lossless compression algorithm
+ii   libzstd1                               1.5.7+dfsg-2                 amd64  fast lossless compression algorithm
 ii   linux-base                             4.14                         all    Linux image base package
 ii   linux-image-6.12.48+deb13-cloud-amd64  6.12.48-1                    amd64  Linux 6.12 for x86-64 cloud (signed)
 ii   linux-image-6.16.9+deb14-cloud-amd64   6.16.9-1                     amd64  Linux 6.16 for x86-64 cloud (signed)
@@ -356,4 +356,4 @@ ii   xdg-user-dirs                          0.19-1                       amd64  
 ii   xml-core                               0.19                         all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.8.1-2                      amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.3.dfsg+really1.3.1-1+b1  amd64  compression library - runtime
-ii   zstd                                   1.5.7+dfsg-1.1               amd64  fast lossless compression algorithm -- CLI tool
+ii   zstd                                   1.5.7+dfsg-2                 amd64  fast lossless compression algorithm -- CLI tool
