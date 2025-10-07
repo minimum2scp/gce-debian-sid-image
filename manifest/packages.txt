@@ -53,12 +53,12 @@ ii   gir1.2-girepository-2.0                1.86.0-6                     amd64  
 ii   gir1.2-glib-2.0                        2.84.4-3                     amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                   amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                   all    fast, scalable, distributed revision control system (manual pages)
-ii   google-cloud-cli                       541.0.0-0                    amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             541.0.0-0                    amd64  anthoscli
+ii   google-cloud-cli                       542.0.0-0                    amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             542.0.0-0                    amd64  anthoscli
 ii   google-compute-engine                  1:20250709.00-g1             all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13       amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20250930.01-g1             amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20250819.00-g1             amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20250924.00-g1             amd64  Google Compute Engine OSConfig Agent
 ii   grep                                   3.12-1                       amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.23.0-9                     amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.1.1                        amd64  GRand Unified Bootloader (cloud setup)
@@ -109,7 +109,7 @@ ii   libcrypt1                              1:4.4.38-1                   amd64  
 ii   libcryptsetup12                        2:2.8.1-1                    amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.16.0-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4t64                            8.16.0-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
-ii   libdb5.3t64                            5.3.28+dfsg2-9               amd64  Berkeley v5.3 Database Libraries [runtime]
+ii   libdb5.3t64                            5.3.28+dfsg2-10              amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                     amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.280                        amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.205-2                 amd64  Linux Kernel Device Mapper userspace library
@@ -213,9 +213,9 @@ ii   libpython3.13-minimal                  3.13.7-1                     amd64  
 ii   libpython3.13-stdlib                   3.13.7-1                     amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.3-3                        amd64  GNU readline and history libraries, run-time libraries
 ii   librtmp1                               2.4+20151223.gitfa8646d.1-3  amd64  toolkit for RTMP streams (shared library)
-ii   libsasl2-2                             2.1.28+dfsg1-9               amd64  Cyrus SASL - authentication abstraction library
-ii   libsasl2-modules                       2.1.28+dfsg1-9               amd64  Cyrus SASL - pluggable authentication modules
-ii   libsasl2-modules-db                    2.1.28+dfsg1-9               amd64  Cyrus SASL - pluggable authentication modules (DB)
+ii   libsasl2-2                             2.1.28+dfsg1-10              amd64  Cyrus SASL - authentication abstraction library
+ii   libsasl2-modules                       2.1.28+dfsg1-10              amd64  Cyrus SASL - pluggable authentication modules
+ii   libsasl2-modules-db                    2.1.28+dfsg1-10              amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.6.0-2                      amd64  high level interface to Linux seccomp filter
 ii   libselinux1                            3.8.1-1                      amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.8.1-1                      all    Common files for SELinux policy management libraries
@@ -346,10 +346,10 @@ ii   ucf                                    3.0052                       all    
 ii   udev                                   258-1                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.41.2-3                     amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.41.2-3                     amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.1.1230-2                 amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.1.1230-2                 all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.1.1230-2                 all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.1.1230-2                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.1.1829-1                 amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.1.1829-1                 all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.1.1829-1                 all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.1.1829-1                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.25.0-2                     amd64  retrieves files from the web
 ii   whiptail                               0.52.25-1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.19-1                       amd64  tool to manage well known user directories
