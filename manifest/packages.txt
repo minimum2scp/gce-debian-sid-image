@@ -17,7 +17,7 @@ ii   coreutils                              9.7-3                        amd64  
 ii   cpio                                   2.15+dfsg-2                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-200                   amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-200                   all    process scheduling daemon's configuration files
-ii   curl                                   8.16.0-2                     amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.16.0-3                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                    amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                     amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                     amd64  simple interprocess messaging system (command line utilities)
@@ -33,7 +33,7 @@ ii   dmidecode                              3.6-2                        amd64  
 ii   dmsetup                                2:1.02.205-2                 amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                      amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.22.21                      amd64  Debian package management system
-ii   dracut-install                         108-5                        amd64  dracut is an event driven initramfs infrastructure (dracut-install)
+ii   dracut-install                         108-6                        amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b3                  amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4                         amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                    all    store /etc in git, mercurial, brz or darcs
@@ -107,8 +107,8 @@ ii   libcbor0.10                            0.10.2-2                     amd64  
 ii   libcom-err2                            1.47.2-3+b3                  amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                   amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.8.1-1                    amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.16.0-2                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.16.0-2                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.16.0-3                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.16.0-3                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-10              amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                     amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.280                        amd64  Debian Configuration Management System (C-implementation library)
@@ -253,8 +253,8 @@ ii   libyaml-0-2                            0.2.5-2                      amd64  
 ii   libzstd1                               1.5.7+dfsg-2                 amd64  fast lossless compression algorithm
 ii   linux-base                             4.14                         all    Linux image base package
 ii   linux-image-6.12.48+deb13-cloud-amd64  6.12.48-1                    amd64  Linux 6.12 for x86-64 cloud (signed)
-ii   linux-image-6.16.9+deb14-cloud-amd64   6.16.9-1                     amd64  Linux 6.16 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.16.9-1                     amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.16.10+deb14-cloud-amd64  6.16.10-1                    amd64  Linux 6.16 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.16.10-1                    amd64  Linux for x86-64 cloud (meta-package)
 ii   linux-sysctl-defaults                  4.14                         all    default sysctl configuration for Linux
 ii   login                                  1:4.16.0-2+really2.41.2-3    amd64  system login tools
 ii   login.defs                             1:4.18.0-1                   all    system user management configuration
@@ -276,9 +276,9 @@ ii   netplan-generator                      1.1.2-7                      amd64  
 ii   netplan.io                             1.1.2-7                      amd64  Declarative network configuration for various backends at runtime
 ii   networkd-dispatcher                    2.2.4-1.1                    all    Dispatcher service for systemd-networkd connection status changes
 ii   nvme-cli                               2.15-2                       amd64  NVMe management tool
-ii   openssh-client                         1:10.0p1-8                   amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:10.0p1-8                   amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:10.0p1-8                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:10.1p1-1                   amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:10.1p1-1                   amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:10.1p1-1                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   openssl-provider-legacy                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                         amd64  utility to detect other OSes on a set of drives
