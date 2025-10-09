@@ -17,7 +17,7 @@ ii   coreutils                              9.7-3                        amd64  
 ii   cpio                                   2.15+dfsg-2                  amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-200                   amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-200                   all    process scheduling daemon's configuration files
-ii   curl                                   8.16.0-3                     amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.16.0-4                     amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                    amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                     amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                     amd64  simple interprocess messaging system (command line utilities)
@@ -28,7 +28,7 @@ ii   debconf                                1.5.91                       all    
 ii   debian-archive-keyring                 2025.1                       all    OpenPGP archive certificates of the Debian archive
 ii   debianutils                            5.23.2                       amd64  Miscellaneous utilities specific to Debian
 ii   diffutils                              1:3.10-4                     amd64  File comparison utilities
-ii   distro-info-data                       0.66                         all    information about the distributions' releases (data files)
+ii   distro-info-data                       0.67                         all    information about the distributions' releases (data files)
 ii   dmidecode                              3.6-2                        amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.205-2                 amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                      amd64  utilities for making and checking MS-DOS FAT filesystems
@@ -107,8 +107,8 @@ ii   libcbor0.10                            0.10.2-2                     amd64  
 ii   libcom-err2                            1.47.2-3+b3                  amd64  common error description library
 ii   libcrypt1                              1:4.4.38-1                   amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.8.1-1                    amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.16.0-3                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.16.0-3                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.16.0-4                     amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.16.0-4                     amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-10              amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                     amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.280                        amd64  Debian Configuration Management System (C-implementation library)
@@ -173,7 +173,7 @@ ii   libmnl0                                1.0.5-3                      amd64  
 ii   libmount1                              2.41.2-3                     amd64  device mounting library
 ii   libncursesw6                           6.5+20250216-2               amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.1.0-1                      amd64  Netfilter netlink-conntrack library
-ii   libnetplan1                            1.1.2-7                      amd64  Declarative network configuration runtime library
+ii   libnetplan1                            1.1.2-8                      amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10.2-1                     amd64  low level cryptographic library (symmetric and one-way cryptos)
 ii   libnewt0.52                            0.52.25-1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                      amd64  Netfilter netlink library
@@ -272,13 +272,13 @@ ii   ncurses-base                           6.5+20250216-2               all    
 ii   ncurses-bin                            6.5+20250216-2               amd64  terminal-related programs and man pages
 ii   net-tools                              2.10-2                       amd64  NET-3 networking toolkit
 ii   netbase                                6.5                          all    Basic TCP/IP networking system
-ii   netplan-generator                      1.1.2-7                      amd64  Declarative network configuration for various backends at boot
-ii   netplan.io                             1.1.2-7                      amd64  Declarative network configuration for various backends at runtime
+ii   netplan-generator                      1.1.2-8                      amd64  Declarative network configuration for various backends at boot
+ii   netplan.io                             1.1.2-8                      amd64  Declarative network configuration for various backends at runtime
 ii   networkd-dispatcher                    2.2.4-1.1                    all    Dispatcher service for systemd-networkd connection status changes
 ii   nvme-cli                               2.15-2                       amd64  NVMe management tool
-ii   openssh-client                         1:10.1p1-1                   amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:10.1p1-1                   amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:10.1p1-1                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:10.1p1-2                   amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:10.1p1-2                   amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:10.1p1-2                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   openssl-provider-legacy                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                         amd64  utility to detect other OSes on a set of drives
@@ -308,7 +308,7 @@ ii   python3-distro                         1.9.0-1                      all    
 ii   python3-gi                             3.50.0-7                     amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.10-1                       all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.13.7-1                     amd64  minimal subset of the Python language (default python3 version)
-ii   python3-netplan                        1.1.2-7                      amd64  Declarative network configuration Python bindings
+ii   python3-netplan                        1.1.2-8                      amd64  Declarative network configuration Python bindings
 ii   python3-reportbug                      13.2.0                       all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.5+dfsg-1                all    elegant and simple HTTP library for Python3, built for human beings
 ii   python3-urllib3                        2.5.0-1                      all    HTTP library with thread-safe connection pooling for Python3
@@ -317,7 +317,7 @@ ii   python3.13                             3.13.7-1                     amd64  
 ii   python3.13-minimal                     3.13.7-1                     amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.3-3                        all    GNU readline and history libraries, common files
 ii   reportbug                              13.2.0                       all    reports bugs in the Debian distribution
-ii   rsyslog                                8.2506.0-4                   amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2506.0-6                   amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.16.4                       all    dh-runit implementation detail
 ii   screen                                 4.9.1-3                      amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                        amd64  GNU stream editor for filtering/transforming text
