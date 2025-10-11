@@ -276,9 +276,9 @@ ii   netplan-generator                      1.1.2-8                      amd64  
 ii   netplan.io                             1.1.2-8                      amd64  Declarative network configuration for various backends at runtime
 ii   networkd-dispatcher                    2.2.4-1.1                    all    Dispatcher service for systemd-networkd connection status changes
 ii   nvme-cli                               2.15-2                       amd64  NVMe management tool
-ii   openssh-client                         1:10.1p1-2                   amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:10.1p1-2                   amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:10.1p1-2                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:10.2p1-1                   amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:10.2p1-1                   amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:10.2p1-1                   amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   openssl-provider-legacy                3.5.4-1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.83                         amd64  utility to detect other OSes on a set of drives
@@ -346,10 +346,10 @@ ii   ucf                                    3.0052                       all    
 ii   udev                                   258-1                        amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.41.2-4                     amd64  miscellaneous system utilities
 ii   uuid-runtime                           2.41.2-4                     amd64  runtime components for the Universally Unique ID library
-ii   vim                                    2:9.1.1829-1                 amd64  Vi IMproved - enhanced vi editor
-ii   vim-common                             2:9.1.1829-1                 all    Vi IMproved - Common files
-ii   vim-runtime                            2:9.1.1829-1                 all    Vi IMproved - Runtime files
-ii   vim-tiny                               2:9.1.1829-1                 amd64  Vi IMproved - enhanced vi editor - compact version
+ii   vim                                    2:9.1.1846-1                 amd64  Vi IMproved - enhanced vi editor
+ii   vim-common                             2:9.1.1846-1                 all    Vi IMproved - Common files
+ii   vim-runtime                            2:9.1.1846-1                 all    Vi IMproved - Runtime files
+ii   vim-tiny                               2:9.1.1846-1                 amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.25.0-2                     amd64  retrieves files from the web
 ii   whiptail                               0.52.25-1                    amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.19-1                       amd64  tool to manage well known user directories
