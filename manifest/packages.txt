@@ -245,7 +245,7 @@ ii   liburcu8t64                            0.15.3-1                     amd64  
 ii   libuuid1                               2.41.2-4                     amd64  Universally Unique ID library
 ii   libuv1t64                              1.51.0-2                     amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-36                     amd64  Wietse Venema's TCP wrappers library
-ii   libwtmpdb0                             0.74.0-2                     amd64  wtmp database shared library
+ii   libwtmpdb0                             0.75.0-4                     amd64  wtmp database shared library
 ii   libxml2-16                             2.14.6+dfsg-0.1              amd64  GNOME XML library
 ii   libxtables12                           1.8.11-2                     amd64  netfilter xtables library
 ii   libxxhash0                             0.8.3-2                      amd64  shared library for xxhash
@@ -305,7 +305,7 @@ ii   python3-debconf                        1.5.91                       all    
 ii   python3-debian                         1.0.1                        all    Python 3 modules to work with Debian-related data formats
 ii   python3-debianbts                      4.1.1                        all    Python interface to Debian's Bug Tracking System
 ii   python3-distro                         1.9.0-1                      all    Linux OS platform information API
-ii   python3-gi                             3.50.0-7                     amd64  Python 3 bindings for gobject-introspection libraries
+ii   python3-gi                             3.50.0-8                     amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.10-1                       all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.13.7-1                     amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-8                      amd64  Declarative network configuration Python bindings
