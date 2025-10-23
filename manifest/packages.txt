@@ -7,8 +7,8 @@ ii   base-files                               14                           amd64
 ii   base-passwd                              3.6.7                        amd64  Debian base system master password and group files
 ii   bash                                     5.3-1                        amd64  GNU Bourne Again SHell
 ii   bash-completion                          1:2.16.0-7                   all    programmable completion for the bash shell
-ii   bind9-host                               1:9.20.11-4+b1               amd64  DNS Lookup Utility
-ii   bind9-libs                               1:9.20.11-4+b1               amd64  Shared Libraries used by BIND 9
+ii   bind9-host                               1:9.20.15-1                  amd64  DNS Lookup Utility
+ii   bind9-libs                               1:9.20.15-1                  amd64  Shared Libraries used by BIND 9
 ii   bsd-mailx                                8.1.2-0.20220412cvs-1.1      amd64  simple mail user agent
 ii   bsdextrautils                            2.41.2-4                     amd64  extra utilities from 4.4BSD-Lite
 ii   bsdutils                                 1:2.41.2-4                   amd64  basic utilities from 4.4BSD-Lite
@@ -44,7 +44,7 @@ ii   exim4-daemon-light                       4.98.2-2                     amd64
 ii   file                                     1:5.46-5                     amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                                4.10.0-3                     amd64  utilities for finding files--find, xargs
 ii   gcc-14-base                              14.3.0-8                     amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-15-base                              15.2.0-5                     amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-15-base                              15.2.0-7                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-configs-trixie                       1:20250905.00-g1             all    Google Compute Engine guest environment configs for
 ii   gce-disk-expand                          1:20200716.00-g1             all    Automatically resize the root partition on first boot.
 ii   gdisk                                    1.0.10-2                     amd64  GPT fdisk text-mode partitioning tool
@@ -89,7 +89,7 @@ ii   less                                     668-1                        amd64
 ii   libacl1                                  2.3.2-2+b1                   amd64  access control list - shared library
 ii   libapparmor1                             4.1.0-1                      amd64  changehat AppArmor library
 ii   libapt-pkg7.0                            3.1.9                        amd64  package management runtime library
-ii   libatomic1                               15.2.0-5                     amd64  support library providing __atomic built-in functions
+ii   libatomic1                               15.2.0-7                     amd64  support library providing __atomic built-in functions
 ii   libattr1                                 1:2.5.2-3                    amd64  extended attribute handling - shared library
 ii   libaudit-common                          1:4.1.2-1                    all    Dynamic library for security auditing - common files
 ii   libaudit1                                1:4.1.2-1                    amd64  Dynamic library for security auditing
@@ -130,7 +130,7 @@ ii   libfile-fcntllock-perl                   0.22-4+b4                    amd64
 ii   libfreetype6                             2.13.3+dfsg-1                amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                                0.6.1-1+b3                   amd64  Frame Streams (fstrm) library
 ii   libfuse3-4                               3.17.4-1                     amd64  Filesystem in Userspace (library) (3.x version)
-ii   libgcc-s1                                15.2.0-5                     amd64  GCC support library
+ii   libgcc-s1                                15.2.0-7                     amd64  GCC support library
 ii   libgdbm-compat4t64                       1.26-1                       amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                              1.26-1                       amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-1.0-1                    1.86.0-6                     amd64  Library for handling GObject introspection data (runtime library)
@@ -228,7 +228,7 @@ ii   libsqlite3-0                             3.46.1-8                     amd64
 ii   libss2                                   1.47.2-3+b3                  amd64  command-line interface parsing library
 ii   libssh2-1t64                             1.11.1-1                     amd64  SSH2 client-side library
 ii   libssl3t64                               3.5.4-1                      amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                               15.2.0-5                     amd64  GNU Standard C++ Library v3
+ii   libstdc++6                               15.2.0-7                     amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                        258.1-1                      amd64  systemd shared private library
 ii   libsystemd0                              258.1-1                      amd64  systemd utility library
 ii   libtasn1-6                               4.20.0-2                     amd64  Manage ASN.1 structures (runtime)
@@ -239,7 +239,7 @@ ii   libtirpc-common                          1.3.6+ds-1                   all  
 ii   libtirpc3t64                             1.3.6+ds-1                   amd64  transport-independent RPC library
 ii   libuchardet0                             0.0.8-2                      amd64  universal charset detection library - shared library
 ii   libudev1                                 258.1-1                      amd64  libudev shared library
-ii   libunbound8                              1.24.0-2                     amd64  library implementing DNS resolution and validation
+ii   libunbound8                              1.24.1-1                     amd64  library implementing DNS resolution and validation
 ii   libunistring5                            1.3-2                        amd64  Unicode string library for C
 ii   liburcu8t64                              0.15.3-1                     amd64  userspace RCU (read-copy-update) library
 ii   libuuid1                                 2.41.2-4                     amd64  Universally Unique ID library
@@ -292,7 +292,7 @@ ii   perl-modules-5.40                        5.40.1-6                     all  
 ii   polkitd                                  126-2                        amd64  framework for managing administrative policies and privileges
 ii   procps                                   2:4.0.4-9                    amd64  /proc file system utilities
 ii   psmisc                                   23.7-2                       amd64  utilities that use the proc file system
-ii   publicsuffix                             20250820.0948-0.1            all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                             20251016.1743-0.1            all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                        3.0.0                        all    Python interface to libapt-pkg (locales)
 ii   python3                                  3.13.7-1                     amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                              3.0.0                        amd64  Python 3 interface to libapt-pkg
