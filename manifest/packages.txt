@@ -246,7 +246,7 @@ ii   libuuid1                                 2.41.2-4                     amd64
 ii   libuv1t64                                1.51.0-2                     amd64  asynchronous event notification library - runtime library
 ii   libwrap0                                 7.6.q-36                     amd64  Wietse Venema's TCP wrappers library
 ii   libwtmpdb0                               0.75.0-4                     amd64  wtmp database shared library
-ii   libxml2-16                               2.14.6+dfsg-0.1              amd64  GNOME XML library
+ii   libxml2-16                               2.15.1+dfsg-0.3              amd64  GNOME XML library
 ii   libxtables12                             1.8.11-2                     amd64  netfilter xtables library
 ii   libxxhash0                               0.8.3-2                      amd64  shared library for xxhash
 ii   libyaml-0-2                              0.2.5-2                      amd64  Fast YAML 1.1 parser and emitter library
@@ -317,7 +317,7 @@ ii   python3.13                               3.13.9-1                     amd64
 ii   python3.13-minimal                       3.13.9-1                     amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                          8.3-3                        all    GNU readline and history libraries, common files
 ii   reportbug                                13.2.0                       all    reports bugs in the Debian distribution
-ii   rsyslog                                  8.2510.0-1                   amd64  reliable system and kernel logging daemon
+ii   rsyslog                                  8.2510.0-2                   amd64  reliable system and kernel logging daemon
 ii   runit-helper                             2.16.4                       all    dh-runit implementation detail
 ii   screen                                   4.9.1-3                      amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                      4.9-2                        amd64  GNU stream editor for filtering/transforming text
