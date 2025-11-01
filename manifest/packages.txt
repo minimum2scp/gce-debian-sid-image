@@ -57,7 +57,7 @@ ii   google-cloud-cli                         545.0.0-0                    amd64
 ii   google-cloud-cli-anthoscli               545.0.0-0                    amd64  anthoscli
 ii   google-compute-engine                    1:20250709.00-g1             all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin            1:20250710.00-g1+deb13       amd64  Google Compute Engine OS Login
-ii   google-guest-agent                       1:20250930.01-g1             amd64  Google Compute Engine Guest Agent
+ii   google-guest-agent                       1:20251030.02-g1             amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                    1:20250924.00-g1             amd64  Google Compute Engine OSConfig Agent
 ii   grep                                     3.12-1                       amd64  GNU grep, egrep and fgrep
 ii   groff-base                               1.23.0-9                     amd64  GNU troff text-formatting system (base system components)
