@@ -305,7 +305,7 @@ ii   python3-debconf                        1.5.91                        all   
 ii   python3-debian                         1.0.1                         all    Python 3 modules to work with Debian-related data formats
 ii   python3-debianbts                      4.1.1                         all    Python interface to Debian's Bug Tracking System
 ii   python3-distro                         1.9.0-1                       all    Linux OS platform information API
-ii   python3-gi                             3.54.5-5                      amd64  Python 3 bindings for gobject-introspection libraries
+ii   python3-gi                             3.54.5-6                      amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.10-1                        all    Python IDNA2008 (RFC 5891) handling (Python 3)
 ii   python3-minimal                        3.13.7-1                      amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-8                       amd64  Declarative network configuration Python bindings
