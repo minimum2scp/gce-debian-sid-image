@@ -84,7 +84,7 @@ ii   isc-dhcp-common                         4.4.3-P1-8                    amd64
 ii   jq                                      1.8.1-4                       amd64  lightweight and flexible command-line JSON processor
 ii   klibc-utils                             2.0.14-1                      amd64  small utilities built with klibc for early boot
 ii   kmod                                    34.2-2                        amd64  tools for managing Linux kernel modules
-ii   krb5-locales                            1.21.3-5                      all    internationalization support for MIT Kerberos
+ii   krb5-locales                            1.22.1-2                      all    internationalization support for MIT Kerberos
 ii   less                                    668-1                         amd64  pager program similar to more
 ii   libacl1                                 2.3.2-2+b1                    amd64  access control list - shared library
 ii   libapparmor1                            4.1.0-1                       amd64  changehat AppArmor library
@@ -103,7 +103,7 @@ ii   libc6                                   2.41-12                       amd64
 ii   libcap-ng0                              0.8.5-4+b1                    amd64  alternate POSIX capabilities library
 ii   libcap2                                 1:2.75-10+b1                  amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                             1:2.75-10+b1                  amd64  POSIX 1003.1e capabilities (utilities)
-ii   libcbor0.10                             0.10.2-2                      amd64  library for parsing and generating CBOR (RFC 7049)
+ii   libcbor0.10                             0.10.2-2.1                    amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                             1.47.2-3+b3                   amd64  common error description library
 ii   libcrypt1                               1:4.5.1-1                     amd64  libcrypt shared library
 ii   libcryptsetup12                         2:2.8.1-1                     amd64  disk encryption support - shared library
@@ -140,7 +140,7 @@ ii   libgmp10                                2:6.3.0+dfsg-5                amd64
 ii   libgnutls-dane0t64                      3.8.10-3                      amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                          3.8.10-3                      amd64  GNU TLS library - main runtime library
 ii   libgpm2                                 1.20.7-12                     amd64  General Purpose Mouse - shared library
-ii   libgssapi-krb5-2                        1.21.3-5                      amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+ii   libgssapi-krb5-2                        1.22.1-2                      amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                              1.9.19-12                     amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6t64                          3.10.2-1                      amd64  low level cryptographic library (public-key cryptos)
 ii   libidn12                                1.43-2                        amd64  GNU Libidn library, implementation of IETF IDN specifications
@@ -150,12 +150,12 @@ ii   libip6tc2                               1.8.11-2                      amd64
 ii   libjemalloc2                            5.3.0-3                       amd64  general-purpose scalable concurrent malloc(3) implementation
 ii   libjq1                                  1.8.1-4                       amd64  lightweight and flexible command-line JSON processor - shared library
 ii   libjson-c5                              0.18+ds-1.1                   amd64  JSON manipulation library - shared library
-ii   libk5crypto3                            1.21.3-5                      amd64  MIT Kerberos runtime libraries - Crypto Library
+ii   libk5crypto3                            1.22.1-2                      amd64  MIT Kerberos runtime libraries - Crypto Library
 ii   libkeyutils1                            1.6.3-6                       amd64  Linux Key Management Utilities (library)
 ii   libklibc                                2.0.14-1                      amd64  minimal libc subset for use with initramfs
 ii   libkmod2                                34.2-2                        amd64  libkmod shared library
-ii   libkrb5-3                               1.21.3-5                      amd64  MIT Kerberos runtime libraries
-ii   libkrb5support0                         1.21.3-5                      amd64  MIT Kerberos runtime libraries - Support library
+ii   libkrb5-3                               1.22.1-2                      amd64  MIT Kerberos runtime libraries
+ii   libkrb5support0                         1.22.1-2                      amd64  MIT Kerberos runtime libraries - Support library
 ii   liblastlog2-2                           2.41.2-4                      amd64  lastlog2 database shared library
 ii   libldap-common                          2.6.10+dfsg-1                 all    OpenLDAP common files for libraries
 ii   libldap2                                2.6.10+dfsg-1                 amd64  OpenLDAP libraries
@@ -246,7 +246,7 @@ ii   libuuid1                                2.41.2-4                      amd64
 ii   libuv1t64                               1.51.0-2                      amd64  asynchronous event notification library - runtime library
 ii   libwrap0                                7.6.q-36                      amd64  Wietse Venema's TCP wrappers library
 ii   libwtmpdb0                              0.75.0-5                      amd64  wtmp database shared library
-ii   libxml2-16                              2.15.1+dfsg-0.3               amd64  GNOME XML library
+ii   libxml2-16                              2.15.1+dfsg-0.4               amd64  GNOME XML library
 ii   libxtables12                            1.8.11-2                      amd64  netfilter xtables library
 ii   libxxhash0                              0.8.3-2                       amd64  shared library for xxhash
 ii   libyaml-0-2                             0.2.5-2                       amd64  Fast YAML 1.1 parser and emitter library
