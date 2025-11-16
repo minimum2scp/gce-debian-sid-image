@@ -77,7 +77,7 @@ ii   initramfs-tools                         0.150                         all  
 ii   initramfs-tools-bin                     0.150                         amd64  generic modular initramfs generator (binary tools)
 ii   initramfs-tools-core                    0.150                         all    generic modular initramfs generator (core tools)
 ii   iproute2                                6.17.0-1                      amd64  networking and traffic control tools
-ii   iptables                                1.8.11-2                      amd64  administration tools for packet filtering and NAT
+ii   iptables                                1.8.11-3                      amd64  administration tools for packet filtering and NAT
 ii   iputils-ping                            3:20250605-1                  amd64  Tools to test the reachability of network hosts
 ii   isc-dhcp-client                         4.4.3-P1-8                    amd64  DHCP client for automatically obtaining an IP address (deprecated)
 ii   isc-dhcp-common                         4.4.3-P1-8                    amd64  common manpages relevant to all of the isc-dhcp packages (deprecated)
@@ -145,8 +145,8 @@ ii   libhavege2                              1.9.19-12                     amd64
 ii   libhogweed6t64                          3.10.2-1                      amd64  low level cryptographic library (public-key cryptos)
 ii   libidn12                                1.43-2                        amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                               2.3.8-4                       amd64  Internationalized domain names (IDNA2008/TR46) library
-ii   libip4tc2                               1.8.11-2                      amd64  netfilter libip4tc library
-ii   libip6tc2                               1.8.11-2                      amd64  netfilter libip6tc library
+ii   libip4tc2                               1.8.11-3                      amd64  netfilter libip4tc library
+ii   libip6tc2                               1.8.11-3                      amd64  netfilter libip6tc library
 ii   libjemalloc2                            5.3.0-3                       amd64  general-purpose scalable concurrent malloc(3) implementation
 ii   libjq1                                  1.8.1-4                       amd64  lightweight and flexible command-line JSON processor - shared library
 ii   libjson-c5                              0.18+ds-1.1                   amd64  JSON manipulation library - shared library
@@ -188,7 +188,7 @@ ii   libnss-myhostname                       258.1-2                       amd64
 ii   libnss-resolve                          258.1-2                       amd64  nss module to resolve names via systemd-resolved
 ii   libnvme1t64                             1.16.1-1                      amd64  NVMe management library (library)
 ii   libonig5                                6.9.10-1                      amd64  regular expressions library
-ii   libp11-kit0                             0.25.9-2                      amd64  library for loading and coordinating access to PKCS#11 modules - runtime
+ii   libp11-kit0                             0.25.10-1                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-cap                              1:2.75-10+b1                  amd64  POSIX 1003.1e capabilities (PAM module)
 ii   libpam-modules                          1.7.0-5                       amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                      1.7.0-5                       amd64  Pluggable Authentication Modules for PAM - helper binaries
@@ -247,7 +247,7 @@ ii   libuv1t64                               1.51.0-2                      amd64
 ii   libwrap0                                7.6.q-36                      amd64  Wietse Venema's TCP wrappers library
 ii   libwtmpdb0                              0.75.0-5                      amd64  wtmp database shared library
 ii   libxml2-16                              2.15.1+dfsg-0.4               amd64  GNOME XML library
-ii   libxtables12                            1.8.11-2                      amd64  netfilter xtables library
+ii   libxtables12                            1.8.11-3                      amd64  netfilter xtables library
 ii   libxxhash0                              0.8.3-2                       amd64  shared library for xxhash
 ii   libyaml-0-2                             0.2.5-2                       amd64  Fast YAML 1.1 parser and emitter library
 ii   libzstd1                                1.5.7+dfsg-2                  amd64  fast lossless compression algorithm
