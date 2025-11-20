@@ -33,7 +33,7 @@ ii   dmidecode                              3.6-2                         amd64 
 ii   dmsetup                                2:1.02.205-2                  amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                       amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.22.21                       amd64  Debian package management system
-ii   dracut-install                         109-1                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
+ii   dracut-install                         109-2                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b3                   amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                     all    store /etc in git, mercurial, brz or darcs
@@ -49,8 +49,8 @@ ii   gce-configs-trixie                     1:20250905.00-g1              all   
 ii   gce-disk-expand                        1:20200716.00-g1              all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                      amd64  GPT fdisk text-mode partitioning tool
 ii   gettext-base                           0.23.2-1                      amd64  GNU Internationalization utilities for the base system
-ii   gir1.2-girepository-3.0                2.86.1-2                      amd64  Introspection data for GIRepository library, API version 3.0
-ii   gir1.2-glib-2.0                        2.86.1-2                      amd64  Introspection data for GLib, GObject, Gio and GModule
+ii   gir1.2-girepository-3.0                2.86.2-1                      amd64  Introspection data for GIRepository library, API version 3.0
+ii   gir1.2-glib-2.0                        2.86.2-1                      amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                    amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                    all    fast, scalable, distributed revision control system (manual pages)
 ii   google-cloud-cli                       548.0.0-0                     amd64  Utilities for the Google Cloud Platform
@@ -133,9 +133,9 @@ ii   libfuse3-4                             3.17.4-1                      amd64 
 ii   libgcc-s1                              15.2.0-8                      amd64  GCC support library
 ii   libgdbm-compat4t64                     1.26-1                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.26-1                        amd64  GNU dbm database routines (runtime version)
-ii   libgirepository-2.0-0                  2.86.1-2                      amd64  GLib runtime library for handling GObject introspection data
-ii   libglib2.0-0t64                        2.86.1-2                      amd64  GLib library of C routines
-ii   libglib2.0-data                        2.86.1-2                      all    Common files for GLib library
+ii   libgirepository-2.0-0                  2.86.2-1                      amd64  GLib runtime library for handling GObject introspection data
+ii   libglib2.0-0t64                        2.86.2-1                      amd64  GLib library of C routines
+ii   libglib2.0-data                        2.86.2-1                      all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-5                amd64  Multiprecision arithmetic library
 ii   libgnutls-dane0t64                     3.8.10-3                      amd64  GNU TLS library - DANE security support
 ii   libgnutls30t64                         3.8.10-3                      amd64  GNU TLS library - main runtime library
@@ -317,7 +317,7 @@ ii   python3.13                             3.13.9-1                      amd64 
 ii   python3.13-minimal                     3.13.9-1                      amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.3-3                         all    GNU readline and history libraries, common files
 ii   reportbug                              13.2.0                        all    reports bugs in the Debian distribution
-ii   rsyslog                                8.2510.0-3                    amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2510.0-4                    amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.16.4                        all    dh-runit implementation detail
 ii   screen                                 4.9.1-3                       amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                         amd64  GNU stream editor for filtering/transforming text
