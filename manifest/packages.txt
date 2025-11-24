@@ -17,7 +17,7 @@ ii   coreutils                              9.7-3                         amd64 
 ii   cpio                                   2.15+dfsg-2                   amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-200                    amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-200                    all    process scheduling daemon's configuration files
-ii   curl                                   8.17.0-2                      amd64  command line tool for transferring data with URL syntax
+ii   curl                                   8.17.0-3                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                     amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                      amd64  simple interprocess messaging system (system message bus)
 ii   dbus-bin                               1.16.2-2                      amd64  simple interprocess messaging system (command line utilities)
@@ -107,8 +107,8 @@ ii   libcbor0.10                            0.10.2-2.1                    amd64 
 ii   libcom-err2                            1.47.2-3+b3                   amd64  common error description library
 ii   libcrypt1                              1:4.5.1-1                     amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.8.1-1                     amd64  disk encryption support - shared library
-ii   libcurl3t64-gnutls                     8.17.0-2                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii   libcurl4t64                            8.17.0-2                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii   libcurl3t64-gnutls                     8.17.0-3                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii   libcurl4t64                            8.17.0-3                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-10               amd64  Berkeley v5.3 Database Libraries [runtime]
 ii   libdbus-1-3                            1.16.2-2                      amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.282                         amd64  Debian Configuration Management System (C-implementation library)
@@ -137,8 +137,8 @@ ii   libgirepository-2.0-0                  2.86.2-1                      amd64 
 ii   libglib2.0-0t64                        2.86.2-1                      amd64  GLib library of C routines
 ii   libglib2.0-data                        2.86.2-1                      all    Common files for GLib library
 ii   libgmp10                               2:6.3.0+dfsg-5                amd64  Multiprecision arithmetic library
-ii   libgnutls-dane0t64                     3.8.10-3                      amd64  GNU TLS library - DANE security support
-ii   libgnutls30t64                         3.8.10-3                      amd64  GNU TLS library - main runtime library
+ii   libgnutls-dane0t64                     3.8.11-3                      amd64  GNU TLS library - DANE security support
+ii   libgnutls30t64                         3.8.11-3                      amd64  GNU TLS library - main runtime library
 ii   libgpm2                                1.20.7-12                     amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.22.1-2                      amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
 ii   libhavege2                             1.9.19-12                     amd64  entropy source using the HAVEGE algorithm - shared library
@@ -171,7 +171,7 @@ ii   libmaxminddb0                          1.12.2-1                      amd64 
 ii   libmd0                                 1.1.0-2+b1                    amd64  message digest functions from BSD systems - shared library
 ii   libmnl0                                1.0.5-3                       amd64  minimalistic Netlink communication library
 ii   libmount1                              2.41.2-4                      amd64  device mounting library
-ii   libncursesw6                           6.5+20251115-2                amd64  shared libraries for terminal handling (wide character support)
+ii   libncursesw6                           6.5+20251122-1                amd64  shared libraries for terminal handling (wide character support)
 ii   libnetfilter-conntrack3                1.1.0-1                       amd64  Netfilter netlink-conntrack library
 ii   libnetplan1                            1.1.2-8                       amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10.2-1                      amd64  low level cryptographic library (symmetric and one-way cryptos)
@@ -200,7 +200,7 @@ ii   libpcap0.8t64                          1.10.5-2                      amd64 
 ii   libpci3                                1:3.14.0-1                    amd64  PCI utilities (shared library)
 ii   libpcre2-8-0                           10.46-1                       amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libperl5.40                            5.40.1-7                      amd64  shared Perl library
-ii   libpipeline1                           1.5.8-1                       amd64  Unix process pipeline manipulation library
+ii   libpipeline1                           1.5.8-2                       amd64  Unix process pipeline manipulation library
 ii   libpng16-16t64                         1.6.50-1                      amd64  PNG library - runtime (version 1.6)
 ii   libpolkit-agent-1-0                    126-2                         amd64  polkit Authentication Agent API
 ii   libpolkit-gobject-1-0                  126-2                         amd64  polkit Authorization API
@@ -234,7 +234,7 @@ ii   libsystemd0                            259~rc1-1                     amd64 
 ii   libtasn1-6                             4.20.0-2                      amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                    amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                       all    internationalized substitute of Text::Wrap
-ii   libtinfo6                              6.5+20251115-2                amd64  shared low-level terminfo library for terminal handling
+ii   libtinfo6                              6.5+20251122-1                amd64  shared low-level terminfo library for terminal handling
 ii   libtirpc-common                        1.3.6+ds-1                    all    transport-independent RPC library - common files
 ii   libtirpc3t64                           1.3.6+ds-1                    amd64  transport-independent RPC library
 ii   libuchardet0                           0.0.8-2                       amd64  universal charset detection library - shared library
@@ -246,7 +246,7 @@ ii   libuuid1                               2.41.2-4                      amd64 
 ii   libuv1t64                              1.51.0-2                      amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-36                      amd64  Wietse Venema's TCP wrappers library
 ii   libwtmpdb0                             0.75.0-5                      amd64  wtmp database shared library
-ii   libxml2-16                             2.15.1+dfsg-0.4               amd64  GNOME XML library
+ii   libxml2-16                             2.15.1+dfsg-1                 amd64  GNOME XML library
 ii   libxtables12                           1.8.11-3                      amd64  netfilter xtables library
 ii   libxxhash0                             0.8.3-2                       amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2                       amd64  Fast YAML 1.1 parser and emitter library
@@ -268,8 +268,8 @@ ii   media-types                            14.0.0                        all   
 ii   mokutil                                0.7.2-1                       amd64  tools for manipulating machine owner keys
 ii   mount                                  2.41.2-4                      amd64  tools for mounting and manipulating filesystems
 ii   nano                                   8.7-1                         amd64  small, friendly text editor inspired by Pico
-ii   ncurses-base                           6.5+20251115-2                all    basic terminal type definitions
-ii   ncurses-bin                            6.5+20251115-2                amd64  terminal-related programs and man pages
+ii   ncurses-base                           6.5+20251122-1                all    basic terminal type definitions
+ii   ncurses-bin                            6.5+20251122-1                amd64  terminal-related programs and man pages
 ii   net-tools                              2.10-2                        amd64  NET-3 networking toolkit
 ii   netbase                                6.5                           all    Basic TCP/IP networking system
 ii   netplan-generator                      1.1.2-8                       amd64  Declarative network configuration for various backends at boot
@@ -317,7 +317,7 @@ ii   python3.13                             3.13.9-1                      amd64 
 ii   python3.13-minimal                     3.13.9-1                      amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.3-3                         all    GNU readline and history libraries, common files
 ii   reportbug                              13.2.0                        all    reports bugs in the Debian distribution
-ii   rsyslog                                8.2510.0-4                    amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2510.0-5                    amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.16.4                        all    dh-runit implementation detail
 ii   screen                                 4.9.1-3                       amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                         amd64  GNU stream editor for filtering/transforming text
