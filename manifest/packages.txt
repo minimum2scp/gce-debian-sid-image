@@ -33,7 +33,7 @@ ii   dmidecode                              3.6-2                         amd64 
 ii   dmsetup                                2:1.02.205-2                  amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                       amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.22.21                       amd64  Debian package management system
-ii   dracut-install                         109-2                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
+ii   dracut-install                         109-4                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b3                   amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                     all    store /etc in git, mercurial, brz or darcs
@@ -217,7 +217,7 @@ ii   libsasl2-2                             2.1.28+dfsg1-10               amd64 
 ii   libsasl2-modules                       2.1.28+dfsg1-10               amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.28+dfsg1-10               amd64  Cyrus SASL - pluggable authentication modules (DB)
 ii   libseccomp2                            2.6.0-2                       amd64  high level interface to Linux seccomp filter
-ii   libselinux1                            3.9-3                         amd64  SELinux runtime shared libraries
+ii   libselinux1                            3.9-4                         amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.9-1                         all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.9-1                         amd64  SELinux policy management library
 ii   libsepol2                              3.9-2                         amd64  SELinux library for manipulating binary security policies
@@ -281,7 +281,7 @@ ii   openssh-server                         1:10.2p1-2                    amd64 
 ii   openssh-sftp-server                    1:10.2p1-2                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.5.4-1                       amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   openssl-provider-legacy                3.5.4-1                       amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   os-prober                              1.83                          amd64  utility to detect other OSes on a set of drives
+ii   os-prober                              1.84                          amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6                         amd64  disk partition manipulator
 ii   passwd                                 1:4.18.0-2                    amd64  change and administer password and group data
 ii   pci.ids                                0.0~2025.11.04-1              all    PCI ID Repository
