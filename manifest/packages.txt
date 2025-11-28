@@ -38,9 +38,9 @@ ii   e2fsprogs                              1.47.2-3+b3                   amd64 
 ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                     all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.15-3                      amd64  display or change Ethernet device settings
-ii   exim4-base                             4.99-4                        amd64  support files for all Exim MTA (v4) packages
-ii   exim4-config                           4.99-4                        all    configuration for the Exim MTA (v4)
-ii   exim4-daemon-light                     4.99-4                        amd64  lightweight Exim MTA (v4) daemon
+ii   exim4-base                             4.99-5                        amd64  support files for all Exim MTA (v4) packages
+ii   exim4-config                           4.99-5                        all    configuration for the Exim MTA (v4)
+ii   exim4-daemon-light                     4.99-5                        amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.46-5                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                      amd64  utilities for finding files--find, xargs
 ii   gcc-14-base                            14.3.0-10                     amd64  GCC, the GNU Compiler Collection (base package)
