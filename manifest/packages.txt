@@ -34,13 +34,13 @@ ii   dmsetup                                2:1.02.205-2                  amd64 
 ii   dosfstools                             4.2-1.2                       amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.22.21                       amd64  Debian package management system
 ii   dracut-install                         109-5                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
-ii   e2fsprogs                              1.47.2-3+b3                   amd64  ext2/ext3/ext4 file system utilities
+ii   e2fsprogs                              1.47.2-3+b4                   amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                     all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.15-3                      amd64  display or change Ethernet device settings
-ii   exim4-base                             4.99-5                        amd64  support files for all Exim MTA (v4) packages
-ii   exim4-config                           4.99-5                        all    configuration for the Exim MTA (v4)
-ii   exim4-daemon-light                     4.99-5                        amd64  lightweight Exim MTA (v4) daemon
+ii   exim4-base                             4.99-6                        amd64  support files for all Exim MTA (v4) packages
+ii   exim4-config                           4.99-6                        all    configuration for the Exim MTA (v4)
+ii   exim4-daemon-light                     4.99-6                        amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.46-5                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                      amd64  utilities for finding files--find, xargs
 ii   gcc-14-base                            14.3.0-10                     amd64  GCC, the GNU Compiler Collection (base package)
@@ -69,7 +69,7 @@ ii   grub-efi-amd64-unsigned                2.14~git20250718.0e36779-2    amd64 
 ii   grub-pc-bin                            2.14~git20250718.0e36779-2    amd64  GRand Unified Bootloader, version 2 (PC/BIOS modules)
 ii   grub2-common                           2.14~git20250718.0e36779-2    amd64  GRand Unified Bootloader (common files for version 2)
 ii   gzip                                   1.13-1                        amd64  GNU compression utilities
-ii   haveged                                1.9.19-12                     amd64  Linux entropy source using the HAVEGE algorithm
+ii   haveged                                1.9.19-13                     amd64  Linux entropy source using the HAVEGE algorithm
 ii   hostname                               3.25                          amd64  utility to set/show the host name or domain name
 ii   init                                   1.69                          amd64  metapackage ensuring an init system is installed
 ii   init-system-helpers                    1.69                          all    helper tools for all init systems
@@ -101,10 +101,10 @@ ii   libbz2-1.0                             1.0.8-6                       amd64 
 ii   libc-bin                               2.41-12                       amd64  GNU C Library: Binaries
 ii   libc6                                  2.41-12                       amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-4+b1                    amd64  alternate POSIX capabilities library
-ii   libcap2                                1:2.75-10+b1                  amd64  POSIX 1003.1e capabilities (library)
-ii   libcap2-bin                            1:2.75-10+b1                  amd64  POSIX 1003.1e capabilities (utilities)
+ii   libcap2                                1:2.75-10+b2                  amd64  POSIX 1003.1e capabilities (library)
+ii   libcap2-bin                            1:2.75-10+b2                  amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.10                            0.10.2-2.1                    amd64  library for parsing and generating CBOR (RFC 7049)
-ii   libcom-err2                            1.47.2-3+b3                   amd64  common error description library
+ii   libcom-err2                            1.47.2-3+b4                   amd64  common error description library
 ii   libcrypt1                              1:4.5.1-1                     amd64  libcrypt shared library
 ii   libcryptsetup12                        2:2.8.1-1                     amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.17.0-3                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
@@ -122,7 +122,7 @@ ii   liberror-perl                          0.17030-1                     all   
 ii   libestr0                               0.1.11-2                      amd64  Helper functions for handling strings (lib)
 ii   libevent-2.1-7t64                      2.1.12-stable-10+b1           amd64  Asynchronous event notification library
 ii   libexpat1                              2.7.3-1                       amd64  XML parsing C library - runtime library
-ii   libext2fs2t64                          1.47.2-3+b3                   amd64  ext2/ext3/ext4 file system libraries
+ii   libext2fs2t64                          1.47.2-3+b4                   amd64  ext2/ext3/ext4 file system libraries
 ii   libfastjson4                           1.2304.0-2                    amd64  fast json library for C
 ii   libffi8                                3.5.2-2                       amd64  Foreign Function Interface library runtime
 ii   libfido2-1                             1.16.0-2                      amd64  library for generating and verifying FIDO 2.0 objects
@@ -141,7 +141,7 @@ ii   libgnutls-dane0t64                     3.8.11-3                      amd64 
 ii   libgnutls30t64                         3.8.11-3                      amd64  GNU TLS library - main runtime library
 ii   libgpm2                                1.20.7-12                     amd64  General Purpose Mouse - shared library
 ii   libgssapi-krb5-2                       1.22.1-2                      amd64  MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
-ii   libhavege2                             1.9.19-12                     amd64  entropy source using the HAVEGE algorithm - shared library
+ii   libhavege2                             1.9.19-13                     amd64  entropy source using the HAVEGE algorithm - shared library
 ii   libhogweed6t64                         3.10.2-1                      amd64  low level cryptographic library (public-key cryptos)
 ii   libidn12                               1.43-2                        amd64  GNU Libidn library, implementation of IETF IDN specifications
 ii   libidn2-0                              2.3.8-4                       amd64  Internationalized domain names (IDNA2008/TR46) library
@@ -189,7 +189,7 @@ ii   libnss-resolve                         259~rc2-1                     amd64 
 ii   libnvme1t64                            1.16.1-1                      amd64  NVMe management library (library)
 ii   libonig5                               6.9.10-1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.10-1                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
-ii   libpam-cap                             1:2.75-10+b1                  amd64  POSIX 1003.1e capabilities (PAM module)
+ii   libpam-cap                             1:2.75-10+b2                  amd64  POSIX 1003.1e capabilities (PAM module)
 ii   libpam-modules                         1.7.0-5                       amd64  Pluggable Authentication Modules for PAM
 ii   libpam-modules-bin                     1.7.0-5                       amd64  Pluggable Authentication Modules for PAM - helper binaries
 ii   libpam-runtime                         1.7.0-5                       all    Runtime support for the PAM library
@@ -225,7 +225,7 @@ ii   libslang2                              2.3.3-5+b2                    amd64 
 ii   libsmartcols1                          2.41.2-4                      amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-1+b2                   amd64  Network communication, cryptography and signaturing library
 ii   libsqlite3-0                           3.46.1-8                      amd64  SQLite 3 shared library
-ii   libss2                                 1.47.2-3+b3                   amd64  command-line interface parsing library
+ii   libss2                                 1.47.2-3+b4                   amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                      amd64  SSH2 client-side library
 ii   libssl3t64                             3.5.4-1                       amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             15.2.0-9                      amd64  GNU Standard C++ Library v3
@@ -259,7 +259,7 @@ ii   linux-sysctl-defaults                  4.14                          all   
 ii   login                                  1:4.16.0-2+really2.41.2-4     amd64  system login tools
 ii   login.defs                             1:4.18.0-2                    all    system user management configuration
 ii   logrotate                              3.22.0-1                      amd64  Log rotation utility
-ii   logsave                                1.47.2-3+b3                   amd64  save the output of a command in a log file
+ii   logsave                                1.47.2-3+b4                   amd64  save the output of a command in a log file
 ii   lsb-release                            12.1-2                        all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.13.1-1                      amd64  tools for reading manual pages
 ii   manpages                               6.16-1                        all    Manual pages about using a GNU/Linux system
@@ -329,7 +329,7 @@ ii   shim-signed                            1.47+15.8-1                   amd64 
 ii   shim-signed-common                     1.47+15.8-1                   all    Secure Boot chain-loading bootloader (common helper scripts)
 ii   shim-unsigned                          15.8-1                        amd64  boot loader to chain-load signed boot loaders under Secure Boot
 ii   socat                                  1.8.0.3-1                     amd64  multipurpose relay for bidirectional data transfer
-ii   sqv                                    1.3.0-3                       amd64  OpenPGP signature verification program from Sequoia
+ii   sqv                                    1.3.0-3+b1                    amd64  OpenPGP signature verification program from Sequoia
 ii   ssh-import-id                          5.10-3                        all    securely retrieve an SSH public key and install it locally
 ii   sudo                                   1.9.17p2-1                    amd64  Provide limited super user privileges to specific users
 ii   systemd                                259~rc2-1                     amd64  system and service manager
