@@ -44,7 +44,7 @@ ii   exim4-daemon-light                     4.99-6                        amd64 
 ii   file                                   1:5.46-5                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                      amd64  utilities for finding files--find, xargs
 ii   gcc-14-base                            14.3.0-10                     amd64  GCC, the GNU Compiler Collection (base package)
-ii   gcc-15-base                            15.2.0-9                      amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-15-base                            15.2.0-10                     amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-configs-trixie                     1:20250905.00-g1              all    Google Compute Engine guest environment configs for
 ii   gce-disk-expand                        1:20200716.00-g1              all    Automatically resize the root partition on first boot.
 ii   gdisk                                  1.0.10-2                      amd64  GPT fdisk text-mode partitioning tool
@@ -60,7 +60,7 @@ ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13        amd64 
 ii   google-guest-agent                     1:20251115.00-g1              amd64  Google Compute Engine Guest Agent
 ii   google-osconfig-agent                  1:20251028.00-g1              amd64  Google Compute Engine OSConfig Agent
 ii   grep                                   3.12-1                        amd64  GNU grep, egrep and fgrep
-ii   groff-base                             1.23.0-9                      amd64  GNU troff text-formatting system (base system components)
+ii   groff-base                             1.23.0-10                     amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.1.1                         amd64  GRand Unified Bootloader (cloud setup)
 ii   grub-common                            2.14~git20250718.0e36779-2    amd64  GRand Unified Bootloader, version 2 (dummy package)
 ii   grub-efi-amd64-bin                     2.14~git20250718.0e36779-2    amd64  GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
@@ -89,18 +89,18 @@ ii   less                                   668-1                         amd64 
 ii   libacl1                                2.3.2-2+b1                    amd64  access control list - shared library
 ii   libapparmor1                           4.1.0-1                       amd64  changehat AppArmor library
 ii   libapt-pkg7.0                          3.1.12                        amd64  package management runtime library
-ii   libatomic1                             15.2.0-9                      amd64  support library providing __atomic built-in functions
+ii   libatomic1                             15.2.0-10                     amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                     amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:4.1.2-1                     all    Dynamic library for security auditing - common files
 ii   libaudit1                              1:4.1.2-1                     amd64  Dynamic library for security auditing
 ii   libblkid1                              2.41.2-4                      amd64  block device ID library
 ii   libbpf1                                1:1.6.2-1                     amd64  eBPF helper library (shared library)
-ii   libbrotli1                             1.1.0-2+b7                    amd64  library implementing brotli encoder and decoder (shared libraries)
+ii   libbrotli1                             1.1.0-2+b9                    amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-2                      amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6                       amd64  high-quality block-sorting file compressor library - runtime
 ii   libc-bin                               2.41-12                       amd64  GNU C Library: Binaries
 ii   libc6                                  2.41-12                       amd64  GNU C Library: Shared libraries
-ii   libcap-ng0                             0.8.5-4+b1                    amd64  alternate POSIX capabilities library
+ii   libcap-ng0                             0.8.5-4+b2                    amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.75-10+b2                  amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.75-10+b2                  amd64  POSIX 1003.1e capabilities (utilities)
 ii   libcbor0.10                            0.10.2-2.1                    amd64  library for parsing and generating CBOR (RFC 7049)
@@ -130,7 +130,7 @@ ii   libfile-fcntllock-perl                 0.22-4+b4                     amd64 
 ii   libfreetype6                           2.13.3+dfsg-1                 amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b3                    amd64  Frame Streams (fstrm) library
 ii   libfuse3-4                             3.17.4-1                      amd64  Filesystem in Userspace (library) (3.x version)
-ii   libgcc-s1                              15.2.0-9                      amd64  GCC support library
+ii   libgcc-s1                              15.2.0-10                     amd64  GCC support library
 ii   libgdbm-compat4t64                     1.26-1                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.26-1                        amd64  GNU dbm database routines (runtime version)
 ii   libgirepository-2.0-0                  2.86.2-1                      amd64  GLib runtime library for handling GObject introspection data
@@ -175,7 +175,7 @@ ii   libncursesw6                           6.5+20251123-1                amd64 
 ii   libnetfilter-conntrack3                1.1.0-1                       amd64  Netfilter netlink-conntrack library
 ii   libnetplan1                            1.1.2-8                       amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10.2-1                      amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.25-1                     amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.25-1+b1                  amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3                       amd64  Netfilter netlink library
 ii   libnftnl11                             1.3.0-1                       amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.64.0-1.1+b1                 amd64  library implementing HTTP/2 protocol (shared library)
@@ -208,7 +208,7 @@ ii   libpopt0                               1.19+dfsg-2                   amd64 
 ii   libproc2-0                             2:4.0.4-9                     amd64  library for accessing process information from /proc
 ii   libprotobuf-c1                         1.5.1-1                       amd64  Protocol Buffers C shared library (protobuf-c)
 ii   libpsl5t64                             0.21.2-1.1+b1                 amd64  Library for Public Suffix List (shared libraries)
-ii   libpython3-stdlib                      3.13.7-1+b1                   amd64  interactive high-level object-oriented language (default python3 version)
+ii   libpython3-stdlib                      3.13.9-2                      amd64  interactive high-level object-oriented language (default python3 version)
 ii   libpython3.13-minimal                  3.13.9-1                      amd64  Minimal subset of the Python language (version 3.13)
 ii   libpython3.13-stdlib                   3.13.9-1                      amd64  Interactive high-level object-oriented language (standard library, version 3.13)
 ii   libreadline8t64                        8.3-3                         amd64  GNU readline and history libraries, run-time libraries
@@ -216,8 +216,8 @@ ii   librtmp1                               2.4+20151223.gitfa8646d.1-3   amd64 
 ii   libsasl2-2                             2.1.28+dfsg1-10               amd64  Cyrus SASL - authentication abstraction library
 ii   libsasl2-modules                       2.1.28+dfsg1-10               amd64  Cyrus SASL - pluggable authentication modules
 ii   libsasl2-modules-db                    2.1.28+dfsg1-10               amd64  Cyrus SASL - pluggable authentication modules (DB)
-ii   libseccomp2                            2.6.0-2                       amd64  high level interface to Linux seccomp filter
-ii   libselinux1                            3.9-4                         amd64  SELinux runtime shared libraries
+ii   libseccomp2                            2.6.0-2+b1                    amd64  high level interface to Linux seccomp filter
+ii   libselinux1                            3.9-4+b1                      amd64  SELinux runtime shared libraries
 ii   libsemanage-common                     3.9-1                         all    Common files for SELinux policy management libraries
 ii   libsemanage2                           3.9-1                         amd64  SELinux policy management library
 ii   libsepol2                              3.9-2                         amd64  SELinux library for manipulating binary security policies
@@ -228,7 +228,7 @@ ii   libsqlite3-0                           3.46.1-8                      amd64 
 ii   libss2                                 1.47.2-3+b4                   amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1                      amd64  SSH2 client-side library
 ii   libssl3t64                             3.5.4-1                       amd64  Secure Sockets Layer toolkit - shared libraries
-ii   libstdc++6                             15.2.0-9                      amd64  GNU Standard C++ Library v3
+ii   libstdc++6                             15.2.0-10                     amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      259~rc2-1                     amd64  systemd shared private library
 ii   libsystemd0                            259~rc2-1                     amd64  systemd utility library
 ii   libtasn1-6                             4.20.0-2                      amd64  Manage ASN.1 structures (runtime)
@@ -246,7 +246,7 @@ ii   libuuid1                               2.41.2-4                      amd64 
 ii   libuv1t64                              1.51.0-2                      amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-36                      amd64  Wietse Venema's TCP wrappers library
 ii   libwtmpdb0                             0.75.0-5                      amd64  wtmp database shared library
-ii   libxml2-16                             2.15.1+dfsg-2                 amd64  GNOME XML library
+ii   libxml2-16                             2.15.1+dfsg-2+b1              amd64  GNOME XML library
 ii   libxtables12                           1.8.11-3                      amd64  netfilter xtables library
 ii   libxxhash0                             0.8.3-2                       amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2                       amd64  Fast YAML 1.1 parser and emitter library
@@ -276,9 +276,9 @@ ii   netplan-generator                      1.1.2-8                       amd64 
 ii   netplan.io                             1.1.2-8                       amd64  Declarative network configuration for various backends at runtime
 ii   networkd-dispatcher                    2.2.4-1.1                     all    Dispatcher service for systemd-networkd connection status changes
 ii   nvme-cli                               2.16-1                        amd64  NVMe management tool
-ii   openssh-client                         1:10.2p1-2                    amd64  secure shell (SSH) client, for secure access to remote machines
-ii   openssh-server                         1:10.2p1-2                    amd64  secure shell (SSH) server, for secure access from remote machines
-ii   openssh-sftp-server                    1:10.2p1-2                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii   openssh-client                         1:10.2p1-3                    amd64  secure shell (SSH) client, for secure access to remote machines
+ii   openssh-server                         1:10.2p1-3                    amd64  secure shell (SSH) server, for secure access from remote machines
+ii   openssh-sftp-server                    1:10.2p1-3                    amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii   openssl                                3.5.4-1                       amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   openssl-provider-legacy                3.5.4-1                       amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.84                          amd64  utility to detect other OSes on a set of drives
@@ -294,12 +294,12 @@ ii   procps                                 2:4.0.4-9                     amd64 
 ii   psmisc                                 23.7-2                        amd64  utilities that use the proc file system
 ii   publicsuffix                           20251016.1743-0.1             all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      3.0.0                         all    Python interface to libapt-pkg (locales)
-ii   python3                                3.13.7-1+b1                   amd64  interactive high-level object-oriented language (default python3 version)
-ii   python3-apt                            3.0.0                         amd64  Python 3 interface to libapt-pkg
+ii   python3                                3.13.9-2                      amd64  interactive high-level object-oriented language (default python3 version)
+ii   python3-apt                            3.0.0+b1                      amd64  Python 3 interface to libapt-pkg
 ii   python3-certifi                        2025.11.12+ds-1               all    root certificates for validating SSL certs and verifying TLS hosts (python3)
-ii   python3-cffi-backend                   2.0.0-2                       amd64  Foreign Function Interface for Python 3 calling C code - runtime
+ii   python3-cffi-backend                   2.0.0-2+b1                    amd64  Foreign Function Interface for Python 3 calling C code - runtime
 ii   python3-chardet                        5.2.0+dfsg-2                  all    Universal Character Encoding Detector (Python3)
-ii   python3-charset-normalizer             3.4.4-1                       amd64  charset, encoding and language detection (Python 3)
+ii   python3-charset-normalizer             3.4.4-1+b1                    amd64  charset, encoding and language detection (Python 3)
 ii   python3-dbus                           1.4.0-1                       amd64  simple interprocess messaging system (Python 3 interface)
 ii   python3-debconf                        1.5.91                        all    interact with debconf from Python 3
 ii   python3-debian                         1.0.1                         all    Python 3 modules to work with Debian-related data formats
@@ -307,7 +307,7 @@ ii   python3-debianbts                      4.1.1                         all   
 ii   python3-distro                         1.9.0-1                       all    Linux OS platform information API
 ii   python3-gi                             3.54.5-7                      amd64  Python 3 bindings for gobject-introspection libraries
 ii   python3-idna                           3.10-1                        all    Python IDNA2008 (RFC 5891) handling (Python 3)
-ii   python3-minimal                        3.13.7-1+b1                   amd64  minimal subset of the Python language (default python3 version)
+ii   python3-minimal                        3.13.9-2                      amd64  minimal subset of the Python language (default python3 version)
 ii   python3-netplan                        1.1.2-8                       amd64  Declarative network configuration Python bindings
 ii   python3-reportbug                      13.2.0                        all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.5+dfsg-1                 all    elegant and simple HTTP library for Python3, built for human beings
@@ -351,7 +351,7 @@ ii   vim-common                             2:9.1.1882-1                  all   
 ii   vim-runtime                            2:9.1.1882-1                  all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:9.1.1882-1                  amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.25.0-2                      amd64  retrieves files from the web
-ii   whiptail                               0.52.25-1                     amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.25-1+b1                  amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.19-1                        amd64  tool to manage well known user directories
 ii   xml-core                               0.19                          all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.8.1-2                       amd64  XZ-format compression utilities
