@@ -15,8 +15,8 @@ ii   bsdutils                               1:2.41.2-4                    amd64 
 ii   ca-certificates                        20250419                      all    Common CA certificates
 ii   coreutils                              9.7-3                         amd64  GNU core utilities
 ii   cpio                                   2.15+dfsg-2                   amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-200                    amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-200                    all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-201                    amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-201                    all    process scheduling daemon's configuration files
 ii   curl                                   8.17.0-3                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                     amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                      amd64  simple interprocess messaging system (system message bus)
@@ -53,8 +53,8 @@ ii   gir1.2-girepository-3.0                2.86.3-1                      amd64 
 ii   gir1.2-glib-2.0                        2.86.3-1                      amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                    amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                    all    fast, scalable, distributed revision control system (manual pages)
-ii   google-cloud-cli                       549.0.0-0                     amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             549.0.0-0                     amd64  anthoscli
+ii   google-cloud-cli                       549.0.1-0                     amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             549.0.1-0                     amd64  anthoscli
 ii   google-compute-engine                  1:20250709.00-g1              all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13        amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20251205.00-g1              amd64  Google Compute Engine Guest Agent
@@ -107,7 +107,7 @@ ii   libcap2-bin                            1:2.75-10+b2                  amd64 
 ii   libcbor0.10                            0.10.2-2.1                    amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.2-3+b4                   amd64  common error description library
 ii   libcrypt1                              1:4.5.1-1                     amd64  libcrypt shared library
-ii   libcryptsetup12                        2:2.8.1-1                     amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.8.1-2                     amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.17.0-3                      amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4t64                            8.17.0-3                      amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-11               amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -293,7 +293,7 @@ ii   perl-modules-5.40                      5.40.1-7                      all   
 ii   polkitd                                126-2                         amd64  framework for managing administrative policies and privileges
 ii   procps                                 2:4.0.4-9                     amd64  /proc file system utilities
 ii   psmisc                                 23.7-2                        amd64  utilities that use the proc file system
-ii   publicsuffix                           20251016.1743-0.1             all    accurate, machine-readable list of domain name suffixes
+ii   publicsuffix                           20251204.0750-0.1             all    accurate, machine-readable list of domain name suffixes
 ii   python-apt-common                      3.0.0                         all    Python interface to libapt-pkg (locales)
 ii   python3                                3.13.9-2                      amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            3.0.0+b1                      amd64  Python 3 interface to libapt-pkg
@@ -318,7 +318,7 @@ ii   python3.13                             3.13.11-1+b1                  amd64 
 ii   python3.13-minimal                     3.13.11-1+b1                  amd64  Minimal subset of the Python language (version 3.13)
 ii   readline-common                        8.3-3                         all    GNU readline and history libraries, common files
 ii   reportbug                              13.2.0                        all    reports bugs in the Debian distribution
-ii   rsyslog                                8.2510.0-5                    amd64  reliable system and kernel logging daemon
+ii   rsyslog                                8.2512.0-1                    amd64  reliable system and kernel logging daemon
 ii   runit-helper                           2.16.4                        all    dh-runit implementation detail
 ii   screen                                 4.9.1-3                       amd64  terminal multiplexer with VT100/ANSI terminal emulation
 ii   sed                                    4.9-2                         amd64  GNU stream editor for filtering/transforming text
@@ -342,7 +342,7 @@ ii   sysvinit-utils                         3.15-6                        amd64 
 ii   tar                                    1.35+dfsg-3.1                 amd64  GNU version of the tar archiving utility
 ii   tcpdump                                4.99.5-2                      amd64  command-line network traffic analyzer
 ii   traceroute                             1:2.1.6-1                     amd64  Traces the route taken by packets over an IPv4/IPv6 network
-ii   tzdata                                 2025b-5                       all    time zone and daylight-saving time data
+ii   tzdata                                 2025c-1                       all    time zone and daylight-saving time data
 ii   ucf                                    3.0052                        all    Update Configuration File(s): preserve user changes to config files
 ii   udev                                   259~rc3-1                     amd64  /dev/ and hotplug management daemon
 ii   util-linux                             2.41.2-4                      amd64  miscellaneous system utilities
