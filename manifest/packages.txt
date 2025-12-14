@@ -15,8 +15,8 @@ ii   bsdutils                               1:2.41.2-4                    amd64 
 ii   ca-certificates                        20250419                      all    Common CA certificates
 ii   coreutils                              9.7-3                         amd64  GNU core utilities
 ii   cpio                                   2.15+dfsg-2                   amd64  GNU cpio -- a program to manage archives of files
-ii   cron                                   3.0pl1-202                    amd64  process scheduling daemon
-ii   cron-daemon-common                     3.0pl1-202                    all    process scheduling daemon's configuration files
+ii   cron                                   3.0pl1-203                    amd64  process scheduling daemon
+ii   cron-daemon-common                     3.0pl1-203                    all    process scheduling daemon's configuration files
 ii   curl                                   8.17.0-3                      amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                     amd64  POSIX-compliant shell
 ii   dbus                                   1.16.2-2                      amd64  simple interprocess messaging system (system message bus)
