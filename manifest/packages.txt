@@ -32,7 +32,7 @@ ii   distro-info-data                       0.68                          all   
 ii   dmidecode                              3.6-2                         amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.205-2                  amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                       amd64  utilities for making and checking MS-DOS FAT filesystems
-ii   dpkg                                   1.23.2                        amd64  Debian package management system
+ii   dpkg                                   1.23.3                        amd64  Debian package management system
 ii   dracut-install                         109-5                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b4                   amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
@@ -107,7 +107,7 @@ ii   libcap2-bin                            1:2.75-10+b2                  amd64 
 ii   libcbor0.10                            0.10.2-2.1                    amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.2-3+b4                   amd64  common error description library
 ii   libcrypt1                              1:4.5.1-1                     amd64  libcrypt shared library
-ii   libcryptsetup12                        2:2.8.2-1                     amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.8.3-1                     amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.18.0~rc2-1                  amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4t64                            8.18.0~rc2-1                  amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-11               amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -187,7 +187,7 @@ ii   libngtcp2-crypto-ossl0                 1.16.0-1                      amd64 
 ii   libnsl2                                1.3.0-3+b3                    amd64  Public client interface for NIS(YP) and NIS+
 ii   libnss-myhostname                      259-1                         amd64  nss module providing fallback resolution for the current hostname
 ii   libnss-resolve                         259-1                         amd64  nss module to resolve names via systemd-resolved
-ii   libnvme1t64                            1.16.1-1                      amd64  NVMe management library (library)
+ii   libnvme1t64                            1.16.1-2                      amd64  NVMe management library (library)
 ii   libonig5                               6.9.10-1                      amd64  regular expressions library
 ii   libp11-kit0                            0.25.10-1                     amd64  library for loading and coordinating access to PKCS#11 modules - runtime
 ii   libpam-cap                             1:2.75-10+b2                  amd64  POSIX 1003.1e capabilities (PAM module)
