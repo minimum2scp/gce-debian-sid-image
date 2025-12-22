@@ -14,7 +14,7 @@ ii   bsdextrautils                          2.41.3-2                      amd64 
 ii   bsdutils                               1:2.41.3-2                    amd64  basic utilities from 4.4BSD-Lite
 ii   ca-certificates                        20250419                      all    Common CA certificates
 ii   coreutils                              9.7-3                         amd64  GNU core utilities
-ii   cpio                                   2.15+dfsg-2                   amd64  GNU cpio -- a program to manage archives of files
+ii   cpio                                   2.15+dfsg-2.1                 amd64  GNU cpio -- a program to manage archives of files
 ii   cron                                   3.0pl1-205                    amd64  process scheduling daemon
 ii   cron-daemon-common                     3.0pl1-205                    all    process scheduling daemon's configuration files
 ii   curl                                   8.18.0~rc2-1                  amd64  command line tool for transferring data with URL syntax
@@ -38,9 +38,9 @@ ii   e2fsprogs                              1.47.2-3+b4                   amd64 
 ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                     all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.15-3                      amd64  display or change Ethernet device settings
-ii   exim4-base                             4.99-7                        amd64  support files for all Exim MTA (v4) packages
-ii   exim4-config                           4.99-7                        all    configuration for the Exim MTA (v4)
-ii   exim4-daemon-light                     4.99-7                        amd64  lightweight Exim MTA (v4) daemon
+ii   exim4-base                             4.99.1-1                      amd64  support files for all Exim MTA (v4) packages
+ii   exim4-config                           4.99.1-1                      all    configuration for the Exim MTA (v4)
+ii   exim4-daemon-light                     4.99.1-1                      amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.46-5                      amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                      amd64  utilities for finding files--find, xargs
 ii   gcc-14-base                            14.3.0-10                     amd64  GCC, the GNU Compiler Collection (base package)
@@ -130,7 +130,7 @@ ii   libfido2-1                             1.16.0-2                      amd64 
 ii   libfile-fcntllock-perl                 0.22-4+b4                     amd64  Perl module for file locking with fcntl(2)
 ii   libfreetype6                           2.13.3+dfsg-1                 amd64  FreeType 2 font engine, shared library files
 ii   libfstrm0                              0.6.1-1+b3                    amd64  Frame Streams (fstrm) library
-ii   libfuse3-4                             3.17.4-1                      amd64  Filesystem in Userspace (library) (3.x version)
+ii   libfuse3-4                             3.18.1-1                      amd64  Filesystem in Userspace (library) (3.x version)
 ii   libgcc-s1                              15.2.0-12                     amd64  GCC support library
 ii   libgdbm-compat4t64                     1.26-1                        amd64  GNU dbm database routines (legacy support runtime version)
 ii   libgdbm6t64                            1.26-1                        amd64  GNU dbm database routines (runtime version)
@@ -264,7 +264,7 @@ ii   logsave                                1.47.2-3+b4                   amd64 
 ii   lsb-release                            12.1-2                        all    Linux Standard Base version reporting utility (minimal implementation)
 ii   man-db                                 2.13.1-1                      amd64  tools for reading manual pages
 ii   manpages                               6.16-1                        all    Manual pages about using a GNU/Linux system
-ii   mawk                                   1.3.4.20250131-1              amd64  Pattern scanning and text processing language
+ii   mawk                                   1.3.4.20250131-2              amd64  Pattern scanning and text processing language
 ii   media-types                            14.0.0                        all    List of standard media types and their usual file extension
 ii   mokutil                                0.7.2-1                       amd64  tools for manipulating machine owner keys
 ii   mount                                  2.41.3-2                      amd64  tools for mounting and manipulating filesystems
