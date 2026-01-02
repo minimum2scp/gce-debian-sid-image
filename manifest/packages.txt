@@ -148,7 +148,7 @@ ii   libidn12                               1.43-2                        amd64 
 ii   libidn2-0                              2.3.8-4                       amd64  Internationalized domain names (IDNA2008/TR46) library
 ii   libip4tc2                              1.8.11-4                      amd64  netfilter libip4tc library
 ii   libip6tc2                              1.8.11-4                      amd64  netfilter libip6tc library
-ii   libjemalloc2                           5.3.0-3                       amd64  general-purpose scalable concurrent malloc(3) implementation
+ii   libjemalloc2                           5.3.0-4                       amd64  general-purpose scalable concurrent malloc(3) implementation
 ii   libjq1                                 1.8.1-4                       amd64  lightweight and flexible command-line JSON processor - shared library
 ii   libjson-c5                             0.18+ds-1.1                   amd64  JSON manipulation library - shared library
 ii   libk5crypto3                           1.22.1-2                      amd64  MIT Kerberos runtime libraries - Crypto Library
