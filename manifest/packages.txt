@@ -1,8 +1,8 @@
 ii   adduser                                3.154                         all    add and remove users and groups
 ii   apparmor                               4.1.0-1+b1                    amd64  user-space parser utility for AppArmor
-ii   apt                                    3.1.12                        amd64  commandline package manager
+ii   apt                                    3.1.13                        amd64  commandline package manager
 ii   apt-listchanges                        4.8                           all    package change history notification tool
-ii   apt-utils                              3.1.12                        amd64  package management related utility programs
+ii   apt-utils                              3.1.13                        amd64  package management related utility programs
 ii   base-files                             14                            amd64  Debian base system miscellaneous files
 ii   base-passwd                            3.6.8                         amd64  Debian base system master password and group files
 ii   bash                                   5.3-1                         amd64  GNU Bourne Again SHell
@@ -53,8 +53,8 @@ ii   gir1.2-girepository-3.0                2.86.3-4                      amd64 
 ii   gir1.2-glib-2.0                        2.86.3-4                      amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                    amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                    all    fast, scalable, distributed revision control system (manual pages)
-ii   google-cloud-cli                       550.0.0-0                     amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             550.0.0-0                     amd64  anthoscli
+ii   google-cloud-cli                       551.0.0-0                     amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             551.0.0-0                     amd64  anthoscli
 ii   google-compute-engine                  1:20250709.00-g1              all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13        amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20251205.00-g1              amd64  Google Compute Engine Guest Agent
@@ -88,7 +88,7 @@ ii   krb5-locales                           1.22.1-2                      all   
 ii   less                                   668-1                         amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                    amd64  access control list - shared library
 ii   libapparmor1                           4.1.0-1+b1                    amd64  changehat AppArmor library
-ii   libapt-pkg7.0                          3.1.12                        amd64  package management runtime library
+ii   libapt-pkg7.0                          3.1.13                        amd64  package management runtime library
 ii   libatomic1                             15.2.0-12                     amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                     amd64  extended attribute handling - shared library
 ii   libaudit-common                        1:4.1.2-1                     all    Dynamic library for security auditing - common files
@@ -251,13 +251,16 @@ ii   libxml2-16                             2.15.1+dfsg-2+b1              amd64 
 ii   libxtables12                           1.8.11-4                      amd64  netfilter xtables library
 ii   libxxhash0                             0.8.3-2                       amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2+b1                    amd64  Fast YAML 1.1 parser and emitter library
-ii   libzstd1                               1.5.7+dfsg-2                  amd64  fast lossless compression algorithm
+ii   libzstd1                               1.5.7+dfsg-3                  amd64  fast lossless compression algorithm
 ii   linux-base                             4.14                          all    Linux image base package
+ii   linux-base-6.18.3+deb14-cloud-amd64    6.18.3-1                      amd64  Linux for x86-64 cloud (dummy package)
+ii   linux-base-cloud-amd64                 6.18.3-1                      amd64  Linux for x86-64 cloud (dummy package)
 ii   linux-image-6.12.57+deb13-cloud-amd64  6.12.57-1                     amd64  Linux 6.12 for x86-64 cloud (signed)
-ii   linux-image-cloud-amd64                6.12.57-1                     amd64  Linux for x86-64 cloud (meta-package)
+ii   linux-image-6.18.3+deb14-cloud-amd64   6.18.3-1                      amd64  Linux 6.18.3 for x86-64 cloud (signed)
+ii   linux-image-cloud-amd64                6.18.3-1                      amd64  Linux for x86-64 cloud (meta-package)
 ii   linux-sysctl-defaults                  4.14                          all    default sysctl configuration for Linux
 ii   login                                  1:4.16.0-2+really2.41.3-3     amd64  system login tools
-ii   login.defs                             1:4.18.0-2                    all    system user management configuration
+ii   login.defs                             1:4.19.0-2                    all    system user management configuration
 ii   logrotate                              3.22.0-1                      amd64  Log rotation utility
 ii   logsave                                1.47.2-3+b8                   amd64  save the output of a command in a log file
 ii   lsb-release                            12.1-2                        all    Linux Standard Base version reporting utility (minimal implementation)
@@ -283,7 +286,7 @@ ii   openssl                                3.5.4-1                       amd64 
 ii   openssl-provider-legacy                3.5.4-1                       amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.84                          amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6                         amd64  disk partition manipulator
-ii   passwd                                 1:4.18.0-2                    amd64  change and administer password and group data
+ii   passwd                                 1:4.19.0-2                    amd64  change and administer password and group data
 ii   pci.ids                                0.0~2025.12.16-1              all    PCI ID Repository
 ii   pciutils                               1:3.14.0-1                    amd64  PCI utilities
 ii   perl                                   5.40.1-7                      amd64  Larry Wall's Practical Extraction and Report Language
@@ -296,7 +299,7 @@ ii   publicsuffix                           20251204.0750-0.1             all   
 ii   python-apt-common                      3.1.0                         all    Python interface to libapt-pkg (locales)
 ii   python3                                3.13.9-2                      amd64  interactive high-level object-oriented language (default python3 version)
 ii   python3-apt                            3.1.0                         amd64  Python 3 interface to libapt-pkg
-ii   python3-certifi                        2025.11.12+ds-1               all    root certificates for validating SSL certs and verifying TLS hosts (python3)
+ii   python3-certifi                        2026.1.4+ds-1                 all    root certificates for validating SSL certs and verifying TLS hosts (python3)
 ii   python3-cffi-backend                   2.0.0-2+b1                    amd64  Foreign Function Interface for Python 3 calling C code - runtime
 ii   python3-chardet                        5.2.0+dfsg-2                  all    Universal Character Encoding Detector (Python3)
 ii   python3-charset-normalizer             3.4.4-2                       amd64  charset, encoding and language detection (Python 3)
@@ -356,4 +359,4 @@ ii   xdg-user-dirs                          0.19-1                        amd64 
 ii   xml-core                               0.19                          all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.8.2-1                       amd64  XZ-format compression utilities
 ii   zlib1g                                 1:1.3.dfsg+really1.3.1-1+b2   amd64  compression library - runtime
-ii   zstd                                   1.5.7+dfsg-2                  amd64  fast lossless compression algorithm -- CLI tool
+ii   zstd                                   1.5.7+dfsg-3                  amd64  fast lossless compression algorithm -- CLI tool
