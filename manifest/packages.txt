@@ -252,13 +252,13 @@ ii   libxtables12                           1.8.11-4                      amd64 
 ii   libxxhash0                             0.8.3-2                       amd64  shared library for xxhash
 ii   libyaml-0-2                            0.2.5-2+b1                    amd64  Fast YAML 1.1 parser and emitter library
 ii   libzstd1                               1.5.7+dfsg-3                  amd64  fast lossless compression algorithm
-ii   linux-base                             4.14                          all    Linux image base package
+ii   linux-base                             4.15                          all    Linux image base package
 ii   linux-base-6.18.3+deb14-cloud-amd64    6.18.3-1                      amd64  Linux for x86-64 cloud (dummy package)
 ii   linux-base-cloud-amd64                 6.18.3-1                      amd64  Linux for x86-64 cloud (dummy package)
 ii   linux-image-6.12.57+deb13-cloud-amd64  6.12.57-1                     amd64  Linux 6.12 for x86-64 cloud (signed)
 ii   linux-image-6.18.3+deb14-cloud-amd64   6.18.3-1                      amd64  Linux 6.18.3 for x86-64 cloud (signed)
 ii   linux-image-cloud-amd64                6.18.3-1                      amd64  Linux for x86-64 cloud (meta-package)
-ii   linux-sysctl-defaults                  4.14                          all    default sysctl configuration for Linux
+ii   linux-sysctl-defaults                  4.15                          all    default sysctl configuration for Linux
 ii   login                                  1:4.16.0-2+really2.41.3-3     amd64  system login tools
 ii   login.defs                             1:4.19.0-4                    all    system user management configuration
 ii   logrotate                              3.22.0-1                      amd64  Log rotation utility
@@ -314,7 +314,7 @@ ii   python3-minimal                        3.13.9-2                      amd64 
 ii   python3-netplan                        1.1.2-8                       amd64  Declarative network configuration Python bindings
 ii   python3-reportbug                      13.2.0                        all    Python modules for interacting with bug tracking systems
 ii   python3-requests                       2.32.5+dfsg-1                 all    elegant and simple HTTP library for Python3, built for human beings
-ii   python3-urllib3                        2.5.0-1                       all    HTTP library with thread-safe connection pooling for Python3
+ii   python3-urllib3                        2.5.0-1.1                     all    HTTP library with thread-safe connection pooling for Python3
 ii   python3-yaml                           6.0.3-1                       amd64  YAML parser and emitter for Python3
 ii   python3.13                             3.13.11-1+b1                  amd64  Interactive high-level object-oriented language (version 3.13)
 ii   python3.13-minimal                     3.13.11-1+b1                  amd64  Minimal subset of the Python language (version 3.13)
