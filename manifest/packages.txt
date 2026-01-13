@@ -33,9 +33,9 @@ ii   dmidecode                              3.6-2                         amd64 
 ii   dmsetup                                2:1.02.205-2                  amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                       amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.23.3                        amd64  Debian package management system
-ii   dracut-install                         109-5                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
+ii   dracut-install                         109-6                         amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b8                   amd64  ext2/ext3/ext4 file system utilities
-ii   efibootmgr                             18-4                          amd64  Interact with the EFI Boot Manager
+ii   efibootmgr                             18-4.1                        amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                     all    store /etc in git, mercurial, brz or darcs
 ii   ethtool                                1:6.15-3                      amd64  display or change Ethernet device settings
 ii   exim4-base                             4.99.1-1                      amd64  support files for all Exim MTA (v4) packages
@@ -53,8 +53,8 @@ ii   gir1.2-girepository-3.0                2.86.3-4                      amd64 
 ii   gir1.2-glib-2.0                        2.86.3-4                      amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                    amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                    all    fast, scalable, distributed revision control system (manual pages)
-ii   google-cloud-cli                       551.0.0-0                     amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             551.0.0-0                     amd64  anthoscli
+ii   google-cloud-cli                       552.0.0-0                     amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             552.0.0-0                     amd64  anthoscli
 ii   google-compute-engine                  1:20250709.00-g1              all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20250710.00-g1+deb13        amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20251205.00-g1              amd64  Google Compute Engine Guest Agent
