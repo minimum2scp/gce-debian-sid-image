@@ -1,5 +1,5 @@
 ii   adduser                                3.154                         all    add and remove users and groups
-ii   apparmor                               4.1.0-1+b1                    amd64  user-space parser utility for AppArmor
+ii   apparmor                               4.1.3-1                       amd64  user-space parser utility for AppArmor
 ii   apt                                    3.1.13                        amd64  commandline package manager
 ii   apt-listchanges                        4.8                           all    package change history notification tool
 ii   apt-utils                              3.1.13                        amd64  package management related utility programs
@@ -87,7 +87,7 @@ ii   kmod                                   34.2-2                        amd64 
 ii   krb5-locales                           1.22.1-2                      all    internationalization support for MIT Kerberos
 ii   less                                   668-1                         amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b1                    amd64  access control list - shared library
-ii   libapparmor1                           4.1.0-1+b1                    amd64  changehat AppArmor library
+ii   libapparmor1                           4.1.3-1                       amd64  changehat AppArmor library
 ii   libapt-pkg7.0                          3.1.13                        amd64  package management runtime library
 ii   libatomic1                             15.2.0-12                     amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3                     amd64  extended attribute handling - shared library
