@@ -32,7 +32,7 @@ ii   distro-info-data                       0.68                            all 
 ii   dmidecode                              3.6-2                           amd64  SMBIOS/DMI table decoder
 ii   dmsetup                                2:1.02.205-2+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                         amd64  utilities for making and checking MS-DOS FAT filesystems
-ii   dpkg                                   1.23.3                          amd64  Debian package management system
+ii   dpkg                                   1.23.4                          amd64  Debian package management system
 ii   dracut-install                         109-7                           amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b8                     amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4.1                          amd64  Interact with the EFI Boot Manager
@@ -98,9 +98,9 @@ ii   libbpf1                                1:1.6.2-1+b1                    amd6
 ii   libbrotli1                             1.1.0-2+b9                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-2+b1                     amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6+b1                      amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.42-8                          amd64  GNU C Library: Binaries
-ii   libc-gconv-modules-extra               2.42-8                          amd64  GNU C Library: Non-essential gconv modules
-ii   libc6                                  2.42-8                          amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.42-9                          amd64  GNU C Library: Binaries
+ii   libc-gconv-modules-extra               2.42-9                          amd64  GNU C Library: Non-essential gconv modules
+ii   libc6                                  2.42-9                          amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-4+b2                      amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.75-10+b5                    amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.75-10+b5                    amd64  POSIX 1003.1e capabilities (utilities)
@@ -232,7 +232,7 @@ ii   libssl3t64                             3.5.4-1+b1                      amd6
 ii   libstdc++6                             15.2.0-12                       amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      259-1                           amd64  systemd shared private library
 ii   libsystemd0                            259-1                           amd64  systemd utility library
-ii   libtasn1-6                             4.20.0-2+b1                     amd64  Manage ASN.1 structures (runtime)
+ii   libtasn1-6                             4.21.0-2                        amd64  Manage ASN.1 structures (runtime)
 ii   libtext-charwidth-perl                 0.04-11+b4                      amd64  get display widths of characters on the terminal
 ii   libtext-wrapi18n-perl                  0.06-10                         all    internationalized substitute of Text::Wrap
 ii   libtinfo6                              6.6+20251231-1                  amd64  shared low-level terminfo library for terminal handling
