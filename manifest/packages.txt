@@ -33,7 +33,7 @@ ii   dmidecode                              3.6-2                           amd6
 ii   dmsetup                                2:1.02.205-2+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   dosfstools                             4.2-1.2                         amd64  utilities for making and checking MS-DOS FAT filesystems
 ii   dpkg                                   1.23.5                          amd64  Debian package management system
-ii   dracut-install                         109-8                           amd64  dracut is an event driven initramfs infrastructure (dracut-install)
+ii   dracut-install                         109-9                           amd64  dracut is an event driven initramfs infrastructure (dracut-install)
 ii   e2fsprogs                              1.47.2-3+b8                     amd64  ext2/ext3/ext4 file system utilities
 ii   efibootmgr                             18-4.1                          amd64  Interact with the EFI Boot Manager
 ii   etckeeper                              1.18.23-2                       all    store /etc in git, mercurial, brz or darcs
@@ -225,7 +225,7 @@ ii   libsepol2                              3.9-2                           amd6
 ii   libslang2                              2.3.3-5+b3                      amd64  S-Lang programming library - runtime version
 ii   libsmartcols1                          2.41.3-3                        amd64  smart column output alignment library
 ii   libsodium23                            1.0.18-2                        amd64  Network communication, cryptography and signaturing library
-ii   libsqlite3-0                           3.46.1-8+b1                     amd64  SQLite 3 shared library
+ii   libsqlite3-0                           3.46.1-9                        amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-3+b8                     amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1+b1                     amd64  SSH2 client-side library
 ii   libssl3t64                             3.5.4-1+b1                      amd64  Secure Sockets Layer toolkit - shared libraries
