@@ -55,10 +55,10 @@ ii   git                                    1:2.51.0-1                      amd6
 ii   git-man                                1:2.51.0-1                      all    fast, scalable, distributed revision control system (manual pages)
 ii   google-cloud-cli                       553.0.0-0                       amd64  Utilities for the Google Cloud Platform
 ii   google-cloud-cli-anthoscli             553.0.0-0                       amd64  anthoscli
-ii   google-compute-engine                  1:20250709.00-g1                all    Google Compute Engine guest environment.
+ii   google-compute-engine                  1:20260121.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20260123.00-g1+deb13          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20260121.01-g1                amd64  Google Compute Engine Guest Agent
-ii   google-osconfig-agent                  1:20251028.00-g1                amd64  Google Compute Engine OSConfig Agent
+ii   google-osconfig-agent                  1:20260119.00-g1                amd64  Google Compute Engine OSConfig Agent
 ii   grep                                   3.12-1                          amd64  GNU grep, egrep and fgrep
 ii   groff-base                             1.23.0-10                       amd64  GNU troff text-formatting system (base system components)
 ii   grub-cloud-amd64                       0.1.1                           amd64  GRand Unified Bootloader (cloud setup)
@@ -98,9 +98,9 @@ ii   libbpf1                                1:1.6.2-1+b1                    amd6
 ii   libbrotli1                             1.1.0-2+b9                      amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-2+b1                     amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6+b1                      amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.42-10+b1                      amd64  GNU C Library: Binaries
-ii   libc-gconv-modules-extra               2.42-10+b1                      amd64  GNU C Library: Non-essential gconv modules
-ii   libc6                                  2.42-10+b1                      amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.42-11                         amd64  GNU C Library: Binaries
+ii   libc-gconv-modules-extra               2.42-11                         amd64  GNU C Library: Non-essential gconv modules
+ii   libc6                                  2.42-11                         amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-4+b2                      amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.75-10+b5                    amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.75-10+b5                    amd64  POSIX 1003.1e capabilities (utilities)
@@ -242,7 +242,7 @@ ii   libuchardet0                           0.0.8-2+b1                      amd6
 ii   libudev1                               259-1                           amd64  libudev shared library
 ii   libunbound8                            1.24.2-1                        amd64  library implementing DNS resolution and validation
 ii   libunistring5                          1.3-2+b1                        amd64  Unicode string library for C
-ii   liburcu8t64                            0.15.5-1                        amd64  userspace RCU (read-copy-update) library
+ii   liburcu8t64                            0.15.6-1                        amd64  userspace RCU (read-copy-update) library
 ii   libuuid1                               2.41.3-3                        amd64  Universally Unique ID library
 ii   libuv1t64                              1.51.0-2+b1                     amd64  asynchronous event notification library - runtime library
 ii   libwrap0                               7.6.q-36+b2                     amd64  Wietse Venema's TCP wrappers library
@@ -261,7 +261,7 @@ ii   linux-image-6.18.5+deb14-cloud-amd64   6.18.5-1                        amd6
 ii   linux-image-cloud-amd64                6.18.5-1                        amd64  Linux for x86-64 cloud (meta-package)
 ii   linux-sysctl-defaults                  4.15                            all    default sysctl configuration for Linux
 ii   login                                  1:4.16.0-2+really2.41.3-3       amd64  system login tools
-ii   login.defs                             1:4.19.0-4                      all    system user management configuration
+ii   login.defs                             1:4.19.2-1                      all    system user management configuration
 ii   logrotate                              3.22.0-1                        amd64  Log rotation utility
 ii   logsave                                1.47.2-3+b8                     amd64  save the output of a command in a log file
 ii   lsb-release                            12.1-2                          all    Linux Standard Base version reporting utility (minimal implementation)
@@ -287,7 +287,7 @@ ii   openssl                                3.5.4-1+b1                      amd6
 ii   openssl-provider-legacy                3.5.4-1+b1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.84                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6+b1                        amd64  disk partition manipulator
-ii   passwd                                 1:4.19.0-4                      amd64  change and administer password and group data
+ii   passwd                                 1:4.19.2-1                      amd64  change and administer password and group data
 ii   pci.ids                                0.0~2025.12.16-1                all    PCI ID Repository
 ii   pciutils                               1:3.14.0-1+b2                   amd64  PCI utilities
 ii   perl                                   5.40.1-7                        amd64  Larry Wall's Practical Extraction and Report Language
