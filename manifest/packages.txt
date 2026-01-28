@@ -53,8 +53,8 @@ ii   gir1.2-girepository-3.0                2.86.3-4                        amd6
 ii   gir1.2-glib-2.0                        2.86.3-4                        amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                      all    fast, scalable, distributed revision control system (manual pages)
-ii   google-cloud-cli                       553.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             553.0.0-0                       amd64  anthoscli
+ii   google-cloud-cli                       554.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             554.0.0-0                       amd64  anthoscli
 ii   google-compute-engine                  1:20260121.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20260123.00-g1+deb13          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20260121.01-g1                amd64  Google Compute Engine Guest Agent
@@ -107,7 +107,7 @@ ii   libcap2-bin                            1:2.75-10+b5                    amd6
 ii   libcbor0.10                            0.10.2-2.1                      amd64  library for parsing and generating CBOR (RFC 7049)
 ii   libcom-err2                            1.47.2-3+b8                     amd64  common error description library
 ii   libcrypt1                              1:4.5.1-1                       amd64  libcrypt shared library
-ii   libcryptsetup12                        2:2.8.3-1                       amd64  disk encryption support - shared library
+ii   libcryptsetup12                        2:2.8.4-1                       amd64  disk encryption support - shared library
 ii   libcurl3t64-gnutls                     8.18.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4t64                            8.18.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-11                 amd64  Berkeley v5.3 Database Libraries [runtime]
@@ -228,7 +228,7 @@ ii   libsodium23                            1.0.18-2                        amd6
 ii   libsqlite3-0                           3.46.1-9                        amd64  SQLite 3 shared library
 ii   libss2                                 1.47.2-3+b8                     amd64  command-line interface parsing library
 ii   libssh2-1t64                           1.11.1-1+b1                     amd64  SSH2 client-side library
-ii   libssl3t64                             3.5.4-1+b1                      amd64  Secure Sockets Layer toolkit - shared libraries
+ii   libssl3t64                             3.5.5-1                         amd64  Secure Sockets Layer toolkit - shared libraries
 ii   libstdc++6                             15.2.0-12                       amd64  GNU Standard C++ Library v3
 ii   libsystemd-shared                      259-1                           amd64  systemd shared private library
 ii   libsystemd0                            259-1                           amd64  systemd utility library
@@ -283,8 +283,8 @@ ii   nvme-cli                               2.16-1                          amd6
 ii   openssh-client                         1:10.2p1-3                      amd64  secure shell (SSH) client, for secure access to remote machines
 ii   openssh-server                         1:10.2p1-3                      amd64  secure shell (SSH) server, for secure access from remote machines
 ii   openssh-sftp-server                    1:10.2p1-3                      amd64  secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii   openssl                                3.5.4-1+b1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
-ii   openssl-provider-legacy                3.5.4-1+b1                      amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl                                3.5.5-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
+ii   openssl-provider-legacy                3.5.5-1                         amd64  Secure Sockets Layer toolkit - cryptographic utility
 ii   os-prober                              1.84                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6+b1                        amd64  disk partition manipulator
 ii   passwd                                 1:4.19.2-1                      amd64  change and administer password and group data
