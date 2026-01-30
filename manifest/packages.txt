@@ -19,11 +19,11 @@ ii   cron                                   3.0pl1-206                      amd6
 ii   cron-daemon-common                     3.0pl1-206                      all    process scheduling daemon's configuration files
 ii   curl                                   8.18.0-2                        amd64  command line tool for transferring data with URL syntax
 ii   dash                                   0.5.12-12                       amd64  POSIX-compliant shell
-ii   dbus                                   1.16.2-2+b1                     amd64  simple interprocess messaging system (system message bus)
-ii   dbus-bin                               1.16.2-2+b1                     amd64  simple interprocess messaging system (command line utilities)
-ii   dbus-daemon                            1.16.2-2+b1                     amd64  simple interprocess messaging system (reference message bus)
-ii   dbus-session-bus-common                1.16.2-2                        all    simple interprocess messaging system (session bus configuration)
-ii   dbus-system-bus-common                 1.16.2-2                        all    simple interprocess messaging system (system bus configuration)
+ii   dbus                                   1.16.2-3                        amd64  simple interprocess messaging system (system message bus)
+ii   dbus-bin                               1.16.2-3                        amd64  simple interprocess messaging system (command line utilities)
+ii   dbus-daemon                            1.16.2-3                        amd64  simple interprocess messaging system (reference message bus)
+ii   dbus-session-bus-common                1.16.2-3                        all    simple interprocess messaging system (session bus configuration)
+ii   dbus-system-bus-common                 1.16.2-3                        all    simple interprocess messaging system (system bus configuration)
 ii   debconf                                1.5.91                          all    Debian configuration management system
 ii   debian-archive-keyring                 2025.1                          all    OpenPGP archive certificates of the Debian archive
 ii   debianutils                            5.23.2                          amd64  Miscellaneous utilities specific to Debian
@@ -111,7 +111,7 @@ ii   libcryptsetup12                        2:2.8.4-1                       amd6
 ii   libcurl3t64-gnutls                     8.18.0-2                        amd64  easy-to-use client-side URL transfer library (GnuTLS flavour)
 ii   libcurl4t64                            8.18.0-2                        amd64  easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii   libdb5.3t64                            5.3.28+dfsg2-11                 amd64  Berkeley v5.3 Database Libraries [runtime]
-ii   libdbus-1-3                            1.16.2-2+b1                     amd64  simple interprocess messaging system (library)
+ii   libdbus-1-3                            1.16.2-3                        amd64  simple interprocess messaging system (library)
 ii   libdebconfclient0                      0.282+b2                        amd64  Debian Configuration Management System (C-implementation library)
 ii   libdevmapper1.02.1                     2:1.02.205-2+b1                 amd64  Linux Kernel Device Mapper userspace library
 ii   libduktape207                          2.7.0-2+b3                      amd64  embeddable Javascript engine, library
