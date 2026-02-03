@@ -43,7 +43,7 @@ ii   exim4-config                           4.99.1-1                        all 
 ii   exim4-daemon-light                     4.99.1-1                        amd64  lightweight Exim MTA (v4) daemon
 ii   file                                   1:5.46-5+b1                     amd64  Recognize the type of data in a file using "magic" numbers
 ii   findutils                              4.10.0-3                        amd64  utilities for finding files--find, xargs
-ii   gcc-14-base                            14.3.0-11                       amd64  GCC, the GNU Compiler Collection (base package)
+ii   gcc-14-base                            14.3.0-12                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gcc-15-base                            15.2.0-12                       amd64  GCC, the GNU Compiler Collection (base package)
 ii   gce-configs-trixie                     1:20250905.00-g1                all    Google Compute Engine guest environment configs for
 ii   gce-disk-expand                        1:20200716.00-g1                all    Automatically resize the root partition on first boot.
@@ -53,8 +53,8 @@ ii   gir1.2-girepository-3.0                2.86.3-5                        amd6
 ii   gir1.2-glib-2.0                        2.86.3-5                        amd64  Introspection data for GLib, GObject, Gio and GModule
 ii   git                                    1:2.51.0-1                      amd64  fast, scalable, distributed revision control system
 ii   git-man                                1:2.51.0-1                      all    fast, scalable, distributed revision control system (manual pages)
-ii   google-cloud-cli                       554.0.0-0                       amd64  Utilities for the Google Cloud Platform
-ii   google-cloud-cli-anthoscli             554.0.0-0                       amd64  anthoscli
+ii   google-cloud-cli                       555.0.0-0                       amd64  Utilities for the Google Cloud Platform
+ii   google-cloud-cli-anthoscli             555.0.0-0                       amd64  anthoscli
 ii   google-compute-engine                  1:20260121.00-g1                all    Google Compute Engine guest environment.
 ii   google-compute-engine-oslogin          1:20260123.00-g1+deb13          amd64  Google Compute Engine OS Login
 ii   google-guest-agent                     1:20260121.01-g1                amd64  Google Compute Engine Guest Agent
@@ -98,9 +98,9 @@ ii   libbpf1                                1:1.6.2-1+b1                    amd6
 ii   libbrotli1                             1.2.0-1                         amd64  library implementing brotli encoder and decoder (shared libraries)
 ii   libbsd0                                0.12.2-2+b1                     amd64  utility functions from BSD systems - shared library
 ii   libbz2-1.0                             1.0.8-6+b1                      amd64  high-quality block-sorting file compressor library - runtime
-ii   libc-bin                               2.42-11                         amd64  GNU C Library: Binaries
-ii   libc-gconv-modules-extra               2.42-11                         amd64  GNU C Library: Non-essential gconv modules
-ii   libc6                                  2.42-11                         amd64  GNU C Library: Shared libraries
+ii   libc-bin                               2.42-11+b1                      amd64  GNU C Library: Binaries
+ii   libc-gconv-modules-extra               2.42-11+b1                      amd64  GNU C Library: Non-essential gconv modules
+ii   libc6                                  2.42-11+b1                      amd64  GNU C Library: Shared libraries
 ii   libcap-ng0                             0.8.5-4+b2                      amd64  alternate POSIX capabilities library
 ii   libcap2                                1:2.75-10+b5                    amd64  POSIX 1003.1e capabilities (library)
 ii   libcap2-bin                            1:2.75-10+b5                    amd64  POSIX 1003.1e capabilities (utilities)
