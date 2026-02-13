@@ -1,5 +1,5 @@
 ii   adduser                                3.154                           all    add and remove users and groups
-ii   apparmor                               4.1.3-1                         amd64  user-space parser utility for AppArmor
+ii   apparmor                               4.1.6-2                         amd64  user-space parser utility for AppArmor
 ii   apt                                    3.1.15                          amd64  commandline package manager
 ii   apt-listchanges                        4.8                             all    package change history notification tool
 ii   apt-utils                              3.1.15                          amd64  package management related utility programs
@@ -87,7 +87,7 @@ ii   kmod                                   34.2-2+b1                       amd6
 ii   krb5-locales                           1.22.1-2                        all    internationalization support for MIT Kerberos
 ii   less                                   668-1                           amd64  pager program similar to more
 ii   libacl1                                2.3.2-2+b2                      amd64  access control list - shared library
-ii   libapparmor1                           4.1.3-1                         amd64  changehat AppArmor library
+ii   libapparmor1                           4.1.6-2                         amd64  changehat AppArmor library
 ii   libapt-pkg7.0                          3.1.15                          amd64  package management runtime library
 ii   libatomic1                             15.2.0-13                       amd64  support library providing __atomic built-in functions
 ii   libattr1                               1:2.5.2-3+b1                    amd64  extended attribute handling - shared library
@@ -176,7 +176,7 @@ ii   libncursesw6                           6.6+20251231-1                  amd6
 ii   libnetfilter-conntrack3                1.1.1-1                         amd64  Netfilter netlink-conntrack library
 ii   libnetplan1                            1.1.2-8                         amd64  Declarative network configuration runtime library
 ii   libnettle8t64                          3.10.2-1                        amd64  low level cryptographic library (symmetric and one-way cryptos)
-ii   libnewt0.52                            0.52.25-1+b1                    amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
+ii   libnewt0.52                            0.52.25-2                       amd64  Not Erik's Windowing Toolkit - text mode windowing with slang
 ii   libnfnetlink0                          1.0.2-3+b1                      amd64  Netfilter netlink library
 ii   libnftnl11                             1.3.1-1                         amd64  Netfilter nftables userspace API library
 ii   libnghttp2-14                          1.68.0-1                        amd64  library implementing HTTP/2 protocol (shared library)
@@ -202,7 +202,7 @@ ii   libpci3                                1:3.14.0-1+b2                   amd6
 ii   libpcre2-8-0                           10.46-1+b1                      amd64  New Perl Compatible Regular Expression Library- 8 bit runtime files
 ii   libperl5.40                            5.40.1-7                        amd64  shared Perl library
 ii   libpipeline1                           1.5.8-2                         amd64  Unix process pipeline manipulation library
-ii   libpng16-16t64                         1.6.54-1                        amd64  PNG library - runtime (version 1.6)
+ii   libpng16-16t64                         1.6.55-1                        amd64  PNG library - runtime (version 1.6)
 ii   libpolkit-agent-1-0                    127-2                           amd64  polkit Authentication Agent API
 ii   libpolkit-gobject-1-0                  127-2                           amd64  polkit Authorization API
 ii   libpopt0                               1.19+dfsg-2+b1                  amd64  lib for parsing cmdline parameters
@@ -287,7 +287,7 @@ ii   openssl-provider-legacy                3.5.5-1                         amd6
 ii   os-prober                              1.84                            amd64  utility to detect other OSes on a set of drives
 ii   parted                                 3.6-6+b1                        amd64  disk partition manipulator
 ii   passwd                                 1:4.19.2-1                      amd64  change and administer password and group data
-ii   pci.ids                                0.0~2026.01.31-1                all    PCI ID Repository
+ii   pci.ids                                0.0~2026.02.12-1                all    PCI ID Repository
 ii   pciutils                               1:3.14.0-1+b2                   amd64  PCI utilities
 ii   perl                                   5.40.1-7                        amd64  Larry Wall's Practical Extraction and Report Language
 ii   perl-base                              5.40.1-7                        amd64  minimal Perl system
@@ -354,7 +354,7 @@ ii   vim-common                             2:9.1.2141-1                    all 
 ii   vim-runtime                            2:9.1.2141-1                    all    Vi IMproved - Runtime files
 ii   vim-tiny                               2:9.1.2141-1                    amd64  Vi IMproved - enhanced vi editor - compact version
 ii   wget                                   1.25.0-2                        amd64  retrieves files from the web
-ii   whiptail                               0.52.25-1+b1                    amd64  Displays user-friendly dialog boxes from shell scripts
+ii   whiptail                               0.52.25-2                       amd64  Displays user-friendly dialog boxes from shell scripts
 ii   xdg-user-dirs                          0.19-1                          amd64  tool to manage well known user directories
 ii   xml-core                               0.19                            all    XML infrastructure and XML catalog file support
 ii   xz-utils                               5.8.2-2                         amd64  XZ-format compression utilities
